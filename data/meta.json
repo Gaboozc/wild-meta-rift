@@ -1,0 +1,14 @@
+{
+  "patch": "7.1d",
+  "date": "Mayo 2026",
+  "headline": {
+    "es": "Comps de dive agresivo dominan. ADCs de on-hit (Xayah, Jhin, Caitlyn) y supports frontline (Nautilus, Braum, Nami) son los picks más confiables. Death's Dance y Trinity Force nerfed = fighters caídos. Taliyah llega May 15.",
+    "en": "Aggressive dive comps dominate. On-hit ADCs (Xayah, Jhin, Caitlyn) and frontline supports (Nautilus, Braum, Nami) are the most reliable picks. Death's Dance and Trinity Force nerfed = fighters down. Taliyah arrives May 15."
+  },
+  "changelog": [
+    { "patch": "7.1d", "note": { "es": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor.", "en": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor." }},
+    { "patch": "7.1b", "note": { "es": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed.", "en": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed." }},
+    { "patch": "7.1",  "note": { "es": "K'Sante añadido. Nuevo sistema de runas. Boots rework (precio reducido).", "en": "K'Sante added. New rune system. Boots rework (price reduced)." }},
+    { "patch": "7.0",  "note": { "es": "Ionia Rift. Herald de regreso. Baron HP 9500→12500. Mel, Smolder, Norra añadidos.", "en": "Ionia Rift. Herald returns. Baron HP 9500→12500. Mel, Smolder, Norra added." }}
+  ]
+}

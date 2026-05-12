@@ -1,0 +1,2207 @@
+[
+  {
+    "name": "Ahri", "img": "ahri",
+    "roles": [
+      {
+        "role": "mid", "tier": "s",
+        "why": { "es": "QoL buffed en 7.0c. Charm + movilidad del ult. Sin nerfs en meses. La opción más segura de mid para escalar.", "en": "QoL buffed in 7.0c. Charm + ult mobility. No nerfs in months. The safest mid pick for climbing." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Cosmic Drive","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resiste su AP y la destroza post-6", "en": "Resists her AP and destroys her post-6" },
+          { "name": "Vex", "es": "Pasiva de miedo cancela toda su movilidad del ult", "en": "Fear passive cancels all her ult mobility" },
+          { "name": "Syndra", "es": "La poke desde lejos sin dejarla acercarse", "en": "Pokes her from range without letting her close in" }
+        ],
+        "synergies": [
+          { "name": "Vi", "es": "Vi pinna al carry para que Ahri lo charme y remate", "en": "Vi pins the carry so Ahri can charm and finish" },
+          { "name": "Malphite", "es": "Ult knockup facilita el charm de Ahri sobre el grupo", "en": "Knockup ult makes Ahri's charm easy on the group" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Akali", "img": "akali",
+    "roles": [
+      {
+        "role": "mid", "tier": "a",
+        "why": { "es": "Buffed en 7.0f (Shroud más rápido, Shuriken Flip interaction). Alta movilidad y roaming entre carriles.", "en": "Buffed in 7.0f (faster Shroud, Shuriken Flip interaction). High mobility and cross-lane roaming." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Hextech Gunblade","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Syndra", "es": "La poke desde fuera del Shroud", "en": "Pokes her from outside the Shroud" },
+          { "name": "Orianna", "es": "Ball en el Shroud la revela y congela", "en": "Ball in the Shroud reveals and freezes her" },
+          { "name": "Vex", "es": "Pasiva cancela cada uno de sus dashes", "en": "Passive cancels every one of her dashes" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Akali roams y Hecarim refuerza — doble amenaza de mapa", "en": "Akali roams and Hecarim follows — double map threat" },
+          { "name": "Leona", "es": "CC de Leona facilita que Akali entre con su combo", "en": "Leona's CC makes it easy for Akali to combo in" }
+        ]
+      },
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Viable en top contra ranged, pero los tanques del meta la hacen difícil. Solo si el matchup es favorable.", "en": "Viable in top against ranged, but the meta tanks make it hard. Only if the matchup is favorable." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Hextech Gunblade","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Riftmaker"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC masivo interrumpe todo su kit", "en": "Massive CC interrupts her entire kit" },
+          { "name": "Ornn", "es": "La supera en durabilidad completamente", "en": "Completely outclasses her in durability" },
+          { "name": "Darius", "es": "La supera en lane early con autos y sangrado", "en": "Dominates her in early lane with autos and bleed" }
+        ],
+        "synergies": [
+          { "name": "Nautilus", "es": "Hook garantiza que Akali entre sin riesgo", "en": "Hook guarantees Akali can dive safely" },
+          { "name": "Orianna", "es": "Ball + engage de Akali = daño combinado devastador", "en": "Ball + Akali engage = devastating combined damage" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Alistar", "img": "alistar",
+    "roles": [
+      {
+        "role": "sup", "tier": "a",
+        "why": { "es": "CC masivo con combo W+Q. Ult lo hace casi inmortal. Excelente engage y peel combinados.", "en": "Massive CC with W+Q combo. Ult makes him nearly immortal. Excellent combined engage and peel." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Sunfire Aegis","Warmog's Armor"], "sit": ["Knight's Vow","Redemption"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Blitzcrank", "es": "Hook interrumpe su combo antes de que empiece", "en": "Hook interrupts his combo before it starts" },
+          { "name": "Nami", "es": "Bubble lo para en mitad del engage", "en": "Bubble stops him mid-engage" },
+          { "name": "Janna", "es": "Ult lo empuja lejos del carry objetivo", "en": "Ult pushes him away from the target carry" }
+        ],
+        "synergies": [
+          { "name": "Caitlyn", "es": "Combo W+Q de Alistar facilita headshots de Caitlyn", "en": "Alistar's W+Q combo enables Caitlyn's headshots" },
+          { "name": "Miss Fortune", "es": "CC de Alistar perfecto para canalizar Bullet Time", "en": "Alistar's CC perfect for channeling Bullet Time" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ambessa", "img": "ambessa",
+    "roles": [
+      {
+        "role": "top", "tier": "ss", "wr": "52.6%",
+        "why": { "es": "Bruiser con movilidad extrema, burst en trade corto y split push elite. Sin nerfs en toda la era 7.x.", "en": "Bruiser with extreme mobility, short-trade burst and elite split push. No nerfs in the entire 7.x era." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Death's Dance"], "sit": ["Lord Dominik's","Maw of Malmortius"] },
+        "buildNote": { "es": "Lord Dominik's nuevo es excelente contra tanques rivales.", "en": "New Lord Dominik's is great against enemy tanks." },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC instantáneo bloquea todos sus dashes", "en": "Instant CC stops all her dashes" },
+          { "name": "Ornn", "es": "La supera en durabilidad y reduce su velocidad", "en": "Outlasts her in durability and slows her" },
+          { "name": "Pantheon", "es": "Bloquea su Q con pasiva y la supera en early", "en": "Blocks her Q with passive and dominates early" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ult amplifica el engage de Ambessa en teamfight", "en": "Ult amplifies Ambessa's teamfight engage" },
+          { "name": "Nautilus", "es": "CC en cadena permite que Ambessa entre sin riesgo", "en": "Chain CC lets Ambessa dive in safely" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Amumu", "img": "amumu",
+    "roles": [
+      {
+        "role": "jgl", "tier": "b",
+        "why": { "es": "Nerfed en 7.1b (Despair y slow reducidos). CC masivo en teamfight pero fue recortado.", "en": "Nerfed in 7.1b (Despair and slow reduced). Massive teamfight CC but was trimmed." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Warmog's Armor","Frostfire Gauntlet"], "sit": ["Force of Nature","Thornmail"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo invade y lo mata antes de nivel 6", "en": "Invades and kills him before level 6" },
+          { "name": "Hecarim", "es": "Más rápido, le roba camps fácilmente", "en": "Faster, steals camps easily" },
+          { "name": "Quicksilver Enchant", "es": "Cancela su bandage toss (item)", "en": "Cancels his bandage toss (item)" }
+        ],
+        "synergies": [
+          { "name": "Miss Fortune", "es": "Bullet Time sobre el grupo del ult de Amumu = GG", "en": "Bullet Time on Amumu's ult group = GG" },
+          { "name": "Orianna", "es": "Ball + ult en el grupo de Amumu = imbatible", "en": "Ball + ult on Amumu's group = unbeatable" }
+        ]
+      },
+      {
+        "role": "sup", "tier": "b",
+        "why": { "es": "Viable como support engage con Redemption. CC masivo pero frágil si se falla el bandage toss.", "en": "Viable as engage support with Redemption. Massive CC but fragile if bandage toss misses." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Warmog's Armor","Redemption"], "sit": ["Knight's Vow","Force of Nature"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Janna", "es": "Ult lo aleja antes de que aterrice el bandage", "en": "Ult pushes him away before the bandage lands" },
+          { "name": "Nami", "es": "Bubble lo para antes de que engage", "en": "Bubble stops him before he can engage" },
+          { "name": "Quicksilver Enchant", "es": "Cancela su ult (item)", "en": "Cancels his ult (item)" }
+        ],
+        "synergies": [
+          { "name": "Miss Fortune", "es": "Bullet Time sobre el ult de Amumu = teamfight ganada", "en": "Bullet Time on Amumu's ult = teamfight won" },
+          { "name": "Jinx", "es": "Amumu tankea para que Jinx dispare libremente", "en": "Amumu tanks so Jinx shoots freely" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Annie", "img": "annie",
+    "roles": [
+      {
+        "role": "mid", "tier": "b",
+        "why": { "es": "CC instantáneo al nivel 6 con Tibbers. Fácil de aprender pero predecible en elos altos.", "en": "Instant CC at level 6 with Tibbers. Easy to learn but predictable in high elos." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resiste su daño mágico completamente", "en": "Completely resists her magic damage" },
+          { "name": "Zed", "es": "La mata antes de que acumule el stun", "en": "Kills her before she can stack the stun" },
+          { "name": "Fizz", "es": "E esquiva su Q y la outplay fácilmente", "en": "E dodges her Q and outplays her easily" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Doble ult de AoE + stun = teamfight imbatible", "en": "Double AoE ult + stun = unbeatable teamfight" },
+          { "name": "Vi", "es": "Vi pinna al carry para que Annie lo aturdida y queme", "en": "Vi pins the carry so Annie can stun and burn" }
+        ]
+      },
+      {
+        "role": "sup", "tier": "c",
+        "why": { "es": "Viable con stun, pero los enchanters y engage supports la superan en el meta actual.", "en": "Viable with stun, but enchanters and engage supports outclass her in the current meta." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Zhonya's Hourglass"], "sit": ["Rabadon's Deathcap"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Leona", "es": "La supera en CC duro en lane", "en": "Outplays her in hard CC in lane" },
+          { "name": "Nautilus", "es": "Hook la saca de posición antes de que actúe", "en": "Hook removes her from position before she acts" },
+          { "name": "Braum", "es": "E bloquea su Q, sin poke efectivo", "en": "E blocks her Q, no effective poke" }
+        ],
+        "synergies": [
+          { "name": "Jhin", "es": "Stun de Annie facilita los 4 disparos de Jhin", "en": "Annie's stun facilitates Jhin's 4 shots" },
+          { "name": "Caitlyn", "es": "Stun facilita headshots de Caitlyn", "en": "Stun enables Caitlyn's headshots" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ashe", "img": "ashe",
+    "roles": [
+      {
+        "role": "adc", "tier": "d",
+        "why": { "es": "Buffed en 7.0c pero inmóvil. El meta de dive la destruye. Su slow ya no es suficiente para sobrevivir.", "en": "Buffed in 7.0c but immobile. The dive meta destroys her. Her slow is no longer enough to survive." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Wit's End","Runaan's Hurricane"], "sit": ["Terminus"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Vi", "es": "Ult la pincha sin movilidad para escapar", "en": "Ult pins her with no mobility to escape" },
+          { "name": "Hecarim", "es": "Speed ignora su slow y la alcanza", "en": "Speed ignores her slow and reaches her" },
+          { "name": "Tristana", "es": "Jump encima y la mata directamente", "en": "Jump on her and kills her directly" }
+        ],
+        "synergies": [
+          { "name": "Ornn", "es": "Ult de Ashe desde lejos + engage de Ornn = combo perfecto", "en": "Ashe long-range ult + Ornn engage = perfect combo" },
+          { "name": "Malphite", "es": "Ult de Ashe inicia y Malphite cierra", "en": "Ashe ult initiates and Malphite closes" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aurelion Sol", "img": "aurelion-sol",
+    "roles": [
+      {
+        "role": "mid", "tier": "d",
+        "why": { "es": "Buffed en 6.3c pero el meta de assassins no le da tiempo de acumular stardust. Muy lento para el ritmo actual.", "en": "Buffed in 6.3c but the assassin meta doesn't give him time to accumulate stardust. Too slow for the current pace." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Void Staff","Cosmic Drive"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Zed", "es": "Lo mata antes de que escale con stardust", "en": "Kills him before he scales with stardust" },
+          { "name": "Katarina", "es": "Lo asesina antes de que reaccione", "en": "Assassinates him before he can react" },
+          { "name": "Lee Sin gank", "es": "Gank continuo impide acumular stacks", "en": "Continuous ganks prevent stacking" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Ult agrupa para el AoE global de Aurelion Sol", "en": "Ult groups enemies for Aurelion Sol's global AoE" },
+          { "name": "Vi", "es": "Vi pinna para que Aurelion Sol acumule stardust gratis", "en": "Vi pins so Aurelion Sol accumulates stardust for free" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blitzcrank", "img": "blitzcrank",
+    "roles": [
+      {
+        "role": "sup", "tier": "b",
+        "why": { "es": "Un hook = kill garantizada, pero predecible. En elos medios-altos se juega todo alrededor de evitar su posición.", "en": "One hook = guaranteed kill, but predictable. In medium-high elos, everything plays around avoiding his position." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Warmog's Armor","Dead Man's Plate"], "sit": ["Frostfire Gauntlet","Redemption"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Braum", "es": "E bloquea su gancho completamente", "en": "E completely blocks his hook" },
+          { "name": "Janna", "es": "W lo para antes de que hookee", "en": "W stops him before he hooks" },
+          { "name": "Thresh", "es": "Lantern rescata al hooked antes de morir", "en": "Lantern rescues the hooked ally before dying" }
+        ],
+        "synergies": [
+          { "name": "Caitlyn", "es": "Hook + trampa de Caitlyn = snare permanente", "en": "Hook + Caitlyn trap = permanent snare" },
+          { "name": "Miss Fortune", "es": "Hook + Bullet Time sobre el objetivo = kill garantizada", "en": "Hook + Bullet Time on target = guaranteed kill" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Braum", "img": "braum",
+    "roles": [
+      {
+        "role": "sup", "tier": "ss",
+        "why": { "es": "E bloquea proyectiles y pasiva acumula CC. El mejor peel del juego. Perfecto contra Xayah, Caitlyn y Jhin (SS tier).", "en": "E blocks projectiles and passive stacks CC. Best peel in the game. Perfect against Xayah, Caitlyn and Jhin (SS tier)." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Warmog's Armor","Frostfire Gauntlet"], "sit": ["Knight's Vow","Redemption"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Norra", "es": "Portales sortean su posición de peleo ideal", "en": "Portals bypass his ideal fighting position" },
+          { "name": "Zyra", "es": "Plantas en su zona lo acosan continuamente", "en": "Plants in his zone harass him continuously" },
+          { "name": "Lux", "es": "Poke a distancia lo desgasta sin respuesta", "en": "Ranged poke wears him down without response" }
+        ],
+        "synergies": [
+          { "name": "Xayah", "es": "E bloquea todos los proyectiles que apuntan a Xayah", "en": "E blocks all projectiles targeting Xayah" },
+          { "name": "Caitlyn", "es": "Pasiva de Braum facilita los headshots de Caitlyn", "en": "Braum's passive facilitates Caitlyn's headshots" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caitlyn", "img": "caitlyn",
+    "roles": [
+      {
+        "role": "adc", "tier": "ss",
+        "why": { "es": "Buffed en 6.3f (+0.5 AD/lvl). El mayor rango de ADC, trampas de control de zona y headshot crítico. Domina early lane.", "en": "Buffed in 6.3f (+0.5 AD/lvl). Highest ADC range, zone control traps and critical headshot. Dominates early lane." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Galeforce","Infinity Edge","Rapid Firecannon"], "sit": ["Bloodthirster","Lord Dominik's"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Fleet Footwork", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Absolute Focus" },
+        "counters": [
+          { "name": "Xayah", "es": "Ult esquiva su ult y contraataca con plumas", "en": "Ult dodges her ult and counters with feathers" },
+          { "name": "Tristana", "es": "Jump la alcanza y la destroza en mid game", "en": "Jump reaches her and destroys her in mid game" },
+          { "name": "Jinx", "es": "La supera en daño en late con rockets", "en": "Outperforms her in late game damage with rockets" }
+        ],
+        "synergies": [
+          { "name": "Vi", "es": "Vi ult + Caitlyn ult sobre el mismo objetivo = kill garantizada", "en": "Vi ult + Caitlyn ult on same target = guaranteed kill" },
+          { "name": "Nautilus", "es": "Hook + trampa de Caitlyn = snare permanente", "en": "Hook + Caitlyn trap = permanent snare" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Corki", "img": "corki",
+    "roles": [
+      {
+        "role": "mid", "tier": "a",
+        "why": { "es": "Buffed en 7.1 (+4 AD base). Mixed damage difícil de itemizar. Packages fuertes con movilidad.", "en": "Buffed in 7.1 (+4 base AD). Mixed damage hard to itemize against. Strong Packages with mobility." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Trinity Force","Essence Reaver","Shadowflame"], "sit": ["Rabadon's Deathcap","Serpent's Fang"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resistencia mágica y lo mata post-6", "en": "Magic resistance and kills him post-6" },
+          { "name": "Zed", "es": "Lo asesina antes de que tenga items", "en": "Assassinates him before he has items" },
+          { "name": "Lee Sin gank", "es": "Gank temprano muy efectivo", "en": "Very effective early gank" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ball + Package de Corki = burst en teamfight", "en": "Ball + Corki Package = teamfight burst" },
+          { "name": "Hecarim", "es": "Doble amenaza de roaming", "en": "Double roaming threat" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Darius", "img": "darius",
+    "roles": [
+      {
+        "role": "top", "tier": "s",
+        "why": { "es": "Dominancia en lane temprana brutal. Con 5 stacks del pasivo, ult con daño verdadero reseteable.", "en": "Brutal early lane dominance. With 5 passive stacks, ult deals resetable true damage." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Dead Man's Plate"], "sit": ["Overlord's Bloodmail","Warmog's Armor"] },
+        "buildNote": { "es": "Overlord's Bloodmail (7.0d) es excelente — AD que crece cuando tiene poca vida.", "en": "Overlord's Bloodmail (7.0d) is excellent — AD that grows when low health." },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Kennen", "es": "Poke seguro a distancia, nunca entra en rango de Darius", "en": "Safe ranged poke, never enters Darius's range" },
+          { "name": "Teemo", "es": "Blind cancela su Q, poke constante lo desgasta", "en": "Blind cancels his Q, constant poke wears him down" },
+          { "name": "Quinn", "es": "Movilidad extrema hace imposible alcanzarla", "en": "Extreme mobility makes it impossible to reach her" }
+        ],
+        "synergies": [
+          { "name": "Leona", "es": "CC de Leona permite que Darius acumule stacks gratis", "en": "Leona's CC lets Darius stack for free" },
+          { "name": "Nautilus", "es": "Hook garantiza que la presa esté en rango de Darius", "en": "Hook guarantees the target is within Darius's range" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diana", "img": "diana",
+    "roles": [
+      {
+        "role": "jgl", "tier": "a",
+        "why": { "es": "Claro rápido con Q. Ult de reset que puede matar a todo el equipo encadenando. Escala bien con AP.", "en": "Fast clear with Q. Reset ult that can kill the entire team by chaining. Scales well with AP." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Lee Sin", "es": "La invade y la mata early sin problema", "en": "Invades and kills her early without issue" },
+          { "name": "Wukong", "es": "Clone confunde su ult dirigido", "en": "Clone confuses her targeted ult" },
+          { "name": "Vi", "es": "Ult interrumpe su cadena de resets", "en": "Ult interrupts her reset chain" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Diana agrupa con ult, Orianna remata con ball", "en": "Diana groups with ult, Orianna finishes with ball" },
+          { "name": "Amumu", "es": "Doble ult de AoE = teamfight imbatible", "en": "Double AoE ult = unbeatable teamfight" }
+        ]
+      },
+      {
+        "role": "mid", "tier": "b",
+        "why": { "es": "Viable en mid pero sin el claro rápido de jungle pierde valor. Funciona mejor cuando el rival es un mage inmóvil.", "en": "Viable in mid but without fast jungle clear loses value. Works best when the enemy is an immobile mage." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Kassadin", "es": "La outscalea post-6 y resiste su magia", "en": "Outscales her post-6 and resists her magic" },
+          { "name": "Zed", "es": "La mata antes de nivel 6", "en": "Kills her before level 6" },
+          { "name": "Fizz", "es": "E esquiva su Q y la outplay", "en": "E dodges her Q and outplays her" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Doble engage ult de AoE = teamfight ganada", "en": "Double AoE engage ult = teamfight won" },
+          { "name": "Malphite", "es": "Knockup activa el ult de Diana sobre el grupo", "en": "Knockup activates Diana's ult on the group" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Draven", "img": "draven",
+    "roles": [
+      {
+        "role": "adc", "tier": "c",
+        "why": { "es": "Daño enorme early pero requiere mantener hachas perfectamente. Un error = pierde toda la ventaja. Sin movilidad.", "en": "Huge early damage but requires perfectly maintaining axes. One mistake = loses all advantage. No mobility." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Immortal Shieldbow","Infinity Edge","Bloodthirster"], "sit": ["Lord Dominik's","Phantom Dancer"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Coup de Grace"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Caitlyn", "es": "Trampas le impiden recoger hachas cómodamente", "en": "Traps prevent him from picking up axes comfortably" },
+          { "name": "Xayah", "es": "Ult invulnerable niega todo su burst inicial", "en": "Invulnerable ult negates all his initial burst" },
+          { "name": "Ezreal", "es": "Poke seguro lo desgasta sin pelear", "en": "Safe poke wears him down without fighting" }
+        ],
+        "synergies": [
+          { "name": "Leona", "es": "CC de Leona permite que Draven dispare libremente", "en": "Leona's CC lets Draven shoot freely" },
+          { "name": "Alistar", "es": "Combo W+Q de Alistar facilita que Draven acumule hachas", "en": "Alistar's W+Q combo helps Draven stack axes" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ekko", "img": "ekko",
+    "roles": [
+      {
+        "role": "jgl", "tier": "a",
+        "why": { "es": "Claro rápido, CC en zona con W, ult de escape/reset. Muy difícil de matar. Fuerte en dive y skirmishes.", "en": "Fast clear, zone CC with W, escape/reset ult. Very hard to kill. Strong in dive and skirmishes." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Trinity Force","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Shadowflame"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo invade y lo mata early antes de que escale", "en": "Invades and kills him early before scaling" },
+          { "name": "Vi", "es": "Ult interrumpe su ult de regreso", "en": "Ult interrupts his return ult" },
+          { "name": "Wukong", "es": "Lo supera en teamfight final", "en": "Outperforms in the final teamfight" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ekko agrupa con W, Orianna termina con ball", "en": "Ekko groups with W, Orianna finishes with ball" },
+          { "name": "Caitlyn", "es": "CC de Ekko facilita headshots de Caitlyn", "en": "Ekko's CC facilitates Caitlyn's headshots" }
+        ]
+      },
+      {
+        "role": "mid", "tier": "b",
+        "why": { "es": "Viable en mid pero pierde el claro rápido de jungle. Funciona si el rival es inmóvil o tienes buen roaming.", "en": "Viable in mid but loses the fast jungle clear. Works if the enemy is immobile or you have good roaming." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Zed", "es": "Lo mata antes de nivel 6", "en": "Kills him before level 6" },
+          { "name": "Kassadin", "es": "Lo outscalea post-6", "en": "Outscales him post-6" },
+          { "name": "Talon", "es": "Le gana en lane y roams antes", "en": "Beats him in lane and roams first" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Ult de Amumu agrupa para el W de Ekko", "en": "Amumu's ult groups enemies for Ekko's W" },
+          { "name": "Vi", "es": "Vi pinna al carry para que Ekko lo remate", "en": "Vi pins the carry so Ekko can finish" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Evelynn", "img": "evelynn",
+    "roles": [
+      {
+        "role": "jgl", "tier": "c",
+        "why": { "es": "Stealth + assassin pero muy frágil. En elos bajos funciona, en altos la detectan e invaden fácilmente.", "en": "Stealth + assassin but very fragile. Works in low elos, in high elos she's easily detected and invaded." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Lee Sin", "es": "La invade y la mata sin problema", "en": "Invades and kills her without issue" },
+          { "name": "Control wards", "es": "Detectan su stealth completamente", "en": "Completely detect her stealth" },
+          { "name": "Wukong", "es": "Tankea su burst y responde", "en": "Tanks her burst and responds" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Evelynn llega en stealth, Orianna remata con ball", "en": "Evelynn arrives in stealth, Orianna finishes with ball" },
+          { "name": "Caitlyn", "es": "Trampas de Caitlyn revelan su posición al rival si pisa", "en": "Caitlyn traps prevent enemy from hiding from Eve too" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ezreal", "img": "ezreal",
+    "roles": [
+      {
+        "role": "adc", "tier": "b",
+        "why": { "es": "Poke seguro con blink. Difícil de matar pero bajo daño comparado con SS tier.", "en": "Safe poke with blink. Hard to kill but lower damage compared to SS tier." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Trinity Force","Manamune","Essence Reaver"], "sit": ["Serpent's Fang","Shadowflame"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Draven", "es": "Daño bruto en early lo supera completamente", "en": "Raw early damage completely outperforms him" },
+          { "name": "Xayah", "es": "Ult bloquea su poke y contraataca con plumas", "en": "Ult blocks his poke and counters with feathers" },
+          { "name": "Caitlyn", "es": "Rango superior constantemente", "en": "Constantly superior range" }
+        ],
+        "synergies": [
+          { "name": "Nami", "es": "Speedboost de Nami facilita el kite de Ezreal", "en": "Nami's speedboost facilitates Ezreal's kite" },
+          { "name": "Orianna", "es": "Ball facilita que las Q de Ezreal impacten", "en": "Ball makes it easy for Ezreal's Q to connect" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fiora", "img": "fiora",
+    "roles": [
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Nerfed en 7.1 (true dmg pasiva reducida). Aún muy fuerte 1v1 y en split push, pero más manejable.", "en": "Nerfed in 7.1 (passive true dmg reduced). Still very strong 1v1 and split push, but more manageable." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Death's Dance"], "sit": ["Ravenous Hydra","Lord Dominik's"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "Ult instantáneo no puede pararse, CC la deja inmóvil", "en": "Instant ult can't be stopped, CC leaves her immobile" },
+          { "name": "Jax", "es": "Counter Strike bloquea todos sus autos durante 2 segundos", "en": "Counter Strike blocks all her autos for 2 seconds" },
+          { "name": "Wukong", "es": "Clone engaña los vitales de Fiora", "en": "Clone fools Fiora's vitals" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Presión de split en lados opuestos del mapa", "en": "Split pressure on opposite sides of the map" },
+          { "name": "Jarvan IV", "es": "Ult de Jarvan combea con su ofensiva 1v1", "en": "Jarvan's ult combos with her 1v1 offensive" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fizz", "img": "fizz",
+    "roles": [
+      {
+        "role": "mid", "tier": "c",
+        "why": { "es": "Buffed en 7.1b pero asesino frágil. Depende de que el oponente no esquive la ult de tiburón.", "en": "Buffed in 7.1b but fragile assassin. Depends on the opponent not dodging the shark ult." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Riftmaker"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Orianna", "es": "Ball en su E la castiga con CC", "en": "Ball on his E punishes with CC" },
+          { "name": "Ahri", "es": "Charm antes de que entre al rango de kill", "en": "Charm before he enters kill range" },
+          { "name": "Syndra", "es": "Poke desde lejos que no puede evitar", "en": "Long-range poke he can't avoid" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Fizz aísla al carry y Hecarim remata", "en": "Fizz isolates the carry and Hecarim finishes" },
+          { "name": "Vi", "es": "Vi pinna al carry para que Fizz ulte con precisión", "en": "Vi pins the carry so Fizz can ult with precision" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Garen", "img": "garen",
+    "roles": [
+      {
+        "role": "top", "tier": "s",
+        "why": { "es": "Simplicidad máxima con alta recompensa. W escudo pasivo, ult ejecuta. Ideal para subir elo.", "en": "Maximum simplicity with high reward. W passive shield, ult executes. Ideal for climbing." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Dead Man's Plate"], "sit": ["Force of Nature","Warmog's Armor"] },
+        "buildNote": { "es": "Dead Man's le da velocidad para perseguir. Overlord's Bloodmail excelente como 4to item.", "en": "Dead Man's gives speed to chase. Overlord's Bloodmail excellent as 4th item." },
+        "runes": { "key": "Grasp of the Undying", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Triumph" },
+        "counters": [
+          { "name": "Vayne", "es": "Daño % HP lo destroza aunque sea un tanque", "en": "% HP damage shreds him even as a tank" },
+          { "name": "Teemo", "es": "Blind bloquea su Q y el poke lo desgasta", "en": "Blind blocks his Q and poke wears him down" },
+          { "name": "Darius", "es": "Sangrado bloquea su pasiva de regen", "en": "Bleed blocks his regen passive" }
+        ],
+        "synergies": [
+          { "name": "Nautilus", "es": "CC del support facilita entrar con Q de Garen", "en": "Support CC makes it safe for Garen to dash in with Q" },
+          { "name": "Orianna", "es": "Ball en el dive de Garen = AoE masivo", "en": "Ball on Garen's dive = massive AoE" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gragas", "img": "gragas",
+    "roles": [
+      {
+        "role": "jgl", "tier": "a",
+        "why": { "es": "Buffed en 6.3d (claro mejorado). Versátil, buen peel y engage. Funciona en casi cualquier composición.", "en": "Buffed in 6.3d (improved clear). Versatile, good peel and engage. Works in almost any team comp." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Warmog's Armor","Frostfire Gauntlet"], "sit": ["Force of Nature","Gargoyle Stoneplate"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo invade y lo supera en movilidad", "en": "Invades and outplays in mobility" },
+          { "name": "Wukong", "es": "Le gana en claro y teamfight", "en": "Outclears and outperforms in teamfight" },
+          { "name": "Viego", "es": "Lo posee y usa todo su kit", "en": "Possesses him and uses his entire kit" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Barrel de Gragas dispersa y Amumu reagrupa", "en": "Gragas barrel disperses and Amumu regroups" },
+          { "name": "Orianna", "es": "Barrel + ball en la misma zona = devastador", "en": "Barrel + ball in the same zone = devastating" }
+        ]
+      },
+      {
+        "role": "sup", "tier": "c",
+        "why": { "es": "Viable como support engage pero los supports especializados lo superan. Solo si nadie más puede hacer engage.", "en": "Viable as engage support but specialized supports outclass him. Only if no one else can engage." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Warmog's Armor","Redemption"], "sit": ["Force of Nature"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Nautilus", "es": "Lo supera en CC y tankear", "en": "Outperforms in CC and tanking" },
+          { "name": "Leona", "es": "CC más duro y confiable en lane", "en": "Harder and more reliable CC in lane" },
+          { "name": "Blitzcrank", "es": "Hook más impactante que barrel toss", "en": "Hook more impactful than barrel toss" }
+        ],
+        "synergies": [
+          { "name": "Miss Fortune", "es": "Barrel empuja al rival para que MF lo ulte", "en": "Barrel pushes enemy into MF's ult" },
+          { "name": "Jhin", "es": "Barrel crea apertura para los 4 disparos de Jhin", "en": "Barrel creates opening for Jhin's 4 shots" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hecarim", "img": "hecarim",
+    "roles": [
+      {
+        "role": "jgl", "tier": "s",
+        "why": { "es": "Nerfed en 7.0d pero sigue siendo el jungler más rápido del mapa. Mejor roaming del juego.", "en": "Nerfed in 7.0d but still the fastest jungler on the map. Best roaming in the game." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Dead Man's Plate","Sterak's Gage"], "sit": ["Warmog's Armor","Force of Nature"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Phase Rush", "primary": ["Manaflow Band","Transcendence","Waterwalking"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Vi", "es": "Ult lo pincha en mitad de sus charges", "en": "Ult pins him mid-charge" },
+          { "name": "Lee Sin", "es": "Duelo temprano lo mata antes de despegar", "en": "Early duel kills him before he takes off" },
+          { "name": "Wukong", "es": "Lo supera en daño masivo con ult doble", "en": "Outperforms with massive double ult damage" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Hecarim se lanza, Orianna recoge con ball", "en": "Hecarim charges in, Orianna collects with ball" },
+          { "name": "Nami", "es": "Speedboost hace a Hecarim aún más indetenible", "en": "Speedboost makes Hecarim even more unstoppable" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Irelia", "img": "irelia",
+    "roles": [
+      {
+        "role": "top", "tier": "c",
+        "why": { "es": "Nerfed en 7.1 (healing reducido). Requiere muchos stacks para funcionar y el early se siente muy débil.", "en": "Nerfed in 7.1 (healing reduced). Requires many stacks to function and early game feels very weak." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Death's Dance"], "sit": ["Wit's End"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC masivo interrumpe todo su combo", "en": "Massive CC interrupts her entire combo" },
+          { "name": "Pantheon", "es": "Bloquea sus autos con pasiva", "en": "Blocks her autos with passive" },
+          { "name": "Jax", "es": "E bloquea sus autos y la supera en late", "en": "E blocks her autos and outscales in late" }
+        ],
+        "synergies": [
+          { "name": "Nautilus", "es": "Hook + CC facilita que Irelia acumule stacks", "en": "Hook + CC makes it easy for Irelia to stack" },
+          { "name": "Hecarim", "es": "Presión de mapa simultánea difícil de manejar", "en": "Simultaneous map pressure hard to handle" }
+        ]
+      },
+      {
+        "role": "mid", "tier": "c",
+        "why": { "es": "Puede funcionar en mid contra mages pero los nerfs recientes la hacen menos consistente que antes.", "en": "Can work in mid against mages but recent nerfs make her less consistent than before." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Wit's End"], "sit": ["Death's Dance"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Kassadin", "es": "La outscalea post-6 completamente", "en": "Completely outscales her post-6" },
+          { "name": "Orianna", "es": "Ball en el Q de Irelia la para siempre", "en": "Ball on Irelia's Q always stops her" },
+          { "name": "Syndra", "es": "Poke desde lejos sin dejarla acercarse", "en": "Pokes from range without letting her close in" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Doble amenaza de dive que el rival no puede manejar", "en": "Double dive threat the enemy can't handle" },
+          { "name": "Amumu", "es": "Ult de Amumu agrupa para el Q chain de Irelia", "en": "Amumu's ult groups for Irelia's Q chain" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Janna", "img": "janna",
+    "roles": [
+      {
+        "role": "sup", "tier": "a",
+        "why": { "es": "El mejor peel del juego contra comps de dive. Ult separa al equipo enemigo. Perfecta para carries inmóviles.", "en": "Best peel in the game against dive comps. Ult separates the enemy team. Perfect for immobile carries." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Ardent Censer","Redemption"], "sit": ["Knight's Vow","Staff of Flowing Water"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Leona", "es": "Engage desde ángulo inesperado", "en": "Engages from an unexpected angle" },
+          { "name": "Blitzcrank", "es": "Hook la descoloca constantemente", "en": "Hook constantly displaces her" },
+          { "name": "Norra", "es": "La supera en control del espacio", "en": "Outcontrols her space" }
+        ],
+        "synergies": [
+          { "name": "Jinx", "es": "Peel extremo protege a Jinx de dive comps", "en": "Extreme peel protects Jinx from dive comps" },
+          { "name": "Vayne", "es": "Peel + speedboost hace a Vayne unkillable", "en": "Peel + speedboost makes Vayne unkillable" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jarvan IV", "img": "jarvan-iv",
+    "roles": [
+      {
+        "role": "jgl", "tier": "a",
+        "why": { "es": "Sin nerfs recientes. Flag + drag CC es uno de los mejores initiation combos del juego. Ult crea zona de combate.", "en": "No recent nerfs. Flag + drag CC is one of the best initiation combos in the game. Ult creates combat zone." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Black Cleaver"], "sit": ["Death's Dance","Warmog's Armor"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo invade y lo supera en movilidad", "en": "Invades and outplays in mobility" },
+          { "name": "Wukong", "es": "Clone escapa de su ult sin problema", "en": "Clone escapes his ult without issue" },
+          { "name": "Vi", "es": "La supera en teamfight", "en": "Outperforms in teamfight" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ult de Jarvan + ball = combo devastador", "en": "Jarvan ult + ball = devastating combo" },
+          { "name": "Miss Fortune", "es": "Bullet Time dentro del ult de Jarvan = GG", "en": "Bullet Time inside Jarvan's ult = GG" }
+        ]
+      },
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Viable en top como bruiser de engage pero los tanques del meta lo superan en durabilidad.", "en": "Viable in top as engage bruiser but meta tanks outclass him in durability." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Black Cleaver"], "sit": ["Dead Man's Plate","Warmog's Armor"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "Lo supera en teamfight engage", "en": "Outperforms in teamfight engage" },
+          { "name": "Ornn", "es": "Lo supera en durabilidad y escala", "en": "Outclasses in durability and scaling" },
+          { "name": "Vayne", "es": "Daño % HP lo destruye", "en": "% HP damage destroys him" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ult de Jarvan + ball = combo devastador desde top", "en": "Jarvan ult + ball = devastating combo from top" },
+          { "name": "Caitlyn", "es": "Jarvan encierra al carry para que Caitlyn lo ulte", "en": "Jarvan traps the carry so Caitlyn can ult" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jax", "img": "jax",
+    "roles": [
+      {
+        "role": "top", "tier": "s",
+        "why": { "es": "Buffed en 7.0f (Grandmaster's defense escalado con AD). Sin nerfs en 7.x. El split pusher más fuerte del meta.", "en": "Buffed in 7.0f (Grandmaster's defense scaled with AD). No nerfs in 7.x. The strongest split pusher in the meta." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Wit's End"], "sit": ["Death's Dance","Guinsoo's Rageblade"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC instantáneo — no puede bloquear el ult", "en": "Instant CC — can't block the ult" },
+          { "name": "Ornn", "es": "Lo supera en durabilidad y teamfight", "en": "Outclasses him in durability and teamfight" },
+          { "name": "Fiora", "es": "Parea su Counter Strike y lo drena con vitales", "en": "Parries his Counter Strike and drains with vitals" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Presión en ambos lados del mapa que el rival no puede manejar", "en": "Pressure on both sides of the map the enemy can't handle" },
+          { "name": "Orianna", "es": "Jax splitea y Orianna cierra teamfights", "en": "Jax splits and Orianna closes teamfights" }
+        ]
+      },
+      {
+        "role": "jgl", "tier": "a",
+        "why": { "es": "Claro decente con W+Q. Su E bloquea los smites de jungla. Fuerte en duelos y escala increíble.", "en": "Decent clear with W+Q. His E blocks jungle smites. Strong in duels and incredible scaling." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Wit's End"], "sit": ["Guinsoo's Rageblade","Death's Dance"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo invade early y lo supera en movilidad", "en": "Invades early and outplays in mobility" },
+          { "name": "Vi", "es": "Ult lo pincha antes de que bloquee con E", "en": "Ult pins him before he can block with E" },
+          { "name": "Hecarim", "es": "Mucho más rápido en el mapa", "en": "Much faster across the map" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Jax invade y Orianna cierra con ball", "en": "Jax invades and Orianna closes with ball" },
+          { "name": "Caitlyn", "es": "Jax divide el mapa para que Caitlyn poke segura", "en": "Jax splits the map so Caitlyn can poke safely" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jhin", "img": "jhin",
+    "roles": [
+      {
+        "role": "adc", "tier": "ss",
+        "why": { "es": "Crítico garantizado en 4to disparo. Control de zona masivo con trampas, snare desde lejos. Escala enorme con AD/crit.", "en": "Guaranteed crit on 4th shot. Massive zone control with traps, long-range snare. Scales enormously with AD/crit." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Galeforce","Infinity Edge","Rapid Firecannon"], "sit": ["Bloodthirster","Lord Dominik's"] },
+        "buildNote": { "es": "Galeforce da movilidad que Jhin no tiene. RFC aumenta el rango del 4to disparo crítico.", "en": "Galeforce gives mobility Jhin lacks. RFC increases the range of his critical 4th shot." },
+        "runes": { "key": "Fleet Footwork", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Absolute Focus" },
+        "counters": [
+          { "name": "Ezreal", "es": "Poke seguro y blink para esquivar su W y ult", "en": "Safe poke and blink to dodge his W and ult" },
+          { "name": "Tristana", "es": "Jump encima lo deja indefenso", "en": "Jump on him leaves him defenseless" },
+          { "name": "Miss Fortune", "es": "La supera en early poke sin depender de 4 balas", "en": "Beats him in early poke without depending on 4 bullets" }
+        ],
+        "synergies": [
+          { "name": "Leona", "es": "CC de Leona facilita que Jhin dispare los 4 balas gratis", "en": "Leona's CC lets Jhin fire all 4 bullets for free" },
+          { "name": "Nautilus", "es": "Hook + trampas de Jhin = combo letal", "en": "Hook + Jhin traps = lethal combo" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jinx", "img": "jinx",
+    "roles": [
+      {
+        "role": "adc", "tier": "c",
+        "why": { "es": "Buffed en 6.3f pero sin movilidad en meta de dive. Necesita equipo que la proteja perfectamente.", "en": "Buffed in 6.3f but no mobility in dive meta. Needs a team that protects her perfectly." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Runaan's Hurricane","Infinity Edge"], "sit": ["Bloodthirster","Phantom Dancer"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Vi", "es": "Ult la pincha sin poder escapar", "en": "Ult pins her with no way to escape" },
+          { "name": "Hecarim", "es": "Dive la mata antes de que actúe", "en": "Dive kills her before she can act" },
+          { "name": "Tristana", "es": "Jump encima y la mata rápidamente", "en": "Jump on her and kills her quickly" }
+        ],
+        "synergies": [
+          { "name": "Lulu", "es": "Ult + peel de Lulu es la única forma de que Jinx funcione", "en": "Lulu ult + peel is the only way Jinx works" },
+          { "name": "Janna", "es": "Peel extremo protege a Jinx de dive comps", "en": "Extreme peel protects Jinx from dive comps" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "K'Sante", "img": "ksante",
+    "roles": [
+      {
+        "role": "top", "tier": "a",
+        "why": { "es": "Nuevo en 7.1. Tank bruiser con kit de outplay. Sin nerfs todavía — probablemente suba a S.", "en": "New in 7.1. Tank bruiser with outplay kit. No nerfs yet — likely rises to S." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Frostfire Gauntlet","Warmog's Armor"], "sit": ["Sterak's Gage","Force of Nature"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Grasp of the Undying", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Fiora", "es": "Parea su todo y lo destruye en split push", "en": "Parries everything and destroys him in split push" },
+          { "name": "Vayne", "es": "True damage lo derrumba inevitablemente", "en": "True damage inevitably destroys him" },
+          { "name": "Darius", "es": "Lo supera en trades cortos pre-6", "en": "Wins short trades pre-6" }
+        ],
+        "synergies": [
+          { "name": "Xayah", "es": "K'Sante inicia y Xayah termina con las plumas", "en": "K'Sante initiates and Xayah finishes with feathers" },
+          { "name": "Orianna", "es": "Ult de K'Sante agrupa para la ball", "en": "K'Sante ult groups enemies for the ball" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kai'Sa", "img": "kaisa",
+    "roles": [
+      {
+        "role": "adc", "tier": "a",
+        "why": { "es": "Sin nerfs en 7.x. Daño mixto, ult para entrar/escapar, versátil con enchanters.", "en": "No nerfs in 7.x. Mixed damage, ult to dive/escape, versatile with enchanters." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Immortal Shieldbow","Wit's End"], "sit": ["Rabadon's Deathcap","Guinsoo's Rageblade"] },
+        "buildNote": { "es": "Build on-hit es la más fuerte. Rabadon's si maximiza W y va AP.", "en": "On-hit build is the strongest. Rabadon's if you max W and go AP." },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Caitlyn", "es": "Rango y trampas la dificultan al acercarse", "en": "Range and traps make it hard for her to close in" },
+          { "name": "Xayah", "es": "Ult sobre Kai'Sa cuando entra con su ult", "en": "Ult on Kai'Sa when she dives with her ult" },
+          { "name": "Nautilus", "es": "Hook la atrapa cuando entra con ult", "en": "Hook catches her when she dives with ult" }
+        ],
+        "synergies": [
+          { "name": "Nautilus", "es": "Hook facilita el dive de Kai'Sa con ult", "en": "Hook facilitates Kai'Sa's ult dive" },
+          { "name": "Nami", "es": "Speedboost + heal la hacen más sustentable", "en": "Speedboost + heal make her more sustainable" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Karma", "img": "karma",
+    "roles": [
+      {
+        "role": "sup", "tier": "d",
+        "why": { "es": "Enchanters nerfed en 6.3f. Sin CC duro y su shield fue reducido. Completamente desplazada por Janna.", "en": "Enchanters nerfed in 6.3f. No hard CC and her shield was reduced. Completely displaced by Janna." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Redemption","Ardent Censer"], "sit": ["Staff of Flowing Water"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Leona", "es": "Engage la aplasta antes de que actúe", "en": "Engage crushes her before she can act" },
+          { "name": "Nautilus", "es": "CC masivo que no puede responder", "en": "Massive CC she can't respond to" },
+          { "name": "Blitzcrank", "es": "Hook la saca de posición inmediatamente", "en": "Hook immediately removes her from position" }
+        ],
+        "synergies": [
+          { "name": "Ezreal", "es": "Speedboost facilita el kite de Ezreal", "en": "Speedboost facilitates Ezreal's kite" },
+          { "name": "Caitlyn", "es": "Shield protege a Caitlyn mientras poke desde lejos", "en": "Shield protects Caitlyn while she pokes from range" }
+        ]
+      },
+      {
+        "role": "mid", "tier": "c",
+        "why": { "es": "Puede funcionar en mid como battlemage con poke pero le faltan herramientas para el meta actual de assassins.", "en": "Can work in mid as a battlemage with poke but lacks tools for the current assassin meta." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Void Staff","Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Zed", "es": "La asesina antes de que pueda actuar", "en": "Assassinates her before she can act" },
+          { "name": "Kassadin", "es": "La outscalea completamente post-6", "en": "Completely outscales her post-6" },
+          { "name": "Katarina", "es": "Entra y la mata en un combo", "en": "Enters and kills her in one combo" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Speedboost de Karma hace a Hecarim aún más rápido", "en": "Karma's speedboost makes Hecarim even faster" },
+          { "name": "Jinx", "es": "Peel de Karma + crecimiento de Jinx en late", "en": "Karma's peel + Jinx's late game scaling" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kassadin", "img": "kassadin",
+    "roles": [
+      {
+        "role": "mid", "tier": "ss",
+        "why": { "es": "Resistencia mágica pasiva = domina vs mages. Post-6 es casi imposible de atrapar. El scaler más seguro del juego.", "en": "Passive magic resistance = dominates vs mages. Post-6 is nearly impossible to catch. The safest scaler in the game." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Rod of Ages","Riftmaker","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "Rod of Ages es clave — crece con el tiempo. No rushes nada antes.", "en": "Rod of Ages is key — grows over time. Don't rush anything else." },
+        "runes": { "key": "Phase Rush", "primary": ["Manaflow Band","Transcendence","Waterwalking"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Talon", "es": "AD lo destroza pre-6 cuando es más frágil", "en": "AD destroys him pre-6 when he's most fragile" },
+          { "name": "Zed", "es": "Lo mata antes de que escale", "en": "Kills him before he scales" },
+          { "name": "Lee Sin gank", "es": "Gank temprano repetitivo lo destruye", "en": "Repeated early ganks destroy him" }
+        ],
+        "synergies": [
+          { "name": "Vi", "es": "Vi pinna al carry para que Kassadin lo ejecute", "en": "Vi pins the carry so Kassadin can execute" },
+          { "name": "Leona", "es": "CC de Leona permite que Kassadin entre con seguridad", "en": "Leona's CC lets Kassadin engage safely" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Katarina", "img": "katarina",
+    "roles": [
+      {
+        "role": "mid", "tier": "b",
+        "why": { "es": "Excelente snowball. Alta curva de habilidad. Efectiva cuando el rival no tiene CC duro.", "en": "Excellent snowball. High skill curve. Effective when enemies lack hard CC." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Hextech Gunblade","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Orianna", "es": "Ball en el shunpo = la atrapa siempre", "en": "Ball on the shunpo = catches her every time" },
+          { "name": "Lissandra", "es": "CC la congela en mitad de su ult", "en": "CC freezes her mid-ult" },
+          { "name": "Vex", "es": "Pasiva interrumpe cada dash suyo", "en": "Passive interrupts every one of her dashes" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Ult de Amumu = Katarina entra sin CC y hace daño masivo", "en": "Amumu ult = Katarina enters without CC and deals massive damage" },
+          { "name": "Hecarim", "es": "Katarina llega cuando Hecarim ya absorbió el CC", "en": "Katarina arrives after Hecarim absorbed the CC" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lee Sin", "img": "lee-sin",
+    "roles": [
+      {
+        "role": "jgl", "tier": "ss",
+        "why": { "es": "Sin ningún nerf en toda la era 7.x. El mejor jugador del Herald, mecánicas de outplay con Insec, control total del mapa.", "en": "No nerfs in the entire 7.x era. Best Herald player, Insec outplay mechanics, total map control." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Black Cleaver","Sterak's Gage"], "sit": ["Death's Dance","Maw of Malmortius"] },
+        "buildNote": { "es": "También jugable con Duskblade para versión assassin en elo bajo.", "en": "Also playable with Duskblade for assassin version in low elo." },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Wukong", "es": "Lo supera en claro y teamfight final", "en": "Outclears him and wins the final teamfight" },
+          { "name": "Vi", "es": "Ult anti-movilidad lo pincha antes del Insec", "en": "Anti-mobility ult pins him before he can Insec" },
+          { "name": "Hecarim", "es": "Más rápido en el mapa, lo invade y mata fácil early", "en": "Faster across the map, invades and kills him easily early" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Insec al carry hacia Orianna = ball + ult devastador", "en": "Insec carry toward Orianna = devastating ball + ult" },
+          { "name": "Malphite", "es": "Lee Sin invade y Malphite cierra el teamfight", "en": "Lee Sin invades and Malphite closes teamfight" }
+        ]
+      },
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Viable en top como bruiser de dive pero pierde mucho valor sin el impacto temprano de jungle. Solo si dominas el kit.", "en": "Viable in top as dive bruiser but loses much value without early jungle impact. Only if you master the kit." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Black Cleaver","Sterak's Gage"], "sit": ["Death's Dance","Dead Man's Plate"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC instantáneo — no puede esquivarlo", "en": "Instant CC — can't dodge it" },
+          { "name": "Ornn", "es": "Lo supera en durabilidad completamente", "en": "Completely outclasses him in durability" },
+          { "name": "Darius", "es": "Lo domina en early lane", "en": "Dominates him in early lane" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Engage de Lee Sin + ball de Orianna = devastador", "en": "Lee Sin engage + Orianna ball = devastating" },
+          { "name": "Caitlyn", "es": "Lee Sin divide el mapa para que Caitlyn poke segura", "en": "Lee Sin splits the map so Caitlyn can poke safely" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Leona", "img": "leona",
+    "roles": [
+      {
+        "role": "sup", "tier": "s",
+        "why": { "es": "CC instantáneo en niveles 2-3. La support engage más agresiva. Domina con ADCs de burst corto (Draven, Jhin).", "en": "Instant CC at levels 2-3. The most aggressive engage support. Dominates with short-burst ADCs (Draven, Jhin)." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Sunfire Aegis","Warmog's Armor"], "sit": ["Frozen Heart","Knight's Vow"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Janna", "es": "Ult y W la alejan antes de que engage", "en": "Ult and W push her away before she can engage" },
+          { "name": "Nami", "es": "Bubble la para en mitad del combo", "en": "Bubble stops her mid-combo" },
+          { "name": "Braum", "es": "E bloquea su E entrante", "en": "E blocks her incoming E" }
+        ],
+        "synergies": [
+          { "name": "Jhin", "es": "CC de Leona facilita que Jhin dispare 4 balas gratis", "en": "Leona's CC lets Jhin fire all 4 bullets for free" },
+          { "name": "Syndra", "es": "CC facilita que las esferas de Syndra impacten", "en": "CC makes it easy for Syndra's spheres to connect" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lillia", "img": "lillia",
+    "roles": [
+      {
+        "role": "jgl", "tier": "a",
+        "why": { "es": "AoE sleep y daño % HP. Excelente teamfight en late game. Alta curva de aprendizaje pero devastadora.", "en": "AoE sleep and % HP damage. Excellent late game teamfight. High learning curve but devastating." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Liandry's Torment","Demonic Embrace","Shadowflame"], "sit": ["Rabadon's Deathcap"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Phase Rush", "primary": ["Manaflow Band","Transcendence","Waterwalking"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "La invade y mata antes de que despegue", "en": "Invades and kills her before she takes off" },
+          { "name": "Vi", "es": "Ult cancela su escapatoria", "en": "Ult cancels her escape" },
+          { "name": "Kha'Zix", "es": "La aísla y assassina fácilmente", "en": "Isolates and assassinates her easily" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Sleep de Lillia agrupa para la ball", "en": "Lillia's sleep groups enemies for the ball" },
+          { "name": "Miss Fortune", "es": "Bullet Time sobre sleeping enemies = ganada", "en": "Bullet Time on sleeping enemies = won" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lissandra", "img": "lissandra",
+    "roles": [
+      {
+        "role": "mid", "tier": "a",
+        "why": { "es": "CC masivo en múltiples habilidades, roam excelente con ult, puede autoinmunizarse. Fuerte en teamfights largas.", "en": "Massive CC on multiple abilities, excellent ult roam, can self-immunize. Strong in extended teamfights." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Rod of Ages","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resistencia mágica la hace ineficiente", "en": "Magic resistance makes her inefficient" },
+          { "name": "Fizz", "es": "E esquiva su E y la outplay", "en": "E dodges her E and outplays her" },
+          { "name": "Katarina", "es": "Después de su ult entra y la mata", "en": "After her ult she enters and kills her" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Doble ult de CC = teamfight imbatible", "en": "Double CC ult = unbeatable teamfight" },
+          { "name": "Caitlyn", "es": "CC facilita headshots de Caitlyn", "en": "CC facilitates Caitlyn's headshots" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lulu", "img": "lulu",
+    "roles": [
+      {
+        "role": "sup", "tier": "b",
+        "why": { "es": "Enchanters nerfed en 6.3f reducen su valor. Aún buena protegiendo hypercarries como Kog'Maw o Vayne.", "en": "Enchanters nerfed in 6.3f reduce her value. Still good protecting hypercarries like Kog'Maw or Vayne." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Ardent Censer","Redemption"], "sit": ["Staff of Flowing Water","Knight's Vow"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Leona", "es": "Engage antes de que ella pueda polymorph", "en": "Engages before she can polymorph" },
+          { "name": "Nautilus", "es": "CC instantáneo la supera", "en": "Instant CC outperforms her" },
+          { "name": "Blitzcrank", "es": "Hook al carry de manera inesperada", "en": "Hooks the carry unexpectedly" }
+        ],
+        "synergies": [
+          { "name": "Tristana", "es": "Ult de Lulu sobre Tristana en teamfight es imbatible", "en": "Lulu's ult on Tristana in teamfight is unbeatable" },
+          { "name": "Vayne", "es": "Ult + invisibilidad de Vayne = combo imposible de countear", "en": "Ult + Vayne invisibility = nearly impossible combo to counter" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Malphite", "img": "malphite",
+    "roles": [
+      {
+        "role": "top", "tier": "ss", "wr": "53.0%",
+        "why": { "es": "El mayor winrate de top. Ult de teamfight instantáneo, resistente a AD. Buffed en 6.3c.", "en": "Highest winrate in top lane. Instant teamfight ult, AD-resistant. Buffed in 6.3c." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "Build AP hace su ult un one-shot. Alternativa full tank: Sunfire + Frostfire + Warmog's.", "en": "AP build makes his ult a one-shot. Full tank alternative: Sunfire + Frostfire + Warmog's." },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Vladimir", "es": "AP ignora su armor pasiva, lo drena desde lejos", "en": "AP ignores his armor passive, drains from range" },
+          { "name": "Kennen", "es": "Poke constante y movilidad para evitar el ult", "en": "Constant poke and mobility to dodge the ult" },
+          { "name": "Mordekaiser", "es": "Lo aísla en su ult y lo destruye con magia", "en": "Isolates him in his ult and destroys him with magic" }
+        ],
+        "synergies": [
+          { "name": "Yasuo", "es": "Ult knockup activa el ult de Yasuo perfectamente", "en": "Knockup ult perfectly activates Yasuo's ult" },
+          { "name": "Orianna", "es": "Ball + ult en el mismo grupo = teamfight ganada", "en": "Ball + ult on the same group = teamfight won" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Master Yi", "img": "master-yi",
+    "roles": [
+      {
+        "role": "jgl", "tier": "c",
+        "why": { "es": "Nerfed en 7.0c (Alpha Strike CD aumentado). Las teamfights caóticas del meta lo destruyen.", "en": "Nerfed in 7.0c (Alpha Strike CD increased). The chaotic teamfights of the meta destroy him." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Wit's End","Terminus"], "sit": ["Guinsoo's Rageblade"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Vi", "es": "Ult lo pincha durante su Q de invulnerabilidad", "en": "Ult pins him during his Q invulnerability" },
+          { "name": "Jax", "es": "Counter Strike bloquea todos sus autos", "en": "Counter Strike blocks all his autos" },
+          { "name": "Lee Sin", "es": "Lo kickea lejos del carry en teamfight", "en": "Kicks him away from the carry in teamfight" }
+        ],
+        "synergies": [
+          { "name": "Lulu", "es": "Ult de Lulu sobre Yi en teamfight es devastador", "en": "Lulu's ult on Yi in teamfight is devastating" },
+          { "name": "Nami", "es": "Speedboost hace a Yi aún más rápido", "en": "Speedboost makes Yi even faster" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mel", "img": "mel",
+    "roles": [
+      {
+        "role": "mid", "tier": "b",
+        "why": { "es": "Nerfed en 7.1 y 7.1d (daño, reflect y root reducidos). Interesante pero dependiente de reflejar habilidades.", "en": "Nerfed in 7.1 and 7.1d (damage, reflect and root reduced). Interesting but dependent on reflecting abilities." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Zed", "es": "W sombra evita el reflect — la mata sin costo", "en": "Shadow W avoids the reflect — kills her costlessly" },
+          { "name": "Katarina", "es": "Movilidad evita sus proyectiles", "en": "Mobility avoids her projectiles" },
+          { "name": "Kassadin", "es": "Resiste su AP y la gana en late", "en": "Resists her AP and beats her in late" }
+        ],
+        "synergies": [
+          { "name": "Nautilus", "es": "Hook + root de Mel = CC letal en lane", "en": "Hook + Mel root = lethal lane CC" },
+          { "name": "Caitlyn", "es": "Root de Mel facilita headshots de Caitlyn", "en": "Mel root enables Caitlyn's headshots" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Miss Fortune", "img": "miss-fortune",
+    "roles": [
+      {
+        "role": "adc", "tier": "a",
+        "why": { "es": "Nerfed en 6.3f. Bullet Time sigue siendo el teamfight ult más impactante del rol. Fuerte con enchanters.", "en": "Nerfed in 6.3f. Bullet Time is still the most impactful teamfight ult in the role. Strong with enchanters." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Infinity Edge","Lord Dominik's"], "sit": ["Bloodthirster","Serpent's Fang"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Xayah", "es": "Ult la hace invulnerable durante Bullet Time", "en": "Ult makes her invulnerable during Bullet Time" },
+          { "name": "Ezreal", "es": "Blink escapa de su canal de ult", "en": "Blink escapes her ult channel" },
+          { "name": "Tristana", "es": "Jump escapa del canal y la punishea", "en": "Jump escapes the channel and punishes her" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Bullet Time sobre el grupo del ult de Amumu = GG", "en": "Bullet Time on Amumu's ult group = GG" },
+          { "name": "Lillia", "es": "Bullet Time sobre sleeping enemies = ganada", "en": "Bullet Time on sleeping enemies = won" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nami", "img": "nami",
+    "roles": [
+      {
+        "role": "sup", "tier": "ss",
+        "why": { "es": "Combina heal, CC masivo (bubble) y speedboost. Sobrevivió los nerfs de enchanters por sus CC invaluables.", "en": "Combines heal, massive CC (bubble) and speedboost. Survived enchanter nerfs because her CCs are invaluable." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Staff of Flowing Water","Redemption"], "sit": ["Knight's Vow","Ardent Censer"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Blitzcrank", "es": "Hook la saca de posición antes de actuar", "en": "Hook removes her from position before she acts" },
+          { "name": "Leona", "es": "CC instantáneo la cancela en laning", "en": "Instant CC cancels her in laning" },
+          { "name": "Thresh", "es": "Hook + lantern le gana en duelo de posición", "en": "Hook + lantern beats her in positional duel" }
+        ],
+        "synergies": [
+          { "name": "Tristana", "es": "Speedboost + heal hace a Tristana imparable", "en": "Speedboost + heal makes Tristana unstoppable" },
+          { "name": "Xayah", "es": "Ult de Nami facilita que Xayah acumule plumas", "en": "Nami's ult makes it easy for Xayah to stack feathers" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nasus", "img": "nasus",
+    "roles": [
+      {
+        "role": "top", "tier": "c",
+        "why": { "es": "Nerfed en 7.0c. El meta de presión temprana no le da tiempo de acumular stacks.", "en": "Nerfed in 7.0c. The early pressure meta doesn't give him time to stack." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sunfire Aegis","Warmog's Armor"], "sit": ["Sterak's Gage"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Grasp of the Undying", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Darius", "es": "Lo domina en lane y no lo deja farmear", "en": "Dominates him in lane and denies farm" },
+          { "name": "Renekton", "es": "Early aplasta antes de que acumule stacks", "en": "Early game crushes him before he can stack" },
+          { "name": "Teemo", "es": "Blind bloquea sus autos de farmeo", "en": "Blind blocks his farming autos" }
+        ],
+        "synergies": [
+          { "name": "Janna", "es": "Peel de Janna permite que Nasus farmee sin interrupciones", "en": "Janna's peel lets Nasus farm without interruption" },
+          { "name": "Zilean", "es": "Revive asegura que Nasus llegue al late game", "en": "Revive ensures Nasus reaches late game" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nautilus", "img": "nautilus",
+    "roles": [
+      {
+        "role": "sup", "tier": "ss",
+        "why": { "es": "Hook de largo alcance + CC en cadena. Garantiza kills desde nivel 2. El engage support más confiable.", "en": "Long-range hook + chain CC. Guarantees kills from level 2. The most reliable engage support." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Sunfire Aegis","Warmog's Armor"], "sit": ["Knight's Vow","Redemption"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Nami", "es": "Bubble lo para antes de hookar", "en": "Bubble stops him before he can hook" },
+          { "name": "Braum", "es": "E bloquea su gancho completamente", "en": "E completely blocks his hook" },
+          { "name": "Janna", "es": "W y ult lo separan del carry", "en": "W and ult separate him from the carry" }
+        ],
+        "synergies": [
+          { "name": "Caitlyn", "es": "Hook + trampa de Caitlyn = snare permanente", "en": "Hook + Caitlyn trap = permanent snare" },
+          { "name": "Orianna", "es": "Hook al carry hacia la ball = teamfight ganada", "en": "Hook carry toward the ball = teamfight won" }
+        ]
+      },
+      {
+        "role": "jgl", "tier": "c",
+        "why": { "es": "Viable en jungle con claro decente y ganks brutales, pero los junglers del meta tienen más presencia e impacto.", "en": "Viable in jungle with decent clear and brutal ganks, but meta junglers have more presence and impact." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Warmog's Armor","Frostfire Gauntlet"], "sit": ["Gargoyle Stoneplate","Thornmail"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo invade y lo mata early sin problema", "en": "Invades and kills him early without issue" },
+          { "name": "Hecarim", "es": "Mucho más rápido en el mapa", "en": "Much faster across the map" },
+          { "name": "Wukong", "es": "Lo supera en claro y teamfight", "en": "Outclears and outperforms in teamfight" }
+        ],
+        "synergies": [
+          { "name": "Caitlyn", "es": "Gank de Nautilus + trampa de Caitlyn = kill garantizada", "en": "Nautilus gank + Caitlyn trap = guaranteed kill" },
+          { "name": "Orianna", "es": "Hook al carry hacia la ball = teamfight ganada", "en": "Hook carry toward the ball = teamfight won" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nidalee", "img": "nidalee",
+    "roles": [
+      {
+        "role": "jgl", "tier": "b",
+        "why": { "es": "Nerfed en 7.0a y 6.3e. Excelente en manos expertas pero punisheable y muy dependiente de jabalinas.", "en": "Nerfed in 7.0a and 6.3e. Excellent in skilled hands but punishable and very dependent on spears." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Liandry's Torment","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Dark Harvest", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Lee Sin", "es": "La invade y mata early sin respuesta", "en": "Invades and kills her early without any response" },
+          { "name": "Wukong", "es": "La supera en teamfight final", "en": "Outperforms in the final teamfight" },
+          { "name": "Vi", "es": "Ult durante su forma de cougar = kill garantizada", "en": "Ult during cougar form = guaranteed kill" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Poke de Nidalee + CC de Orianna = kill garantizada", "en": "Nidalee poke + Orianna CC = guaranteed kill" },
+          { "name": "Caitlyn", "es": "Trampa de Caitlyn facilita el catch de Nidalee", "en": "Caitlyn trap makes Nidalee's catch easier" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Norra", "img": "norra",
+    "roles": [
+      {
+        "role": "sup", "tier": "a",
+        "why": { "es": "Nerfed en 7.0c y 7.0d pero sigue siendo alta utilidad. Portales únicos y CC de distancia.", "en": "Nerfed in 7.0c and 7.0d but still high utility. Unique portals and ranged CC." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Redemption","Staff of Flowing Water"], "sit": ["Knight's Vow","Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Leona", "es": "Engage antes de que coloque portales", "en": "Engages before she places portals" },
+          { "name": "Blitzcrank", "es": "Hook la saca de posición", "en": "Hook removes her from position" },
+          { "name": "Nautilus", "es": "CC masivo que no puede responder", "en": "Massive CC she can't respond to" }
+        ],
+        "synergies": [
+          { "name": "Tristana", "es": "Portales dan a Tristana movilidad extra en teamfight", "en": "Portals give Tristana extra mobility in teamfight" },
+          { "name": "Kai'Sa", "es": "Portal facilita el ult de Kai'Sa en teamfight", "en": "Portal facilitates Kai'Sa's ult in teamfight" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Orianna", "img": "orianna",
+    "roles": [
+      {
+        "role": "mid", "tier": "ss",
+        "why": { "es": "Sin nerfs en toda la era 7.x. Teamfight definitiva, poke constante, shield y speedboost. La opción más segura de mid.", "en": "No nerfs in the entire 7.x era. Definitive teamfight, constant poke, shield and speedboost. The safest mid pick." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "Luden's para poke en lane. Zhonya si hay dive hacia ti.", "en": "Luden's for lane poke. Zhonya if they dive you." },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "La outscalea post-6 y la mata en 1 combo", "en": "Outscales her post-6 and kills her in 1 combo" },
+          { "name": "Katarina", "es": "Movilidad escapa de su control de ball", "en": "Mobility escapes her ball control" },
+          { "name": "Fizz", "es": "E esquiva la ball y le permite entrar", "en": "E dodges the ball and lets him close range" }
+        ],
+        "synergies": [
+          { "name": "Lee Sin", "es": "Insec al carry hacia la ball = teamfight ganada", "en": "Insec carry toward the ball = teamfight won" },
+          { "name": "Malphite", "es": "Ult knockup + ball en el centro = daño masivo", "en": "Knockup ult + ball in the center = massive damage" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ornn", "img": "ornn",
+    "roles": [
+      {
+        "role": "top", "tier": "ss", "wr": "51.4%",
+        "why": { "es": "Tank definitivo que forja items para el equipo y tiene CC masivo. Escala independientemente del gold.", "en": "Definitive tank who forges items for the team with massive CC. Scales independently of gold." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Frostfire Gauntlet","Warmog's Armor"], "sit": ["Gargoyle Stoneplate","Force of Nature"] },
+        "buildNote": { "es": "No necesita AD — su pasiva le da stats gratis al forjar.", "en": "Doesn't need AD — his passive gives free stats when forging." },
+        "runes": { "key": "Grasp of the Undying", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Vayne", "es": "Daño verdadero % HP lo destroza", "en": "True damage % HP destroys him" },
+          { "name": "Fiora", "es": "Verdadero daño en vitales lo drena en split push", "en": "True damage on vitals drains him in split push" },
+          { "name": "Vladimir", "es": "Ignora su armor/MR con AP y lo kite", "en": "Ignores his armor/MR with AP and kites him" }
+        ],
+        "synergies": [
+          { "name": "Yasuo", "es": "Ult knockup activa el ult de Yasuo", "en": "Knockup ult activates Yasuo's ult" },
+          { "name": "Lee Sin", "es": "Insec al carry hacia Ornn = kill garantizada", "en": "Insec carry toward Ornn = guaranteed kill" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rammus", "img": "rammus",
+    "roles": [
+      {
+        "role": "jgl", "tier": "c",
+        "why": { "es": "Nerfed en 7.1b. Solo funciona contra comps full AD. Demasiado dependiente del matchup rival.", "en": "Nerfed in 7.1b. Only works against full AD comps. Too dependent on enemy team matchup." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Warmog's Armor","Thornmail"], "sit": ["Gargoyle Stoneplate"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lillia", "es": "Daño mágico % HP lo ignora completamente", "en": "% HP magic damage ignores him completely" },
+          { "name": "Viego", "es": "AP damage en posesión lo destruye", "en": "AP damage while possessing destroys him" },
+          { "name": "Wukong", "es": "Mixed damage lo supera en teamfight", "en": "Mixed damage outperforms in teamfight" }
+        ],
+        "synergies": [
+          { "name": "Caitlyn", "es": "CC de Rammus facilita headshots de Caitlyn", "en": "Rammus CC enables Caitlyn's headshots" },
+          { "name": "Jinx", "es": "Rammus tantea para que Jinx dispare libremente", "en": "Rammus tanks so Jinx shoots freely" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rell", "img": "rell",
+    "roles": [
+      {
+        "role": "sup", "tier": "s",
+        "why": { "es": "Buffed en 7.0c y 7.0d (base stats, cooldowns). Engage masivo, tankea mucho. La support más en alza del meta.", "en": "Buffed in 7.0c and 7.0d (base stats, cooldowns). Massive engage, tanks a lot. The most rising support in the meta." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Sunfire Aegis","Frostfire Gauntlet"], "sit": ["Knight's Vow","Warmog's Armor"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Nami", "es": "Bubble la para antes del engage", "en": "Bubble stops her before the engage" },
+          { "name": "Janna", "es": "Ult separa a su equipo del impacto del engage", "en": "Ult separates her team from the engage impact" },
+          { "name": "Thresh", "es": "Pull la descoloca y le gana en posición", "en": "Pull displaces her and beats her in position" }
+        ],
+        "synergies": [
+          { "name": "Xayah", "es": "Rell tantea mientras Xayah acumula plumas libremente", "en": "Rell tanks while Xayah stacks feathers freely" },
+          { "name": "Orianna", "es": "Ult magnético de Rell agrupa para la ball", "en": "Rell's magnetic ult groups for Orianna's ball" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Renekton", "img": "renekton",
+    "roles": [
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Nerfed en 7.1 y 7.1b. Fuerte early pero no escala — necesita ganar lane para impactar.", "en": "Nerfed in 7.1 and 7.1b. Strong early but doesn't scale — needs to win lane to have impact." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Black Cleaver","Sterak's Gage","Dead Man's Plate"], "sit": ["Overlord's Bloodmail"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "Tankea todo su early y lo destruye en teamfight", "en": "Tanks his early and destroys him in teamfight" },
+          { "name": "Ornn", "es": "Lo supera en escala completamente", "en": "Completely outscales him" },
+          { "name": "Nasus", "es": "Ignorarlo = perder late inevitable", "en": "Ignoring him = inevitable late game loss" }
+        ],
+        "synergies": [
+          { "name": "Leona", "es": "CC de Leona permite que Renekton golpee libremente", "en": "Leona's CC lets Renekton hit freely" },
+          { "name": "Nautilus", "es": "Hook garantiza que Renekton llegue al carry", "en": "Hook guarantees Renekton reaches the carry" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Riven", "img": "riven",
+    "roles": [
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Nerfed en 7.1d (pasiva ratio reducido). Split push viable con alta curva de habilidad.", "en": "Nerfed in 7.1d (passive ratio reduced). Viable split pusher with high skill curve." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Black Cleaver","Sterak's Gage","Death's Dance"], "sit": ["Ravenous Hydra","Maw of Malmortius"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Legend: Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "La detiene en seco con CC instantáneo", "en": "Stops her cold with instant CC" },
+          { "name": "Pantheon", "es": "Bloquea casi todo su kit", "en": "Blocks most of her kit" },
+          { "name": "Sion", "es": "La tanquea completamente y le gana en CC masivo", "en": "Tanks everything and beats her with massive CC" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ball en el dive de Riven = AoE combinado devastador", "en": "Ball on Riven's dive = devastating combined AoE" },
+          { "name": "Lulu", "es": "Ult hace a Riven gigante en el engage", "en": "Ult makes Riven giant during engage" }
+        ]
+      },
+      {
+        "role": "jgl", "tier": "c",
+        "why": { "es": "Viable en jungle pero el claro es lento y los nerfs recientes reducen su impacto. Solo si dominas el kit.", "en": "Viable in jungle but clear is slow and recent nerfs reduce her impact. Only if you master the kit." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Black Cleaver","Sterak's Gage","Death's Dance"], "sit": ["Ravenous Hydra"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "La invade y la supera en movilidad", "en": "Invades and outplays in mobility" },
+          { "name": "Wukong", "es": "La supera en claro y teamfight", "en": "Outclears and outperforms in teamfight" },
+          { "name": "Vi", "es": "Ult la pincha en mitad de sus combos", "en": "Ult pins her mid-combo" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Riven invade y Orianna cierra con ball", "en": "Riven invades and Orianna closes with ball" },
+          { "name": "Caitlyn", "es": "Riven divide el mapa para que Caitlyn poke segura", "en": "Riven splits the map so Caitlyn can poke safely" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shyvana", "img": "shyvana",
+    "roles": [
+      {
+        "role": "jgl", "tier": "b",
+        "why": { "es": "Nerfed en 7.1 y 6.3d (movilidad dragon form reducida). Escala bien a late pero el early es débil.", "en": "Nerfed in 7.1 and 6.3d (dragon form mobility reduced). Scales well to late but early is weak." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Kraken Slayer","Trinity Force","Sterak's Gage"], "sit": ["Death's Dance","Wit's End"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "La domina completamente en early con invades", "en": "Completely dominates her early with invades" },
+          { "name": "Vi", "es": "Ult la cancela en mitad de su dive de dragon", "en": "Ult cancels her mid-dragon dive" },
+          { "name": "Kha'Zix", "es": "La aísla y mata fácilmente antes de nivel 6", "en": "Isolates and kills her easily before level 6" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Shyvana tantea en dragon form mientras Orianna daña", "en": "Shyvana tanks in dragon form while Orianna deals damage" },
+          { "name": "Nami", "es": "Speedboost facilita el engage de dragon form", "en": "Speedboost facilitates dragon form engage" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sion", "img": "sion",
+    "roles": [
+      {
+        "role": "top", "tier": "s", "wr": "50.1%",
+        "why": { "es": "Tank con CC brutal y ult de engage desde cualquier distancia. Puede congelar la línea para farmear stacks.", "en": "Tank with brutal CC and engage ult from any distance. Can freeze the lane to farm stacks." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Warmog's Armor","Frostfire Gauntlet"], "sit": ["Gargoyle Stoneplate","Force of Nature"] },
+        "buildNote": { "es": "Su pasiva escala con HP — Warmog's es obligatorio siempre.", "en": "His passive scales with total HP — Warmog's is always mandatory." },
+        "runes": { "key": "Grasp of the Undying", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Fiora", "es": "Parea su ult, mata su pasiva zombi", "en": "Parries his ult, kills his zombie passive" },
+          { "name": "Vayne", "es": "True damage % HP — su mayor debilidad", "en": "True damage % HP — his biggest weakness" },
+          { "name": "Vladimir", "es": "Outscalea y lo drena a distancia segura", "en": "Outscales and drains him from safe range" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ult de Sion agrupa para la ball", "en": "Sion's ult groups enemies for the ball" },
+          { "name": "Miss Fortune", "es": "Bullet Time con el grupo del ult de Sion es devastador", "en": "Bullet Time on Sion's ult group is devastating" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sivir", "img": "sivir",
+    "roles": [
+      {
+        "role": "adc", "tier": "s",
+        "why": { "es": "Buffed en 7.1d (+AD/lvl, Boomerang Blade mejorado). Wave clear suprema, spellshield para sobrevivir CC.", "en": "Buffed in 7.1d (+AD/lvl, Boomerang Blade improved). Supreme wave clear, spellshield to survive CC." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Ravenous Hydra","Infinity Edge"], "sit": ["Bloodthirster","Lord Dominik's"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Draven", "es": "Daño en early la aplasta antes de escalar", "en": "Early damage crushes her before scaling" },
+          { "name": "Caitlyn", "es": "Rango superior constantemente en lane", "en": "Constantly superior range in lane" },
+          { "name": "Miss Fortune", "es": "Double Up la supera en poke de lane", "en": "Double Up outperforms her in lane poke" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "On-hit de Sivir combea con speedboost de Orianna", "en": "Sivir's on-hit combos with Orianna's speedboost" },
+          { "name": "Nautilus", "es": "Hook facilita que el boomerang impacte", "en": "Hook makes it easy for the boomerang to connect" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skarner", "img": "skarner",
+    "roles": [
+      {
+        "role": "jgl", "tier": "b",
+        "why": { "es": "⚠️ Nuevo en 7.1 (fecha TBD). Tank/fighter con ult de imprison — arrastra a un rival. Sin datos de winrate aún — tier provisional.", "en": "⚠️ New in 7.1 (TBD). Tank/fighter with imprison ult — drags an enemy. No winrate data yet — provisional tier." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Sunfire Aegis","Warmog's Armor","Frostfire Gauntlet"], "sit": ["Knight's Vow","Gargoyle Stoneplate"] },
+        "buildNote": { "es": "Su ult escala con HP — Warmog's es obligatorio.", "en": "His ult scales with HP — Warmog's is mandatory." },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Quicksilver Enchant", "es": "Cancela su ult de imprison completamente (item clave)", "en": "Completely cancels his imprison ult (key item)" },
+          { "name": "Lee Sin", "es": "Lo invade y mata antes de que escale", "en": "Invades and kills him before he scales" },
+          { "name": "Wukong", "es": "Clone confunde su ult dirigido", "en": "Clone confuses his targeted ult" }
+        ],
+        "synergies": [
+          { "name": "Caitlyn", "es": "Skarner arrastra al carry hacia las trampas de Caitlyn", "en": "Skarner drags the carry into Caitlyn's traps" },
+          { "name": "Miss Fortune", "es": "Bullet Time sobre el objetivo arrastrado por Skarner = GG", "en": "Bullet Time on Skarner's dragged target = GG" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Smolder", "img": "smolder",
+    "roles": [
+      {
+        "role": "adc", "tier": "b",
+        "why": { "es": "Nerfed en 7.0a y 7.0f (dos veces). Requiere muchos stacks y escala lento. Viable en manos expertas.", "en": "Nerfed in 7.0a and 7.0f (twice). Requires many stacks and scales slowly. Viable in skilled hands." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Trinity Force","Kraken Slayer","Wit's End"], "sit": ["Immortal Shieldbow"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Fleet Footwork", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Draven", "es": "Early dominance no lo deja acumular stacks", "en": "Early dominance prevents him from stacking" },
+          { "name": "Caitlyn", "es": "Trampas impiden que farmee libre", "en": "Traps prevent him from farming freely" },
+          { "name": "Xayah", "es": "Ult sobre él cuando intenta pelear", "en": "Ult on him when he tries to fight" }
+        ],
+        "synergies": [
+          { "name": "Nami", "es": "Heal de Nami facilita que Smolder farmee stacks", "en": "Nami's heal makes it easier for Smolder to farm stacks" },
+          { "name": "Lulu", "es": "Peel de Lulu protege a Smolder mientras acumula stacks", "en": "Lulu's peel protects Smolder while stacking" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sona", "img": "sona",
+    "roles": [
+      {
+        "role": "sup", "tier": "d",
+        "why": { "es": "Enchanters nerfed. Sin CC instantáneo propia la hace vulnerable. Crescendo sigue siendo poderoso pero ella es frágil.", "en": "Enchanters nerfed. No own instant CC makes her vulnerable. Crescendo is still powerful but she's fragile." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Ardent Censer","Redemption"], "sit": ["Staff of Flowing Water"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Leona", "es": "Engage antes de que ella pueda actuar", "en": "Engages before she can act" },
+          { "name": "Nautilus", "es": "Hook la mata antes de Crescendo", "en": "Hook kills her before Crescendo" },
+          { "name": "Blitzcrank", "es": "Hook garantizado, muy fácil", "en": "Guaranteed hook, very easy" }
+        ],
+        "synergies": [
+          { "name": "Ashe", "es": "Slow de Ashe + Crescendo de Sona = CC masivo", "en": "Ashe's slow + Sona's Crescendo = massive CC" },
+          { "name": "Yasuo", "es": "Crescendo activa el ult de Yasuo perfectamente", "en": "Crescendo perfectly activates Yasuo's ult" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Soraka", "img": "soraka",
+    "roles": [
+      {
+        "role": "sup", "tier": "c",
+        "why": { "es": "Enchanters nerfed + meta de dive. Fácil de matar, sin CC de escape. Ignite la inutiliza completamente.", "en": "Enchanters nerfed + dive meta. Easy to kill, no escape CC. Ignite completely disables her." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Moonstone Renewer","Redemption","Staff of Flowing Water"], "sit": ["Knight's Vow"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Summon Aery", "primary": ["Manaflow Band","Transcendence","Revitalize"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Hecarim", "es": "Speed la alcanza, no puede escapar", "en": "Speed reaches her, she can't escape" },
+          { "name": "Ignite", "es": "Cancela toda su utilidad de curación", "en": "Cancels all her healing utility" },
+          { "name": "Leona", "es": "La CC y la mata antes de que cure", "en": "CCs and kills her before she can heal" }
+        ],
+        "synergies": [
+          { "name": "Ashe", "es": "Soraka cura mientras Ashe poke — lane segura", "en": "Soraka heals while Ashe pokes — safe lane" },
+          { "name": "Jinx", "es": "Healing global protege a Jinx en teamfights", "en": "Global healing protects Jinx in teamfights" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Swain", "img": "swain",
+    "roles": [
+      {
+        "role": "mid", "tier": "b",
+        "why": { "es": "Nerfed en 7.1b (AP ratio ult reducido). Aún tiene sustain y CC, pero ya no domina en teamfight.", "en": "Nerfed in 7.1b (ult AP ratio reduced). Still has sustain and CC, but no longer dominates in teamfight." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Demonic Embrace","Shadowflame"], "sit": ["Rabadon's Deathcap"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resistencia mágica y lo mata fácil post-6", "en": "Magic resistance and easily kills him post-6" },
+          { "name": "Zed", "es": "Lo asesina antes de que active su ult", "en": "Assassinates him before he activates his ult" },
+          { "name": "Katarina", "es": "Entra después de su CC y lo mata", "en": "Enters after his CC and kills him" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Ult de Amumu agrupa para el AoE de Swain", "en": "Amumu's ult groups for Swain's AoE" },
+          { "name": "Nautilus", "es": "Hook facilita que Swain agarre a los rivales", "en": "Hook makes it easy for Swain to grab enemies" }
+        ]
+      },
+      {
+        "role": "sup", "tier": "c",
+        "why": { "es": "Viable como support de poke y CC con su E, pero los nerfs de 7.1b lo debilitaron. Situacional.", "en": "Viable as poke and CC support with his E, but 7.1b nerfs weakened him. Situational." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Demonic Embrace","Zhonya's Hourglass"], "sit": ["Shadowflame"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Leona", "es": "Engage la aplasta antes de que actúe", "en": "Engage crushes him before he can act" },
+          { "name": "Nautilus", "es": "CC masivo que no puede responder", "en": "Massive CC he can't respond to" },
+          { "name": "Blitzcrank", "es": "Hook lo saca de posición inmediatamente", "en": "Hook immediately removes him from position" }
+        ],
+        "synergies": [
+          { "name": "Miss Fortune", "es": "Pull de Swain + Bullet Time = combo letal", "en": "Swain pull + Bullet Time = lethal combo" },
+          { "name": "Draven", "es": "Pull garantiza que Draven acumule hachas sobre el rival", "en": "Pull guarantees Draven can stack axes on the enemy" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Syndra", "img": "syndra",
+    "roles": [
+      {
+        "role": "mid", "tier": "ss",
+        "why": { "es": "Burst de largo alcance inmenso al maximizar estrellas. Una de las más confiables para rankear.", "en": "Immense long-range burst when maximizing spheres. One of the most reliable for ranked." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Void Staff","Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resiste su daño mágico con pasiva y la mata post-6", "en": "Resists her magic damage with passive and kills her post-6" },
+          { "name": "Fizz", "es": "E esquiva sus habilidades y la outplay", "en": "E dodges her abilities and outplays her" },
+          { "name": "Zed", "es": "La mata antes de que ella pueda responder", "en": "Kills her before she can respond" }
+        ],
+        "synergies": [
+          { "name": "Wukong", "es": "Ult doble + Syndra burst = combo definitivo", "en": "Double ult + Syndra burst = definitive combo" },
+          { "name": "Nautilus", "es": "Hook garantiza que las esferas impacten", "en": "Hook guarantees the spheres will connect" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Talon", "img": "talon",
+    "roles": [
+      {
+        "role": "mid", "tier": "a",
+        "why": { "es": "Buffed en 7.1b (claro AoE mejorado). Roams letales entre carriles. Excelente para snowball.", "en": "Buffed in 7.1b (improved AoE clear). Lethal lane roams. Excellent for snowball." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Duskblade","Edge of Night","Serpent's Fang"], "sit": ["Essence Reaver","Black Cleaver"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo supera en duelo 1v1 y lo kickea lejos", "en": "Outduels him 1v1 and kicks him away" },
+          { "name": "Vi", "es": "Ult lo pincha en mitad de sus escapes", "en": "Ult pins him mid-escape" },
+          { "name": "Wukong", "es": "Clone lo confunde y falla el burst", "en": "Clone confuses him and burst misses" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Talon roams y Orianna cierra con CC en teamfight", "en": "Talon roams and Orianna closes with CC in teamfight" },
+          { "name": "Syndra", "es": "Doble roam mid crea presión imposible de manejar", "en": "Double mid roam creates unmanageable pressure" }
+        ]
+      },
+      {
+        "role": "jgl", "tier": "a",
+        "why": { "es": "Buffed en 7.1b (claro AoE mejorado). Roams gankers entre carriles letales. Frágil si lo anticipan.", "en": "Buffed in 7.1b (improved AoE clear). Lethal ganking roams between lanes. Fragile if anticipated." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Duskblade","Edge of Night","Serpent's Fang"], "sit": ["Essence Reaver","Black Cleaver"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo supera en duelo 1v1", "en": "Outduels him 1v1" },
+          { "name": "Vi", "es": "Ult lo pincha en mitad de sus escapes con parkour", "en": "Ult pins him mid-parkour escape" },
+          { "name": "Wukong", "es": "Clone lo confunde al lanzar habilidades", "en": "Clone confuses him when using abilities" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Talon invade y Orianna cierra con ball", "en": "Talon invades and Orianna closes with ball" },
+          { "name": "Syndra", "es": "Doble amenaza de assassination", "en": "Double assassination threat" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taliyah", "img": "taliyah",
+    "roles": [
+      {
+        "role": "mid", "tier": "a",
+        "why": { "es": "⚠️ Nueva (May 15). Mage de control masivo con Weaver's Wall — ult que crea un muro atravesando el mapa. Sin historial de nerfs aún — tier provisional.", "en": "⚠️ New (May 15). Massive control mage with Weaver's Wall — ult that creates a wall across the map. No nerf history yet — provisional tier." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "Zhonya's esencial — surfa la pared y necesita sobrevivir el engage.", "en": "Zhonya's essential — she surfs the wall and needs to survive the engage." },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resiste su daño mágico y la mata post-6", "en": "Resists her magic damage and kills her post-6" },
+          { "name": "Zed", "es": "La asesina durante el canal de su ult", "en": "Assassinates her during her ult channel" },
+          { "name": "Lee Sin", "es": "Kick a Taliyah sobre su propia pared = death", "en": "Kick Taliyah over her own wall = death" }
+        ],
+        "synergies": [
+          { "name": "Vi", "es": "Vi pinna al carry mientras Taliyah coloca la pared", "en": "Vi pins the carry while Taliyah places the wall" },
+          { "name": "Caitlyn", "es": "Pared divide el mapa para que Caitlyn poke segura", "en": "Wall splits the map so Caitlyn pokes from safety" }
+        ]
+      },
+      {
+        "role": "jgl", "tier": "b",
+        "why": { "es": "⚠️ Nueva. También viable en jungle con claro decente. Weaver's Wall desde jungle crea ganks globales únicos.", "en": "⚠️ New. Also viable in jungle with decent clear. Weaver's Wall from jungle creates unique global ganks." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Dark Harvest", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Lee Sin", "es": "La invade y mata early sin que pueda responder", "en": "Invades and kills her early without response" },
+          { "name": "Hecarim", "es": "Más rápido, le roba objetivos sin problema", "en": "Faster, steals objectives without issue" },
+          { "name": "Vi", "es": "Ult la cancela durante el canal del muro", "en": "Ult cancels her during the wall channel" }
+        ],
+        "synergies": [
+          { "name": "Caitlyn", "es": "Taliyah divide el mapa con el muro para que Caitlyn poke segura", "en": "Taliyah splits the map with the wall so Caitlyn pokes safely" },
+          { "name": "Orianna", "es": "Wall cierra el teamfight, Orianna remata con ball", "en": "Wall closes the teamfight, Orianna finishes with ball" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Teemo", "img": "teemo",
+    "roles": [
+      {
+        "role": "top", "tier": "c",
+        "why": { "es": "Nerfed en 6.3e y 7.1b. Vision control único pero cae ante las comps de dive del meta actual.", "en": "Nerfed in 6.3e and 7.1b. Unique vision control but falls to the dive comps in the current meta." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Liandry's Torment","Shadowflame","Demonic Embrace"], "sit": ["Rabadon's Deathcap"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "Tankea su veneno, ult llega sin que los shrooms avisen", "en": "Tanks his poison, ult arrives without shrooms warning" },
+          { "name": "Ambessa", "es": "Entra con dashes antes de que Teemo pueda kite", "en": "Dashes in before Teemo can kite" },
+          { "name": "Mordekaiser", "es": "Lo aísla 1v1 y lo mata sin problema", "en": "Isolates him 1v1 and kills him easily" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ball sobre sus shrooms crea zonas de control masivas", "en": "Ball over his shrooms creates massive control zones" },
+          { "name": "Miss Fortune", "es": "Bullet Time sobre shrooms es difícil de evitar", "en": "Bullet Time over shrooms is hard to avoid" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thresh", "img": "thresh",
+    "roles": [
+      {
+        "role": "sup", "tier": "s",
+        "why": { "es": "Versátil: hookea, protege con lantern y separa con ult. Sin nerfs recientes. El support más universal.", "en": "Versatile: hooks, protects with lantern and separates with ult. No recent nerfs. The most universal support." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Locket of the Iron Solari","Warmog's Armor","Redemption"], "sit": ["Knight's Vow","Dead Man's Plate"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Aftershock", "primary": ["Demolish","Conditioning","Overgrowth"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Blitzcrank", "es": "Hook más rápido y lo supera en iniciación", "en": "Faster hook and beats him in initiation" },
+          { "name": "Nautilus", "es": "CC más largo y tankea mucho más", "en": "Longer CC and tanks much more" },
+          { "name": "Braum", "es": "E bloquea su gancho antes de que impacte", "en": "E blocks his hook before it connects" }
+        ],
+        "synergies": [
+          { "name": "Jhin", "es": "Hook facilita todas las trampas de Jhin", "en": "Hook facilitates all of Jhin's traps" },
+          { "name": "Kai'Sa", "es": "Lantern da a Kai'Sa escapatoria segura tras su ult dive", "en": "Lantern gives Kai'Sa a safe escape after her ult dive" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tristana", "img": "tristana",
+    "roles": [
+      {
+        "role": "adc", "tier": "s",
+        "why": { "es": "Buffed en 7.0f y 7.1d. Rango que crece con nivel = late game brutal e imparable.", "en": "Buffed in 7.0f and 7.1d. Range grows with level = brutal and unstoppable late game." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Immortal Shieldbow","Infinity Edge"], "sit": ["Bloodthirster","Phantom Dancer"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Caitlyn", "es": "Supera su rango completamente en early lane", "en": "Completely outranges her in early lane" },
+          { "name": "Draven", "es": "La aplasta en early con daño bruto", "en": "Crushes her early with raw damage" },
+          { "name": "Jhin", "es": "W la atrapa durante el jump", "en": "W often catches her during the jump" }
+        ],
+        "synergies": [
+          { "name": "Lulu", "es": "Ult de Lulu sobre Tristana en teamfight es imbatible", "en": "Lulu's ult on Tristana in teamfight is unbeatable" },
+          { "name": "Nami", "es": "Speedboost + ult facilitan el poke de Tristana", "en": "Speedboost + ult facilitate Tristana's poke" }
+        ]
+      },
+      {
+        "role": "mid", "tier": "b",
+        "why": { "es": "Viable en mid como carry de dive, pero sin waveclear de mage en early la hace más difícil en lane.", "en": "Viable in mid as a dive carry, but without mage waveclear in early makes laning harder." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Immortal Shieldbow","Infinity Edge"], "sit": ["Phantom Dancer","Bloodthirster"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "La outscalea y la mata post-6", "en": "Outscales and kills her post-6" },
+          { "name": "Orianna", "es": "Ball la atrapa cuando hace el jump", "en": "Ball catches her when she jumps" },
+          { "name": "Syndra", "es": "Poke desde lejos antes de que escale", "en": "Pokes from range before she scales" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Ult agrupa para que Tristana haga daño masivo", "en": "Ult groups enemies for Tristana to deal massive damage" },
+          { "name": "Vi", "es": "Vi pinna al carry para que Tristana haga el combo", "en": "Vi pins the carry so Tristana can combo" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twisted Fate", "img": "twisted-fate",
+    "roles": [
+      {
+        "role": "mid", "tier": "d",
+        "why": { "es": "Bajo daño, único valor es el global con ult que es visible. Muy fácil de counterpickear en el meta actual.", "en": "Low damage, only value is the global ult which is visible. Very easy to counterpick in the current meta." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "Lo mata desde muy temprano", "en": "Kills him from very early" },
+          { "name": "Zed", "es": "Lo asesina antes de que actúe", "en": "Assassinates him before he can act" },
+          { "name": "Lee Sin gank", "es": "Gank temprano repetitivo muy efectivo", "en": "Very effective repeated early ganks" }
+        ],
+        "synergies": [
+          { "name": "Vi", "es": "Vi pinna para que TF use la carta de oro gratis", "en": "Vi pins so TF can use gold card for free" },
+          { "name": "Miss Fortune", "es": "Ult global de TF facilita que MF ulte en otro carril", "en": "TF's global ult enables MF to ult in another lane" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Urgot", "img": "urgot",
+    "roles": [
+      {
+        "role": "top", "tier": "a",
+        "why": { "es": "Buffed en 7.1d (+4 AD base, Echoing Flames mejorado). Tanque-bruiser sólido desde nivel 6, ult de ejecución.", "en": "Buffed in 7.1d (+4 base AD, Echoing Flames improved). Solid tank-bruiser from level 6, execute ult." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Sunfire Aegis"], "sit": ["Warmog's Armor","Overlord's Bloodmail"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Darius", "es": "Lo supera en trade corto antes de nivel 6", "en": "Wins short trades before level 6" },
+          { "name": "Sion", "es": "Lo tanquea todo y le supera en CC de teamfight", "en": "Tanks everything and beats him in teamfight CC" },
+          { "name": "Malphite", "es": "Interrumpe su ult con el propio ult instantáneo", "en": "Interrupts his ult with his own instant ult" }
+        ],
+        "synergies": [
+          { "name": "Vi", "es": "Vi pinna al carry para que Urgot lo ejecute", "en": "Vi pins the carry so Urgot can execute" },
+          { "name": "Thresh", "es": "Hook acerca al rival al rango de Urgot", "en": "Hook brings the enemy into Urgot's range" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Varus", "img": "varus",
+    "roles": [
+      {
+        "role": "adc", "tier": "c",
+        "why": { "es": "Buffed en 7.1b pero predecible. Su CC de ult es bueno pero el daño no compite con SS tier.", "en": "Buffed in 7.1b but predictable. His ult CC is good but damage doesn't compete with SS tier." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Wit's End","Guinsoo's Rageblade"], "sit": ["Terminus","Runaan's Hurricane"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Draven", "es": "Lo supera en daño bruto completamente", "en": "Completely outperforms him in raw damage" },
+          { "name": "Ezreal", "es": "Blink esquiva sus Chains fácilmente", "en": "Blink easily dodges his Chains" },
+          { "name": "Xayah", "es": "Ult niega su ult chain", "en": "Ult negates his ult chain" }
+        ],
+        "synergies": [
+          { "name": "Malphite", "es": "Chains de Varus + ult de Malphite = CC masivo en teamfight", "en": "Varus Chains + Malphite ult = massive teamfight CC" },
+          { "name": "Ornn", "es": "Varus poke facilita el engage de Ornn", "en": "Varus poke facilitates Ornn's engage" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vayne", "img": "vayne",
+    "roles": [
+      {
+        "role": "adc", "tier": "a",
+        "why": { "es": "Nerfed en 7.0a y 7.1d (true dmg y AS reducidos). Sigue destruyendo tanques pero más lenta. Viable con buen peel.", "en": "Nerfed in 7.0a and 7.1d (true dmg and AS reduced). Still destroys tanks but slower. Viable with good peel." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Wit's End","Guinsoo's Rageblade"], "sit": ["Bloodthirster","Immortal Shieldbow"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Caitlyn", "es": "Rango superior la destroza en lane", "en": "Superior range completely destroys her in lane" },
+          { "name": "Draven", "es": "Early damage la aplasta antes de escalar", "en": "Early damage crushes her before scaling" },
+          { "name": "Jhin", "es": "W la atrapa cuando intenta el Tumble", "en": "W catches her when she tries to Tumble" }
+        ],
+        "synergies": [
+          { "name": "Lulu", "es": "Ult + invisibilidad de Vayne = combo imbatible", "en": "Ult + Vayne invisibility = unbeatable combo" },
+          { "name": "Nautilus", "es": "Hook facilita que Vayne acumule silver bolts", "en": "Hook makes it easy for Vayne to stack silver bolts" }
+        ]
+      },
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Vayne top es una opción de hard carry contra composiciones de tanques. Difícil de manejar en lane pero devastadora vs tanques.", "en": "Vayne top is a hard carry option against tank compositions. Hard to manage in lane but devastating vs tanks." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Wit's End","Guinsoo's Rageblade"], "sit": ["Immortal Shieldbow","Bloodthirster"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Darius", "es": "La aplasta en lane completamente con bleed + pull", "en": "Completely crushes her in lane with bleed + pull" },
+          { "name": "Renekton", "es": "Early puro la destruye antes de que escale", "en": "Pure early game destroys her before she scales" },
+          { "name": "Garen", "es": "La aplasta en lane con W regen y spin", "en": "Crushes her in lane with W regen and spin" }
+        ],
+        "synergies": [
+          { "name": "Janna", "es": "Peel de Janna protege a Vayne de la agresión rival en top", "en": "Janna's peel protects Vayne from enemy aggression in top" },
+          { "name": "Nautilus", "es": "Hook facilita que Vayne apile silver bolts cómodamente", "en": "Hook helps Vayne stack silver bolts comfortably" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vi", "img": "vi",
+    "roles": [
+      {
+        "role": "jgl", "tier": "s", "wr": "50.4%",
+        "why": { "es": "Ult de lock-on que no puede esquivarse. Ideal para deshabilitar ADCs. Combina perfecto con mages de teamfight.", "en": "Lock-on ult that can't be dodged. Ideal for disabling ADCs. Perfect combo with teamfight mages." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Black Cleaver"], "sit": ["Death's Dance","Warmog's Armor"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Wukong", "es": "Clone engaña su ult y la supera en teamfight", "en": "Clone fools her ult and outperforms in teamfight" },
+          { "name": "Lee Sin", "es": "La invade y gana en duelo temprano", "en": "Invades and wins early duels" },
+          { "name": "Quicksilver Enchant", "es": "Cancela su ult completamente (item clave)", "en": "Completely cancels her ult (key item)" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Vi pincha al carry en el centro de la ball = devastador", "en": "Vi pins the carry in the center of the ball = devastating" },
+          { "name": "Caitlyn", "es": "Vi ult + Caitlyn ult sobre el mismo objetivo = kill garantizada", "en": "Vi ult + Caitlyn ult on same target = guaranteed kill" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Viego", "img": "viego",
+    "roles": [
+      {
+        "role": "jgl", "tier": "ss", "wr": "53.2%",
+        "why": { "es": "Sin nerfs en 7.x. Posee a los enemigos que mata — extra outplay. Dueling 1v1 casi imposible de perder post-6.", "en": "No nerfs in 7.x. Possesses enemies he kills — extra outplay. 1v1 dueling almost impossible to lose post-6." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Kraken Slayer","Trinity Force","Sterak's Gage"], "sit": ["Wit's End","Death's Dance"] },
+        "buildNote": { "es": "Kraken Slayer nuevo (7.0d) es perfecto — on-hit en su combo.", "en": "New Kraken Slayer (7.0d) is perfect — on-hit in his combo." },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Early invade lo mata antes de que escale", "en": "Early invade kills him before he scales" },
+          { "name": "Wukong", "es": "Clone confunde la posesión y lo supera en teamfight", "en": "Clone confuses possession and outperforms in teamfight" },
+          { "name": "Vi", "es": "CC duro que interrumpe su combo de posesión", "en": "Hard CC interrupts his possession combo" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ball sobre el grupo permite posesiones masivas", "en": "Ball over the group enables massive possessions" },
+          { "name": "Nautilus", "es": "Hook garantiza que Viego llegue y empiece a poseer", "en": "Hook guarantees Viego reaches and starts possessing" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Viktor", "img": "viktor",
+    "roles": [
+      {
+        "role": "mid", "tier": "s",
+        "why": { "es": "Wave clear excelente, daño sostenido en teamfight. Su E+W es uno de los mejores combos de zona del juego.", "en": "Excellent wave clear, sustained teamfight damage. His E+W is one of the best zone combos in the game." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Void Staff","Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resistencia mágica lo hace ineficiente en lane", "en": "Magic resistance makes him inefficient in lane" },
+          { "name": "Zed", "es": "Lo asesina cuando usa W para poke", "en": "Assassinates him when he uses W for poke" },
+          { "name": "Talon", "es": "Le gana en lane y roams antes", "en": "Beats him in lane and roams first" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Ult de Amumu agrupa para el AoE de Viktor", "en": "Amumu's ult groups perfectly for Viktor's AoE" },
+          { "name": "Hecarim", "es": "Viktor ralentiza y Hecarim persigue", "en": "Viktor slows and Hecarim chases" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vladimir", "img": "vladimir",
+    "roles": [
+      {
+        "role": "top", "tier": "a",
+        "why": { "es": "Buffed en 7.1d (Armor +3, ratio AP→HP mejorado). Outscalea casi todo, sustain en lane, fuerte en teamfight.", "en": "Buffed in 7.1d (Armor +3, AP→HP ratio improved). Outscales almost everything, lane sustain, strong teamfight." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Shadowflame","Cosmic Drive"], "sit": ["Rabadon's Deathcap","Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Phase Rush", "primary": ["Manaflow Band","Transcendence","Waterwalking"], "secondary": "Nullifying Orb" },
+        "counters": [
+          { "name": "Mordekaiser", "es": "Lo aísla 1v1 con ult y lo mata sin escalar", "en": "Isolates him 1v1 with ult and kills him before scaling" },
+          { "name": "Ignite early", "es": "Reduce su sustain un 40%", "en": "Reduces his sustain by 40%" },
+          { "name": "Darius", "es": "Lo domina en los primeros 3 niveles", "en": "Dominates him in the first 3 levels" }
+        ],
+        "synergies": [
+          { "name": "Amumu", "es": "Ult agrupa para que Vladimir maximice su ult debilitador", "en": "Ult groups enemies for Vladimir to maximize his weakening ult" },
+          { "name": "Orianna", "es": "Ball + ult de Vlad en la misma zona = ganada", "en": "Ball + Vlad ult in the same zone = won" }
+        ]
+      },
+      {
+        "role": "mid", "tier": "a",
+        "why": { "es": "También viable en mid como scaler. Outscalea la mayoría de mages y puede roam con facilidad.", "en": "Also viable in mid as a scaler. Outscales most mages and can roam easily." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Riftmaker","Shadowflame","Rabadon's Deathcap"], "sit": ["Cosmic Drive","Zhonya's Hourglass"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Phase Rush", "primary": ["Manaflow Band","Transcendence","Waterwalking"], "secondary": "Nullifying Orb" },
+        "counters": [
+          { "name": "Kassadin", "es": "Lo aísla post-6 y lo mata", "en": "Isolates him post-6 and kills him" },
+          { "name": "Zed", "es": "Lo mata antes de que escale", "en": "Kills him before he scales" },
+          { "name": "Talon", "es": "Le gana en early lane completamente", "en": "Completely wins early lane against him" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Vlad ralentiza con ult y Hecarim persigue", "en": "Vlad slows with ult and Hecarim chases" },
+          { "name": "Orianna", "es": "Ult debilitador de Vlad + ball = burst masivo", "en": "Vlad's weakening ult + ball = massive burst" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Warwick", "img": "warwick",
+    "roles": [
+      {
+        "role": "jgl", "tier": "d",
+        "why": { "es": "Nerfed en 6.3c. Predecible, lento y el meta de burst lo destruye antes de que llegue al carry.", "en": "Nerfed in 6.3c. Predictable, slow, and burst meta destroys him before he reaches the carry." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Wit's End"], "sit": ["Death's Dance"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo kickea lejos del carry antes de que muerda", "en": "Kicks him away from the carry before he bites" },
+          { "name": "Vi", "es": "Ult interrumpe su ult fácilmente", "en": "Ult easily interrupts his ult" },
+          { "name": "Wukong", "es": "Clone absorbe su ult inicial", "en": "Clone absorbs his initial ult" }
+        ],
+        "synergies": [
+          { "name": "Lulu", "es": "Peel protege a Warwick durante su ult", "en": "Peel protects Warwick during his ult" },
+          { "name": "Caitlyn", "es": "Warwick pinna al carry para que Caitlyn lo ejecute", "en": "Warwick pins the carry so Caitlyn can execute" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wukong", "img": "wukong",
+    "roles": [
+      {
+        "role": "jgl", "tier": "ss", "wr": "55.4%",
+        "why": { "es": "El mayor winrate de todos los junglers. Claro rápido, teamfight brutal con ult doble, clone engaña habilidades.", "en": "Highest winrate of all junglers. Fast clear, brutal teamfight with double ult, clone fools targeted abilities." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Black Cleaver","Sterak's Gage"], "sit": ["Dead Man's Plate","Warmog's Armor"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo invade temprano y lo patea del mapa", "en": "Invades early and kicks him off the map" },
+          { "name": "Hecarim", "es": "Speed y daño lo supera en duelos", "en": "Speed and damage outplays him in duels" },
+          { "name": "Kha'Zix", "es": "Lo aísla y lo assassina 1v1", "en": "Isolates and assassinates him 1v1" }
+        ],
+        "synergies": [
+          { "name": "Ornn", "es": "Ult doble de Wukong + forjas de Ornn = imbatible", "en": "Wukong double ult + Ornn forges = unbeatable" },
+          { "name": "Orianna", "es": "Ult agrupa para la ball de Orianna", "en": "Ult groups enemies for Orianna's ball" }
+        ]
+      },
+      {
+        "role": "top", "tier": "a",
+        "why": { "es": "Viable en top como bruiser de engage. Clone confunde al rival y el ult sigue siendo devastador en teamfight.", "en": "Viable in top as engage bruiser. Clone confuses the enemy and ult is still devastating in teamfight." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Black Cleaver","Sterak's Gage"], "sit": ["Dead Man's Plate","Death's Dance"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC instantáneo que no puede bloquear", "en": "Instant CC he can't block" },
+          { "name": "Ornn", "es": "Lo supera en durabilidad y teamfight", "en": "Outclasses him in durability and teamfight" },
+          { "name": "Fiora", "es": "Parea su ult y lo drena con vitales", "en": "Parries his ult and drains with vitals" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ult de Wukong desde top agrupa para la ball", "en": "Wukong ult from top groups for the ball" },
+          { "name": "Lee Sin", "es": "Insec al carry hacia Wukong = doble ult devastador", "en": "Insec carry toward Wukong = devastating double ult" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Xayah", "img": "xayah",
+    "roles": [
+      {
+        "role": "adc", "tier": "ss",
+        "why": { "es": "Ult de invulnerabilidad + daño masivo de plumas. Buffed en 7.0d. Sin nerfs en meses. La ADC más completa.", "en": "Invulnerability ult + massive feather damage. Buffed in 7.0d. No nerfs in months. The most complete ADC." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Immortal Shieldbow","Infinity Edge","Phantom Dancer"], "sit": ["Bloodthirster","Lord Dominik's"] },
+        "buildNote": { "es": "Shieldbow es obligatorio — protege del burst y complementa su ult.", "en": "Shieldbow is mandatory — protects from burst and complements her ult." },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Caitlyn", "es": "Supera su rango y la poke en early lane", "en": "Outranges and pokes her constantly in early lane" },
+          { "name": "Draven", "es": "Early dominance la aplasta antes de escalar", "en": "Early dominance crushes her in lane before scaling" },
+          { "name": "Miss Fortune", "es": "Bullet Time atraviesa las plumas", "en": "Bullet Time passes through the feathers" }
+        ],
+        "synergies": [
+          { "name": "Rakan", "es": "Combo Xayah/Rakan es uno de los mejores del juego", "en": "Xayah/Rakan combo is one of the best in the game" },
+          { "name": "Nautilus", "es": "Hook facilita que Xayah acumule plumas sobre el rival", "en": "Hook makes it easy for Xayah to stack feathers" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Xin Zhao", "img": "xin-zhao",
+    "roles": [
+      {
+        "role": "jgl", "tier": "s",
+        "why": { "es": "Sin nerfs recientes. Daño early excelente, ult crea zona de seguridad, ideal para invades y skirmishes.", "en": "No recent nerfs. Excellent early damage, ult creates safe zone, ideal for invades and skirmishes." },
+        "build": { "boots": "Plated Steelcaps", "core": ["Trinity Force","Sterak's Gage","Black Cleaver"], "sit": ["Death's Dance","Warmog's Armor"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Conqueror", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Lee Sin", "es": "Lo supera en movilidad y outplay en duelo", "en": "Outplays him in mobility and 1v1" },
+          { "name": "Viego", "es": "Lo mata y lo posee 1v1", "en": "Kills and possesses him 1v1" },
+          { "name": "Malphite", "es": "Ult interrumpe su ofensiva de tres golpes", "en": "Ult interrupts his three-hit offensive" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Ult de Xin crea zona perfecta para la ball", "en": "Xin's ult creates a perfect zone for the ball" },
+          { "name": "Caitlyn", "es": "Knockup facilita el headshot crítico de Caitlyn", "en": "Knockup enables Caitlyn's critical headshot" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yasuo", "img": "yasuo",
+    "roles": [
+      {
+        "role": "mid", "tier": "c",
+        "why": { "es": "Nerfed en 7.1 (Steel Tempest y armor pen del ult reducidos). Alta curva de habilidad con recompensa reducida.", "en": "Nerfed in 7.1 (Steel Tempest and ult armor pen reduced). High skill curve with reduced reward." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Immortal Shieldbow","Infinity Edge"], "sit": ["Phantom Dancer","Lord Dominik's"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Orianna", "es": "Ball explota antes de que levante el wind wall", "en": "Ball detonates before he raises wind wall" },
+          { "name": "Lissandra", "es": "CC masivo que no puede bloquear", "en": "Massive CC he can't block" },
+          { "name": "Malphite", "es": "Ult combea con su ult y tankea todos sus autos", "en": "Ult combos with his ult and tanks all his autos" }
+        ],
+        "synergies": [
+          { "name": "Malphite", "es": "Ult knockup activa el ult de Yasuo perfectamente", "en": "Malphite's knockup ult perfectly activates Yasuo's ult" },
+          { "name": "Ornn", "es": "Ult knockup de Ornn combea con el de Yasuo", "en": "Ornn's knockup ult combos with Yasuo's" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yone", "img": "yone",
+    "roles": [
+      {
+        "role": "mid", "tier": "a",
+        "why": { "es": "Buffed en 7.1b (Soul Unbound daño aumentado, Q ratio mejorado). Bruiser de mid con dash de regreso garantizado. Sube de B a A con el buff.", "en": "Buffed in 7.1b (Soul Unbound damage increased, Q ratio improved). Mid lane bruiser with guaranteed return dash. Rises from B to A with the buff." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Immortal Shieldbow","Infinity Edge"], "sit": ["Phantom Dancer","Death's Dance"] },
+        "buildNote": { "es": "Kraken Slayer es su mejor item tras el buff. Mixed damage hace difícil itemizar contra él.", "en": "Kraken Slayer is his best item after the buff. Mixed damage makes it hard to itemize against him." },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC instantáneo lo detiene antes de que regrese del Soul Unbound", "en": "Instant CC stops him before he returns from Soul Unbound" },
+          { "name": "Lissandra", "es": "Freeze durante su Soul Unbound = muere sin poder regresar", "en": "Freeze during his Soul Unbound = dies without being able to return" },
+          { "name": "Vex", "es": "Pasiva interrumpe sus dashes de Q", "en": "Passive constantly interrupts his Q dashes" }
+        ],
+        "synergies": [
+          { "name": "Malphite", "es": "Ult knockup de Malphite activa el ult de Yone", "en": "Malphite's knockup ult activates Yone's ult" },
+          { "name": "Ornn", "es": "Ult knockup de Ornn combea con el ult de Yone", "en": "Ornn's knockup ult perfectly combos with Yone's ult" }
+        ]
+      },
+      {
+        "role": "top", "tier": "b",
+        "why": { "es": "Viable en top como bruiser de split push. El buff de 7.1b lo hace más relevante pero los tanques del meta lo limitan.", "en": "Viable in top as split push bruiser. The 7.1b buff makes him more relevant but meta tanks limit him." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Immortal Shieldbow","Infinity Edge"], "sit": ["Death's Dance","Sterak's Gage"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Bone Plating" },
+        "counters": [
+          { "name": "Malphite", "es": "CC instantáneo destruye su kit completamente", "en": "Instant CC completely destroys his kit" },
+          { "name": "Ornn", "es": "Lo supera en durabilidad y teamfight", "en": "Outclasses him in durability and teamfight" },
+          { "name": "Garen", "es": "Lo aplasta en lane con simplicidad", "en": "Crushes him in lane with simplicity" }
+        ],
+        "synergies": [
+          { "name": "Malphite", "es": "Ult knockup activa el ult de Yone", "en": "Knockup ult activates Yone's ult" },
+          { "name": "Orianna", "es": "Ball + ult de Yone = burst masivo en teamfight", "en": "Ball + Yone ult = massive teamfight burst" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yuumi", "img": "yuumi",
+    "roles": [
+      {
+        "role": "sup", "tier": "c",
+        "why": { "es": "Reworked en 6.3d. Nuevo kit más activo pero dependiente del host. Sin movilidad si la desmontan.", "en": "Reworked in 6.3d. More active new kit but host-dependent. No mobility if dismounted." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Ardent Censer","Redemption"], "sit": ["Staff of Flowing Water"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Summon Aery", "primary": ["Manaflow Band","Transcendence","Revitalize"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Ignite", "es": "Reduce su heal significativamente", "en": "Significantly reduces her healing" },
+          { "name": "Leona", "es": "CC al host la inutiliza completamente", "en": "CC on the host completely disables her" },
+          { "name": "Blitzcrank", "es": "Hook al host = Yuumi sin montura", "en": "Hook on host = Yuumi without a mount" }
+        ],
+        "synergies": [
+          { "name": "Master Yi", "es": "Yi + Yuumi es uno de los combos más difíciles de matar", "en": "Yi + Yuumi is one of the hardest to kill combos" },
+          { "name": "Vayne", "es": "Yuumi sobre Vayne hace casi imposible matarla 1v1", "en": "Yuumi on Vayne makes her nearly impossible to kill 1v1" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zed", "img": "zed",
+    "roles": [
+      {
+        "role": "mid", "tier": "c",
+        "why": { "es": "Buffed en 6.3c y 6.3f pero el meta de tanks/bruisers lo frustra. Mata carries bien pero inútil contra frontlines.", "en": "Buffed in 6.3c and 6.3f but the tank/bruiser meta frustrates him. Kills carries well but useless against frontlines." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Duskblade","Edge of Night","Serpent's Fang"], "sit": ["Lord Dominik's","Black Cleaver"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Electrocute", "primary": ["Sudden Impact","Eyeball Collection","Ravenous Hunter"], "secondary": "Manaflow Band" },
+        "counters": [
+          { "name": "Malphite", "es": "Ult instantáneo interrumpe todo su combo", "en": "Instant ult interrupts his entire combo" },
+          { "name": "Lissandra", "es": "Autoinmune durante su ult — desperdicia toda su jugada", "en": "Self-immune during his ult — wastes his entire play" },
+          { "name": "Zhonya's Hourglass", "es": "Su ult completo se desperdicia (item)", "en": "His entire ult is wasted (item)" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Doble amenaza de assassination", "en": "Double assassination threat" },
+          { "name": "Nautilus", "es": "Hook facilita el dive de Zed sobre el carry", "en": "Hook facilitates Zed's dive on the carry" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zeri", "img": "zeri",
+    "roles": [
+      {
+        "role": "adc", "tier": "s",
+        "why": { "es": "Buffed en 7.1d (+AD/lvl, Living Battery mejorado, CD Spark Surge reducido). La ADC más dinámica del meta.", "en": "Buffed in 7.1d (+AD/lvl, Living Battery improved, Spark Surge CD reduced). The most dynamic ADC in the meta." },
+        "build": { "boots": "Berserker's Greaves", "core": ["Kraken Slayer","Immortal Shieldbow","Wit's End"], "sit": ["Terminus","Guinsoo's Rageblade"] },
+        "buildNote": { "es": "Kraken + Wit's End buffed para ranged en 7.0c.", "en": "Kraken + Wit's End buffed for ranged in 7.0c." },
+        "runes": { "key": "Lethal Tempo", "primary": ["Triumph","Alacrity","Last Stand"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Caitlyn", "es": "Rango superior la castiga cuando intenta acercarse", "en": "Superior range punishes her when she tries to close in" },
+          { "name": "Jhin", "es": "W la atrapa cuando se mueve hacia él", "en": "W catches her when she moves toward him" },
+          { "name": "Nautilus", "es": "Hook la cancela en mitad de su movimiento", "en": "Hook cancels her mid-movement" }
+        ],
+        "synergies": [
+          { "name": "Orianna", "es": "Speedboost hace a Zeri aún más indetenible", "en": "Speedboost makes Zeri even more unstoppable" },
+          { "name": "Lulu", "es": "Ult de Lulu sobre Zeri en teamfight es devastador", "en": "Lulu's ult on Zeri in teamfight is devastating" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ziggs", "img": "ziggs",
+    "roles": [
+      {
+        "role": "mid", "tier": "d",
+        "why": { "es": "Nerfed en 7.1 (Short Fuse AP ratio -10%). El poke ya no es suficiente. Superado por Orianna y Viktor.", "en": "Nerfed in 7.1 (Short Fuse AP ratio -10%). Poke is no longer powerful enough. Outclassed by Orianna and Viktor." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resiste mágico y lo elimina post-6", "en": "Resists magic and eliminates him post-6" },
+          { "name": "Zed", "es": "Lo asesina en un combo sin problema", "en": "Assassinates him in one combo without issue" },
+          { "name": "Katarina", "es": "Movilidad evita todos sus skillshots", "en": "Mobility dodges all his skillshots" }
+        ],
+        "synergies": [
+          { "name": "Vi", "es": "Vi pinna al carry para que Ziggs poke libremente", "en": "Vi pins the carry so Ziggs can poke freely" },
+          { "name": "Nautilus", "es": "Hook facilita que las habilidades de Ziggs impacten", "en": "Hook makes it easy for Ziggs' abilities to connect" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zilean", "img": "zilean",
+    "roles": [
+      {
+        "role": "sup", "tier": "a",
+        "why": { "es": "Nerfed en 7.0a (Chronoshift CD aumentado) pero sigue siendo el único revive del juego. Excelente con carries que escalan.", "en": "Nerfed in 7.0a (Chronoshift CD increased) but still the only revive in the game. Excellent with scaling carries." },
+        "build": { "boots": "Ionian Boots of Lucidity", "core": ["Shurelya's Battlesong","Zhonya's Hourglass","Redemption"], "sit": ["Knight's Vow","Staff of Flowing Water"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Gathering Storm"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Leona", "es": "CC masivo antes del ult = carry muerto igualmente", "en": "Massive CC before ult = carry dies anyway" },
+          { "name": "Nautilus", "es": "CC en cadena lo supera por tiempo total", "en": "Chain CC outperforms by total CC duration" },
+          { "name": "Blitzcrank", "es": "Hook al carry antes de que el revive active", "en": "Hook the carry before the revive activates" }
+        ],
+        "synergies": [
+          { "name": "Nasus", "es": "Revive asegura que Nasus llegue al late game", "en": "Revive ensures Nasus reaches late game" },
+          { "name": "Vayne", "es": "Revive + ult de Vayne = combinación casi imbatible", "en": "Revive + Vayne ult = nearly unbeatable combination" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zoe", "img": "zoe",
+    "roles": [
+      {
+        "role": "mid", "tier": "s",
+        "why": { "es": "Buffed en 7.1 (daño Q mejorado, CD ult reducido). Poke a distancia suprema. One-shot desde fuera del alcance enemigo.", "en": "Buffed in 7.1 (Q damage improved, ult CD reduced). Supreme ranged poke. One-shot from outside enemy range." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Luden's Tempest","Shadowflame","Rabadon's Deathcap"], "sit": ["Zhonya's Hourglass","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Presence of Mind" },
+        "counters": [
+          { "name": "Kassadin", "es": "Resiste daño mágico y la mata cuando vuelve del portal", "en": "Resists magic damage and kills her when she returns from portal" },
+          { "name": "Zed", "es": "La mata cuando sale del portal Jump", "en": "Kills her when she exits the Jump portal" },
+          { "name": "Fizz", "es": "E esquiva sus bubbles y la gankea fácilmente", "en": "E dodges her bubbles and ganks her easily" }
+        ],
+        "synergies": [
+          { "name": "Hecarim", "es": "Poke de Zoe facilita los ganks de Hecarim", "en": "Zoe's poke facilitates Hecarim's ganks" },
+          { "name": "Nautilus", "es": "Hook + bubble de Zoe = kill garantizada nivel 2", "en": "Hook + Zoe bubble = guaranteed kill level 2" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zyra", "img": "zyra",
+    "roles": [
+      {
+        "role": "sup", "tier": "b",
+        "why": { "es": "Reworked en 6.3f — plantas mejoradas. Daño enorme para un support pero frágil. Fácil de counterpickear con dive.", "en": "Reworked in 6.3f — improved plants. Huge damage for a support but fragile. Easy to counterpick with dive." },
+        "build": { "boots": "Sorcerer's Shoes", "core": ["Liandry's Torment","Shadowflame","Demonic Embrace"], "sit": ["Rabadon's Deathcap","Void Staff"] },
+        "buildNote": { "es": "", "en": "" },
+        "runes": { "key": "Arcane Comet", "primary": ["Manaflow Band","Transcendence","Scorch"], "secondary": "Revitalize" },
+        "counters": [
+          { "name": "Leona", "es": "Engage instantáneo la mata antes de plantar", "en": "Instant engage kills her before she plants" },
+          { "name": "Blitzcrank", "es": "Hook la saca de posición completamente", "en": "Hook completely removes her from position" },
+          { "name": "Nautilus", "es": "CC la congela sin que pueda responder", "en": "CC freezes her without any response" }
+        ],
+        "synergies": [
+          { "name": "Miss Fortune", "es": "Plantas de Zyra + Bullet Time = daño masivo", "en": "Zyra plants + Bullet Time = massive damage" },
+          { "name": "Jinx", "es": "CC de Zyra protege a Jinx de dive comps", "en": "Zyra's CC protects Jinx from dive comps" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+:root {
+  --bg: #0d0f14;
+  --bg2: #12151c;
+  --surface: #1a1f2e;
+  --surface2: #222840;
+  --border: rgba(255,255,255,0.07);
+  --border2: rgba(255,255,255,0.13);
+  --text: #e8ecf4;
+  --muted: #7a8299;
+  --dim: #4a5168;
+  --gold: #c9a84c;
+  --gold2: #f0c96e;
+  --blue: #4a90d9;
+  --blue2: #6bb3ff;
+  --teal: #2ec4a0;
+  --red: #e05555;
+  --green: #4ade80;
+  --purple: #a78bfa;
+  --orange: #fb923c;
+
+  --tier-ss-color: #f0c96e; --tier-ss-bg: rgba(240,201,110,0.10); --tier-ss-border: rgba(240,201,110,0.30);
+  --tier-s-color:  #4ade80; --tier-s-bg:  rgba(74,222,128,0.08);  --tier-s-border:  rgba(74,222,128,0.25);
+  --tier-a-color:  #6bb3ff; --tier-a-bg:  rgba(74,144,217,0.10);  --tier-a-border:  rgba(74,144,217,0.30);
+  --tier-b-color:  #a0aec0; --tier-b-bg:  rgba(160,174,192,0.08); --tier-b-border:  rgba(160,174,192,0.20);
+  --tier-c-color:  #fb923c; --tier-c-bg:  rgba(251,146,60,0.08);  --tier-c-border:  rgba(251,146,60,0.25);
+  --tier-d-color:  #e05555; --tier-d-bg:  rgba(224,85,85,0.08);   --tier-d-border:  rgba(224,85,85,0.25);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+button { cursor: pointer; font-family: inherit; }
+input { font-family: inherit; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg2); }
+::-webkit-scrollbar-thumb { background: var(--surface2); border-radius: 3px; }
+
+/* Utility */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); }
