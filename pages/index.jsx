@@ -129,9 +129,16 @@ function TierSection({ tier, entries, lang, isMine, onToggleMine, showMineHighli
 }
 
 // ─── MyChamps panel ──────────────────────────────────────────────────────────
-function MyChampsPanel({ lang, isMine, onToggleMine, getMyList, clearAll }) {
-  const myList = getMyList();
+function MyChampsPanel({ lang, isMine, onToggleMine, myChamps, clearAll }) {
   const [filterRole, setFilterRole] = useState("all");
+
+  // Derive myList directly from myChamps object so it's always reactive
+  const myList = useMemo(() => {
+    return Object.keys(myChamps).map(key => {
+      const [name, role] = key.split("|");
+      return { name, role };
+    });
+  }, [myChamps]);
 
   const byRole = useMemo(() => {
     const filtered = filterRole === "all"
@@ -282,9 +289,9 @@ export default function Home() {
   const [role, setRole] = useState("top");
   const [search, setSearch] = useState("");
   const [showMineOnly, setShowMineOnly] = useState(false);
-  const { loaded, toggle, isMine, getMyList, clearAll } = useMyChamps();
+  const { loaded, myChamps, toggle, isMine, getMyList, clearAll } = useMyChamps();
 
-  const myCount = loaded ? getMyList().length : 0;
+  const myCount = useMemo(() => Object.keys(myChamps).length, [myChamps]);
 
   // Filtered entries for current role
   const entries = useMemo(() => {
@@ -303,7 +310,9 @@ export default function Home() {
   }, [entries]);
 
   const totalInRole = FLAT.filter(e => e.roleData.role === role).length;
-  const myInRole = loaded ? FLAT.filter(e => e.roleData.role === role && isMine(e.champ.name, e.roleData.role)).length : 0;
+  const myInRole = useMemo(() => {
+    return FLAT.filter(e => e.roleData.role === role && isMine(e.champ.name, e.roleData.role)).length;
+  }, [role, myChamps]);
 
   return (
     <>
@@ -441,7 +450,7 @@ export default function Home() {
             lang={lang}
             isMine={isMine}
             onToggleMine={toggle}
-            getMyList={getMyList}
+            myChamps={myChamps}
             clearAll={clearAll}
           />
         </main>
