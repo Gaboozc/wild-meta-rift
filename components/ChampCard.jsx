@@ -28,6 +28,8 @@ const ITEM_ES = {
   "Force of Nature": "Fuerza de la Naturaleza",
   "Ravenous Hydra": "Hidra Voraz",
   "Lord Dominik's Regards": "Saludos de Lord Dominik",
+  "Lord Dominik's": "Saludos de Lord Dominik",
+  "Guardian Angel": "Ángel Guardián",
   "Maw of Malmortius": "Fauces de Malmortius",
   "Infinity Edge": "Filo al Infinito",
   "Immortal Shieldbow": "Escudoarco Inmortal",
