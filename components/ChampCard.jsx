@@ -130,7 +130,7 @@ function T({ obj, lang }) {
   return <>{obj[lang] || obj.es || ""}</>;
 }
 
-export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine }) {
+export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine, roleIcon }) {
   const [open, setOpen] = useState(false);
   const tc = TIER_COLORS[roleData.tier] || TIER_COLORS.b;
 
@@ -146,6 +146,7 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine 
       <div className="card-header">
         <button className="card-toggle" onClick={() => setOpen(o => !o)}>
           <span className="tier-dot" style={{ background: tc.color }} />
+          {roleIcon && <span className="role-chip">{roleIcon}</span>}
           <span className="champ-name">{champ.name}</span>
           {roleData.wr && roleData.wr !== "TBD" && <span className="champ-wr">{roleData.wr} WR</span>}
           <span className="chevron" style={{ transform: open ? "rotate(180deg)" : "rotate(0)" }}>▾</span>
@@ -264,6 +265,11 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine 
           height: 8px;
           border-radius: 50%;
           flex-shrink: 0;
+        }
+        .role-chip {
+          font-size: 13px;
+          flex-shrink: 0;
+          opacity: 0.85;
         }
         .champ-name {
           font-family: 'Rajdhani', 'Inter', sans-serif;

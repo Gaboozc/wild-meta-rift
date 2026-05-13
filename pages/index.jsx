@@ -75,7 +75,7 @@ function TierSection({ tier, entries, lang, isMine, onToggleMine, showMineHighli
         </span>
       </div>
       <div className="champ-grid">
-        {entries.map(({ champ, roleData }) => (
+        {entries.map(({ champ, roleData, roleIcon }) => (
           <ChampCard
             key={`${champ.name}|${roleData.role}`}
             champ={champ}
@@ -83,6 +83,7 @@ function TierSection({ tier, entries, lang, isMine, onToggleMine, showMineHighli
             lang={lang}
             isMine={isMine(champ.name, roleData.role)}
             onToggleMine={onToggleMine}
+            roleIcon={roleIcon}
           />
         ))}
       </div>
@@ -140,21 +141,24 @@ function MyChampsPanel({ lang, isMine, onToggleMine, myChamps, clearAll }) {
     });
   }, [myChamps]);
 
-  const byRole = useMemo(() => {
+  const byTier = useMemo(() => {
     const filtered = filterRole === "all"
       ? myList
       : myList.filter(x => x.role === filterRole);
 
-    // Group by role, then by tier
     const grouped = {};
     for (const { name, role } of filtered) {
       const champ = championsData.find(c => c.name === name);
       if (!champ) continue;
       const rd = champ.roles.find(r => r.role === role);
       if (!rd) continue;
-      if (!grouped[role]) grouped[role] = {};
-      if (!grouped[role][rd.tier]) grouped[role][rd.tier] = [];
-      grouped[role][rd.tier].push({ champ, roleData: rd });
+      const roleInfo = ROLES.find(r => r.key === role);
+      if (!grouped[rd.tier]) grouped[rd.tier] = [];
+      grouped[rd.tier].push({
+        champ,
+        roleData: rd,
+        roleIcon: filterRole === "all" ? roleInfo?.icon : null,
+      });
     }
     return grouped;
   }, [myList, filterRole]);
@@ -209,23 +213,16 @@ function MyChampsPanel({ lang, isMine, onToggleMine, myChamps, clearAll }) {
         </button>
       </div>
 
-      {/* Grouped by role → tier */}
-      {ROLES.filter(r => byRole[r.key]).map(r => (
-        <div key={r.key} className="my-role-section">
-          <div className="my-role-header">
-            {r.icon} <T obj={r.label} lang={lang} />
-          </div>
-          {TIER_ORDER.filter(t => byRole[r.key]?.[t]?.length).map(t => (
-            <TierSection
-              key={t}
-              tier={t}
-              entries={byRole[r.key][t]}
-              lang={lang}
-              isMine={isMine}
-              onToggleMine={onToggleMine}
-            />
-          ))}
-        </div>
+      {/* Grouped by tier (global across roles in "Todos", by role otherwise) */}
+      {TIER_ORDER.filter(t => byTier[t]?.length).map(t => (
+        <TierSection
+          key={t}
+          tier={t}
+          entries={byTier[t]}
+          lang={lang}
+          isMine={isMine}
+          onToggleMine={onToggleMine}
+        />
       ))}
 
       <style jsx>{`
@@ -262,21 +259,6 @@ function MyChampsPanel({ lang, isMine, onToggleMine, myChamps, clearAll }) {
           transition: all .15s;
         }
         .clear-btn:hover { background: rgba(224,85,85,.15); }
-        .my-role-section { margin-bottom: 2rem; }
-        .my-role-header {
-          font-family: 'Rajdhani', sans-serif;
-          font-size: 15px;
-          font-weight: 700;
-          letter-spacing: .08em;
-          text-transform: uppercase;
-          color: var(--text);
-          padding: 8px 0;
-          margin-bottom: 1rem;
-          border-bottom: 1px solid var(--border2);
-          display: flex;
-          align-items: center;
-          gap: 8px;
-        }
       `}</style>
     </div>
   );
