@@ -5,7 +5,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Bruiser con sustain masivo, CC en Q y ult de revive. Buffed en parches recientes. Dominante en trades largos y teamfight.",
           "en": "Bruiser with massive sustain, Q CC and revive ult. Buffed in recent patches. Dominant in extended trades and teamfight."
@@ -64,7 +64,7 @@
             "en": "Hook lets Aatrox dive safely"
           }
         ],
-        "wr": "51.3%"
+        "wr": "49.8%"
       }
     ]
   },
@@ -143,7 +143,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Buffed en 7.0f (Shroud más rápido, Shuriken Flip interaction). Alta movilidad y roaming entre carriles.",
           "en": "Buffed in 7.0f (faster Shroud, Shuriken Flip interaction). High mobility and cross-lane roaming."
@@ -344,7 +344,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "CC masivo con combo W+Q. Ult lo hace casi inmortal. Excelente engage y peel combinados.",
           "en": "Massive CC with W+Q combo. Ult makes him nearly immortal. Excellent combined engage and peel."
@@ -414,7 +414,7 @@
       {
         "role": "top",
         "tier": "ss",
-        "wr": "52.6%",
+        "wr": "52.0%",
         "why": {
           "es": "Bruiser con movilidad extrema, burst en trade corto y split push elite. Sin nerfs en toda la era 7.x.",
           "en": "Bruiser with extreme mobility, short-trade burst and elite split push. No nerfs in the entire 7.x era."
@@ -482,7 +482,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Nerfed en 7.1b (Despair y slow reducidos). CC masivo en teamfight pero fue recortado.",
           "en": "Nerfed in 7.1b (Despair and slow reduced). Massive teamfight CC but was trimmed."
@@ -541,7 +541,7 @@
             "en": "Ball + ult on Amumu's group = unbeatable"
           }
         ],
-        "wr": "TBD"
+        "wr": "55.4%"
       },
       {
         "role": "sup",
@@ -614,7 +614,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "CC instantáneo al nivel 6 con Tibbers. Fácil de aprender pero predecible en elos altos.",
           "en": "Instant CC at level 6 with Tibbers. Easy to learn but predictable in high elos."
@@ -813,7 +813,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "ss",
+        "tier": "b",
         "why": {
           "es": "Buffed en 6.3c pero el meta de assassins no le da tiempo de acumular stardust. Muy lento para el ritmo actual.",
           "en": "Buffed in 6.3c but the assassin meta doesn't give him time to accumulate stardust. Too slow for the current pace."
@@ -882,7 +882,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Mage/bruiser con movilidad entre dimensiones y CC. Zona de control con su ult. Fuerte en teamfight si se posiciona bien.",
           "en": "Mage/bruiser with dimensional mobility and CC. Zone control with her ult. Strong in teamfight if positioned well."
@@ -1083,7 +1083,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Un hook = kill garantizada, pero predecible. En elos medios-altos se juega todo alrededor de evitar su posición.",
           "en": "One hook = guaranteed kill, but predictable. In medium-high elos, everything plays around avoiding his position."
@@ -1215,7 +1215,7 @@
       },
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Viable en mid como mage de poke pero sin movilidad lo hace muy punisheable contra assassins.",
           "en": "Viable in mid as poke mage but no mobility makes him very punishable against assassins."
@@ -1343,7 +1343,7 @@
             "en": "Braum's passive facilitates Caitlyn's headshots"
           }
         ],
-        "wr": "51.2%"
+        "wr": "52.5%"
       }
     ]
   },
@@ -1412,7 +1412,7 @@
             "en": "Hook + Caitlyn trap = permanent snare"
           }
         ],
-        "wr": "51.4%"
+        "wr": "49.0%"
       }
     ]
   },
@@ -1422,7 +1422,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Bruiser con dash de dos fases, ult de trampa 1v1 y daño verdadero en E. Excelente split push y duelos. Sin nerfs recientes.",
           "en": "Bruiser with two-phase dash, 1v1 trap ult and true damage on E. Excellent split push and duels. No recent nerfs."
@@ -1560,7 +1560,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Dominancia en lane temprana brutal. Con 5 stacks del pasivo, ult con daño verdadero reseteable.",
           "en": "Brutal early lane dominance. With 5 passive stacks, ult deals resetable true damage."
@@ -1629,7 +1629,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Claro rápido con Q. Ult de reset que puede matar a todo el equipo encadenando. Escala bien con AP.",
           "en": "Fast clear with Q. Reset ult that can kill the entire team by chaining. Scales well with AP."
@@ -1692,7 +1692,7 @@
       },
       {
         "role": "mid",
-        "tier": "b",
+        "tier": "s",
         "why": {
           "es": "Viable en mid pero sin el claro rápido de jungle pierde valor. Funciona mejor cuando el rival es un mage inmóvil.",
           "en": "Viable in mid but without fast jungle clear loses value. Works best when the enemy is an immobile mage."
@@ -1830,7 +1830,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Daño enorme early pero requiere mantener hachas perfectamente. Un error = pierde toda la ventaja. Sin movilidad.",
           "en": "Huge early damage but requires perfectly maintaining axes. One mistake = loses all advantage. No mobility."
@@ -2031,7 +2031,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Stealth + assassin pero muy frágil. En elos bajos funciona, en altos la detectan e invaden fácilmente.",
           "en": "Stealth + assassin but very fragile. Works in low elos, in high elos she's easily detected and invaded."
@@ -2158,7 +2158,7 @@
             "en": "Ball makes it easy for Ezreal's Q to connect"
           }
         ],
-        "wr": "52.0%"
+        "wr": "51.8%"
       }
     ]
   },
@@ -2168,7 +2168,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Solo funciona con visión perfecta del equipo. El Herald permite al rival ignorar su control y pushear torres.",
           "en": "Only works with perfect team vision. Herald allows enemies to ignore his control and push towers."
@@ -2295,7 +2295,7 @@
             "en": "Jarvan's ult combos with her 1v1 offensive"
           }
         ],
-        "wr": "TBD"
+        "wr": "48.2%"
       }
     ]
   },
@@ -2437,7 +2437,7 @@
       },
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Viable como support engage con ult global pero sin impacto en lane como los supports especializados.",
           "en": "Viable as engage support with global ult but lacks lane impact compared to specialized supports."
@@ -2565,7 +2565,7 @@
             "en": "Ball on Garen's dive = massive AoE"
           }
         ],
-        "wr": "TBD"
+        "wr": "51.0%"
       }
     ]
   },
@@ -2575,7 +2575,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Ranged en mini Gnar con poke seguro, melee tanque en mega Gnar con CC masivo. Transición única que domina splits y teamfights.",
           "en": "Ranged in mini Gnar with safe poke, melee tank in mega Gnar with massive CC. Unique transition that dominates splits and teamfights."
@@ -2903,7 +2903,7 @@
             "en": "Hook lets Gwen dive safely"
           }
         ],
-        "wr": "TBD"
+        "wr": "49.0%"
       }
     ]
   },
@@ -2913,7 +2913,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "ss",
         "why": {
           "es": "Nerfed en 7.0d pero sigue siendo el jungler más rápido del mapa. Mejor roaming del juego.",
           "en": "Nerfed in 7.0d but still the fastest jungler on the map. Best roaming in the game."
@@ -2972,7 +2972,7 @@
             "en": "Speedboost makes Hecarim even more unstoppable"
           }
         ],
-        "wr": "TBD"
+        "wr": "51.0%"
       }
     ]
   },
@@ -3113,7 +3113,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 7.1 (healing reducido). Requiere muchos stacks para funcionar y el early se siente muy débil.",
           "en": "Nerfed in 7.1 (healing reduced). Requires many stacks to function and early game feels very weak."
@@ -3444,7 +3444,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Buffed en 7.0f (Grandmaster's defense escalado con AD). Sin nerfs en 7.x. El split pusher más fuerte del meta.",
           "en": "Buffed in 7.0f (Grandmaster's defense scaled with AD). No nerfs in 7.x. The strongest split pusher in the meta."
@@ -3576,7 +3576,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Dos formas — melee y ranged — con kits diferentes. Poke seguro a distancia, burst en melee. Domina lane temprana.",
           "en": "Two forms — melee and ranged — with different kits. Safe ranged poke, melee burst. Dominates early lane."
@@ -3704,7 +3704,7 @@
             "en": "Hook + Jhin traps = lethal combo"
           }
         ],
-        "wr": "51.8%"
+        "wr": "51.3%"
       }
     ]
   },
@@ -3714,7 +3714,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Buffed en 6.3f pero sin movilidad en meta de dive. Necesita equipo que la proteja perfectamente.",
           "en": "Buffed in 6.3f but no mobility in dive meta. Needs a team that protects her perfectly."
@@ -3990,7 +3990,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Enchanters nerfed en 6.3f. Sin CC duro y su shield fue reducido. Completamente desplazada por Janna.",
           "en": "Enchanters nerfed in 6.3f. No hard CC and her shield was reduced. Completely displaced by Janna."
@@ -4180,7 +4180,7 @@
             "en": "Leona's CC lets Kassadin engage safely"
           }
         ],
-        "wr": "51.9%"
+        "wr": "52.5%"
       }
     ]
   },
@@ -4328,7 +4328,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Dos formas con estilos radicalmente distintos: Rhaast (tanque bruiser) o Shadow Assassin (assassin burst). Adaptable a cualquier composición. Puede traversar muros.",
           "en": "Two forms with radically different styles: Rhaast (tank bruiser) or Shadow Assassin (burst assassin). Adaptable to any composition. Can traverse walls."
@@ -4466,7 +4466,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Assassin que evoluciona sus habilidades. Daño masivo al objetivo aislado. Stealth con ult. Excelente en picks y duelos.",
           "en": "Assassin that evolves abilities. Massive damage on isolated targets. Stealth with ult. Excellent at picks and duels."
@@ -4535,7 +4535,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "ADC jungler con movilidad, marcas de presa que dan bonus y ult de zona de inmortalidad. Único en el juego. Escala muy bien.",
           "en": "ADC jungler with mobility, prey marks giving bonuses and immortality zone ult. Unique in the game. Scales very well."
@@ -4604,7 +4604,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Nerfed en 6.3f. Daño % HP enorme en late pero muy inmóvil. Necesita support de peel fuerte para funcionar.",
           "en": "Nerfed in 6.3f. Huge % HP damage in late but very immobile. Needs strong peel support to work."
@@ -4732,7 +4732,7 @@
             "en": "Lee Sin invades and Malphite closes teamfight"
           }
         ],
-        "wr": "51.1%"
+        "wr": "47.1%"
       },
       {
         "role": "top",
@@ -4864,7 +4864,7 @@
             "en": "CC makes it easy for Syndra's spheres to connect"
           }
         ],
-        "wr": "TBD"
+        "wr": "51.6%"
       }
     ]
   },
@@ -4942,7 +4942,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "CC masivo en múltiples habilidades, roam excelente con ult, puede autoinmunizarse. Fuerte en teamfights largas.",
           "en": "Massive CC on multiple abilities, excellent ult roam, can self-immunize. Strong in extended teamfights."
@@ -5011,7 +5011,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "ADC de movilidad con dash en E. Combos de doble disparo con pasiva. Excelente en lane early y mid game. Se cae en late vs hypercarries.",
           "en": "Mobility ADC with dash on E. Double shot combos with passive. Excellent in early and mid game lane. Falls off in late vs hypercarries."
@@ -5143,7 +5143,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Enchanters nerfed en 6.3f reducen su valor. Aún buena protegiendo hypercarries como Kog'Maw o Vayne.",
           "en": "Enchanters nerfed in 6.3f reduce her value. Still good protecting hypercarries like Kog'Maw or Vayne."
@@ -5345,7 +5345,7 @@
       {
         "role": "top",
         "tier": "ss",
-        "wr": "53.0%",
+        "wr": "51.8%",
         "why": {
           "es": "El mayor winrate de top. Ult de teamfight instantáneo, resistente a AD. Buffed en 6.3c.",
           "en": "Highest winrate in top lane. Instant teamfight ult, AD-resistant. Buffed in 6.3c."
@@ -5476,7 +5476,7 @@
       },
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Tank support con CC masivo y sustain pasivo. Ult de rooting en zona enorme. Excelente en teamfights de largo aliento.",
           "en": "Tank support with massive CC and passive sustain. Huge zone rooting ult. Excellent in extended teamfights."
@@ -5545,7 +5545,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 7.0c (Alpha Strike CD aumentado). Las teamfights caóticas del meta lo destruyen.",
           "en": "Nerfed in 7.0c (Alpha Strike CD increased). The chaotic teamfights of the meta destroy him."
@@ -5681,7 +5681,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Enchanters nerfed múltiples veces. Su punto fuerte era heal/shield y fue lo más recortado. Janna lo supera en todo ahora.",
           "en": "Enchanters nerfed multiple times. His strength was heal/shield and that was trimmed the most. Janna outperforms him in everything now."
@@ -5818,7 +5818,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Bruiser AP con ult de aislamiento 1v1 que nadie puede evitar. Mata carries antes de que el equipo llegue. Muy fuerte en el meta actual.",
           "en": "AP bruiser with unavoidable 1v1 isolation ult. Kills carries before the team arrives. Very strong in the current meta."
@@ -5878,6 +5878,54 @@
           }
         ],
         "wr": "TBD"
+      },
+      {
+        "role": "jgl",
+        "tier": "a",
+        "why": {
+          "es": "Tanque AP con sustain y ult 1v1 devastador. Efectivo en jungla por su durabilidad y daño mágico escalable.",
+          "en": "AP tank with sustain and devastating 1v1 ult. Effective jungler due to durability and scalable magic damage."
+        },
+        "build": {
+          "boots": "Sorcerer's Shoes",
+          "core": [
+            "Riftmaker",
+            "Demonic Embrace",
+            "Rylai's Crystal Scepter"
+          ],
+          "sit": [
+            "Zhonya's Hourglass",
+            "Shadowflame"
+          ]
+        },
+        "buildNote": {
+          "es": "Riftmaker es core — su pasiva de sustain sinergia con el daño en área de Morde.",
+          "en": "Riftmaker is core — its sustain passive synergizes with Morde's area damage."
+        },
+        "runes": {
+          "key": "Grasp of the Undying",
+          "primary": [
+            "Conditioning",
+            "Overgrowth",
+            "Revitalize"
+          ],
+          "secondary": "Transcendence"
+        },
+        "counters": [
+          {
+            "name": "Kha'Zix",
+            "es": "Burst rápido antes de que ult active",
+            "en": "Fast burst before ult activates"
+          }
+        ],
+        "synergies": [
+          {
+            "name": "Orianna",
+            "es": "Ult de Morde aísla para Ball combo",
+            "en": "Morde ult isolates for Ball combo"
+          }
+        ],
+        "wr": "50.1%"
       }
     ]
   },
@@ -6078,7 +6126,7 @@
             "en": "Nami's ult makes it easy for Xayah to stack feathers"
           }
         ],
-        "wr": "52.7%"
+        "wr": "51.2%"
       }
     ]
   },
@@ -6088,7 +6136,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 7.0c. El meta de presión temprana no le da tiempo de acumular stacks.",
           "en": "Nerfed in 7.0c. The early pressure meta doesn't give him time to stack."
@@ -6215,7 +6263,7 @@
             "en": "Hook carry toward the ball = teamfight won"
           }
         ],
-        "wr": "51.6%"
+        "wr": "50.3%"
       },
       {
         "role": "jgl",
@@ -6288,7 +6336,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 7.0a y 6.3e. Excelente en manos expertas pero punisheable y muy dependiente de jabalinas.",
           "en": "Nerfed in 7.0a and 6.3e. Excellent in skilled hands but punishable and very dependent on spears."
@@ -6425,7 +6473,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Ult de oscuridad global que ciega la visión del equipo rival y permite dive desde cualquier distancia. Excelente para picks.",
           "en": "Global darkness ult that blinds enemy team vision and allows dive from any distance. Excellent for picks."
@@ -6563,7 +6611,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "CC útil pero sin presión de lanes real. El meta de dive no necesita un jungler pasivo de objetivo. Muy predecible.",
           "en": "Useful CC but no real lane pressure. The dive meta doesn't need a passive objective jungler. Very predictable."
@@ -6632,7 +6680,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Ult de inmunidad a CC mientras ataca. Excelente 1v1 y en skirmishes. Sin miedo al CC enemigo en ult. Fuerte en early.",
           "en": "CC immunity ult while attacking. Excellent 1v1 and in skirmishes. No fear of CC during ult. Strong in early."
@@ -6760,7 +6808,7 @@
             "en": "Knockup ult + ball in the center = massive damage"
           }
         ],
-        "wr": "52.3%"
+        "wr": "49.4%"
       }
     ]
   },
@@ -6771,7 +6819,7 @@
       {
         "role": "top",
         "tier": "ss",
-        "wr": "51.4%",
+        "wr": "50.9%",
         "why": {
           "es": "Tank definitivo que forja items para el equipo y tiene CC masivo. Escala independientemente del gold.",
           "en": "Definitive tank who forges items for the team with massive CC. Scales independently of gold."
@@ -7102,7 +7150,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Assassin support con ult que da oro extra a aliados al matar. Regeneración fuera de vista única. Excelente en picks y ganks de carril.",
           "en": "Assassin support with ult that gives extra gold to allies on kill. Unique out-of-sight regeneration. Excellent at picks and lane ganks."
@@ -7171,7 +7219,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Support engage con movilidad extrema, heal en W y ult de encanto masivo. Combina perfectamente con Xayah. CC masivo en teamfight.",
           "en": "Engage support with extreme mobility, W heal and massive charm ult. Combines perfectly with Xayah. Massive teamfight CC."
@@ -7240,7 +7288,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 7.1b. Solo funciona contra comps full AD. Demasiado dependiente del matchup rival.",
           "en": "Nerfed in 7.1b. Only works against full AD comps. Too dependent on enemy team matchup."
@@ -7308,7 +7356,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Buffed en 7.0c y 7.0d (base stats, cooldowns). Engage masivo, tankea mucho. La support más en alza del meta.",
           "en": "Buffed in 7.0c and 7.0d (base stats, cooldowns). Massive engage, tanks a lot. The most rising support in the meta."
@@ -7435,7 +7483,7 @@
             "en": "Hook guarantees Renekton reaches the carry"
           }
         ],
-        "wr": "TBD"
+        "wr": "49.7%"
       }
     ]
   },
@@ -7445,7 +7493,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "b",
         "why": {
           "es": "Assassin de salto desde arbustos con daño de one-shot. Ult de stealth para caza. Excelente en picks y carries blandos. Alta curva de habilidad.",
           "en": "Assassin that leaps from bushes with one-shot damage. Stealth hunt ult. Excellent at picks and soft carries. High skill curve."
@@ -7573,7 +7621,7 @@
             "en": "Ult makes Riven giant during engage"
           }
         ],
-        "wr": "TBD"
+        "wr": "50.6%"
       },
       {
         "role": "jgl",
@@ -7645,7 +7693,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Mage de top con zona de fuego masiva. Daño AoE en teamfight enorme con ult de cohetes. Excelente en callejones estrechos.",
           "en": "Top lane mage with massive fire zone. Huge AoE teamfight damage with rocket ult. Excellent in narrow corridors."
@@ -7714,7 +7762,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "ss",
+        "tier": "b",
         "why": {
           "es": "Mage de alta complejidad con ult de teletransporte de equipo. Excelente late game pero muy difícil de jugar bien en early.",
           "en": "High complexity mage with team teleport ult. Excellent late game but very hard to play well in early game."
@@ -7783,7 +7831,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "ADC melee/ranged que acumula estilo con combos variados. Ult de AoE devastador al llegar a S rank. Excelente en teamfights cortas.",
           "en": "Melee/ranged ADC that stacks style with varied combos. Devastating AoE ult upon reaching S rank. Excellent in short teamfights."
@@ -7852,7 +7900,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "ADC support que crece indefinidamente con las almas de los rivales. Rango que aumenta, heal global con ult y stealth pasivo. Única en el juego.",
           "en": "ADC support that grows indefinitely with enemy souls. Increasing range, global heal ult and passive stealth. Unique in the game."
@@ -7984,7 +8032,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Sin CC duro propio, enchanters nerfed, y el meta no favorece mages support de poke. Completamente superada por otros supports.",
           "en": "No own hard CC, enchanters nerfed, and the meta doesn't favor poke mage supports. Completely outclassed by other supports."
@@ -8174,7 +8222,7 @@
             "en": "Sett throws the carry and Malphite ults the group"
           }
         ],
-        "wr": "TBD"
+        "wr": "49.6%"
       },
       {
         "role": "sup",
@@ -8247,7 +8295,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Tank con ult global que teletransporta y escuda a un aliado. Presencia en todo el mapa. Excelente splitpush + ult = imposible de ignorar.",
           "en": "Tank with global ult that teleports and shields an ally. Presence across the entire map. Excellent splitpush + ult = impossible to ignore."
@@ -8316,7 +8364,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Nerfed en 7.1 y 6.3d (movilidad dragon form reducida). Escala bien a late pero el early es débil.",
           "en": "Nerfed in 7.1 and 6.3d (dragon form mobility reduced). Scales well to late but early is weak."
@@ -8385,7 +8433,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Meta de burst damage y dive lo destruye antes de que proxy farm funcione. Su kit no tiene respuesta al meta actual.",
           "en": "Burst damage and dive meta destroys him before proxy farming works. His kit has no answer to the current meta."
@@ -8454,7 +8502,7 @@
       {
         "role": "top",
         "tier": "ss",
-        "wr": "51.8%",
+        "wr": "51.3%",
         "why": {
           "es": "Tank con CC brutal y ult de engage desde cualquier distancia. Puede congelar la línea para farmear stacks.",
           "en": "Tank with brutal CC and engage ult from any distance. Can freeze the lane to farm stacks."
@@ -8522,7 +8570,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Buffed en 7.1d (+AD/lvl, Boomerang Blade mejorado). Wave clear suprema, spellshield para sobrevivir CC.",
           "en": "Buffed in 7.1d (+AD/lvl, Boomerang Blade improved). Supreme wave clear, spellshield to survive CC."
@@ -8659,7 +8707,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Enchanters nerfed. Sin CC instantáneo propia la hace vulnerable. Crescendo sigue siendo poderoso pero ella es frágil.",
           "en": "Enchanters nerfed. No own instant CC makes her vulnerable. Crescendo is still powerful but she's fragile."
@@ -8727,7 +8775,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Enchanters nerfed + meta de dive. Fácil de matar, sin CC de escape. Ignite la inutiliza completamente.",
           "en": "Enchanters nerfed + dive meta. Easy to kill, no escape CC. Ignite completely disables her."
@@ -8795,7 +8843,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Nerfed en 7.1b (AP ratio ult reducido). Aún tiene sustain y CC, pero ya no domina en teamfight.",
           "en": "Nerfed in 7.1b (ult AP ratio reduced). Still has sustain and CC, but no longer dominates in teamfight."
@@ -8984,6 +9032,128 @@
             "en": "Hook guarantees the spheres will connect"
           }
         ],
+        "wr": "49.2%"
+      }
+    ]
+  },
+  {
+    "name": "Taliyah",
+    "img": "taliyah",
+    "roles": [
+      {
+        "role": "jgl",
+        "tier": "ss",
+        "why": {
+          "es": "Nueva en 7.1e. Maga de jungla con claro ultra-rápido, engage global con W y burst alto. Domina early game y controla el mapa desde jungla.",
+          "en": "New in 7.1e. Jungle mage with ultra-fast clear, global engage with W and high burst. Dominates early game and controls the map from jungle."
+        },
+        "build": {
+          "boots": "Sorcerer's Shoes",
+          "core": [
+            "Luden's Tempest",
+            "Shadowflame",
+            "Rabadon's Deathcap"
+          ],
+          "sit": [
+            "Void Staff",
+            "Zhonya's Hourglass"
+          ]
+        },
+        "buildNote": {
+          "es": "Luden's Tempest es core — su pasiva de burst sinergia con el combo de Taliyah.",
+          "en": "Luden's Tempest is core — its burst passive synergizes with Taliyah's combo."
+        },
+        "runes": {
+          "key": "Dark Harvest",
+          "primary": [
+            "Sudden Impact",
+            "Eyeball Collection",
+            "Transcendence"
+          ],
+          "secondary": "Scorch"
+        },
+        "counters": [
+          {
+            "name": "Lee Sin",
+            "es": "Movilidad alta evita sus piedras",
+            "en": "High mobility avoids her stones"
+          },
+          {
+            "name": "Ekko",
+            "es": "Rewind escapa de su combo fácilmente",
+            "en": "Rewind easily escapes her combo"
+          }
+        ],
+        "synergies": [
+          {
+            "name": "Xayah",
+            "es": "Engage de Taliyah facilita plumas de Xayah",
+            "en": "Taliyah engage enables Xayah feathers"
+          },
+          {
+            "name": "Orianna",
+            "es": "Zone + Ball = teamfight devastador",
+            "en": "Zone + Ball = devastating teamfight"
+          }
+        ],
+        "wr": "TBD"
+      },
+      {
+        "role": "mid",
+        "tier": "s",
+        "why": {
+          "es": "Waveclear excepcional, roam global y burst sorpresivo. Domina en mid con Q y puede aparecer en cualquier parte del mapa.",
+          "en": "Exceptional waveclear, global roam and surprising burst. Dominates mid with Q and can appear anywhere on the map."
+        },
+        "build": {
+          "boots": "Sorcerer's Shoes",
+          "core": [
+            "Luden's Tempest",
+            "Shadowflame",
+            "Rabadon's Deathcap"
+          ],
+          "sit": [
+            "Void Staff",
+            "Zhonya's Hourglass"
+          ]
+        },
+        "buildNote": {
+          "es": "Mismo core que jungla — el burst de Luden's potencia el combo de Q.",
+          "en": "Same core as jungle — Luden's burst powers the Q combo."
+        },
+        "runes": {
+          "key": "Electrocute",
+          "primary": [
+            "Sudden Impact",
+            "Gathering Storm",
+            "Absolute Focus"
+          ],
+          "secondary": "Manaflow Band"
+        },
+        "counters": [
+          {
+            "name": "Katarina",
+            "es": "Resets esquivan sus piedras en teamfight",
+            "en": "Resets dodge her stones in teamfight"
+          },
+          {
+            "name": "Zoe",
+            "es": "Outrange y CC la neutraliza",
+            "en": "Outrange and CC neutralize her"
+          }
+        ],
+        "synergies": [
+          {
+            "name": "Braum",
+            "es": "Setup de Braum facilita el stun de Taliyah",
+            "en": "Braum's setup enables Taliyah stun"
+          },
+          {
+            "name": "Jarvan IV",
+            "es": "Cage de J4 = combo garantizado",
+            "en": "J4's cage = guaranteed combo"
+          }
+        ],
         "wr": "TBD"
       }
     ]
@@ -8994,7 +9164,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Buffed en 7.1b (claro AoE mejorado). Roams letales entre carriles. Excelente para snowball.",
           "en": "Buffed in 7.1b (improved AoE clear). Lethal lane roams. Excellent for snowball."
@@ -9126,7 +9296,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 6.3e y 7.1b. Vision control único pero cae ante las comps de dive del meta actual.",
           "en": "Nerfed in 6.3e and 7.1b. Unique vision control but falls to the dive comps in the current meta."
@@ -9263,7 +9433,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Buffed en 7.0f y 7.1d. Rango que crece con nivel = late game brutal e imparable.",
           "en": "Buffed in 7.0f and 7.1d. Range grows with level = brutal and unstoppable late game."
@@ -9395,7 +9565,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "CC masivo del meta actual (Malphite, Sion, Ornn) lo hace inviable. Su ult de inmortalidad no sirve contra CC hard instantáneo.",
           "en": "Massive CC in the current meta (Malphite, Sion, Ornn) makes him unviable. His immortality ult doesn't work against hard instant CC."
@@ -9668,7 +9838,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Buffed en 7.1b pero predecible. Su CC de ult es bueno pero el daño no compite con SS tier.",
           "en": "Buffed in 7.1b but predictable. His ult CC is good but damage doesn't compete with SS tier."
@@ -9737,7 +9907,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 7.0a y 7.1d (true dmg y AS reducidos). Sigue destruyendo tanques pero más lenta. Viable con buen peel.",
           "en": "Nerfed in 7.0a and 7.1d (true dmg and AS reduced). Still destroys tanks but slower. Viable with good peel."
@@ -9869,7 +10039,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Mage que crece infinitamente con AP stacking. Evento Horizon (jaula) + ult de one-shot. Devastador en late game con suficientes stacks.",
           "en": "Mage that grows infinitely with AP stacking. Event Horizon (cage) + one-shot ult. Devastating in late game with enough stacks."
@@ -10202,7 +10372,7 @@
       {
         "role": "jgl",
         "tier": "ss",
-        "wr": "50.4%",
+        "wr": "51.5%",
         "why": {
           "es": "Ult de lock-on que no puede esquivarse. Ideal para deshabilitar ADCs. Combina perfecto con mages de teamfight.",
           "en": "Lock-on ult that can't be dodged. Ideal for disabling ADCs. Perfect combo with teamfight mages."
@@ -10271,7 +10441,7 @@
       {
         "role": "jgl",
         "tier": "ss",
-        "wr": "53.2%",
+        "wr": "50.4%",
         "why": {
           "es": "Sin nerfs en 7.x. Posee a los enemigos que mata — extra outplay. Dueling 1v1 casi imposible de perder post-6.",
           "en": "No nerfs in 7.x. Possesses enemies he kills — extra outplay. 1v1 dueling almost impossible to lose post-6."
@@ -10398,7 +10568,7 @@
             "en": "Viktor slows and Hecarim chases"
           }
         ],
-        "wr": "51.7%"
+        "wr": "51.3%"
       }
     ]
   },
@@ -10540,7 +10710,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Tank/bruiser con flip de campeones y stun en ult. Excelente en dive y destroy de torres. Ult destruye torretas rapidísimo.",
           "en": "Tank/bruiser with champion flip and ult stun. Excellent at dive and tower destruction. Ult destroys towers very fast."
@@ -10672,7 +10842,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 6.3c. Predecible, lento y el meta de burst lo destruye antes de que llegue al carry.",
           "en": "Nerfed in 6.3c. Predictable, slow, and burst meta destroys him before he reaches the carry."
@@ -10740,8 +10910,8 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
-        "wr": "55.4%",
+        "tier": "ss",
+        "wr": "54.1%",
         "why": {
           "es": "El mayor winrate de todos los junglers. Claro rápido, teamfight brutal con ult doble, clone engaña habilidades.",
           "en": "Highest winrate of all junglers. Fast clear, brutal teamfight with double ult, clone fools targeted abilities."
@@ -10862,7 +11032,7 @@
             "en": "Insec carry toward Wukong = devastating double ult"
           }
         ],
-        "wr": "TBD"
+        "wr": "54.1%"
       }
     ]
   },
@@ -10931,7 +11101,7 @@
             "en": "Hook makes it easy for Xayah to stack feathers"
           }
         ],
-        "wr": "52.1%"
+        "wr": "49.2%"
       }
     ]
   },
@@ -11010,7 +11180,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 7.1 (Steel Tempest y armor pen del ult reducidos). Alta curva de habilidad con recompensa reducida.",
           "en": "Nerfed in 7.1 (Steel Tempest and ult armor pen reduced). High skill curve with reduced reward."
@@ -11279,7 +11449,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Buffed en 6.3c y 6.3f pero el meta de tanks/bruisers lo frustra. Mata carries bien pero inútil contra frontlines.",
           "en": "Buffed in 6.3c and 6.3f but the tank/bruiser meta frustrates him. Kills carries well but useless against frontlines."
@@ -11544,7 +11714,7 @@
             "en": "Revive + Vayne ult = nearly unbeatable combination"
           }
         ],
-        "wr": "TBD"
+        "wr": "51.4%"
       }
     ]
   },
@@ -11623,7 +11793,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Reworked en 6.3f — plantas mejoradas. Daño enorme para un support pero frágil. Fácil de counterpickear con dive.",
           "en": "Reworked in 6.3f — improved plants. Huge damage for a support but fragile. Easy to counterpick with dive."
