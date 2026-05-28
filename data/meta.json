@@ -1,14 +1,14 @@
 {
-  "patch": "7.1e",
+  "patch": "7.1f",
   "date": "Mayo 2026",
   "headline": {
-    "es": "Patch 7.1e: Taliyah llega al juego. Dive agresivo domina — Wukong y Hecarim son los junglas más fuertes. Garen y Ryze nerfed. Kayn y Graves buffed. ADCs de on-hit (Xayah, Jhin, Ezreal) lideran Dragon Lane.",
-    "en": "Patch 7.1e: Taliyah joins the game. Aggressive dive dominates — Wukong and Hecarim are the strongest junglers. Garen and Ryze nerfed. Kayn and Graves buffed. On-hit ADCs (Xayah, Jhin, Ezreal) lead Dragon Lane."
+    "es": "Patch 7.1f: Taliyah y Viego nerfed salen de SS en jungla. K'Sante baja de SS. Shen y Kayle buffed suben. Meta de dive sigue fuerte con Wukong y Hecarim como mejores junglas. Xayah, Jhin y Ezreal dominan Dragon Lane.",
+    "en": "Patch 7.1f: Taliyah and Viego nerfed out of SS jungle. K'Sante drops from SS. Shen and Kayle buffed up. Dive meta remains strong with Wukong and Hecarim as best junglers. Xayah, Jhin and Ezreal dominate Dragon Lane."
   },
   "changelog": [
+    { "patch": "7.1f", "note": { "es": "Taliyah, K'Sante, Viego, Kog'Maw nerfed. Shen, Kayle, Akshan buffed. Ambessa y Gragas ajustados.", "en": "Taliyah, K'Sante, Viego, Kog'Maw nerfed. Shen, Kayle, Akshan buffed. Ambessa and Gragas adjusted." }},
     { "patch": "7.1e", "note": { "es": "Taliyah añadida. Garen, Ryze, Twisted Fate nerfed. Kayn, Graves, Bard buffed. Kraken Slayer y Randuin's Omen ajustados.", "en": "Taliyah added. Garen, Ryze, Twisted Fate nerfed. Kayn, Graves, Bard buffed. Kraken Slayer and Randuin's Omen adjusted." }},
     { "patch": "7.1d", "note": { "es": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor.", "en": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor." }},
-    { "patch": "7.1b", "note": { "es": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed.", "en": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed." }},
-    { "patch": "7.1",  "note": { "es": "K'Sante añadido. Nuevo sistema de runas. Boots rework (precio reducido).", "en": "K'Sante added. New rune system. Boots rework (price reduced)." }}
+    { "patch": "7.1b", "note": { "es": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed.", "en": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed." }}
   ]
 }

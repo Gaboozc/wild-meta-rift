@@ -275,7 +275,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "ADC de mid con revive de aliados al matar al asesino. Movilidad con gancho, poke seguro. Único kit en el juego.",
           "en": "Mid-lane ADC who revives allies by killing their assassin. Mobility with grappling hook, safe poke. Unique kit in the game."
@@ -3783,7 +3783,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Nuevo en 7.1. Tank bruiser con kit de outplay. Sin nerfs todavía — probablemente suba a S.",
           "en": "New in 7.1. Tank bruiser with outplay kit. No nerfs yet — likely rises to S."
@@ -4259,7 +4259,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Hyperscaler — inútil en early, omnipotente en late. La meta de dive la destruye antes de llegar a nivel 11+.",
           "en": "Hyperscaler — useless early, omnipotent late. The dive meta destroys her before reaching level 11+."
@@ -4604,7 +4604,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 6.3f. Daño % HP enorme en late pero muy inmóvil. Necesita support de peel fuerte para funcionar.",
           "en": "Nerfed in 6.3f. Huge % HP damage in late but very immobile. Needs strong peel support to work."
@@ -8295,7 +8295,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Tank con ult global que teletransporta y escuda a un aliado. Presencia en todo el mapa. Excelente splitpush + ult = imposible de ignorar.",
           "en": "Tank with global ult that teleports and shields an ally. Presence across the entire map. Excellent splitpush + ult = impossible to ignore."
@@ -9042,7 +9042,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Nueva en 7.1e. Maga de jungla con claro ultra-rápido, engage global con W y burst alto. Domina early game y controla el mapa desde jungla.",
           "en": "New in 7.1e. Jungle mage with ultra-fast clear, global engage with W and high burst. Dominates early game and controls the map from jungle."
@@ -9100,7 +9100,7 @@
       },
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Waveclear excepcional, roam global y burst sorpresivo. Domina en mid con Q y puede aparecer en cualquier parte del mapa.",
           "en": "Exceptional waveclear, global roam and surprising burst. Dominates mid with Q and can appear anywhere on the map."
@@ -10440,7 +10440,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "wr": "50.4%",
         "why": {
           "es": "Sin nerfs en 7.x. Posee a los enemigos que mata — extra outplay. Dueling 1v1 casi imposible de perder post-6.",
