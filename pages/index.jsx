@@ -2,10 +2,12 @@ import { useState, useEffect, useMemo } from "react";
 import Head from "next/head";
 import ChampCard from "../components/ChampCard";
 import CompCard from "../components/CompCard";
+import PatchNotesPanel from "../components/PatchNotesPanel";
 import { useMyChamps } from "../hooks/useMyChamps";
 import championsData from "../data/champions.json";
 import metaData from "../data/meta.json";
 import compositionsData from "../data/compositions.json";
+import patchnotesData from "../data/patchnotes.json";
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 const TIER_ORDER = ["ss", "s", "a", "b", "c", "d"];
@@ -27,7 +29,8 @@ const ROLES = [
 const TABS = [
   { key: "tier",     icon: "📋", label: { es: "Tier List", en: "Tier List" } },
   { key: "mychamps", icon: "⭐", label: { es: "Mis Champs", en: "My Champs" } },
-  { key: "comps",    icon: "🧩", label: { es: "Comps", en: "Comps" } },
+  { key: "comps",    icon: "🧩", label: { es: "Comps",  en: "Comps"  } },
+  { key: "patch",    icon: "📋", label: { es: "Parche", en: "Patch"  } },
 ];
 
 // ─── Lang hook ────────────────────────────────────────────────────────────────
@@ -459,6 +462,23 @@ export default function Home() {
               <CompCard key={comp.id} comp={comp} lang={lang} />
             ))}
           </div>
+        </main>
+      )}
+
+      {/* ── PATCH NOTES TAB ──────────────────────────────────────────────── */}
+      {tab === "patch" && (
+        <main className="main-content">
+          <div className="comps-header">
+            <h2 className="comps-title">
+              {lang === "es" ? "Notas de Parche" : "Patch Notes"}
+            </h2>
+            <p className="comps-sub">
+              {lang === "es"
+                ? "Buffs, nerfs y ajustes · Haz click en cualquier cambio para ver los detalles"
+                : "Buffs, nerfs and adjusts · Click any change to see details"}
+            </p>
+          </div>
+          <PatchNotesPanel patchnotes={patchnotesData} lang={lang} />
         </main>
       )}
 
