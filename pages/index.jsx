@@ -459,25 +459,6 @@ export default function Home() {
               <CompCard key={comp.id} comp={comp} lang={lang} />
             ))}
           </div>
-          <style jsx>{`
-            .comps-header { margin-bottom: 1.5rem; }
-            .comps-title {
-              font-family: 'Rajdhani', sans-serif;
-              font-size: clamp(1.4rem, 4vw, 2rem);
-              font-weight: 700;
-              color: var(--text);
-              margin: 0 0 6px;
-            }
-            .comps-sub { font-size: 12px; color: var(--muted); margin: 0; }
-            .comps-grid {
-              display: grid;
-              grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-              gap: 16px;
-            }
-            @media (max-width: 640px) {
-              .comps-grid { grid-template-columns: 1fr; }
-            }
-          `}</style>
         </main>
       )}
 
@@ -757,6 +738,22 @@ export default function Home() {
           justify-content: space-between;
         }
 
+        /* COMPS */
+        .comps-header { margin-bottom: 1.5rem; }
+        .comps-title {
+          font-family: 'Rajdhani', sans-serif;
+          font-size: clamp(1.4rem, 4vw, 2rem);
+          font-weight: 700;
+          color: var(--text);
+          margin: 0 0 6px;
+        }
+        .comps-sub { font-size: 12px; color: var(--muted); margin: 0; }
+        .comps-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+          gap: 16px;
+        }
+
         /* RESPONSIVE */
         @media (max-width: 640px) {
           .header { padding: 1.5rem 1rem 1rem; }
@@ -765,6 +762,7 @@ export default function Home() {
           .filter-bar { padding: 8px 1rem; }
           .search-wrap { max-width: 100%; }
           .main-tab { padding: 12px 16px; font-size: 12px; }
+          .comps-grid { grid-template-columns: 1fr; }
         }
       `}</style>
     </>
