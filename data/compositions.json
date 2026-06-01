@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wombo-combo",
+    "name": { "es": "Wombo Combo", "en": "Wombo Combo" },
+    "tags": ["teamfight", "AOE", "engage"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Agrupar al equipo enemigo con el engage de Malphite o Jarvan IV y detonar las ultimates de AOE simultáneamente. Yasuo con su ult hace el daño devastador.",
+      "en": "Group the enemy team with Malphite or Jarvan IV engage and detonate AOE ultimates simultaneously. Yasuo's ult delivers devastating damage."
+    },
+    "team": [
+      { "role": "top", "champ": "Malphite" },
+      { "role": "jgl", "champ": "Jarvan IV" },
+      { "role": "mid", "champ": "Yasuo" },
+      { "role": "adc", "champ": "Miss Fortune" },
+      { "role": "sup", "champ": "Alistar" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "dive-assassins",
+    "name": { "es": "Dive Asesinos", "en": "Assassin Dive" },
+    "tags": ["dive", "pick", "snowball"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Entrar con Lee Sin o Ambessa para eliminar al carry enemigo en menos de 2 segundos. Akali limpia los restos. Ganar antes del minuto 20.",
+      "en": "Enter with Lee Sin or Ambessa to eliminate the enemy carry in under 2 seconds. Akali cleans up. Win before minute 20."
+    },
+    "team": [
+      { "role": "top", "champ": "Ambessa" },
+      { "role": "jgl", "champ": "Lee Sin" },
+      { "role": "mid", "champ": "Akali" },
+      { "role": "adc", "champ": "Jhin" },
+      { "role": "sup", "champ": "Braum" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "poke-siege",
+    "name": { "es": "Poke y Asedio", "en": "Poke & Siege" },
+    "tags": ["poke", "siege", "control"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Reducir la vida del equipo enemigo desde lejos con Jayce, Orianna y Ezreal antes del teamfight. Forzar peleas con ventaja de HP o ganar el asedio a torres.",
+      "en": "Reduce the enemy team's HP from range with Jayce, Orianna and Ezreal before teamfight. Force fights with HP advantage or win tower siege."
+    },
+    "team": [
+      { "role": "top", "champ": "Jayce" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Orianna" },
+      { "role": "adc", "champ": "Ezreal" },
+      { "role": "sup", "champ": "Janna" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "protect-carry",
+    "name": { "es": "Proteger al Carry", "en": "Protect the Carry" },
+    "tags": ["protect", "scaling", "late-game"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Mantener a Xayah con vida en todos los teamfights con escudos y peels de Lulu y Ornn. Escalar hasta late game donde Xayah es imbatible.",
+      "en": "Keep Xayah alive in all teamfights with shields and peels from Lulu and Ornn. Scale to late game where Xayah is unstoppable."
+    },
+    "team": [
+      { "role": "top", "champ": "Ornn" },
+      { "role": "jgl", "champ": "Vi" },
+      { "role": "mid", "champ": "Viktor" },
+      { "role": "adc", "champ": "Xayah" },
+      { "role": "sup", "champ": "Lulu" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "engage-chain",
+    "name": { "es": "Cadena de Engages", "en": "Engage Chain" },
+    "tags": ["engage", "teamfight", "CC"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Encadenar CC con Nautilus, Wukong y Amumu para que el equipo enemigo no pueda escapar. Gana quien tenga más CC en el teamfight.",
+      "en": "Chain CC with Nautilus, Wukong and Amumu so the enemy team can't escape. Whoever has more CC in teamfight wins."
+    },
+    "team": [
+      { "role": "top", "champ": "Malphite" },
+      { "role": "jgl", "champ": "Wukong" },
+      { "role": "mid", "champ": "Galio" },
+      { "role": "adc", "champ": "Caitlyn" },
+      { "role": "sup", "champ": "Nautilus" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "magic-damage",
+    "name": { "es": "Full Daño Mágico", "en": "Full Magic Damage" },
+    "tags": ["AP", "burst", "teamfight"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Saturar al equipo enemigo con daño mágico de múltiples fuentes. Sin resistencia mágica suficiente, ningún enemigo sobrevive. Syndra y Amumu como carries principales.",
+      "en": "Overwhelm the enemy team with magic damage from multiple sources. Without sufficient MR, no enemy survives. Syndra and Amumu as main carries."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Amumu" },
+      { "role": "mid", "champ": "Syndra" },
+      { "role": "adc", "champ": "Kai'Sa" },
+      { "role": "sup", "champ": "Zilean" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "split-push",
+    "name": { "es": "Split Push", "en": "Split Push" },
+    "tags": ["split", "1v1", "presión"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "K'Sante crea presión constante en una línea lateral mientras el equipo amenaza objetivos. Forzar 1v1 o 1v2 donde K'Sante gana. Taliyah y Thresh controlan el mapa.",
+      "en": "K'Sante creates constant side lane pressure while the team threatens objectives. Force 1v1 or 1v2 where K'Sante wins. Taliyah and Thresh control the map."
+    },
+    "team": [
+      { "role": "top", "champ": "K'Sante" },
+      { "role": "jgl", "champ": "Taliyah" },
+      { "role": "mid", "champ": "Zed" },
+      { "role": "adc", "champ": "Jinx" },
+      { "role": "sup", "champ": "Thresh" }
+    ],
+    "patch": "7.1f"
+  }
+]

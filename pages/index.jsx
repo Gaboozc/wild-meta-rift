@@ -1,9 +1,11 @@
 import { useState, useEffect, useMemo } from "react";
 import Head from "next/head";
 import ChampCard from "../components/ChampCard";
+import CompCard from "../components/CompCard";
 import { useMyChamps } from "../hooks/useMyChamps";
 import championsData from "../data/champions.json";
 import metaData from "../data/meta.json";
+import compositionsData from "../data/compositions.json";
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 const TIER_ORDER = ["ss", "s", "a", "b", "c", "d"];
@@ -25,6 +27,7 @@ const ROLES = [
 const TABS = [
   { key: "tier",     icon: "📋", label: { es: "Tier List", en: "Tier List" } },
   { key: "mychamps", icon: "⭐", label: { es: "Mis Champs", en: "My Champs" } },
+  { key: "comps",    icon: "🧩", label: { es: "Comps", en: "Comps" } },
 ];
 
 // ─── Lang hook ────────────────────────────────────────────────────────────────
@@ -435,6 +438,46 @@ export default function Home() {
             myChamps={myChamps}
             clearAll={clearAll}
           />
+        </main>
+      )}
+
+      {/* ── COMPS TAB ────────────────────────────────────────────────────── */}
+      {tab === "comps" && (
+        <main className="main-content">
+          <div className="comps-header">
+            <h2 className="comps-title">
+              {lang === "es" ? "Composiciones de equipo" : "Team Compositions"}
+            </h2>
+            <p className="comps-sub">
+              {lang === "es"
+                ? `${compositionsData.length} comps · Patch ${metaData.patch} · Cada comp incluye sinergias, condición de victoria y dificultad de ejecución`
+                : `${compositionsData.length} comps · Patch ${metaData.patch} · Each comp includes synergies, win condition and execution difficulty`}
+            </p>
+          </div>
+          <div className="comps-grid">
+            {compositionsData.map(comp => (
+              <CompCard key={comp.id} comp={comp} lang={lang} />
+            ))}
+          </div>
+          <style jsx>{`
+            .comps-header { margin-bottom: 1.5rem; }
+            .comps-title {
+              font-family: 'Rajdhani', sans-serif;
+              font-size: clamp(1.4rem, 4vw, 2rem);
+              font-weight: 700;
+              color: var(--text);
+              margin: 0 0 6px;
+            }
+            .comps-sub { font-size: 12px; color: var(--muted); margin: 0; }
+            .comps-grid {
+              display: grid;
+              grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+              gap: 16px;
+            }
+            @media (max-width: 640px) {
+              .comps-grid { grid-template-columns: 1fr; }
+            }
+          `}</style>
         </main>
       )}
 
