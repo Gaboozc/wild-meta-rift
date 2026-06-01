@@ -1,5 +1,23 @@
 [
   {
+    "id": "el-castillo-inflable",
+    "name": { "es": "El Castillo Inflable", "en": "The Bouncy Castle" },
+    "tags": ["AOE", "teamfight", "engage"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Jarvan IV usa su ult para crear la caja y atrapar al equipo enemigo. Fiddlesticks entra con Crowstorm y los aterra. Orianna junta a todos con el Shockwave. Miss Fortune canaliza Bullet Time desde adentro. Nadie escapa del castillo.",
+      "en": "Jarvan IV uses his ult to create the box and trap the enemy team. Fiddlesticks enters with Crowstorm fearing everyone. Orianna pulls them together with Shockwave. Miss Fortune channels Bullet Time from inside. No one escapes the castle."
+    },
+    "team": [
+      { "role": "top", "champ": "Jarvan IV" },
+      { "role": "jgl", "champ": "Fiddlesticks" },
+      { "role": "mid", "champ": "Orianna" },
+      { "role": "adc", "champ": "Miss Fortune" },
+      { "role": "sup", "champ": "Alistar" }
+    ],
+    "patch": "7.1f"
+  },
+  {
     "id": "wombo-combo",
     "name": { "es": "Wombo Combo", "en": "Wombo Combo" },
     "tags": ["teamfight", "AOE", "engage"],
@@ -14,6 +32,24 @@
       { "role": "mid", "champ": "Yasuo" },
       { "role": "adc", "champ": "Miss Fortune" },
       { "role": "sup", "champ": "Alistar" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "triple-wombo",
+    "name": { "es": "Triple Wombo", "en": "Triple Wombo" },
+    "tags": ["AOE", "teamfight", "CC"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Tres ultimates de AOE simultáneas. Malphite inicia, Amumu lanza su ult sobre todos y Galio llega desde cualquier parte del mapa. Miss Fortune remata con Bullet Time. La combinación es casi imposible de sobrevivir.",
+      "en": "Three simultaneous AOE ultimates. Malphite initiates, Amumu throws his ult over everyone and Galio arrives from anywhere on the map. Miss Fortune finishes with Bullet Time. The combination is nearly impossible to survive."
+    },
+    "team": [
+      { "role": "top", "champ": "Malphite" },
+      { "role": "jgl", "champ": "Amumu" },
+      { "role": "mid", "champ": "Galio" },
+      { "role": "adc", "champ": "Miss Fortune" },
+      { "role": "sup", "champ": "Nautilus" }
     ],
     "patch": "7.1f"
   },
@@ -77,8 +113,8 @@
     "tags": ["engage", "teamfight", "CC"],
     "difficulty": "media",
     "winCondition": {
-      "es": "Encadenar CC con Nautilus, Wukong y Amumu para que el equipo enemigo no pueda escapar. Gana quien tenga más CC en el teamfight.",
-      "en": "Chain CC with Nautilus, Wukong and Amumu so the enemy team can't escape. Whoever has more CC in teamfight wins."
+      "es": "Encadenar CC con Nautilus, Wukong y Malphite para que el equipo enemigo no pueda escapar ni usar habilidades. El equipo con más CC gana el teamfight.",
+      "en": "Chain CC with Nautilus, Wukong and Malphite so the enemy team can't escape or use abilities. The team with more CC wins the teamfight."
     },
     "team": [
       { "role": "top", "champ": "Malphite" },
@@ -95,8 +131,8 @@
     "tags": ["AP", "burst", "teamfight"],
     "difficulty": "media",
     "winCondition": {
-      "es": "Saturar al equipo enemigo con daño mágico de múltiples fuentes. Sin resistencia mágica suficiente, ningún enemigo sobrevive. Syndra y Amumu como carries principales.",
-      "en": "Overwhelm the enemy team with magic damage from multiple sources. Without sufficient MR, no enemy survives. Syndra and Amumu as main carries."
+      "es": "Saturar al equipo enemigo con daño mágico de múltiples fuentes. Sin resistencia mágica suficiente ningún enemigo sobrevive. Syndra y Amumu como carries principales.",
+      "en": "Overwhelm the enemy team with magic damage from multiple sources. Without sufficient MR no enemy survives. Syndra and Amumu as main carries."
     },
     "team": [
       { "role": "top", "champ": "Sion" },
@@ -113,8 +149,8 @@
     "tags": ["split", "1v1", "presión"],
     "difficulty": "alta",
     "winCondition": {
-      "es": "K'Sante crea presión constante en una línea lateral mientras el equipo amenaza objetivos. Forzar 1v1 o 1v2 donde K'Sante gana. Taliyah y Thresh controlan el mapa.",
-      "en": "K'Sante creates constant side lane pressure while the team threatens objectives. Force 1v1 or 1v2 where K'Sante wins. Taliyah and Thresh control the map."
+      "es": "K'Sante crea presión constante en una línea lateral mientras el equipo amenaza objetivos. Taliyah controla el mapa con engage global. Forzar 1v1 donde K'Sante siempre gana.",
+      "en": "K'Sante creates constant side lane pressure while the team threatens objectives. Taliyah controls the map with global engage. Force 1v1 where K'Sante always wins."
     },
     "team": [
       { "role": "top", "champ": "K'Sante" },
@@ -122,6 +158,636 @@
       { "role": "mid", "champ": "Zed" },
       { "role": "adc", "champ": "Jinx" },
       { "role": "sup", "champ": "Thresh" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "la-tormenta",
+    "name": { "es": "La Tormenta", "en": "The Storm" },
+    "tags": ["AOE", "teamfight", "engage"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Wukong y Amumu inician con sus ultimates de AOE. Orianna coloca la bola, Wukong inicia y Orianna detona el Shockwave. Ezreal y Zilean limpian desde atrás con sustain garantizado.",
+      "en": "Wukong and Amumu initiate with AOE ultimates. Orianna places the ball, Wukong initiates and Orianna detonates Shockwave. Ezreal and Zilean clean up from the back with guaranteed sustain."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Wukong" },
+      { "role": "mid", "champ": "Orianna" },
+      { "role": "adc", "champ": "Ezreal" },
+      { "role": "sup", "champ": "Zilean" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "la-ballena",
+    "name": { "es": "La Ballena Imparable", "en": "The Unstoppable Whale" },
+    "tags": ["protect", "scaling", "late-game"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Kog'Maw con Lulu y Soraka es prácticamente inmortal. Escalar a los items de on-hit. Sion y Nunu crean el engage y el peel necesario. Kog'Maw solo necesita disparar.",
+      "en": "Kog'Maw with Lulu and Soraka is practically immortal. Scale into on-hit items. Sion and Nunu create the needed engage and peel. Kog'Maw just needs to shoot."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Nunu & Willump" },
+      { "role": "mid", "champ": "Galio" },
+      { "role": "adc", "champ": "Kog'Maw" },
+      { "role": "sup", "champ": "Lulu" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "all-in-nivel6",
+    "name": { "es": "All-In Nivel 6", "en": "Level 6 All-In" },
+    "tags": ["early-game", "snowball", "all-in"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Dominar en early game y hacer all-in al llegar al nivel 6. Darius con Leona y Vi son la combinación de CC y daño más brutal antes del minuto 10. Matar dos veces antes del primer drag.",
+      "en": "Dominate early game and all-in at level 6. Darius with Leona and Vi are the most brutal CC and damage combination before minute 10. Get two kills before first dragon."
+    },
+    "team": [
+      { "role": "top", "champ": "Darius" },
+      { "role": "jgl", "champ": "Vi" },
+      { "role": "mid", "champ": "Akali" },
+      { "role": "adc", "champ": "Draven" },
+      { "role": "sup", "champ": "Leona" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "dominio-temprano",
+    "name": { "es": "El Tren Bala", "en": "The Bullet Train" },
+    "tags": ["early-game", "snowball", "aggression"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Ganar todas las líneas en early game con Renekton, Lee Sin y Draven. Twisted Fate aparece en líneas y acumula ventaja de oro. Terminar la partida antes del minuto 18 sin dar tiempo a que el enemigo escale.",
+      "en": "Win all lanes early with Renekton, Lee Sin and Draven. Twisted Fate roams and accumulates gold advantage. End the game before minute 18 without letting the enemy scale."
+    },
+    "team": [
+      { "role": "top", "champ": "Renekton" },
+      { "role": "jgl", "champ": "Lee Sin" },
+      { "role": "mid", "champ": "Twisted Fate" },
+      { "role": "adc", "champ": "Draven" },
+      { "role": "sup", "champ": "Blitzcrank" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "caza-carries",
+    "name": { "es": "Caza de Carries", "en": "Carry Hunt" },
+    "tags": ["pick", "dive", "assassin"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Kha'Zix y Camille entran por los flancos para eliminar al carry enemigo antes del teamfight. Zed presiona la línea central. Si el ADC o mid enemigo muere antes de la pelea, el equipo no puede resistir.",
+      "en": "Kha'Zix and Camille flank to eliminate the enemy carry before teamfight. Zed pressures the mid lane. If the enemy ADC or mid dies before the fight, the team can't resist."
+    },
+    "team": [
+      { "role": "top", "champ": "Camille" },
+      { "role": "jgl", "champ": "Kha'Zix" },
+      { "role": "mid", "champ": "Zed" },
+      { "role": "adc", "champ": "Caitlyn" },
+      { "role": "sup", "champ": "Thresh" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "artilleria-total",
+    "name": { "es": "Artillería Total", "en": "Full Artillery" },
+    "tags": ["poke", "siege", "control"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Rumble y Viktor hacen daño mágico masivo desde lejos. Hecarim es el único que entra. Varus con flecha cargada y Karma con lazo mantienen el poke constante. Gana quien tiene más rango de ataque.",
+      "en": "Rumble and Viktor deal massive magic damage from range. Hecarim is the only one who dives. Varus with charged arrow and Karma with binding maintain constant poke. Whoever has more attack range wins."
+    },
+    "team": [
+      { "role": "top", "champ": "Rumble" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Viktor" },
+      { "role": "adc", "champ": "Varus" },
+      { "role": "sup", "champ": "Karma" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "escala-infinita",
+    "name": { "es": "Escala Infinita", "en": "Infinite Scale" },
+    "tags": ["scaling", "late-game", "AP"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Sobrevivir el early game con Ornn como frontline. Kassadin es intocable desde nivel 16. Smolder acumula stacks y se vuelve imparable. Zilean revive a los carries clave. El late game es inganable.",
+      "en": "Survive early game with Ornn as frontline. Kassadin is untouchable from level 16. Smolder stacks up and becomes unstoppable. Zilean revives key carries. The late game is unwinnable for opponents."
+    },
+    "team": [
+      { "role": "top", "champ": "Ornn" },
+      { "role": "jgl", "champ": "Nunu & Willump" },
+      { "role": "mid", "champ": "Kassadin" },
+      { "role": "adc", "champ": "Smolder" },
+      { "role": "sup", "champ": "Zilean" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "el-glaciar",
+    "name": { "es": "El Glaciar", "en": "The Glacier" },
+    "tags": ["CC", "freeze", "teamfight"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Lissandra y Ashe mantienen al equipo enemigo congelado en permanencia. Jarvan IV crea la caja. Nautilus engancha desde lejos. El equipo enemigo literalmente no puede moverse. Caitlyn remata a los inmóviles.",
+      "en": "Lissandra and Ashe permanently keep the enemy team frozen. Jarvan IV creates the box. Nautilus hooks from range. The enemy team literally cannot move. Caitlyn finishes the immobilized targets."
+    },
+    "team": [
+      { "role": "top", "champ": "Jarvan IV" },
+      { "role": "jgl", "champ": "Amumu" },
+      { "role": "mid", "champ": "Lissandra" },
+      { "role": "adc", "champ": "Ashe" },
+      { "role": "sup", "champ": "Nautilus" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "cc-infinito",
+    "name": { "es": "CC Infinito", "en": "Infinite CC" },
+    "tags": ["CC", "engage", "tank"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Malphite, Rammus y Nautilus tienen CC de teamfight masivo. El equipo enemigo no puede actuar. Galio llega desde cualquier punto del mapa. Ashe enlentece para garantizar que ningún enemigo escape.",
+      "en": "Malphite, Rammus and Nautilus have massive teamfight CC. The enemy team cannot act. Galio arrives from any point on the map. Ashe slows to guarantee no enemy escapes."
+    },
+    "team": [
+      { "role": "top", "champ": "Malphite" },
+      { "role": "jgl", "champ": "Rammus" },
+      { "role": "mid", "champ": "Galio" },
+      { "role": "adc", "champ": "Ashe" },
+      { "role": "sup", "champ": "Nautilus" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "guerra-sustain",
+    "name": { "es": "Guerra de Sustain", "en": "Sustain War" },
+    "tags": ["sustain", "teamfight", "healing"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Gwen, Kai'Sa y Soraka generan curación masiva en teamfight. Swain drena vida mientras hace daño. Nadie puede matar a este equipo en una pelea larga. Forzar siempre los teamfights más largos posibles.",
+      "en": "Gwen, Kai'Sa and Soraka generate massive healing in teamfight. Swain drains life while dealing damage. Nobody can kill this team in a long fight. Always force the longest possible teamfights."
+    },
+    "team": [
+      { "role": "top", "champ": "Gwen" },
+      { "role": "jgl", "champ": "Nunu & Willump" },
+      { "role": "mid", "champ": "Swain" },
+      { "role": "adc", "champ": "Kai'Sa" },
+      { "role": "sup", "champ": "Soraka" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "full-ap-dive",
+    "name": { "es": "Dive Mágico", "en": "Magic Dive" },
+    "tags": ["AP", "dive", "burst"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Diana y Ambessa entran con daño mágico masivo. Akali limpia lo que queda. Todo el daño es mágico: sin MR el enemigo explota. Braum absorbe el daño de vuelta mientras los carries hacen el trabajo.",
+      "en": "Diana and Ambessa dive with massive magic damage. Akali cleans up what's left. All damage is magical: without MR the enemy explodes. Braum absorbs incoming damage while carries do the work."
+    },
+    "team": [
+      { "role": "top", "champ": "Ambessa" },
+      { "role": "jgl", "champ": "Diana" },
+      { "role": "mid", "champ": "Akali" },
+      { "role": "adc", "champ": "Kai'Sa" },
+      { "role": "sup", "champ": "Braum" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "drake-temprano",
+    "name": { "es": "Control de Dragón", "en": "Dragon Control" },
+    "tags": ["early-game", "objective", "engage"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Renekton y Hecarim dominan el early game y hacen el primer drake gratis. Orianna y Leona controlan el área del dragón. Acumular 4 stacks de drake antes del minuto 15 para el alma del dragón.",
+      "en": "Renekton and Hecarim dominate early game and get the first drake for free. Orianna and Leona control the dragon area. Stack 4 drake buffs before minute 15 for the dragon soul."
+    },
+    "team": [
+      { "role": "top", "champ": "Renekton" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Orianna" },
+      { "role": "adc", "champ": "Caitlyn" },
+      { "role": "sup", "champ": "Leona" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "anti-dive",
+    "name": { "es": "Anti-Dive", "en": "Anti-Dive" },
+    "tags": ["protect", "peel", "counter"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Contrarrestar comps de dive con Malphite y Braum que bloquean todo el daño. Xayah activa sus plumas cuando entran al dive y los mata. Ornn mejora los items del equipo para el late game.",
+      "en": "Counter dive comps with Malphite and Braum blocking all damage. Xayah activates her feathers when they dive and kills them. Ornn upgrades team items for late game."
+    },
+    "team": [
+      { "role": "top", "champ": "Malphite" },
+      { "role": "jgl", "champ": "Wukong" },
+      { "role": "mid", "champ": "Orianna" },
+      { "role": "adc", "champ": "Xayah" },
+      { "role": "sup", "champ": "Braum" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "sombras-nocturnas",
+    "name": { "es": "Sombras Nocturnas", "en": "Night Shadows" },
+    "tags": ["pick", "assassin", "snowball"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Kayn en forma Asesino de Sombras es intocable. Talon y Zed roaman constantemente. Blitzcrank jala al carry enemigo y todo el equipo lo elimina al instante. Castigar cada error de posición.",
+      "en": "Kayn in Shadow Assassin form is untouchable. Talon and Zed roam constantly. Blitzcrank pulls the enemy carry and the whole team instantly eliminates them. Punish every positioning mistake."
+    },
+    "team": [
+      { "role": "top", "champ": "K'Sante" },
+      { "role": "jgl", "champ": "Kayn" },
+      { "role": "mid", "champ": "Talon" },
+      { "role": "adc", "champ": "Jhin" },
+      { "role": "sup", "champ": "Blitzcrank" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "peel-machine",
+    "name": { "es": "Máquina de Peel", "en": "Peel Machine" },
+    "tags": ["protect", "peel", "scaling"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Ezreal y Lulu son prácticamente imposibles de eliminar. Sion y Galio bloquean todo engage enemigo. Amumu inicia cuando sea necesario. Este equipo es excelente contra comps de dive y assassins.",
+      "en": "Ezreal and Lulu are practically impossible to eliminate. Sion and Galio block all enemy engage. Amumu initiates when necessary. This team is excellent against dive and assassin comps."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Amumu" },
+      { "role": "mid", "champ": "Galio" },
+      { "role": "adc", "champ": "Ezreal" },
+      { "role": "sup", "champ": "Lulu" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "invade-specialists",
+    "name": { "es": "Invasión Total", "en": "Total Invasion" },
+    "tags": ["early-game", "invade", "aggression"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Hecarim y Camille invaden la jungla enemiga desde el nivel 1. Pyke roamea para apoyar. Eliminar al jungla enemigo 3 veces antes del minuto 8 para que nunca se recupere.",
+      "en": "Hecarim and Camille invade the enemy jungle from level 1. Pyke roams to assist. Eliminate the enemy jungler 3 times before minute 8 so they never recover."
+    },
+    "team": [
+      { "role": "top", "champ": "Camille" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Taliyah" },
+      { "role": "adc", "champ": "Jhin" },
+      { "role": "sup", "champ": "Pyke" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "dominio-mapa",
+    "name": { "es": "Dominio del Mapa", "en": "Map Domination" },
+    "tags": ["roam", "global", "control"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Twisted Fate y Taliyah tienen presencia global. Twisted Fate aparece en cualquier línea con su ult. Taliyah llega antes que nadie. Miss Fortune y Jarvan IV controlan los objetivos con su presencia.",
+      "en": "Twisted Fate and Taliyah have global presence. TF appears in any lane with his ult. Taliyah arrives before anyone. Miss Fortune and Jarvan IV control objectives with their presence."
+    },
+    "team": [
+      { "role": "top", "champ": "Jarvan IV" },
+      { "role": "jgl", "champ": "Taliyah" },
+      { "role": "mid", "champ": "Twisted Fate" },
+      { "role": "adc", "champ": "Miss Fortune" },
+      { "role": "sup", "champ": "Karma" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "full-crit",
+    "name": { "es": "Full Crítico", "en": "Full Crit" },
+    "tags": ["crit", "scaling", "burst"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Yasuo con 100% de crítico y Xayah con Huracán de Runaan hacen daño masivo en teamfight. Fiora gana su línea y splitpushea. Hecarim inicia y Janna protege a los carries.",
+      "en": "Yasuo with 100% crit and Xayah with Runaan's Hurricane deal massive teamfight damage. Fiora wins lane and splitpushes. Hecarim initiates and Janna protects carries."
+    },
+    "team": [
+      { "role": "top", "champ": "Fiora" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Yasuo" },
+      { "role": "adc", "champ": "Xayah" },
+      { "role": "sup", "champ": "Janna" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "snowball-jungla",
+    "name": { "es": "Snowball de Jungla", "en": "Jungle Snowball" },
+    "tags": ["snowball", "carry-jungla", "dive"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Viego es el carry principal. Cuando asesina a un enemigo los posee y ejecuta otro. Con 2 kills antes del minuto 10, Viego se vuelve imparable. K'Sante y Viktor dan el tiempo necesario para que Viego escale.",
+      "en": "Viego is the main carry. When he kills an enemy he possesses them and executes another. With 2 kills before minute 10, Viego becomes unstoppable. K'Sante and Viktor give the time Viego needs to scale."
+    },
+    "team": [
+      { "role": "top", "champ": "K'Sante" },
+      { "role": "jgl", "champ": "Viego" },
+      { "role": "mid", "champ": "Viktor" },
+      { "role": "adc", "champ": "Ezreal" },
+      { "role": "sup", "champ": "Thresh" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "siege-magico",
+    "name": { "es": "Asedio Mágico", "en": "Magic Siege" },
+    "tags": ["AP", "poke", "siege"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Rumble y Lux hacen daño mágico masivo en línea desde lejos. Taliyah controla el área con sus rocas. Caitlyn y Janna complementan el poke. Destruir torres sin necesidad de entrar en teamfight.",
+      "en": "Rumble and Lux deal massive magic damage from range. Taliyah controls the area with her rocks. Caitlyn and Janna complement the poke. Destroy towers without needing to engage in teamfight."
+    },
+    "team": [
+      { "role": "top", "champ": "Rumble" },
+      { "role": "jgl", "champ": "Taliyah" },
+      { "role": "mid", "champ": "Lux" },
+      { "role": "adc", "champ": "Caitlyn" },
+      { "role": "sup", "champ": "Janna" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "presion-baron",
+    "name": { "es": "Presión en Barón", "en": "Baron Pressure" },
+    "tags": ["split", "objective", "control"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Malphite presiona la línea de Barón. Lee Sin hace picks en jungla. Twisted Fate y Jinx tienen presencia global. El objetivo es forzar al equipo enemigo a dividirse entre defender barón y las demás líneas.",
+      "en": "Malphite pressures Baron lane. Lee Sin makes picks in the jungle. Twisted Fate and Jinx have global presence. The goal is to force the enemy team to split between defending Baron and other lanes."
+    },
+    "team": [
+      { "role": "top", "champ": "Malphite" },
+      { "role": "jgl", "champ": "Lee Sin" },
+      { "role": "mid", "champ": "Twisted Fate" },
+      { "role": "adc", "champ": "Jinx" },
+      { "role": "sup", "champ": "Thresh" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "la-apisonadora",
+    "name": { "es": "La Apisonadora", "en": "The Steamroller" },
+    "tags": ["tank", "engage", "teamfight"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Cuatro frontliners con engage masivo. El enemigo no puede entrar al teamfight. Ornn, Rammus y Leona absorben todo el daño. Ashe enlentece para garantizar los kills. No hay escape posible.",
+      "en": "Four frontliners with massive engage. The enemy cannot enter teamfight. Ornn, Rammus and Leona absorb all damage. Ashe slows to guarantee kills. There is no possible escape."
+    },
+    "team": [
+      { "role": "top", "champ": "Ornn" },
+      { "role": "jgl", "champ": "Rammus" },
+      { "role": "mid", "champ": "Galio" },
+      { "role": "adc", "champ": "Ashe" },
+      { "role": "sup", "champ": "Leona" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "el-miedo",
+    "name": { "es": "El Miedo", "en": "The Fear" },
+    "tags": ["AOE", "teamfight", "AP"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Fiddlesticks es el carry de jungla. Swain drena vida mientras hace daño mágico. Miss Fortune y Sion absorben el engage enemigo. El equipo tiene sustain infinito y daño de área constante en cada teamfight.",
+      "en": "Fiddlesticks is the jungle carry. Swain drains life while dealing magic damage. Miss Fortune and Sion absorb enemy engage. The team has infinite sustain and constant area damage in every teamfight."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Fiddlesticks" },
+      { "role": "mid", "champ": "Swain" },
+      { "role": "adc", "champ": "Miss Fortune" },
+      { "role": "sup", "champ": "Zilean" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "agresion-permanente",
+    "name": { "es": "Agresión Permanente", "en": "Permanent Aggression" },
+    "tags": ["aggression", "early-game", "snowball"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "No dejar al equipo enemigo respirar en ningún momento. Wukong, Lee Sin y Akali crean presión constante. Draven y Braum son devastadores en el early 2v2. El objetivo es tener ventaja de oro en el minuto 10.",
+      "en": "Never let the enemy team breathe. Wukong, Lee Sin and Akali create constant pressure. Draven and Braum are devastating in early 2v2. The goal is to have gold advantage at minute 10."
+    },
+    "team": [
+      { "role": "top", "champ": "Wukong" },
+      { "role": "jgl", "champ": "Lee Sin" },
+      { "role": "mid", "champ": "Akali" },
+      { "role": "adc", "champ": "Draven" },
+      { "role": "sup", "champ": "Braum" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "flanqueo-global",
+    "name": { "es": "El Flanqueo Global", "en": "The Global Flank" },
+    "tags": ["roam", "flank", "pick"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Ambessa y Hecarim flanquean desde los lados mientras Twisted Fate bloquea escapes con su gold card. Jhin remata desde lejos con su ult. El equipo enemigo nunca sabe de dónde viene el daño.",
+      "en": "Ambessa and Hecarim flank from the sides while Twisted Fate blocks escapes with his gold card. Jhin finishes from range with his ult. The enemy team never knows where the damage comes from."
+    },
+    "team": [
+      { "role": "top", "champ": "Ambessa" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Twisted Fate" },
+      { "role": "adc", "champ": "Jhin" },
+      { "role": "sup", "champ": "Thresh" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "escudo-perfecto",
+    "name": { "es": "Escudo Perfecto", "en": "Perfect Shield" },
+    "tags": ["protect", "engage", "scaling"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Ornn hace el engage y mejora los items de todo el equipo. Hecarim es el segundo engage. Orianna cubre a Smolder con la bola. Lulu da shields y hace a Smolder gigante cuando lo divan. Escalar hasta late y ganar cualquier teamfight.",
+      "en": "Ornn engages and upgrades all team items. Hecarim is the second engage. Orianna covers Smolder with the ball. Lulu gives shields and makes Smolder giant when dived. Scale to late and win any teamfight."
+    },
+    "team": [
+      { "role": "top", "champ": "Ornn" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Orianna" },
+      { "role": "adc", "champ": "Smolder" },
+      { "role": "sup", "champ": "Lulu" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "escala-mago",
+    "name": { "es": "El Mago Eterno", "en": "The Eternal Mage" },
+    "tags": ["AP", "scaling", "late-game"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Kassadin es el carry principal con escala infinita. Viego en jungla genera ventaja de recursos. Syndra hace daño de burst en mid. Soraka mantiene a Kai'Sa viva mientras escala. Llegar al nivel 16 y ganar automaticamente.",
+      "en": "Kassadin is the main carry with infinite scaling. Viego in jungle generates resource advantage. Syndra bursts in mid. Soraka keeps Kai'Sa alive while she scales. Reach level 16 and win automatically."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Viego" },
+      { "role": "mid", "champ": "Kassadin" },
+      { "role": "adc", "champ": "Kai'Sa" },
+      { "role": "sup", "champ": "Soraka" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "la-guerrilla",
+    "name": { "es": "La Guerrilla", "en": "The Guerrilla" },
+    "tags": ["pick", "assassin", "roam"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Camille, Kha'Zix y Zed crean presión en todas las líneas. Pyke roba kills con su ult y da oro extra al equipo. Jhin remata desde lejos. No hay teamfights organizados, solo picks constantes en cada esquina del mapa.",
+      "en": "Camille, Kha'Zix and Zed create pressure in all lanes. Pyke steals kills with his ult and gives extra gold to the team. Jhin finishes from range. No organized teamfights, just constant picks in every corner of the map."
+    },
+    "team": [
+      { "role": "top", "champ": "Camille" },
+      { "role": "jgl", "champ": "Kha'Zix" },
+      { "role": "mid", "champ": "Zed" },
+      { "role": "adc", "champ": "Jhin" },
+      { "role": "sup", "champ": "Pyke" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "lluvia-acida",
+    "name": { "es": "Lluvia Ácida", "en": "Acid Rain" },
+    "tags": ["poke", "AP", "control"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Zyra, Lux y Jayce hacen daño a distancia infinita. El enemigo no puede acercarse sin perder el 40% de vida. Forzar teamfights con el enemigo al 50% de HP. Nautilus engancha al primero que intente avanzar.",
+      "en": "Zyra, Lux and Jayce deal infinite range damage. The enemy can't approach without losing 40% HP. Force teamfights with the enemy at 50% HP. Nautilus hooks the first one who tries to advance."
+    },
+    "team": [
+      { "role": "top", "champ": "Jayce" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Lux" },
+      { "role": "adc", "champ": "Varus" },
+      { "role": "sup", "champ": "Zyra" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "frontline-irresistible",
+    "name": { "es": "Muro Viviente", "en": "Living Wall" },
+    "tags": ["tank", "engage", "teamfight"],
+    "difficulty": "fácil",
+    "winCondition": {
+      "es": "Sion, Wukong y Nautilus son prácticamente imposibles de matar. Tres ultimates de engage simultáneas. Jinx explota cuando el equipo enemigo ya no puede moverse. La victoria llega por agotamiento.",
+      "en": "Sion, Wukong and Nautilus are practically impossible to kill. Three simultaneous engage ultimates. Jinx explodes when the enemy team can no longer move. Victory comes through attrition."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Wukong" },
+      { "role": "mid", "champ": "Galio" },
+      { "role": "adc", "champ": "Jinx" },
+      { "role": "sup", "champ": "Nautilus" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "evelynn-terror",
+    "name": { "es": "Terror Invisible", "en": "Invisible Terror" },
+    "tags": ["pick", "stealth", "snowball"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Evelynn es invisible desde nivel 6 y asesina carries sin warning. Syndra hace burst desde mid. Malphite inicia teamfights si es necesario. Jhin remata desde lejos con su cuarta bala. Castigar cada error de posición.",
+      "en": "Evelynn is invisible from level 6 and assassinates carries without warning. Syndra bursts from mid. Malphite initiates teamfights if needed. Jhin finishes from range with his fourth shot. Punish every positioning mistake."
+    },
+    "team": [
+      { "role": "top", "champ": "Malphite" },
+      { "role": "jgl", "champ": "Evelynn" },
+      { "role": "mid", "champ": "Syndra" },
+      { "role": "adc", "champ": "Jhin" },
+      { "role": "sup", "champ": "Braum" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "smolder-infinito",
+    "name": { "es": "El Dragón Infinito", "en": "The Infinite Dragon" },
+    "tags": ["scaling", "protect", "late-game"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Smolder escala exponencialmente con cada stack. Con 225 stacks su Q mata cualquier carry de un tiro. Ornn actualiza items del equipo. Amumu y Milio protegen con shields masivos. Solo hay que sobrevivir hasta minuto 20.",
+      "en": "Smolder scales exponentially with each stack. At 225 stacks his Q one-shots any carry. Ornn upgrades team items. Amumu and Milio protect with massive shields. Just need to survive until minute 20."
+    },
+    "team": [
+      { "role": "top", "champ": "Ornn" },
+      { "role": "jgl", "champ": "Amumu" },
+      { "role": "mid", "champ": "Viktor" },
+      { "role": "adc", "champ": "Smolder" },
+      { "role": "sup", "champ": "Milio" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "kayn-carries",
+    "name": { "es": "El Segador", "en": "The Reaper" },
+    "tags": ["carry-jungla", "dive", "snowball"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Kayn entra TRAVÉS de las paredes para asesinar carries. En forma Rhaast absorbe daño mientras hace AOE. K'Sante y Zed crean presión lateral. Thresh engancha para garantizar picks. El equipo enemigo nunca está seguro.",
+      "en": "Kayn enters THROUGH walls to assassinate carries. In Rhaast form absorbs damage while dealing AOE. K'Sante and Zed create side pressure. Thresh hooks to guarantee picks. The enemy team is never safe."
+    },
+    "team": [
+      { "role": "top", "champ": "K'Sante" },
+      { "role": "jgl", "champ": "Kayn" },
+      { "role": "mid", "champ": "Zed" },
+      { "role": "adc", "champ": "Caitlyn" },
+      { "role": "sup", "champ": "Thresh" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "corki-mid",
+    "name": { "es": "El Piloto de Guerra", "en": "The War Pilot" },
+    "tags": ["poke", "AP", "scaling"],
+    "difficulty": "media",
+    "winCondition": {
+      "es": "Corki hace daño mixto (físico y mágico) que nadie puede resistir bien. Sus paquetes crean presión constante en mid. Wukong y Hecarim tienen el engage. Xayah y Lulu escalan juntos para el late game.",
+      "en": "Corki deals mixed damage (physical and magic) that nobody resists well. His packages create constant mid pressure. Wukong and Hecarim have the engage. Xayah and Lulu scale together for late game."
+    },
+    "team": [
+      { "role": "top", "champ": "Wukong" },
+      { "role": "jgl", "champ": "Hecarim" },
+      { "role": "mid", "champ": "Corki" },
+      { "role": "adc", "champ": "Xayah" },
+      { "role": "sup", "champ": "Lulu" }
+    ],
+    "patch": "7.1f"
+  },
+  {
+    "id": "composicion-pyke",
+    "name": { "es": "El Padrino del Oro", "en": "The Gold Godfather" },
+    "tags": ["pick", "snowball", "gold"],
+    "difficulty": "alta",
+    "winCondition": {
+      "es": "Pyke ejecuta enemies con su ult y da oro extra a todo el equipo. Amumu y Lee Sin hacen los picks. Con 2+ kills de Pyke antes del minuto 10, el equipo tiene ventaja de items masiva. El objetivo es que Pyke ejecute mínimo 10 veces.",
+      "en": "Pyke executes enemies with his ult and gives extra gold to the whole team. Amumu and Lee Sin make the picks. With 2+ Pyke kills before minute 10, the team has massive item advantage. The goal is for Pyke to execute at least 10 times."
+    },
+    "team": [
+      { "role": "top", "champ": "Sion" },
+      { "role": "jgl", "champ": "Lee Sin" },
+      { "role": "mid", "champ": "Twisted Fate" },
+      { "role": "adc", "champ": "Draven" },
+      { "role": "sup", "champ": "Pyke" }
     ],
     "patch": "7.1f"
   }
