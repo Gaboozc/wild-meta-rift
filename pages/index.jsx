@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import Head from "next/head";
 import ChampCard from "../components/ChampCard";
 import CompCard from "../components/CompCard";
+import CompsPanel from "../components/CompsPanel";
 import PatchNotesPanel from "../components/PatchNotesPanel";
 import { useMyChamps } from "../hooks/useMyChamps";
 import championsData from "../data/champions.json";
