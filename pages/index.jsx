@@ -447,20 +447,12 @@ export default function Home() {
       {/* ── COMPS TAB ────────────────────────────────────────────────────── */}
       {tab === "comps" && (
         <main className="main-content">
-          <div className="comps-header">
-            <h2 className="comps-title">
-              {lang === "es" ? "Composiciones de equipo" : "Team Compositions"}
-            </h2>
-            <p className="comps-sub">
-              {lang === "es"
-                ? `${compositionsData.length} comps · Patch ${metaData.patch} · Cada comp incluye sinergias, condición de victoria y dificultad de ejecución`
-                : `${compositionsData.length} comps · Patch ${metaData.patch} · Each comp includes synergies, win condition and execution difficulty`}
-            </p>
-          </div>
+          <CompsPanel lang={lang} compositionsData={compositionsData} metaData={metaData} />
+        </main>
+      )}
+      {tab === "comps_PLACEHOLDER" && (
+        <main className="main-content">
           <div className="comps-grid">
-            {compositionsData.map(comp => (
-              <CompCard key={comp.id} comp={comp} lang={lang} />
-            ))}
           </div>
         </main>
       )}
