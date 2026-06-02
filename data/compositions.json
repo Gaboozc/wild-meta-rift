@@ -652,8 +652,8 @@
     ],
     "difficulty": "media",
     "winCondition": {
-      "es": "Lissandra y Ashe mantienen al equipo enemigo congelado en permanencia. Jarvan IV crea la caja. Nautilus engancha desde lejos. El equipo enemigo literalmente no puede moverse. Caitlyn remata a los inmóviles.",
-      "en": "Lissandra and Ashe permanently keep the enemy team frozen. Jarvan IV creates the box. Nautilus hooks from range. The enemy team literally cannot move. Caitlyn finishes the immobilized targets."
+      "es": "Lissandra y Ashe mantienen al equipo enemigo congelado en permanencia. Jarvan IV crea la caja. Nautilus engancha desde lejos. El equipo enemigo literalmente no puede moverse. Ashe remata a los inmóviles con sus flechas.",
+      "en": "Lissandra and Ashe permanently keep the enemy team frozen. Jarvan IV creates the box. Nautilus hooks from range. The enemy team literally cannot move. Ashe finishes the immobilized targets with her arrows."
     },
     "team": [
       {
@@ -670,7 +670,10 @@
       },
       {
         "role": "adc",
-        "champ": "Ashe"
+        "champ": "Ashe",
+        "alts": [
+          "Caitlyn"
+        ]
       },
       {
         "role": "sup",
@@ -852,13 +855,16 @@
     ],
     "difficulty": "fácil",
     "winCondition": {
-      "es": "Contrarrestar comps de dive con Malphite y Braum que bloquean todo el daño. Xayah activa sus plumas cuando entran al dive y los mata. Ornn mejora los items del equipo para el late game.",
-      "en": "Counter dive comps with Malphite and Braum blocking all damage. Xayah activates her feathers when they dive and kills them. Ornn upgrades team items for late game."
+      "es": "Contrarrestar comps de dive con Malphite y Braum que bloquean todo el daño. Xayah activa sus plumas cuando entran al dive y los mata. Wukong contraataca con el multiknockup de su ult cuando el dive falla.",
+      "en": "Counter dive comps with Malphite and Braum blocking all damage. Xayah activates her feathers when they dive and kills them. Wukong counters with his multi-knockup ult when the dive fails."
     },
     "team": [
       {
         "role": "top",
-        "champ": "Malphite"
+        "champ": "Malphite",
+        "alts": [
+          "Ornn"
+        ]
       },
       {
         "role": "jgl",
@@ -892,8 +898,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Kayn en forma Asesino de Sombras es intocable. Talon y Zed roaman constantemente. Blitzcrank jala al carry enemigo y todo el equipo lo elimina al instante. Castigar cada error de posición.",
-      "en": "Kayn in Shadow Assassin form is untouchable. Talon and Zed roam constantly. Blitzcrank pulls the enemy carry and the whole team instantly eliminates them. Punish every positioning mistake."
+      "es": "Kayn en forma Asesino de Sombras es intocable. Talon y Kayn roaman constantemente. Blitzcrank jala al carry enemigo y todo el equipo lo elimina al instante. Castigar cada error de posición.",
+      "en": "Kayn in Shadow Assassin form is untouchable. Talon and Kayn roam constantly. Blitzcrank pulls the enemy carry and the whole team instantly eliminates them. Punish every positioning mistake."
     },
     "team": [
       {
@@ -906,7 +912,10 @@
       },
       {
         "role": "mid",
-        "champ": "Talon"
+        "champ": "Talon",
+        "alts": [
+          "Zed"
+        ]
       },
       {
         "role": "adc",
@@ -1412,8 +1421,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Kassadin es el carry principal con escala infinita. Viego en jungla genera ventaja de recursos. Syndra hace daño de burst en mid. Soraka mantiene a Kai'Sa viva mientras escala. Llegar al nivel 16 y ganar automaticamente.",
-      "en": "Kassadin is the main carry with infinite scaling. Viego in jungle generates resource advantage. Syndra bursts in mid. Soraka keeps Kai'Sa alive while she scales. Reach level 16 and win automatically."
+      "es": "Kassadin es el carry principal con escala infinita. Viego en jungla genera ventaja de recursos. Sion inicia los teamfights como frontline imparable. Soraka mantiene a Kai'Sa viva mientras escala. Llegar al nivel 16 y ganar automaticamente.",
+      "en": "Kassadin is the main carry with infinite scaling. Viego in jungle generates resource advantage. Sion initiates teamfights as an unstoppable frontline. Soraka keeps Kai'Sa alive while she scales. Reach level 16 and win automatically."
     },
     "team": [
       {
@@ -1426,7 +1435,10 @@
       },
       {
         "role": "mid",
-        "champ": "Kassadin"
+        "champ": "Kassadin",
+        "alts": [
+          "Syndra"
+        ]
       },
       {
         "role": "adc",
@@ -1492,8 +1504,8 @@
     ],
     "difficulty": "media",
     "winCondition": {
-      "es": "Zyra, Lux y Jayce hacen daño a distancia infinita. El enemigo no puede acercarse sin perder el 40% de vida. Forzar teamfights con el enemigo al 50% de HP. Nautilus engancha al primero que intente avanzar.",
-      "en": "Zyra, Lux and Jayce deal infinite range damage. The enemy can't approach without losing 40% HP. Force teamfights with the enemy at 50% HP. Nautilus hooks the first one who tries to advance."
+      "es": "Zyra, Lux y Jayce hacen daño a distancia infinita. El enemigo no puede acercarse sin perder el 40% de vida. Forzar teamfights con el enemigo al 50% de HP. Hecarim arrolla al primero que intente avanzar.",
+      "en": "Zyra, Lux and Jayce deal infinite range damage. The enemy can't approach without losing 40% HP. Force teamfights with the enemy at 50% HP. Hecarim runs down the first one who tries to advance."
     },
     "team": [
       {
@@ -1732,8 +1744,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Pyke ejecuta enemies con su ult y da oro extra a todo el equipo. Amumu y Lee Sin hacen los picks. Con 2+ kills de Pyke antes del minuto 10, el equipo tiene ventaja de items masiva. El objetivo es que Pyke ejecute mínimo 10 veces.",
-      "en": "Pyke executes enemies with his ult and gives extra gold to the whole team. Amumu and Lee Sin make the picks. With 2+ Pyke kills before minute 10, the team has massive item advantage. The goal is for Pyke to execute at least 10 times."
+      "es": "Pyke ejecuta enemies con su ult y da oro extra a todo el equipo. Twisted Fate y Lee Sin hacen los picks. Con 2+ kills de Pyke antes del minuto 10, el equipo tiene ventaja de items masiva. El objetivo es que Pyke ejecute mínimo 10 veces.",
+      "en": "Pyke executes enemies with his ult and gives extra gold to the whole team. Twisted Fate and Lee Sin make the picks. With 2+ Pyke kills before minute 10, the team has massive item advantage. The goal is for Pyke to execute at least 10 times."
     },
     "team": [
       {
@@ -1742,7 +1754,10 @@
       },
       {
         "role": "jgl",
-        "champ": "Lee Sin"
+        "champ": "Lee Sin",
+        "alts": [
+          "Amumu"
+        ]
       },
       {
         "role": "mid",
@@ -2252,8 +2267,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Ekko retrocede el tiempo con R para escapar o ejecutar. Nidalee salta entre arbustos y lanza jabalinas que hacen doble daño. Katarina acumula resets con cada kill. Vayne true damage mata tanques. Zilean revive al carry clave.",
-      "en": "Ekko rewinds time with R to escape or execute. Nidalee leaps between bushes and throws javelins that deal double damage. Katarina stacks resets with every kill. Vayne true damage kills tanks. Zilean revives key carry."
+      "es": "Ekko retrocede el tiempo con R para escapar o ejecutar. Nidalee salta entre arbustos y lanza jabalinas que hacen doble daño. Sion aguanta como frontline mientras los asesinos limpian. Vayne true damage mata tanques. Zilean revive al carry clave.",
+      "en": "Ekko rewinds time with R to escape or execute. Nidalee leaps between bushes and throws javelins that deal double damage. Sion holds the frontline while the assassins clean up. Vayne true damage kills tanks. Zilean revives key carry."
     },
     "team": [
       {
@@ -2266,7 +2281,10 @@
       },
       {
         "role": "mid",
-        "champ": "Ekko"
+        "champ": "Ekko",
+        "alts": [
+          "Katarina"
+        ]
       },
       {
         "role": "adc",
@@ -2372,8 +2390,8 @@
     ],
     "difficulty": "media",
     "winCondition": {
-      "es": "Annie invoca a Tibbers con stun de AOE. Shyvana en forma de dragón escupe fuego. Brand explota en cadena entre enemigos cercanos. Nami ola de marea enlentece y hace más daño con sus otras habilidades. Jhin remata con bala 4.",
-      "en": "Annie summons Tibbers with AOE stun. Shyvana in dragon form breathes fire. Brand chain explodes between nearby enemies. Nami tidal wave slows and empowers her other abilities. Jhin finishes with bullet 4."
+      "es": "Annie invoca a Tibbers con stun de AOE. Shyvana en forma de dragón escupe fuego. Brand explota en cadena entre enemigos cercanos. Sion carga con su ult para agrupar a los enemigos dentro del fuego. Jhin remata con bala 4.",
+      "en": "Annie summons Tibbers with AOE stun. Shyvana in dragon form breathes fire. Brand chain explodes between nearby enemies. Sion charges with his ult to group enemies into the fire. Jhin finishes with bullet 4."
     },
     "team": [
       {
@@ -2612,13 +2630,16 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Nidalee como jungla salta entre arbustos y hace ganks sorpresa. Mel en mid refleja hechizos enemigos de vuelta. Jayce presiona la línea de Barón. Pantheon aterriza en cualquier parte del mapa con su salto global. Nami sustain en bot.",
-      "en": "Nidalee in jungle leaps between bushes and makes surprise ganks. Mel in mid reflects enemy spells back. Jayce pressures Baron lane. Pantheon lands anywhere on the map with his global leap. Nami sustains in bot."
+      "es": "Nidalee como jungla salta entre arbustos y hace ganks sorpresa. Mel en mid refleja hechizos enemigos de vuelta. Jayce presiona la línea de Barón. Varus abre peleas a larga distancia con el ult de raíces. Nami sustain en bot.",
+      "en": "Nidalee in jungle leaps between bushes and makes surprise ganks. Mel in mid reflects enemy spells back. Jayce pressures Baron lane. Varus opens fights from long range with his root ult. Nami sustains in bot."
     },
     "team": [
       {
         "role": "top",
-        "champ": "Jayce"
+        "champ": "Jayce",
+        "alts": [
+          "Pantheon"
+        ]
       },
       {
         "role": "jgl",
@@ -2692,8 +2713,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Warwick siente sangre y persigue con E invisible rápido. Master Yi medita y es imbatible con Alfa Strike. Katarina acumula resets con cada kill. Vayne kita con paso de retroceso E. Milio escuda cuando los divan. El equipo caza como manada sin parar.",
-      "en": "Warwick smells blood and chases with fast invisible E. Master Yi meditates and is unstoppable with Alpha Strike. Katarina stacks resets with every kill. Vayne kites with E backstep. Milio shields when dived. The team hunts like a pack non-stop."
+      "es": "Wukong inicia con su clon y el knockup de su ult. Master Yi medita y es imbatible con Alfa Strike. Katarina acumula resets con cada kill. Vayne kita con paso de retroceso E. Milio escuda cuando los divan. El equipo caza como manada sin parar.",
+      "en": "Wukong initiates with his clone and ult knockup. Master Yi meditates and is unstoppable with Alpha Strike. Katarina stacks resets with every kill. Vayne kites with E backstep. Milio shields when dived. The team hunts like a pack non-stop."
     },
     "team": [
       {
@@ -2702,7 +2723,10 @@
       },
       {
         "role": "jgl",
-        "champ": "Master Yi"
+        "champ": "Master Yi",
+        "alts": [
+          "Warwick"
+        ]
       },
       {
         "role": "mid",
@@ -2932,8 +2956,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Aurelion Sol escala. Zoe roba hechizos de summoner con sus orbes y hace dormir carries. Lillia hace dormir a TODO el equipo enemigo con su ult Sueños Compartidos. Nilah dash circular y daño. Yuumi es invulnerable dentro de un aliado y cura constantemente.",
-      "en": "Aurelion Sol scales. Zoe steals summoner spells with orbs and sleeps carries. Lillia puts the ENTIRE enemy team to sleep with Shared Dreams ult. Nilah circular dash and damage. Yuumi is invulnerable inside an ally and constantly heals."
+      "es": "Aurelion Sol escala. Sion carga con su ult para agrupar al enemigo antes del sueño de Lillia. Lillia hace dormir a TODO el equipo enemigo con su ult Sueños Compartidos. Nilah dash circular y daño. Yuumi es invulnerable dentro de un aliado y cura constantemente.",
+      "en": "Aurelion Sol scales. Sion charges with his ult to group the enemy before Lillia sleep. Lillia puts the ENTIRE enemy team to sleep with Shared Dreams ult. Nilah circular dash and damage. Yuumi is invulnerable inside an ally and constantly heals."
     },
     "team": [
       {
@@ -2946,7 +2970,10 @@
       },
       {
         "role": "mid",
-        "champ": "Aurelion Sol"
+        "champ": "Aurelion Sol",
+        "alts": [
+          "Zoe"
+        ]
       },
       {
         "role": "adc",
@@ -3372,8 +3399,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Veigar atrapa en jaula y mata de un golpe con ult Event Horizon + Villainy. Vex empuja con miedo pasivo a los que saltan. Nocturne apaga la visión para el combo. Twitch envenena invisible. Zyra crea plantas que bloquean el avance.",
-      "en": "Veigar traps in cage and one-shots with Event Horizon + Villainy ult. Vex fear-repels enemies that jump on her. Nocturne cuts vision for the combo. Twitch poisons while invisible. Zyra creates plants that block advance."
+      "es": "Veigar atrapa en jaula y mata de un golpe con ult Event Horizon + Villainy. Malphite inicia con su ult lanzando por el aire a los que saltan. Nocturne apaga la visión para el combo. Twitch envenena invisible. Zyra crea plantas que bloquean el avance.",
+      "en": "Veigar traps in cage and one-shots with Event Horizon + Villainy ult. Malphite initiates with his ult, launching those who dive in. Nocturne cuts vision for the combo. Twitch poisons while invisible. Zyra creates plants that block advance."
     },
     "team": [
       {
@@ -3386,7 +3413,10 @@
       },
       {
         "role": "mid",
-        "champ": "Veigar"
+        "champ": "Veigar",
+        "alts": [
+          "Vex"
+        ]
       },
       {
         "role": "adc",
@@ -3532,8 +3562,8 @@
     ],
     "difficulty": "alta",
     "winCondition": {
-      "es": "Warwick persigue con E invisible a quien tenga menos del 50% de vida. Rengar marca presa desde la jungla. Kha'Zix evoluciona con cada kill aislado. Urgot controla el terreno. Blitzcrank jala al carry al inicio del teamfight.",
-      "en": "Warwick chases with invisible E anyone below 50% HP. Rengar marks prey from jungle. Kha'Zix evolves with each isolated kill. Urgot controls terrain. Blitzcrank pulls carry at teamfight start."
+      "es": "Warwick persigue con E invisible a quien tenga menos del 50% de vida. Jinx escala sin freno y limpia los teamfights con Fishbones. Kha'Zix evoluciona con cada kill aislado. Urgot controla el terreno. Blitzcrank jala al carry al inicio del teamfight.",
+      "en": "Warwick chases with invisible E anyone below 50% HP. Jinx scales relentlessly and clears teamfights with Fishbones. Kha'Zix evolves with each isolated kill. Urgot controls terrain. Blitzcrank pulls carry at teamfight start."
     },
     "team": [
       {
@@ -3542,7 +3572,10 @@
       },
       {
         "role": "jgl",
-        "champ": "Warwick"
+        "champ": "Warwick",
+        "alts": [
+          "Rengar"
+        ]
       },
       {
         "role": "mid",
@@ -3892,13 +3925,16 @@
     ],
     "difficulty": "media",
     "winCondition": {
-      "es": "Teemo planta hongos invisibles por todo el mapa que envenenan y ralentizan. Singed corre dejando veneno. El equipo enemigo no puede moverse por el mapa sin pisar trampas. Yone complementa con daño mixto en mid. Hecarim entra cuando el enemigo ya está envenenado.",
-      "en": "Teemo plants invisible mushrooms across the map that poison and slow. Singed runs leaving poison. The enemy team cannot move across the map without stepping on traps. Yone complements with mixed damage in mid. Hecarim enters when the enemy is already poisoned."
+      "es": "Teemo planta hongos invisibles por todo el mapa que envenenan y ralentizan. Karma acelera al equipo y escuda mientras el veneno hace efecto. El equipo enemigo no puede moverse por el mapa sin pisar trampas. Yone complementa con daño mixto en mid. Hecarim entra cuando el enemigo ya está envenenado.",
+      "en": "Teemo plants invisible mushrooms across the map that poison and slow. Karma speeds up the team and shields while the poison ticks. The enemy team cannot move across the map without stepping on traps. Yone complements with mixed damage in mid. Hecarim enters when the enemy is already poisoned."
     },
     "team": [
       {
         "role": "top",
-        "champ": "Teemo"
+        "champ": "Teemo",
+        "alts": [
+          "Singed"
+        ]
       },
       {
         "role": "jgl",

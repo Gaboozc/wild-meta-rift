@@ -38,7 +38,9 @@ export default function CompsPanel({ lang, compositionsData, metaData }) {
       const nameMatch = !q ||
         (comp.name.es || comp.name).toLowerCase().includes(q) ||
         (comp.name.en || "").toLowerCase().includes(q) ||
-        comp.team.some(m => m.champ.toLowerCase().includes(q));
+        comp.team.some(m =>
+          m.champ.toLowerCase().includes(q) ||
+          (m.alts || []).some(a => a.toLowerCase().includes(q)));
       const tagMatch = !activeTag || comp.tags.includes(activeTag);
       const diffMatch = !activeDiff || comp.difficulty === activeDiff;
       return nameMatch && tagMatch && diffMatch;
@@ -49,7 +51,8 @@ export default function CompsPanel({ lang, compositionsData, metaData }) {
   const matchedChamp = useMemo(() => {
     const q = search.trim().toLowerCase();
     if (!q || q.length < 2) return null;
-    const found = compositionsData.flatMap(c => c.team.map(m => m.champ))
+    const found = compositionsData
+      .flatMap(c => c.team.flatMap(m => [m.champ, ...(m.alts || [])]))
       .find(n => n.toLowerCase().includes(q));
     return found || null;
   }, [search, compositionsData]);

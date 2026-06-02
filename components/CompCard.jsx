@@ -86,7 +86,7 @@ export default function CompCard({ comp, lang }) {
 
       {/* TEAM */}
       <div className="comp-team">
-        {comp.team.map(({ role, champ }) => {
+        {comp.team.map(({ role, champ, alts }) => {
           const r = ROLES[role];
           return (
             <div key={role} className="comp-member">
@@ -100,6 +100,11 @@ export default function CompCard({ comp, lang }) {
                 <span className="comp-role-icon">{r.icon}</span>
               </div>
               <span className="comp-champ-name">{champ}</span>
+              {alts && alts.length > 0 && (
+                <span className="comp-champ-alts" title={alts.join(", ")}>
+                  {(lang === "es" ? "o " : "or ") + alts.join(" / ")}
+                </span>
+              )}
               <span className="comp-role-label">{r.label[lang] || r.label.es}</span>
             </div>
           );
@@ -215,6 +220,14 @@ export default function CompCard({ comp, lang }) {
           color: var(--text);
           text-align: center;
           line-height: 1.2;
+        }
+        .comp-champ-alts {
+          font-size: 9px;
+          font-weight: 600;
+          color: var(--gold2);
+          text-align: center;
+          line-height: 1.2;
+          opacity: .85;
         }
         .comp-role-label {
           font-size: 9px;
