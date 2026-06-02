@@ -307,6 +307,8 @@ export default function Home() {
     <>
       <Head>
         <title>Wild Rift Meta {metaData.patch}</title>
+        <link rel="icon" type="image/png" href="/faviconWR.png" />
+        <link rel="apple-touch-icon" href="/faviconWR.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="Wild Rift tier list with My Champs — builds, runes, counters, synergies" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
