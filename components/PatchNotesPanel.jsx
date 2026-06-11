@@ -18,6 +18,12 @@ const ITEM_IMG = {
   "Kraken Slayer":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/6695.png",
   "Randuin's Omen":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/3143.png",
   "Sundered Sky":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/6694.png",
+  "Infinity Edge":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/3031.png",
+  "Black Cleaver":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/3071.png",
+};
+
+const OTHER_IMG = {
+  "Demolish":"https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/styles/resolve/demolish/demolish.png",
 };
 
 const TYPE_CONFIG = {
@@ -42,7 +48,11 @@ function ChangeCard({ change, lang }) {
   const [open, setOpen] = useState(false);
   const tc = TYPE_CONFIG[change.type] || TYPE_CONFIG.adjust;
   const isItem = change.targetType === "item";
-  const imgSrc = isItem ? ITEM_IMG[change.target] : champImg(change.target);
+  const imgSrc = isItem
+    ? ITEM_IMG[change.target]
+    : change.targetType === "champion"
+      ? champImg(change.target)
+      : OTHER_IMG[change.target];
 
   return (
     <button className={`change-card ${open ? "open" : ""}`} onClick={() => setOpen(o => !o)}>

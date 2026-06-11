@@ -882,10 +882,10 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "b",
         "why": {
-          "es": "Mage/bruiser con movilidad entre dimensiones y CC. Zona de control con su ult. Fuerte en teamfight si se posiciona bien.",
-          "en": "Mage/bruiser with dimensional mobility and CC. Zone control with her ult. Strong in teamfight if positioned well."
+          "es": "Nerfed en 7.1g (daño de Q reducido en ambos lanzamientos). Su burst ya no es tan letal. Sigue teniendo movilidad y zona de control con el ult, pero pierde prioridad de pick.",
+          "en": "Nerfed in 7.1g (Q damage reduced on both casts). Her burst is no longer as lethal. Still has mobility and ult zone control, but loses pick priority."
         },
         "build": {
           "boots": "Sorcerer's Shoes",
@@ -945,10 +945,10 @@
       },
       {
         "role": "top",
-        "tier": "b",
+        "tier": "c",
         "why": {
-          "es": "Viable en top como battlemage con mobilidad. Puede kite a melee pero sufre contra tanques del meta.",
-          "en": "Viable in top as mobile battlemage. Can kite melee champions but struggles against meta tanks."
+          "es": "Nerfed en 7.1g (daño de Q reducido). Sigue pudiendo kitear a melee pero su daño ya no justifica el pick frente a los tanques del meta.",
+          "en": "Nerfed in 7.1g (Q damage reduced). Can still kite melee champions but her damage no longer justifies the pick against meta tanks."
         },
         "build": {
           "boots": "Sorcerer's Shoes",
@@ -1560,10 +1560,10 @@
     "roles": [
       {
         "role": "top",
-        "tier": "a",
+        "tier": "s",
         "why": {
-          "es": "Dominancia en lane temprana brutal. Con 5 stacks del pasivo, ult con daño verdadero reseteable.",
-          "en": "Brutal early lane dominance. With 5 passive stacks, ult deals resetable true damage."
+          "es": "Black Cleaver buffed en 7.1g (hasta 30% shred) — Darius es el mayor beneficiado. Su pasivo + BC destruye tanques que antes resistían. Dominancia brutal en lane temprana, ult reseteable.",
+          "en": "Black Cleaver buffed in 7.1g (up to 30% shred) — Darius is the biggest beneficiary. His passive + BC destroys tanks that previously survived. Brutal early lane dominance, resetable ult."
         },
         "build": {
           "boots": "Plated Steelcaps",
@@ -1629,10 +1629,10 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "ss",
         "why": {
-          "es": "Claro rápido con Q. Ult de reset que puede matar a todo el equipo encadenando. Escala bien con AP.",
-          "en": "Fast clear with Q. Reset ult that can kill the entire team by chaining. Scales well with AP."
+          "es": "Buffed en 7.1g: daño de pasiva a monstruos 75% → 100%. Su claro pasó de lento a uno de los más rápidos. Ult de reset que puede matar a todo el equipo encadenando. Escala con AP.",
+          "en": "Buffed in 7.1g: passive monster damage 75% → 100%. Her clear went from slow to one of the fastest. Reset ult that can kill the entire team by chaining. Scales with AP."
         },
         "build": {
           "boots": "Sorcerer's Shoes",
@@ -2506,10 +2506,10 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
-          "es": "Simplicidad máxima con alta recompensa. W escudo pasivo, ult ejecuta. Ideal para subir elo.",
-          "en": "Maximum simplicity with high reward. W passive shield, ult executes. Ideal for climbing."
+          "es": "Nerfed en 7.1e + Demolish nerfed en 7.1g (ya no farmea oro de placas eficientemente). Sin la ventaja de items de Demolish, su early dominance se reduce. Kit simple pero predecible.",
+          "en": "Nerfed in 7.1e + Demolish nerfed in 7.1g (no longer efficiently farms plate gold). Without Demolish item advantage, his early dominance is reduced. Simple kit but predictable."
         },
         "build": {
           "boots": "Plated Steelcaps",
@@ -2775,10 +2775,10 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "a",
+        "tier": "s",
         "why": {
-          "es": "Claro rapídísimo, zona de humo táctica y daño burst en melee. Excelente en duelos y skirmishes. Sin nerfs recientes.",
-          "en": "Very fast clear, tactical smoke zone and melee burst damage. Excellent in duels and skirmishes. No recent nerfs."
+          "es": "Black Cleaver buffed en 7.1g (30% shred máx) — Graves es uno de los más beneficiados en jungla. Su build estándar con BC ahora destruye frontlines mucho más rápido. Claro rapidísimo y burst en melee.",
+          "en": "Black Cleaver buffed in 7.1g (30% max shred) — Graves is one of the biggest jungle beneficiaries. His standard BC build now shreds frontlines much faster. Very fast clear and melee burst."
         },
         "build": {
           "boots": "Plated Steelcaps",
@@ -2984,8 +2984,8 @@
         "role": "mid",
         "tier": "s",
         "why": {
-          "es": "Control de zona con torretas únicas. Difícil de pushear en lane pero predecible y fácil de counterpickear con dive.",
-          "en": "Zone control with unique turrets. Hard to push in lane but predictable and easy to counterpick with dive."
+          "es": "Buffed en 7.1g: torretas con más armadura, más HP y más daño de láser; los melee les hacen menos daño bonus. Control de zona único, ahora mucho más difícil de limpiar.",
+          "en": "Buffed in 7.1g: turrets with more armor, more HP and more laser damage; melee champions deal less bonus damage to them. Unique zone control, now much harder to clear."
         },
         "build": {
           "boots": "Sorcerer's Shoes",
@@ -3045,10 +3045,10 @@
       },
       {
         "role": "sup",
-        "tier": "c",
+        "tier": "b",
         "why": {
-          "es": "Viable como support de poke con torretas pero los supports especializados lo superan ampliamente.",
-          "en": "Viable as turret poke support but specialized supports greatly outclass him."
+          "es": "Buffed en 7.1g: las torretas resisten mucho más y pegan más fuerte. El poke de zona en bot es real, aunque los supports especializados siguen siendo más fiables.",
+          "en": "Buffed in 7.1g: turrets are much tougher and hit harder. The zone poke in bot is real, though specialized supports remain more reliable."
         },
         "build": {
           "boots": "Ionian Boots of Lucidity",
@@ -3714,10 +3714,10 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "a",
+        "tier": "s",
         "why": {
-          "es": "Buffed en 6.3f pero sin movilidad en meta de dive. Necesita equipo que la proteja perfectamente.",
-          "en": "Buffed in 6.3f but no mobility in dive meta. Needs a team that protects her perfectly."
+          "es": "Infinity Edge buffed en 7.1g (+5 AD). Jinx es el hyper carry crit que más escala con esto — su reset de pasiva + Pow-Pow hacen daño masivo en late. Necesita protección pero el pay-off es brutal.",
+          "en": "Infinity Edge buffed in 7.1g (+5 AD). Jinx is the hyper crit carry that scales the most with this — her passive reset + Pow-Pow deal massive late game damage. Needs protection but the pay-off is brutal."
         },
         "build": {
           "boots": "Berserker's Greaves",
@@ -3783,10 +3783,10 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
-          "es": "Nuevo en 7.1. Tank bruiser con kit de outplay. Sin nerfs todavía — probablemente suba a S.",
-          "en": "New in 7.1. Tank bruiser with outplay kit. No nerfs yet — likely rises to S."
+          "es": "Nerfed en 7.1f (forma All Out más frágil) + Demolish nerfed en 7.1g. Pierde la ventaja de oro de placas que le daba macro. Kit de outplay muy alto skill-cap pero ya no es prioridad de pick.",
+          "en": "Nerfed in 7.1f (All Out form more fragile) + Demolish nerfed in 7.1g. Loses the plate gold advantage that gave him macro. Very high skill-cap outplay kit but no longer a priority pick."
         },
         "build": {
           "boots": "Plated Steelcaps",
@@ -7831,10 +7831,10 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "b",
+        "tier": "a",
         "why": {
-          "es": "ADC melee/ranged que acumula estilo con combos variados. Ult de AoE devastador al llegar a S rank. Excelente en teamfights cortas.",
-          "en": "Melee/ranged ADC that stacks style with varied combos. Devastating AoE ult upon reaching S rank. Excellent in short teamfights."
+          "es": "Infinity Edge buffed en 7.1g (+5 AD) mejora sus autos crit en el combo. Ult de AoE devastador en teamfight. Su estilo de reset de S rank + crit se potencia con el IE más fuerte.",
+          "en": "Infinity Edge buffed in 7.1g (+5 AD) improves her crit autos in the combo. Devastating AoE ult in teamfight. Her S rank reset style + crit is enhanced by the stronger IE."
         },
         "build": {
           "boots": "Berserker's Greaves",
@@ -8501,11 +8501,11 @@
     "roles": [
       {
         "role": "top",
-        "tier": "ss",
+        "tier": "s",
         "wr": "51.3%",
         "why": {
-          "es": "Tank con CC brutal y ult de engage desde cualquier distancia. Puede congelar la línea para farmear stacks.",
-          "en": "Tank with brutal CC and engage ult from any distance. Can freeze the lane to farm stacks."
+          "es": "Demolish nerfed en 7.1g — Sion pierde el oro de placas que financiaba su split push. Su CC y ult de engage siguen siendo muy fuertes en teamfight pero ya no domina la macro de la misma forma.",
+          "en": "Demolish nerfed in 7.1g — Sion loses the plate gold that funded his split push. His CC and engage ult remain very strong in teamfight but he no longer dominates macro the same way."
         },
         "build": {
           "boots": "Plated Steelcaps",
@@ -8627,6 +8627,138 @@
             "name": "Nautilus",
             "es": "Hook facilita que el boomerang impacte",
             "en": "Hook makes it easy for the boomerang to connect"
+          }
+        ],
+        "wr": "TBD"
+      }
+    ]
+  },
+  {
+    "name": "Skarner",
+    "img": "skarner",
+    "roles": [
+      {
+        "role": "jgl",
+        "tier": "ss",
+        "why": {
+          "es": "NUEVO en 7.1g (12 de junio). El Soberano Primordial: tanque de jungla con claro sólido, gank con terreno (E empuja contra muros) y ult Empalar que secuestra hasta 3 enemigos hacia su equipo. CC de teamfight devastador desde el día uno.",
+          "en": "NEW in 7.1g (June 12). The Primordial Sovereign: jungle tank with solid clear, terrain ganks (E slams into walls) and Impale ult that drags up to 3 enemies into his team. Devastating teamfight CC from day one."
+        },
+        "build": {
+          "boots": "Plated Steelcaps",
+          "core": [
+            "Sunfire Aegis",
+            "Thornmail",
+            "Force of Nature"
+          ],
+          "sit": [
+            "Dead Man's Plate",
+            "Warmog's Armor"
+          ]
+        },
+        "buildNote": {
+          "es": "Full tank — su daño viene del kit y su valor del CC. Dead Man's Plate ayuda a conectar el E.",
+          "en": "Full tank — his damage comes from the kit and his value from CC. Dead Man's Plate helps land the E."
+        },
+        "runes": {
+          "key": "Aftershock",
+          "primary": [
+            "Conditioning",
+            "Bone Plating",
+            "Overgrowth"
+          ],
+          "secondary": "Triumph"
+        },
+        "counters": [
+          {
+            "name": "Olaf",
+            "es": "Su ult ignora el Empalar y todo el CC de Skarner",
+            "en": "His ult ignores Impale and all of Skarner's CC"
+          },
+          {
+            "name": "Fiora",
+            "es": "Daño % HP verdadero derrite su build de tanque",
+            "en": "% HP true damage melts his tank build"
+          },
+          {
+            "name": "Vayne",
+            "es": "Daño verdadero y tumble esquivan su engage",
+            "en": "True damage and tumble dodge his engage"
+          }
+        ],
+        "synergies": [
+          {
+            "name": "Orianna",
+            "es": "Empalar arrastra enemigos directo al Shockwave",
+            "en": "Impale drags enemies straight into Shockwave"
+          },
+          {
+            "name": "Miss Fortune",
+            "es": "Los enemigos secuestrados comen Bullet Time completo",
+            "en": "Kidnapped enemies eat the full Bullet Time"
+          }
+        ],
+        "wr": "TBD"
+      },
+      {
+        "role": "top",
+        "tier": "a",
+        "why": {
+          "es": "NUEVO en 7.1g. Viable en Baron lane como tanque de engage: trades con Q cargado, escudo en W y el flanqueo con ult amenaza el backline en cada teamfight.",
+          "en": "NEW in 7.1g. Viable in Baron lane as engage tank: charged Q trades, W shield and ult flanks threaten the backline every teamfight."
+        },
+        "build": {
+          "boots": "Plated Steelcaps",
+          "core": [
+            "Sunfire Aegis",
+            "Thornmail",
+            "Force of Nature"
+          ],
+          "sit": [
+            "Warmog's Armor",
+            "Sterak's Gage"
+          ]
+        },
+        "buildNote": {
+          "es": "",
+          "en": ""
+        },
+        "runes": {
+          "key": "Grasp of the Undying",
+          "primary": [
+            "Conditioning",
+            "Bone Plating",
+            "Overgrowth"
+          ],
+          "secondary": "Triumph"
+        },
+        "counters": [
+          {
+            "name": "Fiora",
+            "es": "Vitales y daño verdadero destrozan tanques",
+            "en": "Vitals and true damage shred tanks"
+          },
+          {
+            "name": "Vayne",
+            "es": "Lo kitea y le aplica daño % HP constante",
+            "en": "Kites him with constant % HP damage"
+          },
+          {
+            "name": "Gwen",
+            "es": "Daño % HP mágico ignora sus resistencias",
+            "en": "% HP magic damage ignores his resistances"
+          }
+        ],
+        "synergies": [
+          {
+            "name": "Yasuo",
+            "es": "El knockup de Empalar activa el ult de Yasuo",
+            "en": "Impale's knockup enables Yasuo's ult"
+          },
+          {
+            "name": "Galio",
+            "es": "Skarner engancha y Galio llega con su ult global",
+            "en": "Skarner engages and Galio arrives with his global ult"
           }
         ],
         "wr": "TBD"
@@ -9433,10 +9565,10 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "a",
+        "tier": "s",
         "why": {
-          "es": "Buffed en 7.0f y 7.1d. Rango que crece con nivel = late game brutal e imparable.",
-          "en": "Buffed in 7.0f and 7.1d. Range grows with level = brutal and unstoppable late game."
+          "es": "Infinity Edge buffed en 7.1g (+5 AD) y buffed en 7.1d. Rango que crece con nivel + crit late game = daño brutal e imparable. Una de las mejores escalas del parche.",
+          "en": "Infinity Edge buffed in 7.1g (+5 AD) and buffed in 7.1d. Range grows with level + late game crit = brutal unstoppable damage. One of the best scalers of the patch."
         },
         "build": {
           "boots": "Berserker's Greaves",
@@ -11724,10 +11856,10 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "s",
         "why": {
-          "es": "Buffed en 7.1 (daño Q mejorado, CD ult reducido). Poke a distancia suprema. One-shot desde fuera del alcance enemigo.",
-          "en": "Buffed in 7.1 (Q damage improved, ult CD reduced). Supreme ranged poke. One-shot from outside enemy range."
+          "es": "Buffed fuerte en 7.1g (+15 daño base en Q, +10 en E mágico y verdadero). Su early/mid game ya no es débil. Poke a distancia suprema y one-shot desde fuera del alcance enemigo.",
+          "en": "Strongly buffed in 7.1g (+15 base damage on Q, +10 on E magic and true). Her early/mid game is no longer weak. Supreme ranged poke and one-shot from outside enemy range."
         },
         "build": {
           "boots": "Sorcerer's Shoes",

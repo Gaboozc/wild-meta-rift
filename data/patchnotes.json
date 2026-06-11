@@ -1,5 +1,81 @@
 [
   {
+    "patch": "7.1g",
+    "date": "Junio 2026",
+    "changes": [
+      {
+        "type": "new",
+        "target": "Skarner",
+        "targetType": "champion",
+        "summary": { "es": "Nuevo campeón: tanque de jungla con CC masivo", "en": "New champion: jungle tank with massive CC" },
+        "detail": { "es": "Skarner, el Soberano Primordial, llega a Wild Rift el 12 de junio. Brackern ancestral de Ixtal y miembro fundador de los Yun Tal. Tanque de jungla con claro sólido, engage con terreno y su ult Empalar que secuestra hasta 3 enemigos. También jugable en Baron lane.", "en": "Skarner, the Primordial Sovereign, arrives in Wild Rift on June 12. Ancient brackern of Ixtal and founding member of the Yun Tal. Jungle tank with solid clear, terrain engage and his Impale ult that kidnaps up to 3 enemies. Also playable in Baron lane." }
+      },
+      {
+        "type": "nerf",
+        "target": "Aurora",
+        "targetType": "champion",
+        "summary": { "es": "Menos daño de burst en el Q", "en": "Less burst damage on Q" },
+        "detail": { "es": "Maleficio Doble (Q): daño del primer lanzamiento reducido 40/70/100/130 +32% AP → 35/65/95/125 +30% AP. Daño del relanzamiento reducido igual. Su burst con items y runas era excesivo.", "en": "Twofold Hex (Q): first cast damage reduced 40/70/100/130 +32% AP → 35/65/95/125 +30% AP. Recast damage reduced the same. Her burst with items and runes was excessive." }
+      },
+      {
+        "type": "buff",
+        "target": "Zoe",
+        "targetType": "champion",
+        "summary": { "es": "Más daño en Q y E", "en": "More damage on Q and E" },
+        "detail": { "es": "¡Estrella Saltarina! (Q): daño base aumentado 30/65/100/135 → 45/80/115/150. Burbuja Dormilona (E): daño base aumentado 30/80/130/180 → 40/90/140/190 (mágico y verdadero). Su early y mid game eran demasiado débiles.", "en": "Paddle Star! (Q): base damage increased 30/65/100/135 → 45/80/115/150. Sleepy Trouble Bubble (E): base damage increased 30/80/130/180 → 40/90/140/190 (magic and true). Her early and mid game were too weak." }
+      },
+      {
+        "type": "buff",
+        "target": "Diana",
+        "targetType": "champion",
+        "summary": { "es": "Claro de jungla mucho más rápido", "en": "Much faster jungle clear" },
+        "detail": { "es": "Navaja de Lunaplata (pasiva): ratio de daño a monstruos de jungla aumentado 75% → 100%. Diana había quedado fuera del meta de jungla; este buff la devuelve como carry AP de jungla.", "en": "Moonsilver Blade (passive): jungle monster damage ratio increased 75% → 100%. Diana had fallen out of the jungle meta; this buff brings her back as an AP jungle carry." }
+      },
+      {
+        "type": "buff",
+        "target": "Heimerdinger",
+        "targetType": "champion",
+        "summary": { "es": "Torretas más resistentes y con más daño", "en": "Tougher turrets with more damage" },
+        "detail": { "es": "Torreta Evolutiva H-28G (W): armadura 10~80 → 20~90, ratio de HP con AP 3%~45% → 8%~50%, ratio AP del láser 45% → 55%. Daño bonus recibido de melee 50% → 40% (también en la torreta élite H-28Q). Premia el estilo de invocación.", "en": "H-28G Evolution Turret (W): armor 10~80 → 20~90, HP AP ratio 3%~45% → 8%~50%, laser AP ratio 45% → 55%. Bonus damage taken from melee 50% → 40% (also on the H-28Q elite turret). Rewards summon-focused gameplay." }
+      },
+      {
+        "type": "item-buff",
+        "target": "Infinity Edge",
+        "targetType": "item",
+        "summary": { "es": "Más daño de ataque", "en": "More attack damage" },
+        "detail": { "es": "Daño de ataque aumentado 60 → 65. Los ADCs de crítico estaban rindiendo por debajo de lo esperado; el item era más débil de lo previsto.", "en": "Attack damage increased 60 → 65. Crit ADCs were underperforming; the item was weaker than intended." }
+      },
+      {
+        "type": "item-buff",
+        "target": "Black Cleaver",
+        "targetType": "item",
+        "summary": { "es": "Más reducción de armadura", "en": "More armor shred" },
+        "detail": { "es": "Desgarrar: stacks máximos de reducción de armadura 4 → 5 (reducción máxima 24% → 30%). Persecución: ahora requiere 5 stacks para la velocidad de movimiento. Refuerza su nicho de shred para fighters.", "en": "Carve: max armor reduction stacks 4 → 5 (max reduction 24% → 30%). Rage: now requires 5 stacks for movement speed. Strengthens its shred niche for fighters." }
+      },
+      {
+        "type": "nerf",
+        "target": "Demolish",
+        "targetType": "rune",
+        "summary": { "es": "Mucho menos daño a torretas", "en": "Much less tower damage" },
+        "detail": { "es": "Demolish (runa): daño reducido 200 +30% HP máx → 100 +22% HP máx. Cooldown reducido 35s → 30s. Tanques y bruisers ganaban demasiado oro de placas; ejercía demasiada presión en torretas.", "en": "Demolish (rune): damage reduced 200 +30% max HP → 100 +22% max HP. Cooldown reduced 35s → 30s. Tanks and bruisers gained too much plate gold; it exerted too much tower pressure." }
+      },
+      {
+        "type": "nerf",
+        "target": "Castigo Devastador",
+        "targetType": "spell",
+        "summary": { "es": "Daño verdadero plano en lugar de escalado", "en": "Flat true damage instead of scaling" },
+        "detail": { "es": "Castigo Devastador: daño verdadero a campeones cambiado de 38-183.6 (según nivel) → 40 plano en todos los niveles. Se aleja del burst y se enfoca en la utilidad de ralentización.", "en": "Devastating Smite: true damage to champions changed from 38-183.6 (by level) → flat 40 at all levels. Moves away from burst toward slow utility." }
+      },
+      {
+        "type": "adjust",
+        "target": "Espino Rojo",
+        "targetType": "system",
+        "summary": { "es": "Quemadura del buff rojo reducida contra campeones", "en": "Red buff burn reduced against champions" },
+        "detail": { "es": "Espino Rojo / Blasón de Cenizas: quemadura a campeones reducida 6-34 (según nivel) → 5-15 (progresa desde nivel 6). Menos daño de fuentes ajenas al jugador; se premia más la ejecución propia.", "en": "Red Brambleback / Ashen Blazon: burn to champions reduced 6-34 (by level) → 5-15 (progresses from level 6). Less damage from non-player sources; rewards player execution more." }
+      }
+    ]
+  },
+  {
     "patch": "7.1f",
     "date": "Mayo 2026",
     "changes": [

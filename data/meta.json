@@ -1,11 +1,12 @@
 {
-  "patch": "7.1f",
-  "date": "Mayo 2026",
+  "patch": "7.1g",
+  "date": "Junio 2026",
   "headline": {
-    "es": "Patch 7.1f: Taliyah y Viego nerfed salen de SS en jungla. K'Sante baja de SS. Shen y Kayle buffed suben. Meta de dive sigue fuerte con Wukong y Hecarim como mejores junglas. Xayah, Jhin y Ezreal dominan Dragon Lane.",
-    "en": "Patch 7.1f: Taliyah and Viego nerfed out of SS jungle. K'Sante drops from SS. Shen and Kayle buffed up. Dive meta remains strong with Wukong and Hecarim as best junglers. Xayah, Jhin and Ezreal dominate Dragon Lane."
+    "es": "Patch 7.1g: Skarner SS en jungla. Diana SS. Zoe S en mid. Darius y Graves suben con BC buffed. Jinx y Tristana suben a S con IE buffed. Samira sube a A. Sion baja a S, K'Sante y Garen bajan con Demolish nerfed. Aurora sigue bajando. Meta de jungla: 6 SS — más tanqueado y con más CC que nunca.",
+    "en": "Patch 7.1g: Skarner SS in jungle. Diana SS. Zoe S in mid. Darius and Graves rise with BC buff. Jinx and Tristana rise to S with IE buff. Samira rises to A. Sion drops to S, K'Sante and Garen drop with Demolish nerf. Aurora continues falling. Jungle meta: 6 SS — tankier and more CC-heavy than ever."
   },
   "changelog": [
+    { "patch": "7.1g", "note": { "es": "Skarner añadido (jungla/top). Aurora nerfed. Zoe, Diana y Heimerdinger buffed. Infinity Edge y Black Cleaver buffed. Demolish y Castigo Devastador nerfed.", "en": "Skarner added (jungle/top). Aurora nerfed. Zoe, Diana and Heimerdinger buffed. Infinity Edge and Black Cleaver buffed. Demolish and Devastating Smite nerfed." }},
     { "patch": "7.1f", "note": { "es": "Taliyah, K'Sante, Viego, Kog'Maw nerfed. Shen, Kayle, Akshan buffed. Ambessa y Gragas ajustados.", "en": "Taliyah, K'Sante, Viego, Kog'Maw nerfed. Shen, Kayle, Akshan buffed. Ambessa and Gragas adjusted." }},
     { "patch": "7.1e", "note": { "es": "Taliyah añadida. Garen, Ryze, Twisted Fate nerfed. Kayn, Graves, Bard buffed. Kraken Slayer y Randuin's Omen ajustados.", "en": "Taliyah added. Garen, Ryze, Twisted Fate nerfed. Kayn, Graves, Bard buffed. Kraken Slayer and Randuin's Omen adjusted." }},
     { "patch": "7.1d", "note": { "es": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor.", "en": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor." }},

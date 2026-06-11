@@ -481,8 +481,8 @@ export default function Home() {
         <span>Wild Rift Meta {metaData.patch} · {metaData.date}</span>
         <span>
           {lang === "es"
-            ? "Riot Games patch notes 6.3c–7.1d · wildriftcore.com · Los tiers pueden variar según elo"
-            : "Riot Games patch notes 6.3c–7.1d · wildriftcore.com · Tiers may vary by elo"}
+            ? "Riot Games patch notes 6.3c–7.1g · wildriftcore.com · Los tiers pueden variar según elo"
+            : "Riot Games patch notes 6.3c–7.1g · wildriftcore.com · Tiers may vary by elo"}
         </span>
       </footer>
 
