@@ -7,71 +7,131 @@
         "type": "new",
         "target": "Skarner",
         "targetType": "champion",
-        "summary": { "es": "Nuevo campeón: tanque de jungla con CC masivo", "en": "New champion: jungle tank with massive CC" },
-        "detail": { "es": "Skarner, el Soberano Primordial, llega a Wild Rift el 12 de junio. Brackern ancestral de Ixtal y miembro fundador de los Yun Tal. Tanque de jungla con claro sólido, engage con terreno y su ult Empalar que secuestra hasta 3 enemigos. También jugable en Baron lane.", "en": "Skarner, the Primordial Sovereign, arrives in Wild Rift on June 12. Ancient brackern of Ixtal and founding member of the Yun Tal. Jungle tank with solid clear, terrain engage and his Impale ult that kidnaps up to 3 enemies. Also playable in Baron lane." }
+        "summary": {
+          "es": "Nuevo campeón: tanque de jungla con CC masivo",
+          "en": "New champion: jungle tank with massive CC"
+        },
+        "detail": {
+          "es": "Skarner, el Soberano Primordial, llega a Wild Rift el 12 de junio. Brackern ancestral de Ixtal y miembro fundador de los Yun Tal. Tanque de jungla con claro sólido, engage con terreno y su ult Empalar que secuestra hasta 3 enemigos. También jugable en Baron lane.",
+          "en": "Skarner, the Primordial Sovereign, arrives in Wild Rift on June 12. Ancient brackern of Ixtal and founding member of the Yun Tal. Jungle tank with solid clear, terrain engage and his Impale ult that kidnaps up to 3 enemies. Also playable in Baron lane."
+        }
       },
       {
         "type": "nerf",
         "target": "Aurora",
         "targetType": "champion",
-        "summary": { "es": "Menos daño de burst en el Q", "en": "Less burst damage on Q" },
-        "detail": { "es": "Maleficio Doble (Q): daño del primer lanzamiento reducido 40/70/100/130 +32% AP → 35/65/95/125 +30% AP. Daño del relanzamiento reducido igual. Su burst con items y runas era excesivo.", "en": "Twofold Hex (Q): first cast damage reduced 40/70/100/130 +32% AP → 35/65/95/125 +30% AP. Recast damage reduced the same. Her burst with items and runes was excessive." }
+        "summary": {
+          "es": "Menos daño de burst en el Q",
+          "en": "Less burst damage on Q"
+        },
+        "detail": {
+          "es": "Maleficio Doble (Q): daño del primer lanzamiento reducido 40/70/100/130 +32% AP → 35/65/95/125 +30% AP. Daño del relanzamiento reducido igual. Su burst con items y runas era excesivo.",
+          "en": "Twofold Hex (Q): first cast damage reduced 40/70/100/130 +32% AP → 35/65/95/125 +30% AP. Recast damage reduced the same. Her burst with items and runes was excessive."
+        }
       },
       {
         "type": "buff",
         "target": "Zoe",
         "targetType": "champion",
-        "summary": { "es": "Más daño en Q y E", "en": "More damage on Q and E" },
-        "detail": { "es": "¡Estrella Saltarina! (Q): daño base aumentado 30/65/100/135 → 45/80/115/150. Burbuja Dormilona (E): daño base aumentado 30/80/130/180 → 40/90/140/190 (mágico y verdadero). Su early y mid game eran demasiado débiles.", "en": "Paddle Star! (Q): base damage increased 30/65/100/135 → 45/80/115/150. Sleepy Trouble Bubble (E): base damage increased 30/80/130/180 → 40/90/140/190 (magic and true). Her early and mid game were too weak." }
+        "summary": {
+          "es": "Más daño en Q y E",
+          "en": "More damage on Q and E"
+        },
+        "detail": {
+          "es": "¡Estrella Saltarina! (Q): daño base aumentado 30/65/100/135 → 45/80/115/150. Burbuja Dormilona (E): daño base aumentado 30/80/130/180 → 40/90/140/190 (mágico y verdadero). Su early y mid game eran demasiado débiles.",
+          "en": "Paddle Star! (Q): base damage increased 30/65/100/135 → 45/80/115/150. Sleepy Trouble Bubble (E): base damage increased 30/80/130/180 → 40/90/140/190 (magic and true). Her early and mid game were too weak."
+        }
       },
       {
         "type": "buff",
         "target": "Diana",
         "targetType": "champion",
-        "summary": { "es": "Claro de jungla mucho más rápido", "en": "Much faster jungle clear" },
-        "detail": { "es": "Navaja de Lunaplata (pasiva): ratio de daño a monstruos de jungla aumentado 75% → 100%. Diana había quedado fuera del meta de jungla; este buff la devuelve como carry AP de jungla.", "en": "Moonsilver Blade (passive): jungle monster damage ratio increased 75% → 100%. Diana had fallen out of the jungle meta; this buff brings her back as an AP jungle carry." }
+        "summary": {
+          "es": "Claro de jungla mucho más rápido",
+          "en": "Much faster jungle clear"
+        },
+        "detail": {
+          "es": "Navaja de Lunaplata (pasiva): ratio de daño a monstruos de jungla aumentado 75% → 100%. Diana había quedado fuera del meta de jungla; este buff la devuelve como carry AP de jungla.",
+          "en": "Moonsilver Blade (passive): jungle monster damage ratio increased 75% → 100%. Diana had fallen out of the jungle meta; this buff brings her back as an AP jungle carry."
+        }
       },
       {
         "type": "buff",
         "target": "Heimerdinger",
         "targetType": "champion",
-        "summary": { "es": "Torretas más resistentes y con más daño", "en": "Tougher turrets with more damage" },
-        "detail": { "es": "Torreta Evolutiva H-28G (W): armadura 10~80 → 20~90, ratio de HP con AP 3%~45% → 8%~50%, ratio AP del láser 45% → 55%. Daño bonus recibido de melee 50% → 40% (también en la torreta élite H-28Q). Premia el estilo de invocación.", "en": "H-28G Evolution Turret (W): armor 10~80 → 20~90, HP AP ratio 3%~45% → 8%~50%, laser AP ratio 45% → 55%. Bonus damage taken from melee 50% → 40% (also on the H-28Q elite turret). Rewards summon-focused gameplay." }
+        "summary": {
+          "es": "Torretas más resistentes y con más daño",
+          "en": "Tougher turrets with more damage"
+        },
+        "detail": {
+          "es": "Torreta Evolutiva H-28G (W): armadura 10~80 → 20~90, ratio de HP con AP 3%~45% → 8%~50%, ratio AP del láser 45% → 55%. Daño bonus recibido de melee 50% → 40% (también en la torreta élite H-28Q). Premia el estilo de invocación.",
+          "en": "H-28G Evolution Turret (W): armor 10~80 → 20~90, HP AP ratio 3%~45% → 8%~50%, laser AP ratio 45% → 55%. Bonus damage taken from melee 50% → 40% (also on the H-28Q elite turret). Rewards summon-focused gameplay."
+        }
       },
       {
         "type": "item-buff",
         "target": "Infinity Edge",
         "targetType": "item",
-        "summary": { "es": "Más daño de ataque", "en": "More attack damage" },
-        "detail": { "es": "Daño de ataque aumentado 60 → 65. Los ADCs de crítico estaban rindiendo por debajo de lo esperado; el item era más débil de lo previsto.", "en": "Attack damage increased 60 → 65. Crit ADCs were underperforming; the item was weaker than intended." }
+        "summary": {
+          "es": "Más daño de ataque",
+          "en": "More attack damage"
+        },
+        "detail": {
+          "es": "Daño de ataque aumentado 60 → 65. Los ADCs de crítico estaban rindiendo por debajo de lo esperado; el item era más débil de lo previsto.",
+          "en": "Attack damage increased 60 → 65. Crit ADCs were underperforming; the item was weaker than intended."
+        }
       },
       {
         "type": "item-buff",
         "target": "Black Cleaver",
         "targetType": "item",
-        "summary": { "es": "Más reducción de armadura", "en": "More armor shred" },
-        "detail": { "es": "Desgarrar: stacks máximos de reducción de armadura 4 → 5 (reducción máxima 24% → 30%). Persecución: ahora requiere 5 stacks para la velocidad de movimiento. Refuerza su nicho de shred para fighters.", "en": "Carve: max armor reduction stacks 4 → 5 (max reduction 24% → 30%). Rage: now requires 5 stacks for movement speed. Strengthens its shred niche for fighters." }
+        "summary": {
+          "es": "Más reducción de armadura",
+          "en": "More armor shred"
+        },
+        "detail": {
+          "es": "Desgarrar: stacks máximos de reducción de armadura 4 → 5 (reducción máxima 24% → 30%). Persecución: ahora requiere 5 stacks para la velocidad de movimiento. Refuerza su nicho de shred para fighters.",
+          "en": "Carve: max armor reduction stacks 4 → 5 (max reduction 24% → 30%). Rage: now requires 5 stacks for movement speed. Strengthens its shred niche for fighters."
+        }
       },
       {
         "type": "nerf",
         "target": "Demolish",
         "targetType": "rune",
-        "summary": { "es": "Mucho menos daño a torretas", "en": "Much less tower damage" },
-        "detail": { "es": "Demolish (runa): daño reducido 200 +30% HP máx → 100 +22% HP máx. Cooldown reducido 35s → 30s. Tanques y bruisers ganaban demasiado oro de placas; ejercía demasiada presión en torretas.", "en": "Demolish (rune): damage reduced 200 +30% max HP → 100 +22% max HP. Cooldown reduced 35s → 30s. Tanks and bruisers gained too much plate gold; it exerted too much tower pressure." }
+        "summary": {
+          "es": "Mucho menos daño a torretas",
+          "en": "Much less tower damage"
+        },
+        "detail": {
+          "es": "Demolish (runa): daño reducido 200 +30% HP máx → 100 +22% HP máx. Cooldown reducido 35s → 30s. Tanques y bruisers ganaban demasiado oro de placas; ejercía demasiada presión en torretas.",
+          "en": "Demolish (rune): damage reduced 200 +30% max HP → 100 +22% max HP. Cooldown reduced 35s → 30s. Tanks and bruisers gained too much plate gold; it exerted too much tower pressure."
+        }
       },
       {
         "type": "nerf",
         "target": "Castigo Devastador",
         "targetType": "spell",
-        "summary": { "es": "Daño verdadero plano en lugar de escalado", "en": "Flat true damage instead of scaling" },
-        "detail": { "es": "Castigo Devastador: daño verdadero a campeones cambiado de 38-183.6 (según nivel) → 40 plano en todos los niveles. Se aleja del burst y se enfoca en la utilidad de ralentización.", "en": "Devastating Smite: true damage to champions changed from 38-183.6 (by level) → flat 40 at all levels. Moves away from burst toward slow utility." }
+        "summary": {
+          "es": "Daño verdadero plano en lugar de escalado",
+          "en": "Flat true damage instead of scaling"
+        },
+        "detail": {
+          "es": "Castigo Devastador: daño verdadero a campeones cambiado de 38-183.6 (según nivel) → 40 plano en todos los niveles. Se aleja del burst y se enfoca en la utilidad de ralentización.",
+          "en": "Devastating Smite: true damage to champions changed from 38-183.6 (by level) → flat 40 at all levels. Moves away from burst toward slow utility."
+        }
       },
       {
         "type": "adjust",
         "target": "Espino Rojo",
         "targetType": "system",
-        "summary": { "es": "Quemadura del buff rojo reducida contra campeones", "en": "Red buff burn reduced against champions" },
-        "detail": { "es": "Espino Rojo / Blasón de Cenizas: quemadura a campeones reducida 6-34 (según nivel) → 5-15 (progresa desde nivel 6). Menos daño de fuentes ajenas al jugador; se premia más la ejecución propia.", "en": "Red Brambleback / Ashen Blazon: burn to champions reduced 6-34 (by level) → 5-15 (progresses from level 6). Less damage from non-player sources; rewards player execution more." }
+        "summary": {
+          "es": "Quemadura del buff rojo reducida contra campeones",
+          "en": "Red buff burn reduced against champions"
+        },
+        "detail": {
+          "es": "Espino Rojo / Blasón de Cenizas: quemadura a campeones reducida 6-34 (según nivel) → 5-15 (progresa desde nivel 6). Menos daño de fuentes ajenas al jugador; se premia más la ejecución propia.",
+          "en": "Red Brambleback / Ashen Blazon: burn to champions reduced 6-34 (by level) → 5-15 (progresses from level 6). Less damage from non-player sources; rewards player execution more."
+        }
       }
     ]
   },
@@ -83,92 +143,170 @@
         "type": "nerf",
         "target": "Taliyah",
         "targetType": "champion",
-        "summary": { "es": "Reducción de daño en todas las habilidades", "en": "Damage reduction on all abilities" },
-        "detail": { "es": "Q (Lanzarrocas): daño reducido 50/70/90/110 → 40/60/80/100. W (Empujón sísmico): radio reducido. E (Tierra comprometida): daño de explosión reducido 30/45/60/75 → 20/35/50/65.", "en": "Q (Threaded Volley): damage reduced 50/70/90/110 → 40/60/80/100. W (Seismic Shove): cast radius reduced. E (Unraveled Earth): explosion damage reduced 30/45/60/75 → 20/35/50/65." }
+        "summary": {
+          "es": "Reducción de daño en todas las habilidades",
+          "en": "Damage reduction on all abilities"
+        },
+        "detail": {
+          "es": "Q (Lanzarrocas): daño reducido 50/70/90/110 → 40/60/80/100. W (Empujón sísmico): radio reducido. E (Tierra comprometida): daño de explosión reducido 30/45/60/75 → 20/35/50/65.",
+          "en": "Q (Threaded Volley): damage reduced 50/70/90/110 → 40/60/80/100. W (Seismic Shove): cast radius reduced. E (Unraveled Earth): explosion damage reduced 30/45/60/75 → 20/35/50/65."
+        }
       },
       {
         "type": "nerf",
         "target": "K'Sante",
         "targetType": "champion",
-        "summary": { "es": "Forma All Out más frágil y menos resistente", "en": "All Out form is more fragile and less resistant" },
-        "detail": { "es": "Órdaga (All Out): vida máxima perdida al transformarse aumentada 25% → 30%. Armadura y resistencia mágica reducidas en la forma 70% → 80%. Más frágil cuando usa su combo definitivo.", "en": "Ntofo Strikes (All Out): max HP lost on transform increased 25% → 30%. Armor and magic resistance reduced while in form 70% → 80%. More fragile when using his ultimate combo." }
+        "summary": {
+          "es": "Forma All Out más frágil y menos resistente",
+          "en": "All Out form is more fragile and less resistant"
+        },
+        "detail": {
+          "es": "Órdaga (All Out): vida máxima perdida al transformarse aumentada 25% → 30%. Armadura y resistencia mágica reducidas en la forma 70% → 80%. Más frágil cuando usa su combo definitivo.",
+          "en": "Ntofo Strikes (All Out): max HP lost on transform increased 25% → 30%. Armor and magic resistance reduced while in form 70% → 80%. More fragile when using his ultimate combo."
+        }
       },
       {
         "type": "nerf",
         "target": "Viego",
         "targetType": "champion",
-        "summary": { "es": "Menos daño y área de efecto reducida", "en": "Less damage and reduced area of effect" },
-        "detail": { "es": "Hoja del Rey Arruinado (pasiva): daño porcentual reducido 3-6% → 2-5% de HP máximo. Rompecorazones (R): radio de daño reducido 3 → 2.75. Menos seguro en teamfights abiertos.", "en": "Blade of the Ruined King (passive): percent damage reduced 3-6% → 2-5% max HP. Heartbreaker (R): damage radius reduced 3 → 2.75. Less safe in open teamfights." }
+        "summary": {
+          "es": "Menos daño y área de efecto reducida",
+          "en": "Less damage and reduced area of effect"
+        },
+        "detail": {
+          "es": "Hoja del Rey Arruinado (pasiva): daño porcentual reducido 3-6% → 2-5% de HP máximo. Rompecorazones (R): radio de daño reducido 3 → 2.75. Menos seguro en teamfights abiertos.",
+          "en": "Blade of the Ruined King (passive): percent damage reduced 3-6% → 2-5% max HP. Heartbreaker (R): damage radius reduced 3 → 2.75. Less safe in open teamfights."
+        }
       },
       {
         "type": "nerf",
         "target": "Kog'Maw",
         "targetType": "champion",
-        "summary": { "es": "Daño % HP reducido en ataque mejorado", "en": "% HP damage reduced on empowered attack" },
-        "detail": { "es": "Andanada bioarcana (W): daño porcentual de HP máximo reducido 2-5% → 1.5-4.5% por ataque. Sigue siendo un late-game carry pero tarda más en destruir tanques.", "en": "Bio-Arcane Barrage (W): max HP percent damage reduced 2-5% → 1.5-4.5% per attack. Still a late-game carry but takes longer to destroy tanks." }
+        "summary": {
+          "es": "Daño % HP reducido en ataque mejorado",
+          "en": "% HP damage reduced on empowered attack"
+        },
+        "detail": {
+          "es": "Andanada bioarcana (W): daño porcentual de HP máximo reducido 2-5% → 1.5-4.5% por ataque. Sigue siendo un late-game carry pero tarda más en destruir tanques.",
+          "en": "Bio-Arcane Barrage (W): max HP percent damage reduced 2-5% → 1.5-4.5% per attack. Still a late-game carry but takes longer to destroy tanks."
+        }
       },
       {
         "type": "nerf",
         "target": "Norra",
         "targetType": "champion",
-        "summary": { "es": "Daño de habilidades reducido", "en": "Ability damage reduced" },
-        "detail": { "es": "Estallido de recuerdos (Q): daño base reducido 60/120/180/240 → 55/110/165/220. Portales a raudales (ult): daño de portales reducido y progresión de AP disminuida. Sigue siendo viable en support.", "en": "Memory Surge (Q): base damage reduced 60/120/180/240 → 55/110/165/220. Portal Blitz (ult): portal damage reduced and AP scaling decreased. Still viable in support." }
+        "summary": {
+          "es": "Daño de habilidades reducido",
+          "en": "Ability damage reduced"
+        },
+        "detail": {
+          "es": "Estallido de recuerdos (Q): daño base reducido 60/120/180/240 → 55/110/165/220. Portales a raudales (ult): daño de portales reducido y progresión de AP disminuida. Sigue siendo viable en support.",
+          "en": "Memory Surge (Q): base damage reduced 60/120/180/240 → 55/110/165/220. Portal Blitz (ult): portal damage reduced and AP scaling decreased. Still viable in support."
+        }
       },
       {
         "type": "adjust",
         "target": "Ambessa",
         "targetType": "champion",
-        "summary": { "es": "Escudo reequilibrado según armadura", "en": "Shield rebalanced based on armor" },
-        "detail": { "es": "Vituperio (W): escudo base reducido (95-319 según nivel) pero la progresión con armadura adicional fue mejorada. Mejor en builds tanque, ligeramente peor en builds full AD.", "en": "Repudiation (W): base shield reduced (95-319 by level) but scaling with bonus armor was improved. Better in tank builds, slightly weaker in full AD builds." }
+        "summary": {
+          "es": "Escudo reequilibrado según armadura",
+          "en": "Shield rebalanced based on armor"
+        },
+        "detail": {
+          "es": "Vituperio (W): escudo base reducido (95-319 según nivel) pero la progresión con armadura adicional fue mejorada. Mejor en builds tanque, ligeramente peor en builds full AD.",
+          "en": "Repudiation (W): base shield reduced (95-319 by level) but scaling with bonus armor was improved. Better in tank builds, slightly weaker in full AD builds."
+        }
       },
       {
         "type": "adjust",
         "target": "Gragas",
         "targetType": "champion",
-        "summary": { "es": "Daño redirigido hacia tanques y frontline", "en": "Damage redirected toward tanks and frontline" },
-        "detail": { "es": "Furia ebria (pasiva): daño base reducido pero el daño según HP máximo del objetivo fue aumentado. Ahora es más efectivo contra tanques y menos efectivo contra carries de bajo HP.", "en": "Happy Hour (passive): base damage reduced but damage based on target's max HP was increased. Now more effective against tanks and less effective against low-HP carries." }
+        "summary": {
+          "es": "Daño redirigido hacia tanques y frontline",
+          "en": "Damage redirected toward tanks and frontline"
+        },
+        "detail": {
+          "es": "Furia ebria (pasiva): daño base reducido pero el daño según HP máximo del objetivo fue aumentado. Ahora es más efectivo contra tanques y menos efectivo contra carries de bajo HP.",
+          "en": "Happy Hour (passive): base damage reduced but damage based on target's max HP was increased. Now more effective against tanks and less effective against low-HP carries."
+        }
       },
       {
         "type": "buff",
         "target": "Kayle",
         "targetType": "champion",
-        "summary": { "es": "Más AD base, mana y curación mejorada en early", "en": "More base AD, mana and improved early healing" },
-        "detail": { "es": "Estadísticas base: AD aumentado 50 → 54, regeneración de maná 12 → 16. Gracia celestial (pasiva): curación mejorada en los primeros niveles. El early game ya no es tan frágil.", "en": "Base stats: AD increased 50 → 54, mana regeneration 12 → 16. Divine Ascent (passive): healing improved at early levels. Early game is no longer as fragile." }
+        "summary": {
+          "es": "Más AD base, mana y curación mejorada en early",
+          "en": "More base AD, mana and improved early healing"
+        },
+        "detail": {
+          "es": "Estadísticas base: AD aumentado 50 → 54, regeneración de maná 12 → 16. Gracia celestial (pasiva): curación mejorada en los primeros niveles. El early game ya no es tan frágil.",
+          "en": "Base stats: AD increased 50 → 54, mana regeneration 12 → 16. Divine Ascent (passive): healing improved at early levels. Early game is no longer as fragile."
+        }
       },
       {
         "type": "buff",
         "target": "Akshan",
         "targetType": "champion",
-        "summary": { "es": "Más daño en el bumerán", "en": "More damage on boomerang" },
-        "detail": { "es": "Bumerán vengador (Q): daño aumentado 5/35/65/95 → 10/40/70/100. El poke en línea es más efectivo. Mejora su early game como carry de mid.", "en": "Avengerang (Q): damage increased 5/35/65/95 → 10/40/70/100. Lane poke is more effective. Improves his early game as a mid carry." }
+        "summary": {
+          "es": "Más daño en el bumerán",
+          "en": "More damage on boomerang"
+        },
+        "detail": {
+          "es": "Bumerán vengador (Q): daño aumentado 5/35/65/95 → 10/40/70/100. El poke en línea es más efectivo. Mejora su early game como carry de mid.",
+          "en": "Avengerang (Q): damage increased 5/35/65/95 → 10/40/70/100. Lane poke is more effective. Improves his early game as a mid carry."
+        }
       },
       {
         "type": "buff",
         "target": "Shen",
         "targetType": "champion",
-        "summary": { "es": "Más daño escalando con HP y Q potenciado", "en": "More damage scaling with HP and empowered Q" },
-        "detail": { "es": "Asalto del crepúsculo (Q): daño según HP máximo mejorado. Daño potenciado de Filo espiritual (Q empowered) incrementado. Mejor en teamfight con builds de vida alta.", "en": "Twilight Assault (Q): damage based on max HP improved. Empowered Spirit's Edge (Q) damage increased. Better in teamfight with high-HP builds." }
+        "summary": {
+          "es": "Más daño escalando con HP y Q potenciado",
+          "en": "More damage scaling with HP and empowered Q"
+        },
+        "detail": {
+          "es": "Asalto del crepúsculo (Q): daño según HP máximo mejorado. Daño potenciado de Filo espiritual (Q empowered) incrementado. Mejor en teamfight con builds de vida alta.",
+          "en": "Twilight Assault (Q): damage based on max HP improved. Empowered Spirit's Edge (Q) damage increased. Better in teamfight with high-HP builds."
+        }
       },
       {
         "type": "item-buff",
         "target": "Kraken Slayer",
         "targetType": "item",
-        "summary": { "es": "Más barato y más daño contra enemigos con poca vida", "en": "Cheaper and more damage against low-HP enemies" },
-        "detail": { "es": "Costo reducido. Daño máximo contra enemigos con poca vida aumentado. Mejor opción en ADCs que necesitan destruir tanques con poca vida en late game.", "en": "Cost reduced. Maximum damage against low-HP enemies increased. Better option on ADCs that need to destroy low-HP tanks in late game." }
+        "summary": {
+          "es": "Más barato y más daño contra enemigos con poca vida",
+          "en": "Cheaper and more damage against low-HP enemies"
+        },
+        "detail": {
+          "es": "Costo reducido. Daño máximo contra enemigos con poca vida aumentado. Mejor opción en ADCs que necesitan destruir tanques con poca vida en late game.",
+          "en": "Cost reduced. Maximum damage against low-HP enemies increased. Better option on ADCs that need to destroy low-HP tanks in late game."
+        }
       },
       {
         "type": "item-buff",
         "target": "Randuin's Omen",
         "targetType": "item",
-        "summary": { "es": "Activo reduce más daño de criticos", "en": "Active reduces more crit damage" },
-        "detail": { "es": "Reducción de daño del activo aumentada. Los tanques ahora resisten mejor a los ADCs de crítico como Caitlyn y Jinx. Contrarresta comps de full crit de forma más efectiva.", "en": "Active damage reduction increased. Tanks now resist crit ADCs like Caitlyn and Jinx better. Counters full crit comps more effectively." }
+        "summary": {
+          "es": "Activo reduce más daño de criticos",
+          "en": "Active reduces more crit damage"
+        },
+        "detail": {
+          "es": "Reducción de daño del activo aumentada. Los tanques ahora resisten mejor a los ADCs de crítico como Caitlyn y Jinx. Contrarresta comps de full crit de forma más efectiva.",
+          "en": "Active damage reduction increased. Tanks now resist crit ADCs like Caitlyn and Jinx better. Counters full crit comps more effectively."
+        }
       },
       {
         "type": "item-buff",
         "target": "Sundered Sky",
         "targetType": "item",
-        "summary": { "es": "Más curación y HP", "en": "More healing and HP" },
-        "detail": { "es": "Ratio de curación ligeramente aumentado y se le dio un pequeño bonus de HP. Mejor para bruisers y fighters que dependen del sustain en peleas largas.", "en": "Healing ratio slightly increased and given a small HP bonus. Better for bruisers and fighters that rely on sustain in extended fights." }
+        "summary": {
+          "es": "Más curación y HP",
+          "en": "More healing and HP"
+        },
+        "detail": {
+          "es": "Ratio de curación ligeramente aumentado y se le dio un pequeño bonus de HP. Mejor para bruisers y fighters que dependen del sustain en peleas largas.",
+          "en": "Healing ratio slightly increased and given a small HP bonus. Better for bruisers and fighters that rely on sustain in extended fights."
+        }
       }
     ]
   },
@@ -180,57 +318,105 @@
         "type": "new",
         "target": "Taliyah",
         "targetType": "champion",
-        "summary": { "es": "Nueva campeona: maga de jungla y mid", "en": "New champion: jungle and mid mage" },
-        "detail": { "es": "Taliyah llega a Wild Rift. Maga con claro de jungla ultra-rápido, engage global con W y burst alto. Juega como jungla SS o mid S. Su ult crea una pared que divide el mapa.", "en": "Taliyah arrives in Wild Rift. Mage with ultra-fast jungle clear, global engage with W and high burst. Plays as SS jungle or S mid. Her ult creates a wall that divides the map." }
+        "summary": {
+          "es": "Nueva campeona: maga de jungla y mid",
+          "en": "New champion: jungle and mid mage"
+        },
+        "detail": {
+          "es": "Taliyah llega a Wild Rift. Maga con claro de jungla ultra-rápido, engage global con W y burst alto. Juega como jungla SS o mid S. Su ult crea una pared que divide el mapa.",
+          "en": "Taliyah arrives in Wild Rift. Mage with ultra-fast jungle clear, global engage with W and high burst. Plays as SS jungle or S mid. Her ult creates a wall that divides the map."
+        }
       },
       {
         "type": "nerf",
         "target": "Garen",
         "targetType": "champion",
-        "summary": { "es": "Menos daño en Juicio y menos penetración de armadura", "en": "Less damage on Judgment and less armor penetration" },
-        "detail": { "es": "Juicio (E): daño base reducido 15/19/23/27 → 13/17/21/25 por giro. Penetración de armadura reducida 15% → 10%. Regeneración de vida disminuida. Menos dominante contra frontliners.", "en": "Judgment (E): base damage reduced 15/19/23/27 → 13/17/21/25 per spin. Armor shred reduced 15% → 10%. Health regen decreased. Less dominant against frontliners." }
+        "summary": {
+          "es": "Menos daño en Juicio y menos penetración de armadura",
+          "en": "Less damage on Judgment and less armor penetration"
+        },
+        "detail": {
+          "es": "Juicio (E): daño base reducido 15/19/23/27 → 13/17/21/25 por giro. Penetración de armadura reducida 15% → 10%. Regeneración de vida disminuida. Menos dominante contra frontliners.",
+          "en": "Judgment (E): base damage reduced 15/19/23/27 → 13/17/21/25 per spin. Armor shred reduced 15% → 10%. Health regen decreased. Less dominant against frontliners."
+        }
       },
       {
         "type": "nerf",
         "target": "Ryze",
         "targetType": "champion",
-        "summary": { "es": "Menos velocidad de movimiento y daño base reducido", "en": "Less movement speed and reduced base damage" },
-        "detail": { "es": "Sobrecarga (Q): bonificación de velocidad de movimiento reducida 30-45% → 20-42.5%. Daño base reducido 80/105/130/155 → 70/95/120/145. AD base también reducido. Más lento y frágil.", "en": "Overload (Q): movement speed bonus reduced 30-45% → 20-42.5%. Base damage reduced 80/105/130/155 → 70/95/120/145. Base AD also reduced. Slower and more fragile." }
+        "summary": {
+          "es": "Menos velocidad de movimiento y daño base reducido",
+          "en": "Less movement speed and reduced base damage"
+        },
+        "detail": {
+          "es": "Sobrecarga (Q): bonificación de velocidad de movimiento reducida 30-45% → 20-42.5%. Daño base reducido 80/105/130/155 → 70/95/120/145. AD base también reducido. Más lento y frágil.",
+          "en": "Overload (Q): movement speed bonus reduced 30-45% → 20-42.5%. Base damage reduced 80/105/130/155 → 70/95/120/145. Base AD also reduced. Slower and more fragile."
+        }
       },
       {
         "type": "nerf",
         "target": "Twisted Fate",
         "targetType": "champion",
-        "summary": { "es": "Menos oro pasivo y menos velocidad de ataque", "en": "Less passive gold and less attack speed" },
-        "detail": { "es": "Pasiva: oro bonus reducido 2-12 → 1-9. Naipe apilado (E): velocidad de ataque reducida 30-45% → 20-35%. Sigue siendo S tier pero ya no genera tanta ventaja de recursos.", "en": "Passive: bonus gold reduced 2-12 → 1-9. Stacked Deck (E): attack speed reduced 30-45% → 20-35%. Still S tier but no longer generates as much resource advantage." }
+        "summary": {
+          "es": "Menos oro pasivo y menos velocidad de ataque",
+          "en": "Less passive gold and less attack speed"
+        },
+        "detail": {
+          "es": "Pasiva: oro bonus reducido 2-12 → 1-9. Naipe apilado (E): velocidad de ataque reducida 30-45% → 20-35%. Sigue siendo S tier pero ya no genera tanta ventaja de recursos.",
+          "en": "Passive: bonus gold reduced 2-12 → 1-9. Stacked Deck (E): attack speed reduced 30-45% → 20-35%. Still S tier but no longer generates as much resource advantage."
+        }
       },
       {
         "type": "adjust",
         "target": "Smolder",
         "targetType": "champion",
-        "summary": { "es": "Más stacks requeridos para las mejoras de Q", "en": "More stacks required for Q upgrades" },
-        "detail": { "es": "Super Sofocador Ardiente (Q): stacks requeridos para las mejoras aumentados 20/85/150 → 25/100/175. Tarda más en llegar a las mejoras pero el daño late-game no cambió.", "en": "Super Scorcher Breath (Q): stacks required for upgrades increased 20/85/150 → 25/100/175. Takes longer to reach upgrades but late-game damage unchanged." }
+        "summary": {
+          "es": "Más stacks requeridos para las mejoras de Q",
+          "en": "More stacks required for Q upgrades"
+        },
+        "detail": {
+          "es": "Super Sofocador Ardiente (Q): stacks requeridos para las mejoras aumentados 20/85/150 → 25/100/175. Tarda más en llegar a las mejoras pero el daño late-game no cambió.",
+          "en": "Super Scorcher Breath (Q): stacks required for upgrades increased 20/85/150 → 25/100/175. Takes longer to reach upgrades but late-game damage unchanged."
+        }
       },
       {
         "type": "buff",
         "target": "Kayn",
         "targetType": "champion",
-        "summary": { "es": "Más burst en forma Asesino de Sombras", "en": "More burst in Shadow Assassin form" },
-        "detail": { "es": "Asesino de Sombras: daño bonus de pasiva aumentado 48-62% → 52-66%. Alcance de hoja (Q): escalado con AD aumentado 110% → 120%. El combo de burst es más letal.", "en": "Shadow Assassin: passive bonus damage increased 48-62% → 52-66%. Blade's Reach (Q): AD scaling increased 110% → 120%. The burst combo is more lethal." }
+        "summary": {
+          "es": "Más burst en forma Asesino de Sombras",
+          "en": "More burst in Shadow Assassin form"
+        },
+        "detail": {
+          "es": "Asesino de Sombras: daño bonus de pasiva aumentado 48-62% → 52-66%. Alcance de hoja (Q): escalado con AD aumentado 110% → 120%. El combo de burst es más letal.",
+          "en": "Shadow Assassin: passive bonus damage increased 48-62% → 52-66%. Blade's Reach (Q): AD scaling increased 110% → 120%. The burst combo is more lethal."
+        }
       },
       {
         "type": "buff",
         "target": "Graves",
         "targetType": "champion",
-        "summary": { "es": "Más daño en early y cooldown de dash reducido", "en": "More early damage and reduced dash cooldown" },
-        "detail": { "es": "Fin del túnel (Q): daño de explosión mejorado en el escalado. Tiro rápido (E): cooldown reducido 16/15/14/13s → 13/13/13/13s. Más movilidad y presión en early game.", "en": "End of the Line (Q): explosion damage scaling improved. Quickdraw (E): cooldown reduced 16/15/14/13s → 13/13/13/13s. More mobility and early game pressure." }
+        "summary": {
+          "es": "Más daño en early y cooldown de dash reducido",
+          "en": "More early damage and reduced dash cooldown"
+        },
+        "detail": {
+          "es": "Fin del túnel (Q): daño de explosión mejorado en el escalado. Tiro rápido (E): cooldown reducido 16/15/14/13s → 13/13/13/13s. Más movilidad y presión en early game.",
+          "en": "End of the Line (Q): explosion damage scaling improved. Quickdraw (E): cooldown reduced 16/15/14/13s → 13/13/13/13s. More mobility and early game pressure."
+        }
       },
       {
         "type": "buff",
         "target": "Bard",
         "targetType": "champion",
-        "summary": { "es": "Santuario carga más rápido y ult con menos cooldown", "en": "Shrine charges faster and ult has less cooldown" },
-        "detail": { "es": "Santuario del guardián (W): tiempo de carga en rangos altos reducido 15s → 13.5s. Destino atemporal (R): cooldown reducido 80/70/60s → 75/65/55s. Más impacto en el mid game.", "en": "Caretaker's Shrine (W): charge time at higher ranks reduced 15s → 13.5s. Tempered Fate (R): cooldown reduced 80/70/60s → 75/65/55s. More mid game impact." }
+        "summary": {
+          "es": "Santuario carga más rápido y ult con menos cooldown",
+          "en": "Shrine charges faster and ult has less cooldown"
+        },
+        "detail": {
+          "es": "Santuario del guardián (W): tiempo de carga en rangos altos reducido 15s → 13.5s. Destino atemporal (R): cooldown reducido 80/70/60s → 75/65/55s. Más impacto en el mid game.",
+          "en": "Caretaker's Shrine (W): charge time at higher ranks reduced 15s → 13.5s. Tempered Fate (R): cooldown reduced 80/70/60s → 75/65/55s. More mid game impact."
+        }
       }
     ]
   },
@@ -242,50 +428,312 @@
         "type": "buff",
         "target": "Zeri",
         "targetType": "champion",
-        "summary": { "es": "Estadísticas mejoradas", "en": "Improved statistics" },
-        "detail": { "es": "Mejoras generales en estadísticas base y escalado. Volvió a ser una opción viable en ADC tras varios parches de nerf consecutivos.", "en": "General improvements to base statistics and scaling. Returned to being a viable ADC option after several consecutive nerf patches." }
+        "summary": {
+          "es": "Estadísticas mejoradas",
+          "en": "Improved statistics"
+        },
+        "detail": {
+          "es": "Mejoras generales en estadísticas base y escalado. Volvió a ser una opción viable en ADC tras varios parches de nerf consecutivos.",
+          "en": "General improvements to base statistics and scaling. Returned to being a viable ADC option after several consecutive nerf patches."
+        }
       },
       {
         "type": "buff",
         "target": "Sivir",
         "targetType": "champion",
-        "summary": { "es": "Mejor daño y utilidad", "en": "Better damage and utility" },
-        "detail": { "es": "Mejoras en el daño de sus habilidades y la velocidad de movimiento del ult. Sivir pasó a ser una de las mejores ADCs de asedio del parche.", "en": "Improvements to ability damage and ult movement speed. Sivir became one of the best siege ADCs of the patch." }
+        "summary": {
+          "es": "Mejor daño y utilidad",
+          "en": "Better damage and utility"
+        },
+        "detail": {
+          "es": "Mejoras en el daño de sus habilidades y la velocidad de movimiento del ult. Sivir pasó a ser una de las mejores ADCs de asedio del parche.",
+          "en": "Improvements to ability damage and ult movement speed. Sivir became one of the best siege ADCs of the patch."
+        }
       },
       {
         "type": "buff",
         "target": "Tristana",
         "targetType": "champion",
-        "summary": { "es": "Alcance y daño mejorados", "en": "Range and damage improved" },
-        "detail": { "es": "Aumentos en el alcance de ataque base y el daño de su bomba (E). Tristana mejoró como opción de ADC y mid lane en el parche.", "en": "Increases to base attack range and bomb (E) damage. Tristana improved as an ADC and mid lane option in the patch." }
+        "summary": {
+          "es": "Alcance y daño mejorados",
+          "en": "Range and damage improved"
+        },
+        "detail": {
+          "es": "Aumentos en el alcance de ataque base y el daño de su bomba (E). Tristana mejoró como opción de ADC y mid lane en el parche.",
+          "en": "Increases to base attack range and bomb (E) damage. Tristana improved as an ADC and mid lane option in the patch."
+        }
       },
       {
         "type": "nerf",
         "target": "Vayne",
         "targetType": "champion",
-        "summary": { "es": "Daño reducido en el carry late-game", "en": "Damage reduced on the late-game carry" },
-        "detail": { "es": "Reducción de daño en el W (Truesilver Bolt) y/o estadísticas base. Vayne salió de SS tier y pasó a ser una carry de A tier más balanceada.", "en": "Damage reduction on W (Truesilver Bolt) and/or base statistics. Vayne dropped from SS tier and became a more balanced A tier carry." }
+        "summary": {
+          "es": "Daño reducido en el carry late-game",
+          "en": "Damage reduced on the late-game carry"
+        },
+        "detail": {
+          "es": "Reducción de daño en el W (Truesilver Bolt) y/o estadísticas base. Vayne salió de SS tier y pasó a ser una carry de A tier más balanceada.",
+          "en": "Damage reduction on W (Truesilver Bolt) and/or base statistics. Vayne dropped from SS tier and became a more balanced A tier carry."
+        }
       },
       {
         "type": "nerf",
         "target": "Mel",
         "targetType": "champion",
-        "summary": { "es": "Habilidades menos potentes en early", "en": "Less powerful abilities in early game" },
-        "detail": { "es": "Reducciones de daño en su kit. Mel seguía siendo fuerte en mid pero ya no dominaba el early game de la misma forma.", "en": "Damage reductions across her kit. Mel remained strong in mid but no longer dominated early game the same way." }
+        "summary": {
+          "es": "Habilidades menos potentes en early",
+          "en": "Less powerful abilities in early game"
+        },
+        "detail": {
+          "es": "Reducciones de daño en su kit. Mel seguía siendo fuerte en mid pero ya no dominaba el early game de la misma forma.",
+          "en": "Damage reductions across her kit. Mel remained strong in mid but no longer dominated early game the same way."
+        }
       },
       {
         "type": "nerf",
         "target": "Riven",
         "targetType": "champion",
-        "summary": { "es": "Menos daño en combos", "en": "Less damage in combos" },
-        "detail": { "es": "Daño reducido en varias habilidades. Riven perdió algo de dominancia en trades cortos pero sigue siendo una top lane sólida.", "en": "Damage reduced on several abilities. Riven lost some dominance in short trades but remains a solid top laner." }
+        "summary": {
+          "es": "Menos daño en combos",
+          "en": "Less damage in combos"
+        },
+        "detail": {
+          "es": "Daño reducido en varias habilidades. Riven perdió algo de dominancia en trades cortos pero sigue siendo una top lane sólida.",
+          "en": "Damage reduced on several abilities. Riven lost some dominance in short trades but remains a solid top laner."
+        }
       },
       {
         "type": "adjust",
         "target": "Vladimir",
         "targetType": "champion",
-        "summary": { "es": "+Armadura base para compensar su fragilidad", "en": "+Base armor to compensate his fragility" },
-        "detail": { "es": "Vladimir recibió armadura base adicional para ayudarlo en el early game contra campeones físicos. Su daño no cambió.", "en": "Vladimir received additional base armor to help him in early game against physical champions. His damage didn't change." }
+        "summary": {
+          "es": "+Armadura base para compensar su fragilidad",
+          "en": "+Base armor to compensate his fragility"
+        },
+        "detail": {
+          "es": "Vladimir recibió armadura base adicional para ayudarlo en el early game contra campeones físicos. Su daño no cambió.",
+          "en": "Vladimir received additional base armor to help him in early game against physical champions. His damage didn't change."
+        }
+      }
+    ]
+  },
+  {
+    "patch": "7.1c",
+    "date": "Abril 2026",
+    "changes": [
+      {
+        "type": "adjust",
+        "target": "Modos de Juego",
+        "targetType": "system",
+        "summary": {
+          "es": "Parche de modos — sin cambios al juego principal",
+          "en": "Mode patch — no main game changes"
+        },
+        "detail": {
+          "es": "7.1c fue un parche dedicado exclusivamente a ARAM y Arena. Sin cambios a campeones, items ni runas del juego principal. ARAM: velocidad del segundo lanzamiento de Bola de Nieve aumentada. Arena: duración del daño prolongado de Capa del Piromante reducida 60s → 30s. Cota de Espinas (ARAM): vida adicional 2% → 1%.",
+          "en": "7.1c was a patch dedicated exclusively to ARAM and Arena. No changes to main game champions, items or runes. ARAM: Snowball second cast speed increased. Arena: Pyromancer's Cloak prolonged damage duration reduced 60s → 30s. Thornmail (ARAM): bonus HP 2% → 1%."
+        }
+      }
+    ]
+  },
+  {
+    "patch": "7.1b",
+    "date": "Marzo 2026",
+    "changes": [
+      {
+        "type": "buff",
+        "target": "Talon",
+        "targetType": "champion",
+        "summary": {
+          "es": "Más daño y claro de jungla mejorado",
+          "en": "More damage and improved jungle clear"
+        },
+        "detail": {
+          "es": "Rastrillar (Q): daño aumentado 35/45/55/65 +45% AD bonus → 40/50/60/70 +50% AD bonus. Ratio de daño a monstruos de jungla: 70% → 80%. Mejora su early game como asesino de jungla.",
+          "en": "Rake (Q): damage increased 35/45/55/65 +45% bonus AD → 40/50/60/70 +50% bonus AD. Jungle monster damage ratio: 70% → 80%. Improves his early game as a jungle assassin."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Fizz",
+        "targetType": "champion",
+        "summary": {
+          "es": "Más daño en W con AP",
+          "en": "More W damage with AP"
+        },
+        "detail": {
+          "es": "Golpe Travierizo (W): ratio de poder de habilidad aumentado 50% → 60%. Mejora su escalado en builds full AP.",
+          "en": "Seastone Trident (W): ability power ratio increased 50% → 60%. Improves his scaling in full AP builds."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Jax",
+        "targetType": "champion",
+        "summary": {
+          "es": "Más armadura base, velocidad de ataque y daño % HP en W",
+          "en": "More base armor, attack speed and % HP damage on W"
+        },
+        "detail": {
+          "es": "Armadura base por nivel: 3.9 → 4.5. Asalto Implacable (E): velocidad de ataque por nivel 5-19 → 6-20. Contraataque (W): daño de HP máximo 3% → 3.5%. Gran Maestro de Armas (R) pasiva: 60/110/160 → 75/130/185.",
+          "en": "Base armor per level: 3.9 → 4.5. Relentless Assault (E): attack speed per level 5-19 → 6-20. Counter Strike (W): max HP damage 3% → 3.5%. Grandmaster's Might (R) passive: 60/110/160 → 75/130/185."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Varus",
+        "targetType": "champion",
+        "summary": {
+          "es": "Más velocidad de ataque en pasiva",
+          "en": "More attack speed on passive"
+        },
+        "detail": {
+          "es": "Venganza Viviente (P): velocidad de ataque de minions 15/20/25% → 20/25/30%; de campeones 50% → 55%. Mejora su ritmo en lane y de jungla.",
+          "en": "Living Vengeance (P): attack speed from minions 15/20/25% → 20/25/30%; from champions 50% → 55%. Improves his lane and jungle rhythm."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Twitch",
+        "targetType": "champion",
+        "summary": {
+          "es": "Velocidad de ataque máxima del veneno mucho mayor",
+          "en": "Much higher max poison attack speed"
+        },
+        "detail": {
+          "es": "Veneno Mortal (P): velocidad de ataque máxima de envenenamiento 10/15/20/25/30% → 30/35/40/45/50%. Enorme buff a su power spike en teamfight cuando tiene múltiples enemigos envenenados.",
+          "en": "Deadly Venom (P): max poison attack speed 10/15/20/25/30% → 30/35/40/45/50%. Huge buff to his teamfight power spike when multiple enemies are poisoned."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Yone",
+        "targetType": "champion",
+        "summary": {
+          "es": "Escudo del W más resistente",
+          "en": "Stronger W shield"
+        },
+        "detail": {
+          "es": "Cercenamiento Espiritual (W): valor del escudo 30 +70% AD bonus → 45 +80% AD bonus. Mejora su supervivencia en trades y teamfights.",
+          "en": "Soul Unbound (W): shield value 30 +70% bonus AD → 45 +80% bonus AD. Improves his survivability in trades and teamfights."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Rammus",
+        "targetType": "champion",
+        "summary": {
+          "es": "Posición Defensiva W menos resistente",
+          "en": "Defensive Ball Curl W less tanky"
+        },
+        "detail": {
+          "es": "Posición Defensiva (W): progresión de armadura 55/60/65/70% → 45/50/55/60%. Reduce su poder en duelos contra carries de daño físico.",
+          "en": "Defensive Ball Curl (W): armor progression 55/60/65/70% → 45/50/55/60%. Reduces his power in duels against physical damage carries."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Renekton",
+        "targetType": "champion",
+        "summary": {
+          "es": "Menos AD base y W mucho más débil",
+          "en": "Less base AD and much weaker W"
+        },
+        "detail": {
+          "es": "AD base: 70 → 66. Depredador Implacable (W): cooldown 12.5/11/9.5/8 → 14/12/10/8s; daño base 30/60/90/120 → 24/48/72/96; daño empoderado 45/90/135/180 → 36/72/108/144. Nerf de emergencia por dominio en top.",
+          "en": "Base AD: 70 → 66. Ruthless Predator (W): cooldown 12.5/11/9.5/8 → 14/12/10/8s; base damage 30/60/90/120 → 24/48/72/96; empowered damage 45/90/135/180 → 36/72/108/144. Emergency nerf for top lane dominance."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Swain",
+        "targetType": "champion",
+        "summary": {
+          "es": "Menos daño de la R con AP",
+          "en": "Less R damage scaling with AP"
+        },
+        "detail": {
+          "es": "Ascenso Demoníaco (R): ratio de AP del relanzamiento 60% → 45%. Reduce su potencial de daño en builds full AP en mid y support.",
+          "en": "Demonic Ascension (R): recast AP ratio 60% → 45%. Reduces his damage potential in full AP builds in mid and support."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Teemo",
+        "targetType": "champion",
+        "summary": {
+          "es": "Menos daño en Q y E",
+          "en": "Less Q and E damage"
+        },
+        "detail": {
+          "es": "Tiro Tóxico (Q): daño de impacto 10-38 → 8-36; daño por segundo 11-53 → 8-50. Dardo Cegador (E): daño base 60/110/160/210 → 50/95/140/185. Reduce su poke agresivo en early.",
+          "en": "Guerrilla Warfare (Q): impact damage 10-38 → 8-36; per-second damage 11-53 → 8-50. Noxious Trap (E): base damage 60/110/160/210 → 50/95/140/185. Reduces his aggressive early poke."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Amumu",
+        "targetType": "champion",
+        "summary": {
+          "es": "Menos daño pasivo y slow de R reducido",
+          "en": "Less passive damage and reduced R slow"
+        },
+        "detail": {
+          "es": "Desesperanza (W): daño base 1.4/1.8/2.2/2.6% → 1.2/1.5/1.8/2.1% HP máximo. Berrinche (R): slow reducido 20% → 10%. Sigue siendo fuerte en jungla pero el daño pasivo y la retención de la ult son menores.",
+          "en": "Despair (W): base damage 1.4/1.8/2.2/2.6% → 1.2/1.5/1.8/2.1% max HP. Curse of the Sad Mummy (R): slow reduced 20% → 10%. Still strong in jungle but passive damage and ult retention are lower."
+        }
+      },
+      {
+        "type": "item-buff",
+        "target": "Diente de Nashor",
+        "targetType": "item",
+        "summary": {
+          "es": "Más barato",
+          "en": "Cheaper"
+        },
+        "detail": {
+          "es": "Precio reducido 3000 → 2800 de oro. Más accesible para carries de AP que necesitan velocidad de ataque como Kayle, Diana y Yone.",
+          "en": "Price reduced 3000 → 2800 gold. More accessible for AP carries who need attack speed like Kayle, Diana and Yone."
+        }
+      },
+      {
+        "type": "item-buff",
+        "target": "Ídolo Prohibido",
+        "targetType": "item",
+        "summary": {
+          "es": "Ahora da regeneración de maná",
+          "en": "Now gives mana regeneration"
+        },
+        "detail": {
+          "es": "Regeneración de maná añadida: 0 → 25%. También afecta a sus componentes (Eco Armónico, Báculo de Agua Fluyente, Pebetero Ardiente). Mejora la sustentabilidad de supports encantadores.",
+          "en": "Mana regeneration added: 0 → 25%. Also affects its components (Harmonic Echo, Staff of Flowing Water, Ardent Censer). Improves sustainability for enchanter supports."
+        }
+      },
+      {
+        "type": "item-nerf",
+        "target": "Fuerza de la Trinidad",
+        "targetType": "item",
+        "summary": {
+          "es": "Rework: más vida, menos haste, pierde MS en kills",
+          "en": "Rework: more HP, less haste, loses kill MS"
+        },
+        "detail": {
+          "es": "Vida: 250 → 333. Haste de habilidad: 25 → 20. Se elimina el bonus de velocidad de movimiento en kills (60 MS). Más tanque, menos bruto en snowball.",
+          "en": "Health: 250 → 333. Ability haste: 25 → 20. Kill movement speed bonus removed (60 MS). Tankier, less brutal in snowball."
+        }
+      },
+      {
+        "type": "item-nerf",
+        "target": "Cuchillas Raudas de Navori",
+        "targetType": "item",
+        "summary": {
+          "es": "Rework completo — ahora es un item de velocidad de ataque",
+          "en": "Full rework — now an attack speed item"
+        },
+        "detail": {
+          "es": "Precio: 3000 → 2800. AD: 40 → 0. Velocidad de ataque: 15% → 45%. Velocidad de movimiento: 0 → 5%. Path de build completamente cambiado. Pasiva Golpes Certeros: ahora reduce CDs de habilidades básicas 15% en ataques. Impacto enorme en carries de velocidad de ataque.",
+          "en": "Price: 3000 → 2800. AD: 40 → 0. Attack speed: 15% → 45%. Movement speed: 0 → 5%. Build path completely changed. Flowing Strikes passive: now reduces basic ability CDs by 15% on attacks. Huge impact on attack speed carries."
+        }
       }
     ]
   }

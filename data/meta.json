@@ -10,6 +10,7 @@
     { "patch": "7.1f", "note": { "es": "Taliyah, K'Sante, Viego, Kog'Maw nerfed. Shen, Kayle, Akshan buffed. Ambessa y Gragas ajustados.", "en": "Taliyah, K'Sante, Viego, Kog'Maw nerfed. Shen, Kayle, Akshan buffed. Ambessa and Gragas adjusted." }},
     { "patch": "7.1e", "note": { "es": "Taliyah añadida. Garen, Ryze, Twisted Fate nerfed. Kayn, Graves, Bard buffed. Kraken Slayer y Randuin's Omen ajustados.", "en": "Taliyah added. Garen, Ryze, Twisted Fate nerfed. Kayn, Graves, Bard buffed. Kraken Slayer and Randuin's Omen adjusted." }},
     { "patch": "7.1d", "note": { "es": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor.", "en": "Zeri, Sivir, Tristana buffed. Vayne, Mel, Riven nerfed. Vladimir +Armor." }},
+    { "patch": "7.1c", "note": { "es": "Solo cambios de modos (ARAM/Arena). Sin cambios a campeones, items ni runas principales.", "en": "Mode-only changes (ARAM/Arena). No main game champion, item or rune changes." }},
     { "patch": "7.1b", "note": { "es": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed.", "en": "Talon, Fizz, Varus, Twitch, Yone buffed. Rammus, Renekton, Swain, Teemo, Amumu nerfed." }}
   ]
 }
