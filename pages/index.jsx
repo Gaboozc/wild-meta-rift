@@ -28,10 +28,11 @@ const ROLES = [
   { key: "sup", icon: "💙", label: { es: "Support", en: "Support" } },
 ];
 const TABS = [
-  { key: "tier",     icon: "📋", label: { es: "Tier List", en: "Tier List" } },
-  { key: "mychamps", icon: "⭐", label: { es: "Mis Champs", en: "My Champs" } },
-  { key: "comps",    icon: "🧩", label: { es: "Comps",  en: "Comps"  } },
-  { key: "patch",    icon: "📋", label: { es: "Parche", en: "Patch"  } },
+  { key: "tier",     icon: "📋", label: { es: "Tier List",     en: "Tier List"     } },
+  { key: "gems",     icon: "💎", label: { es: "Joyas Ocultas", en: "Hidden Gems"   } },
+  { key: "mychamps", icon: "⭐", label: { es: "Mis Champs",    en: "My Champs"     } },
+  { key: "comps",    icon: "🧩", label: { es: "Comps",         en: "Comps"         } },
+  { key: "patch",    icon: "📋", label: { es: "Parche",        en: "Patch"         } },
 ];
 
 // ─── Lang hook ────────────────────────────────────────────────────────────────
@@ -271,6 +272,100 @@ function MyChampsPanel({ lang, isMine, onToggleMine, myChamps, clearAll }) {
   );
 }
 
+// ─── HiddenGemsPanel ──────────────────────────────────────────────────────────
+const GEM_ROLES = [
+  { key: "top", icon: "🛡", label: { es: "Baron", en: "Baron" } },
+  { key: "jgl", icon: "🌿", label: { es: "Jungle", en: "Jungle" } },
+  { key: "mid", icon: "⚡", label: { es: "Mid",    en: "Mid"    } },
+  { key: "adc", icon: "🏹", label: { es: "ADC",    en: "ADC"    } },
+  { key: "sup", icon: "💙", label: { es: "Support","en": "Support" } },
+];
+
+function HiddenGemsPanel({ lang, isMine, onToggleMine }) {
+  const gems = useMemo(() => {
+    const result = {};
+    GEM_ROLES.forEach(r => { result[r.key] = []; });
+    for (const champ of championsData) {
+      for (const rd of champ.roles) {
+        if (rd.hiddenGem) result[rd.role]?.push({ champ, roleData: rd });
+      }
+    }
+    return result;
+  }, []);
+
+  return (
+    <div>
+      <div className="gems-header">
+        <h2 className="gems-title">💎 {lang === "es" ? "Joyas Ocultas" : "Hidden Gems"}</h2>
+        <p className="gems-sub">
+          {lang === "es"
+            ? "Picks off-meta de alta expertise o condiciones muy específicas — 2 por línea. No son los más fáciles, pero en las manos correctas pueden romper partidas."
+            : "Off-meta picks requiring high expertise or very specific conditions — 2 per role. Not the easiest, but in the right hands they can break games."}
+        </p>
+      </div>
+      {GEM_ROLES.map(r => {
+        const entries = gems[r.key] || [];
+        if (!entries.length) return null;
+        return (
+          <div key={r.key} className="gem-role-section">
+            <div className="gem-role-header">
+              <span className="gem-role-icon">{r.icon}</span>
+              <span className="gem-role-label"><T obj={r.label} lang={lang} /></span>
+            </div>
+            <div className="gem-grid">
+              {entries.map(({ champ, roleData }) => (
+                <ChampCard
+                  key={`${champ.name}|${roleData.role}`}
+                  champ={champ}
+                  roleData={roleData}
+                  lang={lang}
+                  isMine={isMine(champ.name, roleData.role)}
+                  onToggleMine={onToggleMine}
+                  isGem={true}
+                />
+              ))}
+            </div>
+          </div>
+        );
+      })}
+      <style jsx>{`
+        .gems-header { margin-bottom: 2rem; }
+        .gems-title {
+          font-family: 'Rajdhani', sans-serif;
+          font-size: clamp(1.4rem, 4vw, 2rem);
+          font-weight: 700;
+          color: #c084fc;
+          margin: 0 0 8px;
+        }
+        .gems-sub { font-size: 13px; color: var(--muted); margin: 0; line-height: 1.7; max-width: 720px; }
+        .gem-role-section { margin-bottom: 2.5rem; }
+        .gem-role-header {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          padding-bottom: 10px;
+          margin-bottom: 14px;
+          border-bottom: 1px solid rgba(168,85,247,0.2);
+        }
+        .gem-role-icon { font-size: 20px; }
+        .gem-role-label {
+          font-family: 'Rajdhani', sans-serif;
+          font-size: 14px;
+          font-weight: 700;
+          letter-spacing: .1em;
+          text-transform: uppercase;
+          color: #c084fc;
+        }
+        .gem-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+          gap: 10px;
+        }
+      `}</style>
+    </div>
+  );
+}
+
 // ─── Main Page ────────────────────────────────────────────────────────────────
 export default function Home() {
   const [lang, setLang] = useLang();
@@ -449,6 +544,13 @@ export default function Home() {
             )}
           </main>
         </>
+      )}
+
+      {/* ── HIDDEN GEMS TAB ──────────────────────────────────────────────── */}
+      {tab === "gems" && (
+        <main className="main-content">
+          <HiddenGemsPanel lang={lang} isMine={isMine} onToggleMine={toggle} />
+        </main>
       )}
 
       {/* ── MY CHAMPS TAB ────────────────────────────────────────────────── */}

@@ -179,7 +179,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Buffed en 7.0f (Shroud más rápido, Shuriken Flip interaction). Alta movilidad y roaming entre carriles.",
           "en": "Buffed in 7.0f (faster Shroud, Shuriken Flip interaction). High mobility and cross-lane roaming."
@@ -1106,7 +1106,12 @@
             "es": "Vs. mucho CC: Mercury's Treads + Banshee's Veil",
             "en": "vs heavy CC: Mercury's Treads + Banshee's Veil"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Maestro de control de zona olvidado. Con Phase Rush y CDR, sus estrellas zoning hacen imposible acercarse. Destruye comps teamfight lentas. Requiere entender el radio exacto de las estrellas y roaming constante.",
+          "en": "Forgotten zone control master. With Phase Rush and CDR, his orbiting stars make approaching impossible. Destroys slow teamfight comps. Requires understanding the exact star radius and constant roaming."
+        }
       }
     ]
   },
@@ -1887,7 +1892,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Buffed en 7.1 (+4 AD base). Mixed damage difícil de itemizar. Packages fuertes con movilidad.",
           "en": "Buffed in 7.1 (+4 base AD). Mixed damage hard to itemize against. Strong Packages with mobility."
@@ -2820,7 +2825,12 @@
             "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
             "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Si tu equipo tiene engage, el ult de Fiddlesticks desde un bush en un teamfight es instantáneamente ganador. AP de teamfight puro. Su farm de jungla es el mejor del juego en late. Débil si detectan el canal del ult.",
+          "en": "If your team has engage, Fiddlesticks ulting from a bush in a teamfight is an instant win condition. Pure teamfight AP. His jungle farm is the best in the game in late game. Weak if the channel is detected."
+        }
       }
     ]
   },
@@ -2830,7 +2840,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 7.1 (true dmg pasiva reducida). Aún muy fuerte 1v1 y en split push, pero más manejable.",
           "en": "Nerfed in 7.1 (passive true dmg reduced). Still very strong 1v1 and split push, but more manageable."
@@ -5042,7 +5052,12 @@
             "es": "Vs. asesino: juega pegada a tu support, evita aislamientos",
             "en": "vs assassin: stay close to support, avoid isolation"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Requiere sinergia perfecta con su support (Rakan, Thresh, Nautilus) para lanzarlos a engage. Con el duo correcto es el ADC más difícil de matar del juego gracias al dash en cada ataque. Sin sincronía, es un ADC débil.",
+          "en": "Requires perfect synergy with support (Rakan, Thresh, Nautilus) for the ult toss engage. With the right duo, she's the hardest ADC to kill thanks to attack-cancel dashes. Without synergy, she's a weak ADC."
+        }
       }
     ]
   },
@@ -5393,7 +5408,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "Hyperscaler — inútil en early, omnipotente en late. La meta de dive la destruye antes de llegar a nivel 11+.",
           "en": "Hyperscaler — useless early, omnipotent late. The dive meta destroys her before reaching level 11+."
@@ -5741,7 +5756,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "ADC jungler con movilidad, marcas de presa que dan bonus y ult de zona de inmortalidad. Único en el juego. Escala muy bien.",
           "en": "ADC jungler with mobility, prey marks giving bonuses and immortality zone ult. Unique in the game. Scales very well."
@@ -7021,7 +7036,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "b",
+        "tier": "c",
         "why": {
           "es": "Nerfed en 7.0c (Alpha Strike CD aumentado). Las teamfights caóticas del meta lo destruyen.",
           "en": "Nerfed in 7.0c (Alpha Strike CD increased). The chaotic teamfights of the meta destroy him."
@@ -8104,7 +8119,12 @@
             "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
             "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Con buen aim de lanza, Nidalee es el mejor early invader del juego. Sus trampas dan visión invisible y su movilidad en forma puma hace imposible castigar una buena Nidalee. Requiere +200 horas para ser efectiva.",
+          "en": "With good spear aim, Nidalee is the best early invader in the game. Her invisible traps provide vision and her puma form mobility makes a skilled Nidalee nearly unpunishable. Requires 200+ hours to be effective."
+        }
       }
     ]
   },
@@ -9145,7 +9165,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Support engage con movilidad extrema, heal en W y ult de encanto masivo. Combina perfectamente con Xayah. CC masivo en teamfight.",
           "en": "Engage support with extreme mobility, W heal and massive charm ult. Combines perfectly with Xayah. Massive teamfight CC."
@@ -9405,7 +9425,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 7.1 y 7.1b. Fuerte early pero no escala — necesita ganar lane para impactar.",
           "en": "Nerfed in 7.1 and 7.1b. Strong early but doesn't scale — needs to win lane to have impact."
@@ -9822,7 +9842,12 @@
             "es": "Si snowball: rush Rabadon's antes del 4to item",
             "en": "If ahead: rush Rabadon's before 4th item"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "AP bruiser subestimado con una de las mejores ults de teamfight del juego. Machaca melee comps en split y en mid su ult puede ganar teamfights por sí sola. Pocos jugadores saben manejar el heat mechanic.",
+          "en": "Underrated AP bruiser with one of the best teamfight ults in the game. Destroys melee comps in split and his ult can single-handedly win teamfights. Few players can manage the heat mechanic properly."
+        }
       }
     ]
   },
@@ -10683,7 +10708,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "b",
+        "tier": "c",
         "why": {
           "es": "Meta de burst damage y dive lo destruye antes de que proxy farm funcione. Su kit no tiene respuesta al meta actual.",
           "en": "Burst damage and dive meta destroys him before proxy farming works. His kit has no answer to the current meta."
@@ -10759,7 +10784,12 @@
             "es": "Vs. curación rival: Thornmail para devolver el poison damage",
             "en": "vs enemy healing: Thornmail to boost poison damage"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Contra comps con mucho dive o engage (Malphite/Zac/Hecarim), Singed es inmortal: fardea, envenena a todos y el equipo rival no sabe qué hacer con él. Requiere conocer los límites del veneno y el proxy farming.",
+          "en": "Against dive/engage-heavy comps (Malphite/Zac/Hecarim), Singed is unkillable: he farms everywhere, poisons everyone, and the enemy team doesn't know how to deal with him. Requires mastery of poison limits and proxy farming."
+        }
       }
     ]
   },
@@ -11273,7 +11303,12 @@
             "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
             "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Encantadora de poke+escala muy infravalorada. En late con Ardent + Staff, acelera y cura a todo el equipo mientras hace daño de lejos. Su ult en teamfight es ganador de partidas. Extremadamente débil si la prioriza el rival.",
+          "en": "Highly undervalued poke+scaling enchanter. In late with Ardent + Staff, she speeds and heals the whole team while dealing poke damage. Her teamfight ult is a game-winner. Extremely weak if the enemy prioritizes her."
+        }
       }
     ]
   },
@@ -11948,7 +11983,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Nerfed en 6.3e y 7.1b. Vision control único pero cae ante las comps de dive del meta actual.",
           "en": "Nerfed in 6.3e and 7.1b. Unique vision control but falls to the dive comps in the current meta."
@@ -12537,7 +12572,12 @@
             "es": "Vs. mucho AP: Mercury's Treads + Wit's End como 3er item",
             "en": "vs heavy AP: Mercury's Treads + Wit's End as 3rd item"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Hyperscale de on-hit invisible. En late game con Guinsoo's + Runaan's puede matar a todo un equipo desde el flanco invisible. La invisibilidad y el posicionamiento son críticos — si te ven antes de atacar, perdiste.",
+          "en": "Invisible on-hit hyperscaler. In late game with Guinsoo's + Runaan's can kill an entire team from an invisible flank. Invisibility and positioning are critical — if they see you before you attack, you've lost."
+        }
       }
     ]
   },
@@ -12721,7 +12761,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 7.0a y 7.1d (true dmg y AS reducidos). Sigue destruyendo tanques pero más lenta. Viable con buen peel.",
           "en": "Nerfed in 7.0a and 7.1d (true dmg and AS reduced). Still destroys tanks but slower. Viable with good peel."
@@ -13214,7 +13254,12 @@
             "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
             "en": "If ahead: rush Rabadon's as 3rd item to close out"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Poke de largo alcance casi imposible de esquivar cuando predicts el movimiento. Su true damage con el pasivo deshace tanks. Perfecto contra comps lentas o sin dash. Completamente inútil contra asesinos móviles.",
+          "en": "Long-range poke nearly impossible to dodge when movement is predicted. True damage from passive shreds tanks. Perfect against slow or dash-less comps. Completely useless against mobile assassins."
+        }
       }
     ]
   },
@@ -14336,7 +14381,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "b",
+        "tier": "c",
         "why": {
           "es": "Nerfed en 7.1 (Steel Tempest y armor pen del ult reducidos). Alta curva de habilidad con recompensa reducida.",
           "en": "Nerfed in 7.1 (Steel Tempest and ult armor pen reduced). High skill curve with reduced reward."
@@ -14677,7 +14722,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Buffed en 6.3c y 6.3f pero el meta de tanks/bruisers lo frustra. Mata carries bien pero inútil contra frontlines.",
           "en": "Buffed in 6.3c and 6.3f but the tank/bruiser meta frustrates him. Kills carries well but useless against frontlines."
@@ -15188,7 +15233,12 @@
             "es": "Si tu equipo es full AP: considera Locket of Iron Solari para escudos",
             "en": "If team is full AP: consider Locket of Iron Solari for shields"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "Control de zona AP que los soportes de engage odian. Sus plantas hit-scan deshacen a ADC posicionados mal. Perfecto contra comps con engage lento sin dash. Completamente inutilizable si te focusean con CC al instante.",
+          "en": "AP zone control that engage supports hate. Her hitscan plants shred poorly positioned ADCs. Perfect against slow engage comps without dashes. Completely unusable if they CC you the moment you place plants."
+        }
       }
     ]
   }

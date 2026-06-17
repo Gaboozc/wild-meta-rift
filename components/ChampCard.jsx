@@ -272,16 +272,17 @@ function T({ obj, lang }) {
   return <>{obj[lang] || obj.es || ""}</>;
 }
 
-export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine, roleIcon }) {
+export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine, roleIcon, isGem }) {
   const [open, setOpen] = useState(false);
   const tc = TIER_COLORS[roleData.tier] || TIER_COLORS.b;
+  const gem = isGem || roleData.hiddenGem;
 
   return (
     <div
       className="champ-card"
       style={{
-        borderColor: isMine ? "var(--gold)" : open ? tc.border : "var(--border)",
-        background: isMine ? "rgba(201,168,76,0.04)" : "var(--surface)",
+        borderColor: gem ? "rgba(168,85,247,0.45)" : isMine ? "var(--gold)" : open ? tc.border : "var(--border)",
+        background: gem ? "rgba(168,85,247,0.04)" : isMine ? "rgba(201,168,76,0.04)" : "var(--surface)",
       }}
     >
       {/* HEADER */}
@@ -294,6 +295,7 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
             onError={e => { e.currentTarget.style.display = "none"; }}
           />
           <span className="tier-dot" style={{ background: tc.color }} />
+          {gem && <span className="gem-badge">💎</span>}
           {roleIcon && <span className="role-chip">{roleIcon}</span>}
           <span className="champ-name">{champ.name}</span>
           {roleData.wr && roleData.wr !== "TBD" && <span className="champ-wr">{roleData.wr} WR</span>}
@@ -342,6 +344,14 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
               <p className="build-note"><T obj={roleData.buildNote} lang={lang} /></p>
             )}
           </div>
+
+          {/* HIDDEN GEM NOTE */}
+          {gem && roleData.hiddenGemNote && (
+            <div className="gem-section">
+              <div className="gem-header">💎 {lang === "es" ? "Joya Oculta — ¿Por qué jugarla?" : "Hidden Gem — Why play this?"}</div>
+              <p className="gem-note"><T obj={roleData.hiddenGemNote} lang={lang} /></p>
+            </div>
+          )}
 
           {/* SITUATIONAL */}
           {roleData.situational && roleData.situational.length > 0 && (
@@ -565,6 +575,23 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
         .sit-item { display: flex; gap: 7px; align-items: flex-start; font-size: 12px; line-height: 1.5; }
         .sit-bullet { font-size: 10px; color: var(--gold); flex-shrink: 0; margin-top: 2px; }
         .sit-text { color: var(--muted); }
+
+        /* GEM */
+        .gem-badge { font-size: 12px; flex-shrink: 0; }
+        .gem-section {
+          padding: 10px 14px;
+          border-top: 1px solid rgba(168,85,247,0.25);
+          background: rgba(168,85,247,0.04);
+        }
+        .gem-header {
+          font-size: 10px;
+          font-weight: 700;
+          letter-spacing: .12em;
+          text-transform: uppercase;
+          color: #c084fc;
+          margin-bottom: 6px;
+        }
+        .gem-note { font-size: 12px; color: #d8b4fe; line-height: 1.65; margin: 0; }
 
         /* RUNES */
         .runes-row { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 4px; }
