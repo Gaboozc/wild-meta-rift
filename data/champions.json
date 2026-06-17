@@ -64,7 +64,25 @@
             "en": "Hook lets Aatrox dive safely"
           }
         ],
-        "wr": "49.8%"
+        "wr": "49.8%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -133,7 +151,25 @@
             "en": "Knockup ult makes Ahri's charm easy on the group"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Banshee's Veil/Zhonya's rush 2do item",
+            "en": "vs assassin: Banshee's Veil/Zhonya's rush 2nd item"
+          },
+          {
+            "es": "Vs. shields: Serpent's Fang 2do item",
+            "en": "vs shields: Serpent's Fang 2nd item"
+          },
+          {
+            "es": "Si vas adelante: Rabadon's 3er en vez de Shadowflame",
+            "en": "If ahead: Rabadon's 3rd instead of Shadowflame"
+          },
+          {
+            "es": "Vs. tanky: Void Staff antes del 4to item",
+            "en": "vs tanky: Void Staff before 4th item"
+          }
+        ]
       }
     ]
   },
@@ -202,7 +238,25 @@
             "en": "Leona's CC makes it easy for Akali to combo in"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después de 1er item de burst",
+            "en": "vs tanky team: Black Cleaver after 1st burst item"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang como 2do item",
+            "en": "vs heavy enemy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Vs. equipo con mucho MR: Void Staff / Last Whisper 3er item",
+            "en": "vs high MR team: Void Staff / Last Whisper 3rd item"
+          },
+          {
+            "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
+            "en": "vs heavy engage: Edge of Night for spellshield before entering"
+          }
+        ]
       },
       {
         "role": "top",
@@ -265,7 +319,25 @@
             "en": "Ball + Akali engage = devastating combined damage"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después de 1er item de burst",
+            "en": "vs tanky team: Black Cleaver after 1st burst item"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang como 2do item",
+            "en": "vs heavy enemy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Vs. equipo con mucho MR: Void Staff / Last Whisper 3er item",
+            "en": "vs high MR team: Void Staff / Last Whisper 3rd item"
+          },
+          {
+            "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
+            "en": "vs heavy engage: Edge of Night for spellshield before entering"
+          }
+        ]
       }
     ]
   },
@@ -334,7 +406,25 @@
             "en": "Akshan revives allies that Hecarim needs for teamfight"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -403,7 +493,25 @@
             "en": "Alistar's CC perfect for channeling Bullet Time"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -471,6 +579,24 @@
             "name": "Nautilus",
             "es": "CC en cadena permite que Ambessa entre sin riesgo",
             "en": "Chain CC lets Ambessa dive in safely"
+          }
+        ],
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
           }
         ]
       }
@@ -541,7 +667,25 @@
             "en": "Ball + ult on Amumu's group = unbeatable"
           }
         ],
-        "wr": "55.4%"
+        "wr": "55.4%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Oracle Lens desde nivel 9 para contrarrestar wards",
+            "en": "vs heavy poke: Oracle Lens from lvl 9 to counter wards"
+          },
+          {
+            "es": "Si tu adc/mid va adelante: prioriza dragon/baron sobre farm",
+            "en": "If your carry is ahead: prioritize dragon/baron over farming"
+          },
+          {
+            "es": "Vs. AP carry jungla rival: Mercury's Treads + Force of Nature",
+            "en": "vs AP enemy jungler: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Vs. equipo tanky rival: Thornmail early para hacer más daño con tu pasiva",
+            "en": "vs tanky enemy: Thornmail early to maximize passive damage"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -604,7 +748,25 @@
             "en": "Amumu tanks so Jinx shoots freely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -673,7 +835,25 @@
             "en": "Vi pins the carry so Annie can stun and burn"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -735,7 +915,25 @@
             "en": "Stun enables Caitlyn's headshots"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -803,7 +1001,25 @@
             "en": "Ashe ult initiates and Malphite closes"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación masiva: compra Executioner's Calling, escala a Mortal Reminder",
+            "en": "vs heavy healing: buy Executioner's Calling, upgrade to Mortal Reminder"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. asesino fed: Guardian Angel rush después de 2do item",
+            "en": "vs fed assassin: Guardian Angel rush after 2nd item"
+          },
+          {
+            "es": "Si quieres mas kiting: Rapid Firecannon en vez de Phantom Dancer",
+            "en": "For more kiting: Rapid Firecannon over Phantom Dancer"
+          }
+        ]
       }
     ]
   },
@@ -872,7 +1088,25 @@
             "en": "Vi pins so Aurelion Sol accumulates stardust for free"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's rush antes del 3er item",
+            "en": "vs assassin: Zhonya's rush before 3rd item"
+          },
+          {
+            "es": "Vs. tanky: Void Staff 3er item obligatorio",
+            "en": "vs tanky: Void Staff 3rd item mandatory"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er para one-shot potential",
+            "en": "If snowballing: Rabadon's 3rd for one-shot potential"
+          },
+          {
+            "es": "Vs. mucho CC: Mercury's Treads + Banshee's Veil",
+            "en": "vs heavy CC: Mercury's Treads + Banshee's Veil"
+          }
+        ]
       }
     ]
   },
@@ -941,7 +1175,25 @@
             "en": "Vi pins the carry inside Aurora's zone"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       },
       {
         "role": "top",
@@ -1004,7 +1256,25 @@
             "en": "Hook lets Aurora engage safely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -1073,7 +1343,25 @@
             "en": "Bard's portals give extra mobility to immobile Jinx"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -1142,7 +1430,25 @@
             "en": "Hook + Bullet Time on target = guaranteed kill"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -1211,7 +1517,25 @@
             "en": "Blaze + Bullet Time = massive teamfight damage"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky front line: Shadowflame como 2do item para penetración",
+            "en": "vs tanky frontline: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item para sobrevivir dives",
+            "en": "vs heavy engage: Zhonya's as 3rd item to survive dives"
+          },
+          {
+            "es": "Vs. asesino: Shurelya's Battlesong para acelerar al equipo y escapar",
+            "en": "vs assassin: Shurelya's Battlesong to speed team and escape"
+          },
+          {
+            "es": "Si tu equipo es full AP: considera Locket of Iron Solari para escudos",
+            "en": "If team is full AP: consider Locket of Iron Solari for shields"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -1274,7 +1598,25 @@
             "en": "Vi pins the carry so Brand stacks passive for free"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -1343,7 +1685,25 @@
             "en": "Braum's passive facilitates Caitlyn's headshots"
           }
         ],
-        "wr": "52.5%"
+        "wr": "52.5%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -1412,7 +1772,25 @@
             "en": "Hook + Caitlyn trap = permanent snare"
           }
         ],
-        "wr": "49.0%"
+        "wr": "49.0%",
+        "situational": [
+          {
+            "es": "Vs. engage: Galeforce rush para tener dash de escape",
+            "en": "vs engage: Galeforce rush for escape dash"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder 3er item",
+            "en": "vs healing: Mortal Reminder 3rd item"
+          },
+          {
+            "es": "Vs. tanky: Kraken Slayer 3er item",
+            "en": "vs tanky: Kraken Slayer 3rd item"
+          },
+          {
+            "es": "Vs. asesino: Guardian Angel rush 3er item",
+            "en": "vs assassin: Guardian Angel rush 3rd item"
+          }
+        ]
       }
     ]
   },
@@ -1481,7 +1859,25 @@
             "en": "Hook lets Camille dive safely with E"
           }
         ],
-        "wr": "51.9%"
+        "wr": "51.9%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          },
+          {
+            "es": "Vs. tanky: Black Cleaver antes que Sterak's",
+            "en": "vs tanky: Black Cleaver before Sterak's"
+          },
+          {
+            "es": "Vs. shields: Serpent's Fang como 3er item",
+            "en": "vs shields: Serpent's Fang as 3rd item"
+          },
+          {
+            "es": "Si snowball: rush Trinity Force + Death's Dance directamente",
+            "en": "If snowballing: rush Trinity Force + Death's Dance directly"
+          }
+        ]
       }
     ]
   },
@@ -1550,7 +1946,25 @@
             "en": "Double roaming threat"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -1619,7 +2033,25 @@
             "en": "Hook guarantees the target is within Darius's range"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación rival: Mortal Reminder remplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. tanky: Black Cleaver rush es obligatorio para máximo shred",
+            "en": "vs tanky: Black Cleaver rush mandatory for max shred"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          },
+          {
+            "es": "Si snowball temprano: rush Overlord's Bloodmail antes que Sterak's",
+            "en": "If early snowball: rush Overlord's Bloodmail before Sterak's"
+          }
+        ]
       }
     ]
   },
@@ -1688,7 +2120,25 @@
             "en": "Double AoE ult = unbeatable teamfight"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Shadowflame 2do item para penetración mágica",
+            "en": "vs tanky: Shadowflame 2nd item for magic pen"
+          },
+          {
+            "es": "Vs. asesinos: Zhonya's 3er item para sobrevivir counterganks",
+            "en": "vs assassins: Zhonya's 3rd item to survive counterganks"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para one-shot potential",
+            "en": "If snowballing: Rabadon's 3rd item for one-shot potential"
+          },
+          {
+            "es": "Vs. mucho CC: Mercury's Treads obligatorio",
+            "en": "vs heavy CC: Mercury's Treads mandatory"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -1751,7 +2201,25 @@
             "en": "Knockup activates Diana's ult on the group"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -1820,7 +2288,25 @@
             "en": "Dr. Mundo absorbs damage while Orianna deals AoE"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -1889,7 +2375,25 @@
             "en": "Alistar's W+Q combo helps Draven stack axes"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación: Executioner's Calling rush — escala a Mortal Reminder",
+            "en": "vs healing: Executioner's Calling rush — upgrade to Mortal Reminder"
+          },
+          {
+            "es": "Vs. tanky: Lord Dominik's 3er item",
+            "en": "vs tanky: Lord Dominik's 3rd item"
+          },
+          {
+            "es": "Si snowball: termina Bloodthirster antes que Infinity Edge",
+            "en": "If snowballing: finish Bloodthirster before Infinity Edge"
+          },
+          {
+            "es": "Vs. asesino: Immortal Shieldbow rush para sobrevivir",
+            "en": "vs assassin: Immortal Shieldbow rush to survive"
+          }
+        ]
       }
     ]
   },
@@ -1958,7 +2462,25 @@
             "en": "Ekko's CC facilitates Caitlyn's headshots"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Shadowflame como 2do item para penetración",
+            "en": "vs tanky team: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Si van muy adelante: Rabadon's 3er item para cerrar partida",
+            "en": "If snowballing: Rabadon's 3rd item to close game"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
+            "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -2021,7 +2543,25 @@
             "en": "Vi pins the carry so Ekko can finish"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Rod of Ages rush para sustain de mana y vida",
+            "en": "vs heavy poke: Rod of Ages rush for mana and HP sustain"
+          },
+          {
+            "es": "Vs. engage + tanks: Zhonya's como 3er item obligatorio",
+            "en": "vs engage + tanks: Zhonya's as mandatory 3rd item"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item en lugar de item de sustain",
+            "en": "If snowballing: Rabadon's 3rd item instead of sustain item"
+          },
+          {
+            "es": "Vs. curación rival: Demonic Embrace + Shadowflame juntos",
+            "en": "vs enemy healing: Demonic Embrace + Shadowflame together"
+          }
+        ]
       }
     ]
   },
@@ -2089,7 +2629,25 @@
             "en": "Caitlyn traps prevent enemy from hiding from Eve too"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después del primer item de burst",
+            "en": "vs tanky team: Black Cleaver after first burst item"
+          },
+          {
+            "es": "Vs. control wards masivo: compra Oracle Lens en nivel 9",
+            "en": "vs heavy vision control: buy Oracle Lens at level 9"
+          },
+          {
+            "es": "Vs. equipo con muchos shields: Serpent's Fang como 2do item",
+            "en": "vs heavy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Si el rival jungla invade: ward río y flancos antes de hacer buff",
+            "en": "If enemy jungler invades: ward river and flanks before buffing"
+          }
+        ]
       }
     ]
   },
@@ -2158,7 +2716,25 @@
             "en": "Ball makes it easy for Ezreal's Q to connect"
           }
         ],
-        "wr": "51.8%"
+        "wr": "51.8%",
+        "situational": [
+          {
+            "es": "Vs. engage pesado: Galeforce para dash de escape como 1er item",
+            "en": "vs heavy engage: Galeforce for escape dash as 1st item"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como 4to item",
+            "en": "vs enemy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. asesino: Guardian Angel rush después del 2do item",
+            "en": "vs assassin: Guardian Angel rush after 2nd item"
+          }
+        ]
       }
     ]
   },
@@ -2226,7 +2802,25 @@
             "en": "Fiddlesticks ult groups enemies for Bullet Time"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Shadowflame como 2do item para penetración",
+            "en": "vs tanky team: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Si van muy adelante: Rabadon's 3er item para cerrar partida",
+            "en": "If snowballing: Rabadon's 3rd item to close game"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
+            "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
+          }
+        ]
       }
     ]
   },
@@ -2295,7 +2889,25 @@
             "en": "Jarvan's ult combos with her 1v1 offensive"
           }
         ],
-        "wr": "48.2%"
+        "wr": "48.2%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          },
+          {
+            "es": "Vs. tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. poke pesado: Tiamat rush para wave clear y sustain en línea",
+            "en": "vs heavy poke: Tiamat rush for wave clear and lane sustain"
+          },
+          {
+            "es": "Si vas adelante: rush Ravenous Hydra para sustain de teamfight",
+            "en": "If ahead: rush Ravenous Hydra for teamfight sustain"
+          }
+        ]
       }
     ]
   },
@@ -2364,7 +2976,25 @@
             "en": "Vi pins the carry so Fizz can ult with precision"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después de 1er item de burst",
+            "en": "vs tanky team: Black Cleaver after 1st burst item"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang como 2do item",
+            "en": "vs heavy enemy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Vs. equipo con mucho MR: Void Staff / Last Whisper 3er item",
+            "en": "vs high MR team: Void Staff / Last Whisper 3rd item"
+          },
+          {
+            "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
+            "en": "vs heavy engage: Edge of Night for spellshield before entering"
+          }
+        ]
       }
     ]
   },
@@ -2433,7 +3063,25 @@
             "en": "Galio ults to the lane where Vi is ganking"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -2496,7 +3144,25 @@
             "en": "Galio tanks so Jinx shoots freely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -2565,7 +3231,25 @@
             "en": "Ball on Garen's dive = massive AoE"
           }
         ],
-        "wr": "51.0%"
+        "wr": "51.0%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -2634,7 +3318,25 @@
             "en": "Mega Gnar's massive CC facilitates Bullet Time"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads en vez de Plated Steelcaps",
+            "en": "vs heavy AP: Mercury's Treads over Plated Steelcaps"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. hard engage enemigo: Force of Nature para MR y movilidad",
+            "en": "vs heavy engage: Force of Nature for MR and mobility"
+          },
+          {
+            "es": "Si vas muy adelante: rush Sunfire antes que segundo tank item",
+            "en": "If snowballing: rush Sunfire before second tank item"
+          }
+        ]
       }
     ]
   },
@@ -2703,7 +3405,25 @@
             "en": "Barrel + ball in the same zone = devastating"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Oracle Lens desde nivel 9 para contrarrestar wards",
+            "en": "vs heavy poke: Oracle Lens from lvl 9 to counter wards"
+          },
+          {
+            "es": "Si tu adc/mid va adelante: prioriza dragon/baron sobre farm",
+            "en": "If your carry is ahead: prioritize dragon/baron over farming"
+          },
+          {
+            "es": "Vs. AP carry jungla rival: Mercury's Treads + Force of Nature",
+            "en": "vs AP enemy jungler: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Vs. equipo tanky rival: Thornmail early para hacer más daño con tu pasiva",
+            "en": "vs tanky enemy: Thornmail early to maximize passive damage"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -2765,7 +3485,25 @@
             "en": "Barrel creates opening for Jhin's 4 shots"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -2834,7 +3572,25 @@
             "en": "Graves creates jungle pressure so Caitlyn can poke safely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanks: Black Cleaver rush 1er item para máximo shred",
+            "en": "vs tanks: Black Cleaver rush 1st item for max shred"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder 4to item",
+            "en": "vs healing: Mortal Reminder 4th item"
+          },
+          {
+            "es": "Si snowball: rush Infinity Edge antes que 3er item defensivo",
+            "en": "If snowballing: rush Infinity Edge before 3rd defensive item"
+          }
+        ]
       }
     ]
   },
@@ -2903,7 +3659,25 @@
             "en": "Hook lets Gwen dive safely"
           }
         ],
-        "wr": "49.0%"
+        "wr": "49.0%",
+        "situational": [
+          {
+            "es": "Vs. full AD rival: Seeker's Armguard rush → Zhonya's más adelante",
+            "en": "vs full AD enemy: Seeker's Armguard rush → Zhonya's later"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Vs. curación: Shadowflame reemplaza Cosmic Drive",
+            "en": "vs healing: Shadowflame replaces Cosmic Drive"
+          },
+          {
+            "es": "Si snowball: rush Rabadon's antes del 4to item",
+            "en": "If ahead: rush Rabadon's before 4th item"
+          }
+        ]
       }
     ]
   },
@@ -2972,7 +3746,25 @@
             "en": "Speedboost makes Hecarim even more unstoppable"
           }
         ],
-        "wr": "51.0%"
+        "wr": "51.0%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si snowball: rush Trinity Force antes de Sterak's",
+            "en": "If snowballing: rush Trinity Force before Sterak's"
+          },
+          {
+            "es": "Vs. tanky: Black Cleaver rush como 1er item",
+            "en": "vs tanky: Black Cleaver rush as 1st item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          }
+        ]
       }
     ]
   },
@@ -3041,7 +3833,25 @@
             "en": "Ult staples enemies in Heimer's turret zone"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's rush 2do item para bloquear dives",
+            "en": "vs assassin: Zhonya's rush 2nd item to block dives"
+          },
+          {
+            "es": "Vs. engage: posiciónate más atrás, torretas hacen el trabajo",
+            "en": "vs engage: position further back, turrets do the work"
+          },
+          {
+            "es": "Vs. tanky: Void Staff antes del 4to item",
+            "en": "vs tanky: Void Staff before 4th item"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para daño masivo de torretas",
+            "en": "If snowballing: Rabadon's 3rd item for massive turret damage"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -3103,7 +3913,25 @@
             "en": "Turrets protect Jinx while she fires rockets"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. pokeadora rival: juega muy atrás, usas a los turrets de zona",
+            "en": "vs poke support: play far back, use turrets for zoning"
+          },
+          {
+            "es": "Vs. engage: ward profundo y empuja la ola para presionar rivales",
+            "en": "vs engage: deep ward and push wave to pressure opponents"
+          },
+          {
+            "es": "Si tu adc lleva crit: Ardent Censer para attack speed",
+            "en": "If your ADC plays crit: Ardent Censer for attack speed"
+          },
+          {
+            "es": "Vs. tanky: Void Staff 3er item para penetrar tanques",
+            "en": "vs tanky: Void Staff 3rd item to pen tanks"
+          }
+        ]
       }
     ]
   },
@@ -3171,7 +3999,25 @@
             "en": "Simultaneous map pressure hard to handle"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -3233,7 +4079,25 @@
             "en": "Amumu's ult groups for Irelia's Q chain"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -3302,7 +4166,25 @@
             "en": "Peel + speedboost makes Vayne unkillable"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke: Second Wind + Revitalize para tu ADC y tú",
+            "en": "vs poke: Second Wind + Revitalize for you and your ADC"
+          },
+          {
+            "es": "Vs. dive: Knight's Vow rush para proteger a tu carry",
+            "en": "vs dive: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc es crit: Ardent Censer temprano",
+            "en": "If your ADC plays crit: Ardent Censer early"
+          },
+          {
+            "es": "Vs. asesino: Locket of Iron Solari para escudo de área",
+            "en": "vs assassin: Locket of Iron Solari for area shield"
+          }
+        ]
       }
     ]
   },
@@ -3371,7 +4253,25 @@
             "en": "Bullet Time inside Jarvan's ult = GG"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo pesado en MR: Black Cleaver rush es obligatorio",
+            "en": "vs high MR team: Black Cleaver rush is mandatory"
+          },
+          {
+            "es": "Vs. equipo tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky team: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          }
+        ]
       },
       {
         "role": "top",
@@ -3434,7 +4334,25 @@
             "en": "Jarvan traps the carry so Caitlyn can ult"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -3503,7 +4421,25 @@
             "en": "Jax splits and Orianna closes teamfights"
           }
         ],
-        "wr": "51.7%"
+        "wr": "51.7%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Tiamat rush para wave clear rápido",
+            "en": "vs heavy poke: Tiamat rush for fast wave clear"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Wit's End como 3er item",
+            "en": "vs heavy AP: Mercury's Treads + Wit's End as 3rd item"
+          },
+          {
+            "es": "Vs. tanky: Black Cleaver en vez de Trinity Force",
+            "en": "vs tanky: Black Cleaver instead of Trinity Force"
+          },
+          {
+            "es": "Si snowball: rush Ravenous Hydra para escalar más rápido",
+            "en": "If snowballing: rush Ravenous Hydra to scale faster"
+          }
+        ]
       },
       {
         "role": "jgl",
@@ -3566,7 +4502,25 @@
             "en": "Jax splits the map so Caitlyn can poke safely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo pesado en MR: Black Cleaver rush es obligatorio",
+            "en": "vs high MR team: Black Cleaver rush is mandatory"
+          },
+          {
+            "es": "Vs. equipo tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky team: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          }
+        ]
       }
     ]
   },
@@ -3635,7 +4589,25 @@
             "en": "Double ranged poke the enemy can't handle"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -3704,7 +4676,25 @@
             "en": "Hook + Jhin traps = lethal combo"
           }
         ],
-        "wr": "51.3%"
+        "wr": "51.3%",
+        "situational": [
+          {
+            "es": "Vs. engage pesado: Galeforce para dash de escape como 1er item",
+            "en": "vs heavy engage: Galeforce for escape dash as 1st item"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como 4to item",
+            "en": "vs enemy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. asesino: Guardian Angel rush después del 2do item",
+            "en": "vs assassin: Guardian Angel rush after 2nd item"
+          }
+        ]
       }
     ]
   },
@@ -3773,7 +4763,25 @@
             "en": "Extreme peel protects Jinx from dive comps"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación masiva: compra Executioner's Calling, escala a Mortal Reminder",
+            "en": "vs heavy healing: buy Executioner's Calling, upgrade to Mortal Reminder"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. asesino fed: Guardian Angel rush después de 2do item",
+            "en": "vs fed assassin: Guardian Angel rush after 2nd item"
+          },
+          {
+            "es": "Si quieres mas kiting: Rapid Firecannon en vez de Phantom Dancer",
+            "en": "For more kiting: Rapid Firecannon over Phantom Dancer"
+          }
+        ]
       }
     ]
   },
@@ -3842,7 +4850,25 @@
             "en": "K'Sante ult groups enemies for the ball"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads en vez de Plated Steelcaps",
+            "en": "vs heavy AP: Mercury's Treads over Plated Steelcaps"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. hard engage enemigo: Force of Nature para MR y movilidad",
+            "en": "vs heavy engage: Force of Nature for MR and mobility"
+          },
+          {
+            "es": "Si vas muy adelante: rush Sunfire antes que segundo tank item",
+            "en": "If snowballing: rush Sunfire before second tank item"
+          }
+        ]
       }
     ]
   },
@@ -3911,7 +4937,25 @@
             "en": "Speedboost + heal make her more sustainable"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Guinsoo's Rageblade en lugar de Phantom Dancer",
+            "en": "vs tanky: Guinsoo's Rageblade instead of Phantom Dancer"
+          },
+          {
+            "es": "Vs. curación masiva: Mortal Reminder como 4to item",
+            "en": "vs heavy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. asesino: Guardian Angel rush después del 2do item",
+            "en": "vs assassin: Guardian Angel rush after 2nd item"
+          },
+          {
+            "es": "Si snowball: rush Void Staff 3er item para one-shot AP builds",
+            "en": "If snowballing: rush Void Staff 3rd item for AP one-shot builds"
+          }
+        ]
       }
     ]
   },
@@ -3980,7 +5024,25 @@
             "en": "Ult throws Leona for instant CC from range"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación: Executioner's Calling + Mortal Reminder rush",
+            "en": "vs healing: Executioner's Calling + Mortal Reminder rush"
+          },
+          {
+            "es": "Vs. engage: Galeforce para dash de emergencia",
+            "en": "vs engage: Galeforce for emergency dash"
+          },
+          {
+            "es": "Vs. tanky: Kraken Slayer 3er item obligatorio",
+            "en": "vs tanky: Kraken Slayer 3rd item mandatory"
+          },
+          {
+            "es": "Vs. asesino: juega pegada a tu support, evita aislamientos",
+            "en": "vs assassin: stay close to support, avoid isolation"
+          }
+        ]
       }
     ]
   },
@@ -4048,7 +5110,25 @@
             "en": "Shield protects Caitlyn while she pokes from range"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -4111,7 +5191,25 @@
             "en": "Karma's peel + Jinx's late game scaling"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -4180,7 +5278,25 @@
             "en": "Leona's CC lets Kassadin engage safely"
           }
         ],
-        "wr": "52.5%"
+        "wr": "52.5%",
+        "situational": [
+          {
+            "es": "Vs. AD: Seeker's Armguard rush, escala a Zhonya's nivel 11+",
+            "en": "vs AD: Seeker's Armguard rush, upgrade to Zhonya's lvl 11+"
+          },
+          {
+            "es": "Vs. engage pesado: Banshee's Veil 3er item para spellshield",
+            "en": "vs heavy engage: Banshee's Veil 3rd item for spellshield"
+          },
+          {
+            "es": "Si snowball nivel 16+: Rabadon's para one-shot potential máximo",
+            "en": "If snowballing lvl 16+: Rabadon's for max one-shot potential"
+          },
+          {
+            "es": "Vs. vision masiva rival: Oracle Lens desde nivel 11 para roamear",
+            "en": "vs heavy vision: Oracle Lens from lvl 11 to roam safely"
+          }
+        ]
       }
     ]
   },
@@ -4249,7 +5365,25 @@
             "en": "Katarina arrives after Hecarim absorbed the CC"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después de 1er item de burst",
+            "en": "vs tanky team: Black Cleaver after 1st burst item"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang como 2do item",
+            "en": "vs heavy enemy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Vs. equipo con mucho MR: Void Staff / Last Whisper 3er item",
+            "en": "vs high MR team: Void Staff / Last Whisper 3rd item"
+          },
+          {
+            "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
+            "en": "vs heavy engage: Edge of Night for spellshield before entering"
+          }
+        ]
       }
     ]
   },
@@ -4318,7 +5452,25 @@
             "en": "Revive extends her teamfight time in late"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Seeker's Armguard rush, pide protección al jungla",
+            "en": "vs assassin: Seeker's Armguard rush, ask jungle for protection"
+          },
+          {
+            "es": "Vs. engage pesado nivel 11+: Zhonya's para jugar en teamfight",
+            "en": "vs heavy engage lvl 11+: Zhonya's to play in teamfights"
+          },
+          {
+            "es": "Si snowball: Guinsoo's Rageblade como 2do item para on-hit",
+            "en": "If snowballing: Guinsoo's Rageblade as 2nd item for on-hit"
+          },
+          {
+            "es": "Vs. tanky rival: Kraken Slayer 3er item obligatorio",
+            "en": "vs tanky: Kraken Slayer 3rd item mandatory"
+          }
+        ]
       }
     ]
   },
@@ -4387,7 +5539,25 @@
             "en": "Kayn dives the carry so Caitlyn can execute"
           }
         ],
-        "wr": "51.5%"
+        "wr": "51.5%",
+        "situational": [
+          {
+            "es": "Red Kayn vs tanky: Black Cleaver rush es obligatorio",
+            "en": "Red Kayn vs tanky: Black Cleaver rush mandatory"
+          },
+          {
+            "es": "Blue Kayn vs tanky: Zhonya's + Void Staff para penetración",
+            "en": "Blue Kayn vs tanky: Zhonya's + Void Staff for pen"
+          },
+          {
+            "es": "Red Kayn vs curación: Mortal Reminder 4to item",
+            "en": "Red Kayn vs healing: Mortal Reminder 4th item"
+          },
+          {
+            "es": "Blue Kayn vs asesino rival: prioriza Shadow Assassin para burst rápido",
+            "en": "Blue Kayn vs enemy assassin: prioritize Shadow Assassin for quick burst"
+          }
+        ]
       }
     ]
   },
@@ -4456,7 +5626,25 @@
             "en": "Kennen's massive CC facilitates perfect Bullet Time"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. full AD rival: Seeker's Armguard rush → Zhonya's más adelante",
+            "en": "vs full AD enemy: Seeker's Armguard rush → Zhonya's later"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Vs. curación: Shadowflame reemplaza Cosmic Drive",
+            "en": "vs healing: Shadowflame replaces Cosmic Drive"
+          },
+          {
+            "es": "Si snowball: rush Rabadon's antes del 4to item",
+            "en": "If ahead: rush Rabadon's before 4th item"
+          }
+        ]
       }
     ]
   },
@@ -4525,7 +5713,25 @@
             "en": "Kha'Zix kills the carry and Syndra eliminates the rest"
           }
         ],
-        "wr": "51.8%"
+        "wr": "51.8%",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después del primer item de burst",
+            "en": "vs tanky team: Black Cleaver after first burst item"
+          },
+          {
+            "es": "Vs. control wards masivo: compra Oracle Lens en nivel 9",
+            "en": "vs heavy vision control: buy Oracle Lens at level 9"
+          },
+          {
+            "es": "Vs. equipo con muchos shields: Serpent's Fang como 2do item",
+            "en": "vs heavy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Si el rival jungla invade: ward río y flancos antes de hacer buff",
+            "en": "If enemy jungler invades: ward river and flanks before buffing"
+          }
+        ]
       }
     ]
   },
@@ -4594,7 +5800,25 @@
             "en": "Kindred ult lets MF channel Bullet Time without dying"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Kraken Slayer como 2do item para % HP damage",
+            "en": "vs tanky: Kraken Slayer as 2nd item for % HP damage"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder 4to item",
+            "en": "vs healing: Mortal Reminder 4th item"
+          },
+          {
+            "es": "Si snowball: rush Infinity Edge 3er item para crit burst",
+            "en": "If snowballing: rush Infinity Edge 3rd item for crit burst"
+          },
+          {
+            "es": "Vs. engage: Guardian Angel rush después del 2do item",
+            "en": "vs engage: Guardian Angel rush after 2nd item"
+          }
+        ]
       }
     ]
   },
@@ -4663,7 +5887,25 @@
             "en": "Extreme peel protects Kog'Maw from dive comps"
           }
         ],
-        "wr": "51.6%"
+        "wr": "51.6%",
+        "situational": [
+          {
+            "es": "Vs. equipo muy tanky: Kraken Slayer como 2do item obligatorio",
+            "en": "vs very tanky team: Kraken Slayer as mandatory 2nd item"
+          },
+          {
+            "es": "Vs. curación masiva: Terminus para anti-heal + on-hit",
+            "en": "vs heavy healing: Terminus for anti-heal + on-hit"
+          },
+          {
+            "es": "Vs. asesino fed: Immortal Shieldbow rush para sobrevivir",
+            "en": "vs fed assassin: Immortal Shieldbow rush to survive"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Wit's End como 3er item",
+            "en": "vs heavy AP: Mercury's Treads + Wit's End as 3rd item"
+          }
+        ]
       }
     ]
   },
@@ -4732,7 +5974,25 @@
             "en": "Lee Sin invades and Malphite closes teamfight"
           }
         ],
-        "wr": "47.1%"
+        "wr": "47.1%",
+        "situational": [
+          {
+            "es": "Vs. tanky: Black Cleaver rush 1er item",
+            "en": "vs tanky: Black Cleaver rush 1st item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder como 4to item",
+            "en": "vs healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Si snowball temprano: sigue haciendo early kills para ampliar ventaja",
+            "en": "If early snowball: keep making early kills to extend lead"
+          }
+        ]
       },
       {
         "role": "top",
@@ -4795,7 +6055,25 @@
             "en": "Lee Sin splits the map so Caitlyn can poke safely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -4864,7 +6142,25 @@
             "en": "CC makes it easy for Syndra's spheres to connect"
           }
         ],
-        "wr": "51.6%"
+        "wr": "51.6%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -4932,7 +6228,25 @@
             "en": "Bullet Time on sleeping enemies = won"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Shadowflame como 2do item para penetración",
+            "en": "vs tanky team: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Si van muy adelante: Rabadon's 3er item para cerrar partida",
+            "en": "If snowballing: Rabadon's 3rd item to close game"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
+            "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
+          }
+        ]
       }
     ]
   },
@@ -5001,7 +6315,25 @@
             "en": "CC facilitates Caitlyn's headshots"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's rush 2do item — activa con tu ult",
+            "en": "vs assassin: Zhonya's rush 2nd item — activate with your ult"
+          },
+          {
+            "es": "Vs. tanky: Shadowflame 2do item para pen + Void Staff 4to",
+            "en": "vs tanky: Shadowflame 2nd for pen + Void Staff 4th"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para one-shot con combo completo",
+            "en": "If snowballing: Rabadon's 3rd item for one-shot with full combo"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard early antes del rush principal",
+            "en": "vs heavy AD: Seeker's Armguard early before main rush"
+          }
+        ]
       }
     ]
   },
@@ -5070,7 +6402,25 @@
             "en": "Lucian + Senna combo is one of the best in the game"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. engage pesado: Galeforce para dash de escape como 1er item",
+            "en": "vs heavy engage: Galeforce for escape dash as 1st item"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como 4to item",
+            "en": "vs enemy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. asesino: Guardian Angel rush después del 2do item",
+            "en": "vs assassin: Guardian Angel rush after 2nd item"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -5133,7 +6483,25 @@
             "en": "Vi pins the carry so Lucian can ult accurately"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después de 1er item de burst",
+            "en": "vs tanky team: Black Cleaver after 1st burst item"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang como 2do item",
+            "en": "vs heavy enemy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Vs. equipo con mucho MR: Void Staff / Last Whisper 3er item",
+            "en": "vs high MR team: Void Staff / Last Whisper 3rd item"
+          },
+          {
+            "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
+            "en": "vs heavy engage: Edge of Night for spellshield before entering"
+          }
+        ]
       }
     ]
   },
@@ -5202,7 +6570,25 @@
             "en": "Ult + Vayne invisibility = nearly impossible combo to counter"
           }
         ],
-        "wr": "51.8%"
+        "wr": "51.8%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -5271,7 +6657,25 @@
             "en": "Lux Q facilitates Caitlyn's headshot"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -5334,7 +6738,25 @@
             "en": "Lux Q facilitates Bullet Time without the enemy moving"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky front line: Shadowflame como 2do item para penetración",
+            "en": "vs tanky frontline: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item para sobrevivir dives",
+            "en": "vs heavy engage: Zhonya's as 3rd item to survive dives"
+          },
+          {
+            "es": "Vs. asesino: Shurelya's Battlesong para acelerar al equipo y escapar",
+            "en": "vs assassin: Shurelya's Battlesong to speed team and escape"
+          },
+          {
+            "es": "Si tu equipo es full AP: considera Locket of Iron Solari para escudos",
+            "en": "If team is full AP: consider Locket of Iron Solari for shields"
+          }
+        ]
       }
     ]
   },
@@ -5402,6 +6824,24 @@
             "name": "Orianna",
             "es": "Ball + ult en el mismo grupo = teamfight ganada",
             "en": "Ball + ult on the same group = teamfight won"
+          }
+        ],
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature como 2do item",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature as 2nd item"
+          },
+          {
+            "es": "Si tu equipo necesita engage: prioriza Ult level 6 para iniciar",
+            "en": "If team needs engage: prioritize Ult at lvl 6 to initiate"
+          },
+          {
+            "es": "Vs. tanky rival: Thornmail para devolver daño físico",
+            "en": "vs tanky rival: Thornmail to reflect physical damage"
+          },
+          {
+            "es": "Si vas por split: Dead Man's Plate para presión y movimiento",
+            "en": "If split pushing: Dead Man's Plate for pressure and movement"
           }
         ]
       }
@@ -5472,7 +6912,25 @@
             "en": "Maokai ult + ball = massive zone burst"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads en vez de Plated Steelcaps",
+            "en": "vs heavy AP: Mercury's Treads over Plated Steelcaps"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. hard engage enemigo: Force of Nature para MR y movilidad",
+            "en": "vs heavy engage: Force of Nature for MR and mobility"
+          },
+          {
+            "es": "Si vas muy adelante: rush Sunfire antes que segundo tank item",
+            "en": "If snowballing: rush Sunfire before second tank item"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -5535,7 +6993,25 @@
             "en": "Maokai tanks so Jinx shoots freely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -5603,7 +7079,25 @@
             "en": "Speedboost makes Yi even faster"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Kraken Slayer como 2do item obligatorio",
+            "en": "vs tanky: Kraken Slayer as mandatory 2nd item"
+          },
+          {
+            "es": "Vs. curación masiva: Mortal Reminder como 4to item",
+            "en": "vs heavy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. CC pesado: Mercury's Treads + Guinsoo's para poke seguro",
+            "en": "vs heavy CC: Mercury's Treads + Guinsoo's for safe poke"
+          },
+          {
+            "es": "Si snowball: Ravenous Hydra rush para AoE y sustain",
+            "en": "If snowballing: Ravenous Hydra rush for AoE and sustain"
+          }
+        ]
       }
     ]
   },
@@ -5671,7 +7165,25 @@
             "en": "Mel root enables Caitlyn's headshots"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Banshee's Veil rush 2do item",
+            "en": "vs assassin: Banshee's Veil rush 2nd item"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's 3er item",
+            "en": "vs heavy engage: Zhonya's 3rd item"
+          },
+          {
+            "es": "Vs. tanky: Void Staff antes del 4to item",
+            "en": "vs tanky: Void Staff before 4th item"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para maximizar reflejo de daño",
+            "en": "If snowballing: Rabadon's 3rd item to maximize damage reflection"
+          }
+        ]
       }
     ]
   },
@@ -5739,7 +7251,25 @@
             "en": "Milio's heal sustains Tristana in teamfights"
           }
         ],
-        "wr": "52.3%"
+        "wr": "52.3%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -5808,7 +7338,25 @@
             "en": "Bullet Time on sleeping enemies = won"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. engage pesado: Ghost + Galeforce para ser más difícil de cazar",
+            "en": "vs heavy engage: Ghost + Galeforce to be harder to catch"
+          },
+          {
+            "es": "Vs. tanky: Kraken Slayer 3er item",
+            "en": "vs tanky: Kraken Slayer 3rd item"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder rush antes de teamfights",
+            "en": "vs healing: Mortal Reminder rush before teamfights"
+          },
+          {
+            "es": "Si snowball: Shadowflame 2do item para AP Bullet Time build",
+            "en": "If snowballing: Shadowflame 2nd item for AP Bullet Time build"
+          }
+        ]
       }
     ]
   },
@@ -5877,7 +7425,25 @@
             "en": "Morde ults the carry and Orianna AoEs the rest"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. full AD rival: Seeker's Armguard rush → Zhonya's más adelante",
+            "en": "vs full AD enemy: Seeker's Armguard rush → Zhonya's later"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Vs. curación: Shadowflame reemplaza Cosmic Drive",
+            "en": "vs healing: Shadowflame replaces Cosmic Drive"
+          },
+          {
+            "es": "Si snowball: rush Rabadon's antes del 4to item",
+            "en": "If ahead: rush Rabadon's before 4th item"
+          }
+        ]
       },
       {
         "role": "jgl",
@@ -5925,7 +7491,25 @@
             "en": "Morde ult isolates for Ball combo"
           }
         ],
-        "wr": "50.1%"
+        "wr": "50.1%",
+        "situational": [
+          {
+            "es": "Vs. tanky rival: Shadowflame 2do item para penetración mágica",
+            "en": "vs tanky rival: Shadowflame 2nd item for magic pen"
+          },
+          {
+            "es": "Vs. curación masiva: Demonic Embrace para % HP burn pasivo",
+            "en": "vs heavy healing: Demonic Embrace for % HP burn passive"
+          },
+          {
+            "es": "Vs. mucho CC: Mercury's Treads obligatorio",
+            "en": "vs heavy CC: Mercury's Treads mandatory"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para one-shot en 1v1",
+            "en": "If snowballing: Rabadon's 3rd item for 1v1 one-shot"
+          }
+        ]
       }
     ]
   },
@@ -5994,7 +7578,25 @@
             "en": "Black shield protects Vi from CC while she ults"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. engage pesado: prioriza E en tu carry fed más que en ti",
+            "en": "vs heavy engage: prioritize E on your fed carry over yourself"
+          },
+          {
+            "es": "Vs. poke pesado: Segunda Wind + Rylai's para slow y resistencia",
+            "en": "vs heavy poke: Second Wind + Rylai's for slow and resistance"
+          },
+          {
+            "es": "Vs. asesino fed: Locket of Iron Solari para escudo de área",
+            "en": "vs fed assassin: Locket of Iron Solari for area shield"
+          },
+          {
+            "es": "Si tu equipo va a teamfight: Shadowflame para más daño de W",
+            "en": "If team goes teamfight: Shadowflame for more W damage"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -6057,7 +7659,25 @@
             "en": "Morgana bind facilitates Amumu's Q"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -6126,7 +7746,25 @@
             "en": "Nami's ult makes it easy for Xayah to stack feathers"
           }
         ],
-        "wr": "51.2%"
+        "wr": "51.2%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -6194,7 +7832,25 @@
             "en": "Revive ensures Nasus reaches late game"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Second Wind + Doran's Shield start",
+            "en": "vs heavy poke: Second Wind + Doran's Shield start"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Spirit Visage/Force of Nature",
+            "en": "vs heavy AP: Mercury's Treads + Spirit Visage/Force of Nature"
+          },
+          {
+            "es": "Vs. ignite/dot pesado: Revitalize + Overgrowth para curación",
+            "en": "vs ignite/heavy dot: Revitalize + Overgrowth for healing"
+          },
+          {
+            "es": "Si vas muy adelante en stacks: rush Overlord's Bloodmail",
+            "en": "If way ahead on stacks: rush Overlord's Bloodmail"
+          }
+        ]
       }
     ]
   },
@@ -6263,7 +7919,25 @@
             "en": "Hook carry toward the ball = teamfight won"
           }
         ],
-        "wr": "50.3%"
+        "wr": "50.3%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       },
       {
         "role": "jgl",
@@ -6326,7 +8000,25 @@
             "en": "Hook carry toward the ball = teamfight won"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Oracle Lens desde nivel 9 para contrarrestar wards",
+            "en": "vs heavy poke: Oracle Lens from lvl 9 to counter wards"
+          },
+          {
+            "es": "Si tu adc/mid va adelante: prioriza dragon/baron sobre farm",
+            "en": "If your carry is ahead: prioritize dragon/baron over farming"
+          },
+          {
+            "es": "Vs. AP carry jungla rival: Mercury's Treads + Force of Nature",
+            "en": "vs AP enemy jungler: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Vs. equipo tanky rival: Thornmail early para hacer más daño con tu pasiva",
+            "en": "vs tanky enemy: Thornmail early to maximize passive damage"
+          }
+        ]
       }
     ]
   },
@@ -6394,7 +8086,25 @@
             "en": "Caitlyn trap makes Nidalee's catch easier"
           }
         ],
-        "wr": "52.8%"
+        "wr": "52.8%",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Shadowflame como 2do item para penetración",
+            "en": "vs tanky team: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Si van muy adelante: Rabadon's 3er item para cerrar partida",
+            "en": "If snowballing: Rabadon's 3rd item to close game"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
+            "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
+          }
+        ]
       }
     ]
   },
@@ -6463,7 +8173,25 @@
             "en": "Lulu ult on Nilah in teamfight = devastating"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke: Immortal Shieldbow rush para mejor sustain en línea",
+            "en": "vs poke: Immortal Shieldbow rush for better lane sustain"
+          },
+          {
+            "es": "Vs. tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder 4to item",
+            "en": "vs healing: Mortal Reminder 4th item"
+          },
+          {
+            "es": "Si snowball: Ravenous Hydra 2do item para AoE y sustain",
+            "en": "If snowballing: Ravenous Hydra 2nd item for AoE and sustain"
+          }
+        ]
       }
     ]
   },
@@ -6532,7 +8260,25 @@
             "en": "Nocturne dives the carry so Caitlyn can execute"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después del primer item de burst",
+            "en": "vs tanky team: Black Cleaver after first burst item"
+          },
+          {
+            "es": "Vs. control wards masivo: compra Oracle Lens en nivel 9",
+            "en": "vs heavy vision control: buy Oracle Lens at level 9"
+          },
+          {
+            "es": "Vs. equipo con muchos shields: Serpent's Fang como 2do item",
+            "en": "vs heavy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Si el rival jungla invade: ward río y flancos antes de hacer buff",
+            "en": "If enemy jungler invades: ward river and flanks before buffing"
+          }
+        ]
       }
     ]
   },
@@ -6601,7 +8347,25 @@
             "en": "Portal facilitates Kai'Sa's ult in teamfight"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. engage pesado: Knight's Vow para redirigir daño de tu carry",
+            "en": "vs heavy engage: Knight's Vow to redirect damage from carry"
+          },
+          {
+            "es": "Vs. poke rival: Second Wind + Revitalize para sustain en línea",
+            "en": "vs poke rival: Second Wind + Revitalize for lane sustain"
+          },
+          {
+            "es": "Si tu equipo es full AP: considera Shurelya's para rotación",
+            "en": "If team is full AP: consider Shurelya's for rotation speed"
+          },
+          {
+            "es": "Si tu ADC lleva attack speed: Ardent Censer antes de Redemption",
+            "en": "If ADC plays attack speed: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -6670,7 +8434,25 @@
             "en": "Nunu ult groups enemies for Orianna's ball"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Oracle Lens desde nivel 9 para contrarrestar wards",
+            "en": "vs heavy poke: Oracle Lens from lvl 9 to counter wards"
+          },
+          {
+            "es": "Si tu adc/mid va adelante: prioriza dragon/baron sobre farm",
+            "en": "If your carry is ahead: prioritize dragon/baron over farming"
+          },
+          {
+            "es": "Vs. AP carry jungla rival: Mercury's Treads + Force of Nature",
+            "en": "vs AP enemy jungler: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Vs. equipo tanky rival: Thornmail early para hacer más daño con tu pasiva",
+            "en": "vs tanky enemy: Thornmail early to maximize passive damage"
+          }
+        ]
       }
     ]
   },
@@ -6739,7 +8521,25 @@
             "en": "Vi pins the carry so Olaf attacks without CC"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo pesado en MR: Black Cleaver rush es obligatorio",
+            "en": "vs high MR team: Black Cleaver rush is mandatory"
+          },
+          {
+            "es": "Vs. equipo tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky team: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          }
+        ]
       }
     ]
   },
@@ -6808,7 +8608,25 @@
             "en": "Knockup ult + ball in the center = massive damage"
           }
         ],
-        "wr": "49.4%"
+        "wr": "49.4%",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's rush 2do item — activa inmediatamente al ser catado",
+            "en": "vs assassin: Zhonya's rush 2nd item — activate immediately when caught"
+          },
+          {
+            "es": "Vs. tanky: Void Staff 4to item obligatorio",
+            "en": "vs tanky: Void Staff 4th item mandatory"
+          },
+          {
+            "es": "Si tu equipo es engage heavy: posiciónate para dar la shockwave perfecta",
+            "en": "If team is engage heavy: position to deliver perfect shockwave"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para daño masivo de teamfight",
+            "en": "If snowballing: Rabadon's 3rd item for massive teamfight damage"
+          }
+        ]
       }
     ]
   },
@@ -6876,6 +8694,24 @@
             "name": "Lee Sin",
             "es": "Insec al carry hacia Ornn = kill garantizada",
             "en": "Insec carry toward Ornn = guaranteed kill"
+          }
+        ],
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature rush",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature rush"
+          },
+          {
+            "es": "Prioriza upgradejar los items del equipo cuando alcances nivel 13+",
+            "en": "Prioritize upgrading team items when you reach level 13+"
+          },
+          {
+            "es": "Vs. split pusher rival: Dead Man's Plate para catch",
+            "en": "vs enemy split pusher: Dead Man's Plate for catch"
+          },
+          {
+            "es": "Vs. curación masiva: Thornmail como 3er item",
+            "en": "vs heavy healing: Thornmail as 3rd item"
           }
         ]
       }
@@ -6945,7 +8781,25 @@
             "en": "Pantheon ult gives Jinx time to position"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -7008,7 +8862,25 @@
             "en": "Global ult arrives in support for Bullet Time"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -7077,7 +8949,25 @@
             "en": "Poppy tanks while Caitlyn pokes from range"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads en vez de Plated Steelcaps",
+            "en": "vs heavy AP: Mercury's Treads over Plated Steelcaps"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. hard engage enemigo: Force of Nature para MR y movilidad",
+            "en": "vs heavy engage: Force of Nature for MR and mobility"
+          },
+          {
+            "es": "Si vas muy adelante: rush Sunfire antes que segundo tank item",
+            "en": "If snowballing: rush Sunfire before second tank item"
+          }
+        ]
       },
       {
         "role": "jgl",
@@ -7140,7 +9030,25 @@
             "en": "Vi pins the carry so Poppy ults them off the map"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Oracle Lens desde nivel 9 para contrarrestar wards",
+            "en": "vs heavy poke: Oracle Lens from lvl 9 to counter wards"
+          },
+          {
+            "es": "Si tu adc/mid va adelante: prioriza dragon/baron sobre farm",
+            "en": "If your carry is ahead: prioritize dragon/baron over farming"
+          },
+          {
+            "es": "Vs. AP carry jungla rival: Mercury's Treads + Force of Nature",
+            "en": "vs AP enemy jungler: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Vs. equipo tanky rival: Thornmail early para hacer más daño con tu pasiva",
+            "en": "vs tanky enemy: Thornmail early to maximize passive damage"
+          }
+        ]
       }
     ]
   },
@@ -7209,7 +9117,25 @@
             "en": "Pyke hooks the carry so Caitlyn executes with ult"
           }
         ],
-        "wr": "52.4%"
+        "wr": "52.4%",
+        "situational": [
+          {
+            "es": "Vs. tanky: Umbral Glaive para visión + Black Cleaver pen",
+            "en": "vs tanky: Umbral Glaive for vision + Black Cleaver pen"
+          },
+          {
+            "es": "Vs. curación masiva: Mortal Reminder como 4to item",
+            "en": "vs heavy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. CC pesado rival: Mercury's Treads + Edge of Night",
+            "en": "vs heavy CC rival: Mercury's Treads + Edge of Night"
+          },
+          {
+            "es": "Si tu ADC va adelante: sigue roameando mid para ampliar ventaja",
+            "en": "If ADC is ahead: keep roaming mid to extend lead"
+          }
+        ]
       }
     ]
   },
@@ -7278,7 +9204,25 @@
             "en": "Rakan ult charms the group so Caitlyn ults for free"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Second Wind + Revitalize para sobrevivir en línea",
+            "en": "vs heavy poke: Second Wind + Revitalize to survive lane"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow para proteger a tu ADC",
+            "en": "vs assassin: Knight's Vow to protect your ADC"
+          },
+          {
+            "es": "Si tu equipo necesita peel: Locket of Iron Solari en lugar de Shurelya's",
+            "en": "If team needs peel: Locket of Iron Solari instead of Shurelya's"
+          },
+          {
+            "es": "Si snowball: rush Shurelya's para ampliar ventaja con rotaciones",
+            "en": "If snowballing: rush Shurelya's to extend lead with rotations"
+          }
+        ]
       }
     ]
   },
@@ -7346,7 +9290,25 @@
             "en": "Rammus tanks so Jinx shoots freely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature — pasiva escala con MR",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature — passive scales with MR"
+          },
+          {
+            "es": "Vs. curación rival: Thornmail como 2do item para devolver daño",
+            "en": "vs healing: Thornmail as 2nd item to reflect damage"
+          },
+          {
+            "es": "Vs. AD pesado: Plated Steelcaps + Dead Man's Plate + Thornmail stack",
+            "en": "vs heavy AD: Plated Steelcaps + Dead Man's + Thornmail stack"
+          },
+          {
+            "es": "Si snowball: rush Warmog para regeneración masiva entre peleas",
+            "en": "If snowballing: rush Warmog for massive regen between fights"
+          }
+        ]
       }
     ]
   },
@@ -7415,7 +9377,25 @@
             "en": "Rell's magnetic ult groups for Orianna's ball"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -7483,7 +9463,25 @@
             "en": "Hook guarantees Renekton reaches the carry"
           }
         ],
-        "wr": "49.7%"
+        "wr": "49.7%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -7552,7 +9550,25 @@
             "en": "Rengar isolates the carry so Caitlyn can execute"
           }
         ],
-        "wr": "52.1%"
+        "wr": "52.1%",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después del primer item de burst",
+            "en": "vs tanky team: Black Cleaver after first burst item"
+          },
+          {
+            "es": "Vs. control wards masivo: compra Oracle Lens en nivel 9",
+            "en": "vs heavy vision control: buy Oracle Lens at level 9"
+          },
+          {
+            "es": "Vs. equipo con muchos shields: Serpent's Fang como 2do item",
+            "en": "vs heavy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Si el rival jungla invade: ward río y flancos antes de hacer buff",
+            "en": "If enemy jungler invades: ward river and flanks before buffing"
+          }
+        ]
       }
     ]
   },
@@ -7621,7 +9637,25 @@
             "en": "Ult makes Riven giant during engage"
           }
         ],
-        "wr": "50.6%"
+        "wr": "50.6%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius obligatorio",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius mandatory"
+          },
+          {
+            "es": "Vs. tanky: Black Cleaver rush antes de Death's Dance",
+            "en": "vs tanky: Black Cleaver rush before Death's Dance"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang 3er item",
+            "en": "vs heavy shields: Serpent's Fang 3rd item"
+          },
+          {
+            "es": "Si snowball: rush Ravenous Hydra para waveclear + sustain combo",
+            "en": "If snowballing: rush Ravenous Hydra for waveclear + sustain combo"
+          }
+        ]
       },
       {
         "role": "jgl",
@@ -7683,7 +9717,25 @@
             "en": "Riven splits the map so Caitlyn can poke safely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo pesado en MR: Black Cleaver rush es obligatorio",
+            "en": "vs high MR team: Black Cleaver rush is mandatory"
+          },
+          {
+            "es": "Vs. equipo tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky team: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          }
+        ]
       }
     ]
   },
@@ -7752,7 +9804,25 @@
             "en": "Rumble fire + Bullet Time = unbeatable teamfight"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. full AD rival: Seeker's Armguard rush → Zhonya's más adelante",
+            "en": "vs full AD enemy: Seeker's Armguard rush → Zhonya's later"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Vs. curación: Shadowflame reemplaza Cosmic Drive",
+            "en": "vs healing: Shadowflame replaces Cosmic Drive"
+          },
+          {
+            "es": "Si snowball: rush Rabadon's antes del 4to item",
+            "en": "If ahead: rush Rabadon's before 4th item"
+          }
+        ]
       }
     ]
   },
@@ -7821,7 +9891,25 @@
             "en": "Ryze teleports the team to Orianna's ball"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Rod of Ages rush para sustain de mana y vida",
+            "en": "vs heavy poke: Rod of Ages rush for mana and HP sustain"
+          },
+          {
+            "es": "Vs. engage + tanks: Zhonya's como 3er item obligatorio",
+            "en": "vs engage + tanks: Zhonya's as mandatory 3rd item"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item en lugar de item de sustain",
+            "en": "If snowballing: Rabadon's 3rd item instead of sustain item"
+          },
+          {
+            "es": "Vs. curación rival: Demonic Embrace + Shadowflame juntos",
+            "en": "vs enemy healing: Demonic Embrace + Shadowflame together"
+          }
+        ]
       }
     ]
   },
@@ -7890,7 +9978,25 @@
             "en": "Hook guarantees Samira enters combo range"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación masiva: Executioner's Calling rush antes de Infinity Edge",
+            "en": "vs heavy healing: Executioner's Calling rush before Infinity Edge"
+          },
+          {
+            "es": "Vs. tanky: Lord Dominik's rush como 3er item",
+            "en": "vs tanky: Lord Dominik's rush as 3rd item"
+          },
+          {
+            "es": "Vs. engage: Sterak's Gage como 3er item para escudo al recibir daño",
+            "en": "vs engage: Sterak's Gage as 3rd item for shield when taking damage"
+          },
+          {
+            "es": "Si snowball temprano: rush Infinity Edge 2do item directamente",
+            "en": "If early snowball: rush Infinity Edge as 2nd item directly"
+          }
+        ]
       }
     ]
   },
@@ -7959,7 +10065,25 @@
             "en": "Senna's global ult protects Jinx from any lane"
           }
         ],
-        "wr": "51.9%"
+        "wr": "51.9%",
+        "situational": [
+          {
+            "es": "Vs. poke rival: Second Wind para más sustain en línea",
+            "en": "vs poke rival: Second Wind for more lane sustain"
+          },
+          {
+            "es": "Si tu ADC necesita healer: Moonstone Renewer + Staff of Flowing Water",
+            "en": "If ADC needs healing: Moonstone Renewer + Staff of Flowing Water"
+          },
+          {
+            "es": "Vs. engage: Knight's Vow para proteger tu carry",
+            "en": "vs engage: Knight's Vow to protect your carry"
+          },
+          {
+            "es": "Si snowball: rush Eclipse para más daño personal + escudo",
+            "en": "If snowballing: rush Eclipse for more personal damage + shield"
+          }
+        ]
       },
       {
         "role": "adc",
@@ -8022,7 +10146,25 @@
             "en": "Leona's CC lets Senna deal damage for free"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Kraken Slayer como 3er item para % HP damage",
+            "en": "vs tanky: Kraken Slayer as 3rd item for % HP damage"
+          },
+          {
+            "es": "Vs. poke rival: Life steal rush para sustain en línea",
+            "en": "vs poke rival: Life steal rush for lane sustain"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Wit's End",
+            "en": "vs heavy AP: Mercury's Treads + Wit's End"
+          },
+          {
+            "es": "Si tu equipo necesita healer: prioriza Moonstone Renewer + Redemption",
+            "en": "If team needs healer: prioritize Moonstone Renewer + Redemption"
+          }
+        ]
       }
     ]
   },
@@ -8090,7 +10232,25 @@
             "en": "Seraphine heal + shield protects Jinx in teamfights"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -8153,7 +10313,25 @@
             "en": "Vi pins the carry so Seraphine can use ult accurately"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -8222,7 +10400,25 @@
             "en": "Sett throws the carry and Malphite ults the group"
           }
         ],
-        "wr": "49.6%"
+        "wr": "49.6%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -8285,7 +10481,25 @@
             "en": "Ult throws enemy tank onto Orianna's ball"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -8354,7 +10568,25 @@
             "en": "Shen ult protects immobile Jinx in any situation"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature rush",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature rush"
+          },
+          {
+            "es": "Vs. tanky rival: Sunfire Aegis para DPS pasivo en split",
+            "en": "vs tanky rival: Sunfire Aegis for passive DPS in split"
+          },
+          {
+            "es": "Comunica siempre tu ult a tu equipo — decide quién necesita más el escudo",
+            "en": "Always communicate your ult to team — decide who needs shield most"
+          },
+          {
+            "es": "Si tu ADC va muy adelante: guarda ult para protegerle en teamfight",
+            "en": "If your ADC is very ahead: save ult to protect them in teamfight"
+          }
+        ]
       }
     ]
   },
@@ -8423,7 +10655,25 @@
             "en": "Speedboost facilitates dragon form engage"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Shadowflame como 2do item para penetración",
+            "en": "vs tanky team: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Si van muy adelante: Rabadon's 3er item para cerrar partida",
+            "en": "If snowballing: Rabadon's 3rd item to close game"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
+            "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
+          }
+        ]
       }
     ]
   },
@@ -8491,7 +10741,25 @@
             "en": "Nami speedboost makes Singed even harder to catch"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. ranged pokeadora: Rylai's rush para slow en kiting",
+            "en": "vs ranged poke: Rylai's rush for slow in kiting"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature rush",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature rush"
+          },
+          {
+            "es": "Vs. CC pesado: Mercury's Treads obligatorio + Unflinching",
+            "en": "vs heavy CC: Mercury's Treads mandatory + Unflinching"
+          },
+          {
+            "es": "Vs. curación rival: Thornmail para devolver el poison damage",
+            "en": "vs enemy healing: Thornmail to boost poison damage"
+          }
+        ]
       }
     ]
   },
@@ -8559,6 +10827,24 @@
             "name": "Miss Fortune",
             "es": "Bullet Time con el grupo del ult de Sion es devastador",
             "en": "Bullet Time on Sion's ult group is devastating"
+          }
+        ],
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature rush",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature rush"
+          },
+          {
+            "es": "Vs. curación masiva: Thornmail como 3er item",
+            "en": "vs heavy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. poke ranged: Overgrowth + Second Wind para escalar HP en split",
+            "en": "vs ranged poke: Overgrowth + Second Wind to scale HP in split"
+          },
+          {
+            "es": "Si tu equipo necesita engage: prioriza Frostfire Gauntlet para slow en teamfight",
+            "en": "If team needs engage: prioritize Frostfire Gauntlet for teamfight slow"
           }
         ]
       }
@@ -8629,7 +10915,25 @@
             "en": "Hook makes it easy for the boomerang to connect"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación masiva: compra Executioner's Calling, escala a Mortal Reminder",
+            "en": "vs heavy healing: buy Executioner's Calling, upgrade to Mortal Reminder"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. asesino fed: Guardian Angel rush después de 2do item",
+            "en": "vs fed assassin: Guardian Angel rush after 2nd item"
+          },
+          {
+            "es": "Si quieres mas kiting: Rapid Firecannon en vez de Phantom Dancer",
+            "en": "For more kiting: Rapid Firecannon over Phantom Dancer"
+          }
+        ]
       }
     ]
   },
@@ -8698,7 +11002,25 @@
             "en": "Kidnapped enemies eat the full Bullet Time"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. carries con escudo: Serpent's Fang antes de usar Ult",
+            "en": "vs shielded carries: Serpent's Fang before using Ult"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Force of Nature rush",
+            "en": "vs heavy AP: Mercury's Treads + Force of Nature rush"
+          },
+          {
+            "es": "Vs. curación rival: Thornmail como 3er item",
+            "en": "vs healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Comunica siempre tu Ult antes de usarla — arrastra hacia tu equipo",
+            "en": "Always communicate your Ult before using — drag toward your team"
+          }
+        ]
       },
       {
         "role": "top",
@@ -8761,7 +11083,25 @@
             "en": "Skarner engages and Galio arrives with his global ult"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads en vez de Plated Steelcaps",
+            "en": "vs heavy AP: Mercury's Treads over Plated Steelcaps"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. hard engage enemigo: Force of Nature para MR y movilidad",
+            "en": "vs heavy engage: Force of Nature for MR and mobility"
+          },
+          {
+            "es": "Si vas muy adelante: rush Sunfire antes que segundo tank item",
+            "en": "If snowballing: rush Sunfire before second tank item"
+          }
+        ]
       }
     ]
   },
@@ -8829,7 +11169,25 @@
             "en": "Lulu's peel protects Smolder while stacking"
           }
         ],
-        "wr": "52.4%"
+        "wr": "52.4%",
+        "situational": [
+          {
+            "es": "Vs. engage: Galeforce rush para dash de emergencia",
+            "en": "vs engage: Galeforce rush for emergency dash"
+          },
+          {
+            "es": "Vs. tanky: Kraken Slayer 3er item",
+            "en": "vs tanky: Kraken Slayer 3rd item"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder 4to item",
+            "en": "vs healing: Mortal Reminder 4th item"
+          },
+          {
+            "es": "Si snowball: rush IE 2do item — stacks de Q se acumulan más rápido",
+            "en": "If snowballing: rush IE 2nd item — Q stacks accumulate faster"
+          }
+        ]
       }
     ]
   },
@@ -8897,7 +11255,25 @@
             "en": "Crescendo perfectly activates Yasuo's ult"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -8965,7 +11341,25 @@
             "en": "Global healing protects Jinx in teamfights"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke heavy: Revitalize obligatorio para maximizar curas",
+            "en": "vs heavy poke: Revitalize mandatory to maximize heals"
+          },
+          {
+            "es": "Vs. ignite/anti-heal: avisa a tu equipo, considera Mikael's para limpiar",
+            "en": "vs ignite/anti-heal: warn team, consider Mikael's for cleanse"
+          },
+          {
+            "es": "Vs. engage: posiciónate MUY atrás — no puedes hacer nada si te cogen",
+            "en": "vs engage: position VERY far back — you can't do anything if caught"
+          },
+          {
+            "es": "Si tu ADC es crit: Ardent Censer antes de Redemption",
+            "en": "If ADC plays crit: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -9033,7 +11427,25 @@
             "en": "Hook makes it easy for Swain to grab enemies"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Rod of Ages rush para sustain de mana y vida",
+            "en": "vs heavy poke: Rod of Ages rush for mana and HP sustain"
+          },
+          {
+            "es": "Vs. engage + tanks: Zhonya's como 3er item obligatorio",
+            "en": "vs engage + tanks: Zhonya's as mandatory 3rd item"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item en lugar de item de sustain",
+            "en": "If snowballing: Rabadon's 3rd item instead of sustain item"
+          },
+          {
+            "es": "Vs. curación rival: Demonic Embrace + Shadowflame juntos",
+            "en": "vs enemy healing: Demonic Embrace + Shadowflame together"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -9095,7 +11507,25 @@
             "en": "Pull guarantees Draven can stack axes on the enemy"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky front line: Shadowflame como 2do item para penetración",
+            "en": "vs tanky frontline: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item para sobrevivir dives",
+            "en": "vs heavy engage: Zhonya's as 3rd item to survive dives"
+          },
+          {
+            "es": "Vs. asesino: Shurelya's Battlesong para acelerar al equipo y escapar",
+            "en": "vs assassin: Shurelya's Battlesong to speed team and escape"
+          },
+          {
+            "es": "Si tu equipo es full AP: considera Locket of Iron Solari para escudos",
+            "en": "If team is full AP: consider Locket of Iron Solari for shields"
+          }
+        ]
       }
     ]
   },
@@ -9164,7 +11594,25 @@
             "en": "Hook guarantees the spheres will connect"
           }
         ],
-        "wr": "49.2%"
+        "wr": "49.2%",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -9228,7 +11676,25 @@
             "en": "Zone + Ball = devastating teamfight"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Shadowflame como 2do item para penetración",
+            "en": "vs tanky team: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Si van muy adelante: Rabadon's 3er item para cerrar partida",
+            "en": "If snowballing: Rabadon's 3rd item to close game"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard early en jungle shop",
+            "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -9286,7 +11752,25 @@
             "en": "J4's cage = guaranteed combo"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -9355,7 +11839,25 @@
             "en": "Double mid roam creates unmanageable pressure"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después de 1er item de burst",
+            "en": "vs tanky team: Black Cleaver after 1st burst item"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang como 2do item",
+            "en": "vs heavy enemy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Vs. equipo con mucho MR: Void Staff / Last Whisper 3er item",
+            "en": "vs high MR team: Void Staff / Last Whisper 3rd item"
+          },
+          {
+            "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
+            "en": "vs heavy engage: Edge of Night for spellshield before entering"
+          }
+        ]
       },
       {
         "role": "jgl",
@@ -9418,7 +11920,25 @@
             "en": "Double assassination threat"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después del primer item de burst",
+            "en": "vs tanky team: Black Cleaver after first burst item"
+          },
+          {
+            "es": "Vs. control wards masivo: compra Oracle Lens en nivel 9",
+            "en": "vs heavy vision control: buy Oracle Lens at level 9"
+          },
+          {
+            "es": "Vs. equipo con muchos shields: Serpent's Fang como 2do item",
+            "en": "vs heavy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Si el rival jungla invade: ward río y flancos antes de hacer buff",
+            "en": "If enemy jungler invades: ward river and flanks before buffing"
+          }
+        ]
       }
     ]
   },
@@ -9486,7 +12006,25 @@
             "en": "Bullet Time over shrooms is hard to avoid"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. engage: posiciona shrooms en rutas de gank para bloquear",
+            "en": "vs engage: place shrooms on gank routes to block"
+          },
+          {
+            "es": "Vs. tanky rival: Void Staff 3er item obligatorio",
+            "en": "vs tanky rival: Void Staff 3rd item mandatory"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder 4to item + Liandry's para % HP",
+            "en": "vs enemy healing: Mortal Reminder 4th + Liandry's for % HP"
+          },
+          {
+            "es": "Si vas muy adelante: rush Rabadon's 3er item para one-shot potential",
+            "en": "If way ahead: rush Rabadon's 3rd item for one-shot potential"
+          }
+        ]
       }
     ]
   },
@@ -9555,7 +12093,25 @@
             "en": "Lantern gives Kai'Sa a safe escape after her ult dive"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind temprano en línea",
+            "en": "vs heavy poke: Second Wind early in lane"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. AP carry: Mercury's Treads + Force of Nature",
+            "en": "vs AP carry: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Si tu equipo necesita pelar: Knight's Vow en vez de Locket",
+            "en": "If team needs peel: Knight's Vow instead of Locket"
+          }
+        ]
       }
     ]
   },
@@ -9624,7 +12180,25 @@
             "en": "Speedboost + ult facilitate Tristana's poke"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. curación masiva: Mortal Reminder 4to item",
+            "en": "vs heavy healing: Mortal Reminder 4th item"
+          },
+          {
+            "es": "Vs. poke pesado en línea: Immortal Shieldbow en vez de IE como 1er item",
+            "en": "vs heavy lane poke: Immortal Shieldbow over IE as 1st item"
+          },
+          {
+            "es": "Si snowball: rush IE 2do directamente para maximizar daño de Ult",
+            "en": "If snowballing: rush IE 2nd directly to maximize Ult damage"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -9687,7 +12261,25 @@
             "en": "Vi pins the carry so Tristana can combo"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -9755,7 +12347,25 @@
             "en": "Revive when his ult ends = effective double immortality"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          },
+          {
+            "es": "Vs. CC pesado: Mercury's Treads siempre — dependes de tu ult para sobrevivir",
+            "en": "vs heavy CC: Mercury's Treads always — you rely on ult to survive"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como 4to item",
+            "en": "vs enemy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Si snowball: Ravenous Hydra 2do item para waveclear + sustain",
+            "en": "If snowballing: Ravenous Hydra 2nd for waveclear + sustain"
+          }
+        ]
       }
     ]
   },
@@ -9823,7 +12433,25 @@
             "en": "TF's global ult enables MF to ult in another lane"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Shadowflame + Void Staff para máxima penetración",
+            "en": "vs tanky: Shadowflame + Void Staff for max pen"
+          },
+          {
+            "es": "Vs. asesino: Banshee's Veil 3er item para protección",
+            "en": "vs assassin: Banshee's Veil 3rd item for protection"
+          },
+          {
+            "es": "Si puedes roamear: Lucidez de Botas para más CDR y más cartas",
+            "en": "If roaming: Ionian Boots for more CDR and more cards"
+          },
+          {
+            "es": "Vs. engage rival: Zhonya's 3er item para usar ult de forma segura",
+            "en": "vs heavy engage: Zhonya's 3rd item to ult safely"
+          }
+        ]
       }
     ]
   },
@@ -9891,7 +12519,25 @@
             "en": "Ball makes it easy for Twitch to stack poison"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo muy tanky: Kraken Slayer como 2do item obligatorio",
+            "en": "vs very tanky team: Kraken Slayer as mandatory 2nd item"
+          },
+          {
+            "es": "Vs. curación masiva: Terminus para anti-heal + on-hit",
+            "en": "vs heavy healing: Terminus for anti-heal + on-hit"
+          },
+          {
+            "es": "Vs. asesino fed: Immortal Shieldbow rush para sobrevivir",
+            "en": "vs fed assassin: Immortal Shieldbow rush to survive"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Wit's End como 3er item",
+            "en": "vs heavy AP: Mercury's Treads + Wit's End as 3rd item"
+          }
+        ]
       }
     ]
   },
@@ -9960,7 +12606,25 @@
             "en": "Hook brings the enemy into Urgot's range"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -10029,7 +12693,25 @@
             "en": "Varus poke facilitates Ornn's engage"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. engage pesado: Galeforce para dash de escape como 1er item",
+            "en": "vs heavy engage: Galeforce for escape dash as 1st item"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como 4to item",
+            "en": "vs enemy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. asesino: Guardian Angel rush después del 2do item",
+            "en": "vs assassin: Guardian Angel rush after 2nd item"
+          }
+        ]
       }
     ]
   },
@@ -10098,7 +12780,25 @@
             "en": "Hook makes it easy for Vayne to stack silver bolts"
           }
         ],
-        "wr": "51.3%"
+        "wr": "51.3%",
+        "situational": [
+          {
+            "es": "Vs. poke pesado en línea: Immortal Shieldbow rush para sustain",
+            "en": "vs heavy lane poke: Immortal Shieldbow rush for sustain"
+          },
+          {
+            "es": "Vs. CC pesado: Mercury's Treads + Banshee's Veil para sobrevivir",
+            "en": "vs heavy CC: Mercury's Treads + Banshee's Veil to survive"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder 4to item",
+            "en": "vs enemy healing: Mortal Reminder 4th item"
+          },
+          {
+            "es": "Vs. tanky: Guinsoo's Rageblade 2do item para % HP on-hit build",
+            "en": "vs tanky: Guinsoo's Rageblade 2nd item for % HP on-hit build"
+          }
+        ]
       },
       {
         "role": "top",
@@ -10161,7 +12861,25 @@
             "en": "Hook helps Vayne stack silver bolts comfortably"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -10230,7 +12948,25 @@
             "en": "Vi pins the carry inside Veigar's cage"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's rush 2do item — activa al ser catado para AP infinito",
+            "en": "vs assassin: Zhonya's rush 2nd item — activate when caught for infinite AP"
+          },
+          {
+            "es": "Vs. tanky: Void Staff 3er item para penetración",
+            "en": "vs tanky: Void Staff 3rd item for pen"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard rush + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard rush + early Zhonya's"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para daño one-shot masivo",
+            "en": "If snowballing: Rabadon's 3rd item for massive one-shot damage"
+          }
+        ]
       },
       {
         "role": "sup",
@@ -10292,7 +13028,25 @@
             "en": "Veigar cage facilitates Bullet Time without enemy escaping"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Second Wind + Revitalize sobre otras combinaciones",
+            "en": "vs heavy poke: Second Wind + Revitalize over other combos"
+          },
+          {
+            "es": "Vs. AD poke: Plated Steelcaps + Knight's Vow para tu adc",
+            "en": "vs AD poke: Plated Steelcaps + Knight's Vow for your ADC"
+          },
+          {
+            "es": "Vs. asesino: Knight's Vow rush para proteger tu carry",
+            "en": "vs assassin: Knight's Vow rush to protect your carry"
+          },
+          {
+            "es": "Si tu adc tiene mucho ataque: Ardent Censer antes que Redemption",
+            "en": "If your ADC is attack-speed based: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -10361,7 +13115,25 @@
             "en": "Vel'Koz poke + Bullet Time = devastating teamfight"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky front line: Shadowflame como 2do item para penetración",
+            "en": "vs tanky frontline: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item para sobrevivir dives",
+            "en": "vs heavy engage: Zhonya's as 3rd item to survive dives"
+          },
+          {
+            "es": "Vs. asesino: Shurelya's Battlesong para acelerar al equipo y escapar",
+            "en": "vs assassin: Shurelya's Battlesong to speed team and escape"
+          },
+          {
+            "es": "Si tu equipo es full AP: considera Locket of Iron Solari para escudos",
+            "en": "If team is full AP: consider Locket of Iron Solari for shields"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -10424,7 +13196,25 @@
             "en": "Amumu ult groups for Vel'Koz's AoE"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -10493,7 +13283,25 @@
             "en": "Vi pins the carry so Vex can ult accurately"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -10561,6 +13369,24 @@
             "name": "Caitlyn",
             "es": "Vi ult + Caitlyn ult sobre el mismo objetivo = kill garantizada",
             "en": "Vi ult + Caitlyn ult on same target = guaranteed kill"
+          }
+        ],
+        "situational": [
+          {
+            "es": "Vs. equipo pesado en MR: Black Cleaver rush es obligatorio",
+            "en": "vs high MR team: Black Cleaver rush is mandatory"
+          },
+          {
+            "es": "Vs. equipo tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky team: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
           }
         ]
       }
@@ -10631,6 +13457,24 @@
             "es": "Hook garantiza que Viego llegue y empiece a poseer",
             "en": "Hook guarantees Viego reaches and starts possessing"
           }
+        ],
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después del primer item de burst",
+            "en": "vs tanky team: Black Cleaver after first burst item"
+          },
+          {
+            "es": "Vs. control wards masivo: compra Oracle Lens en nivel 9",
+            "en": "vs heavy vision control: buy Oracle Lens at level 9"
+          },
+          {
+            "es": "Vs. equipo con muchos shields: Serpent's Fang como 2do item",
+            "en": "vs heavy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Si el rival jungla invade: ward río y flancos antes de hacer buff",
+            "en": "If enemy jungler invades: ward river and flanks before buffing"
+          }
         ]
       }
     ]
@@ -10700,7 +13544,25 @@
             "en": "Viktor slows and Hecarim chases"
           }
         ],
-        "wr": "51.3%"
+        "wr": "51.3%",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's rush 2do item — activa al ser catado",
+            "en": "vs assassin: Zhonya's rush 2nd item — activate when caught"
+          },
+          {
+            "es": "Vs. tanky: Shadowflame + Void Staff para penetración máxima",
+            "en": "vs tanky: Shadowflame + Void Staff for max pen"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para daño E masivo en teamfight",
+            "en": "If snowballing: Rabadon's 3rd item for massive E damage in teamfight"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          }
+        ]
       }
     ]
   },
@@ -10769,7 +13631,25 @@
             "en": "Ball + Vlad ult in the same zone = won"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. full AD rival: Seeker's Armguard rush → Zhonya's más adelante",
+            "en": "vs full AD enemy: Seeker's Armguard rush → Zhonya's later"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item",
+            "en": "vs heavy engage: Zhonya's as 3rd item"
+          },
+          {
+            "es": "Vs. curación: Shadowflame reemplaza Cosmic Drive",
+            "en": "vs healing: Shadowflame replaces Cosmic Drive"
+          },
+          {
+            "es": "Si snowball: rush Rabadon's antes del 4to item",
+            "en": "If ahead: rush Rabadon's before 4th item"
+          }
+        ]
       },
       {
         "role": "mid",
@@ -10832,7 +13712,25 @@
             "en": "Vlad's weakening ult + ball = massive burst"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Rod of Ages rush para sustain de mana y vida",
+            "en": "vs heavy poke: Rod of Ages rush for mana and HP sustain"
+          },
+          {
+            "es": "Vs. engage + tanks: Zhonya's como 3er item obligatorio",
+            "en": "vs engage + tanks: Zhonya's as mandatory 3rd item"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item en lugar de item de sustain",
+            "en": "If snowballing: Rabadon's 3rd item instead of sustain item"
+          },
+          {
+            "es": "Vs. curación rival: Demonic Embrace + Shadowflame juntos",
+            "en": "vs enemy healing: Demonic Embrace + Shadowflame together"
+          }
+        ]
       }
     ]
   },
@@ -10901,7 +13799,25 @@
             "en": "Flip facilitates MF ulting the target without escape"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads en vez de Plated Steelcaps",
+            "en": "vs heavy AP: Mercury's Treads over Plated Steelcaps"
+          },
+          {
+            "es": "Vs. curación masiva rival: Thornmail como 3er item",
+            "en": "vs heavy enemy healing: Thornmail as 3rd item"
+          },
+          {
+            "es": "Vs. hard engage enemigo: Force of Nature para MR y movilidad",
+            "en": "vs heavy engage: Force of Nature for MR and mobility"
+          },
+          {
+            "es": "Si vas muy adelante: rush Sunfire antes que segundo tank item",
+            "en": "If snowballing: rush Sunfire before second tank item"
+          }
+        ]
       },
       {
         "role": "jgl",
@@ -10964,7 +13880,25 @@
             "en": "Volibear destroys towers so Caitlyn can poke safely"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado rival: Oracle Lens desde nivel 9 para contrarrestar wards",
+            "en": "vs heavy poke: Oracle Lens from lvl 9 to counter wards"
+          },
+          {
+            "es": "Si tu adc/mid va adelante: prioriza dragon/baron sobre farm",
+            "en": "If your carry is ahead: prioritize dragon/baron over farming"
+          },
+          {
+            "es": "Vs. AP carry jungla rival: Mercury's Treads + Force of Nature",
+            "en": "vs AP enemy jungler: Mercury's Treads + Force of Nature"
+          },
+          {
+            "es": "Vs. equipo tanky rival: Thornmail early para hacer más daño con tu pasiva",
+            "en": "vs tanky enemy: Thornmail early to maximize passive damage"
+          }
+        ]
       }
     ]
   },
@@ -11032,7 +13966,25 @@
             "en": "Warwick pins the carry so Caitlyn can execute"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. curación masiva rival: Mortal Reminder como 4to item",
+            "en": "vs heavy enemy healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Vs. tanky: Black Cleaver rush antes de Sterak's",
+            "en": "vs tanky: Black Cleaver rush before Sterak's"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Wit's End como 3er item",
+            "en": "vs heavy AP: Mercury's Treads + Wit's End as 3rd item"
+          },
+          {
+            "es": "Si snowball: rush Trinity Force para más daño en skirmishes",
+            "en": "If snowballing: rush Trinity Force for more skirmish damage"
+          }
+        ]
       }
     ]
   },
@@ -11101,6 +14053,24 @@
             "es": "Ult agrupa para la ball de Orianna",
             "en": "Ult groups enemies for Orianna's ball"
           }
+        ],
+        "situational": [
+          {
+            "es": "Vs. equipo pesado en MR: Black Cleaver rush es obligatorio",
+            "en": "vs high MR team: Black Cleaver rush is mandatory"
+          },
+          {
+            "es": "Vs. equipo tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky team: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          }
         ]
       },
       {
@@ -11164,7 +14134,25 @@
             "en": "Insec carry toward Wukong = devastating double ult"
           }
         ],
-        "wr": "54.1%"
+        "wr": "54.1%",
+        "situational": [
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius en lugar de sit item",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius over sit item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder reemplaza Lord Dominik's",
+            "en": "vs enemy healing: Mortal Reminder replaces Lord Dominik's"
+          },
+          {
+            "es": "Vs. equipo muy tanky: rush Black Cleaver antes que item de sustain",
+            "en": "vs very tanky enemy: rush Black Cleaver before sustain item"
+          },
+          {
+            "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
+            "en": "Long game: Overgrowth > Last Stand if you're focused"
+          }
+        ]
       }
     ]
   },
@@ -11233,7 +14221,25 @@
             "en": "Hook makes it easy for Xayah to stack feathers"
           }
         ],
-        "wr": "49.2%"
+        "wr": "49.2%",
+        "situational": [
+          {
+            "es": "Vs. curación masiva: compra Executioner's Calling, escala a Mortal Reminder",
+            "en": "vs heavy healing: buy Executioner's Calling, upgrade to Mortal Reminder"
+          },
+          {
+            "es": "Vs. equipo tanky: Kraken Slayer como 3er item",
+            "en": "vs tanky team: Kraken Slayer as 3rd item"
+          },
+          {
+            "es": "Vs. asesino fed: Guardian Angel rush después de 2do item",
+            "en": "vs fed assassin: Guardian Angel rush after 2nd item"
+          },
+          {
+            "es": "Si quieres mas kiting: Rapid Firecannon en vez de Phantom Dancer",
+            "en": "For more kiting: Rapid Firecannon over Phantom Dancer"
+          }
+        ]
       }
     ]
   },
@@ -11302,7 +14308,25 @@
             "en": "Knockup enables Caitlyn's critical headshot"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo pesado en MR: Black Cleaver rush es obligatorio",
+            "en": "vs high MR team: Black Cleaver rush is mandatory"
+          },
+          {
+            "es": "Vs. equipo tanky: Lord Dominik's como 4to item",
+            "en": "vs tanky team: Lord Dominik's as 4th item"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como item situacional",
+            "en": "vs enemy healing: Mortal Reminder as situational item"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          }
+        ]
       }
     ]
   },
@@ -11371,7 +14395,25 @@
             "en": "Ornn's knockup ult combos with Yasuo's"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Immortal Shieldbow rush 1er item para mejor escudo",
+            "en": "vs heavy poke: Immortal Shieldbow rush 1st for better shield"
+          },
+          {
+            "es": "Vs. tanky: Lord Dominik's 3er item para armor pen",
+            "en": "vs tanky: Lord Dominik's 3rd item for armor pen"
+          },
+          {
+            "es": "Vs. AP pesado: Mercury's Treads siempre",
+            "en": "vs heavy AP: Mercury's Treads always"
+          },
+          {
+            "es": "Si snowball: rush Phantom Dancer 2do para más crit y movilidad",
+            "en": "If snowballing: rush Phantom Dancer 2nd for more crit and mobility"
+          }
+        ]
       }
     ]
   },
@@ -11440,7 +14482,25 @@
             "en": "Ornn's knockup ult perfectly combos with Yone's ult"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. poke pesado: Immortal Shieldbow rush 1er item para sustain",
+            "en": "vs heavy poke: Immortal Shieldbow rush 1st for sustain"
+          },
+          {
+            "es": "Vs. tanky: Lord Dominik's 3er item para penetración",
+            "en": "vs tanky: Lord Dominik's 3rd item for pen"
+          },
+          {
+            "es": "Vs. mucho AP: Mercury's Treads + Maw of Malmortius",
+            "en": "vs heavy AP: Mercury's Treads + Maw of Malmortius"
+          },
+          {
+            "es": "Si snowball: rush Kraken Slayer 2do para % HP on-hit build",
+            "en": "If snowballing: rush Kraken Slayer 2nd for % HP on-hit build"
+          }
+        ]
       },
       {
         "role": "top",
@@ -11503,7 +14563,25 @@
             "en": "Ball + Yone ult = massive teamfight burst"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. AP: Mercury's Treads + Maw of Malmortius obligatorio",
+            "en": "vs AP: Mercury's Treads + Maw of Malmortius mandatory"
+          },
+          {
+            "es": "Vs. tanky: Black Cleaver rush antes que Sterak's",
+            "en": "vs tanky: Black Cleaver rush before Sterak's"
+          },
+          {
+            "es": "Si snowball: rush Phantom Dancer 2do para movilidad en split",
+            "en": "If snowballing: rush Phantom Dancer 2nd for split push mobility"
+          },
+          {
+            "es": "Vs. curación rival: Mortal Reminder como 4to item",
+            "en": "vs enemy healing: Mortal Reminder as 4th item"
+          }
+        ]
       }
     ]
   },
@@ -11571,7 +14649,25 @@
             "en": "Yuumi on Vayne makes her nearly impossible to kill 1v1"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: monta solo a carries con escudo o dash, no Malphite",
+            "en": "vs assassin: mount only shielded/dash carries, not Malphite"
+          },
+          {
+            "es": "Vs. poke pesado: apégate a tu ADC desde el inicio, no explores",
+            "en": "vs heavy poke: stick to your ADC from the start, don't explore"
+          },
+          {
+            "es": "Si tu ADC lleva attack speed: Ardent Censer es tu primer item",
+            "en": "If ADC plays attack speed: Ardent Censer is your first item"
+          },
+          {
+            "es": "Si su ADC lleva AP: Staff of Flowing Water + Moonstone Renewer",
+            "en": "If ADC plays AP: Staff of Flowing Water + Moonstone Renewer"
+          }
+        ]
       }
     ]
   },
@@ -11640,7 +14736,25 @@
             "en": "Hook facilitates Zed's dive on the carry"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. equipo tanky: Black Cleaver después de 1er item de burst",
+            "en": "vs tanky team: Black Cleaver after 1st burst item"
+          },
+          {
+            "es": "Vs. shields masivos rival: Serpent's Fang como 2do item",
+            "en": "vs heavy enemy shields: Serpent's Fang as 2nd item"
+          },
+          {
+            "es": "Vs. equipo con mucho MR: Void Staff / Last Whisper 3er item",
+            "en": "vs high MR team: Void Staff / Last Whisper 3rd item"
+          },
+          {
+            "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
+            "en": "vs heavy engage: Edge of Night for spellshield before entering"
+          }
+        ]
       }
     ]
   },
@@ -11709,7 +14823,25 @@
             "en": "Lulu's ult on Zeri in teamfight is devastating"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky: Kraken Slayer 2do item para % HP damage",
+            "en": "vs tanky: Kraken Slayer 2nd item for % HP damage"
+          },
+          {
+            "es": "Vs. asesino: Guardian Angel rush 3er item para sobrevivir",
+            "en": "vs assassin: Guardian Angel rush 3rd item to survive"
+          },
+          {
+            "es": "Vs. curación: Mortal Reminder como 4to item",
+            "en": "vs healing: Mortal Reminder as 4th item"
+          },
+          {
+            "es": "Si snowball: rush RFC 2do para rango máximo y daño en Q",
+            "en": "If snowballing: rush RFC 2nd for max range and Q damage"
+          }
+        ]
       }
     ]
   },
@@ -11777,7 +14909,25 @@
             "en": "Hook makes it easy for Ziggs' abilities to connect"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's Hourglass rush como 2do item",
+            "en": "vs assassin: Zhonya's Hourglass rush as 2nd item"
+          },
+          {
+            "es": "Vs. equipo tanky: Void Staff antes del 4to item",
+            "en": "vs tanky team: Void Staff before 4th item"
+          },
+          {
+            "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
+            "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
+            "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          }
+        ]
       }
     ]
   },
@@ -11846,7 +14996,25 @@
             "en": "Revive + Vayne ult = nearly unbeatable combination"
           }
         ],
-        "wr": "51.4%"
+        "wr": "51.4%",
+        "situational": [
+          {
+            "es": "Prioriza siempre guardar Ult para el carry más fed del equipo",
+            "en": "Always prioritize saving Ult for the most fed team carry"
+          },
+          {
+            "es": "Vs. poke rival: Second Wind + Revitalize para sobrevivir en línea",
+            "en": "vs poke rival: Second Wind + Revitalize to survive lane"
+          },
+          {
+            "es": "Vs. engage: comunica al equipo que guardes Ult antes de fight",
+            "en": "vs engage: communicate to team that you're saving Ult before fight"
+          },
+          {
+            "es": "Si tu ADC lleva crit: Ardent Censer antes de Redemption",
+            "en": "If ADC plays crit: Ardent Censer before Redemption"
+          }
+        ]
       }
     ]
   },
@@ -11915,7 +15083,25 @@
             "en": "Hook + Zoe bubble = guaranteed kill level 2"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. asesino: Zhonya's rush 2do item — posiciónate atrás siempre",
+            "en": "vs assassin: Zhonya's rush 2nd item — always position in back"
+          },
+          {
+            "es": "Vs. tanky: Shadowflame 2do item para penetración",
+            "en": "vs tanky: Shadowflame 2nd item for pen"
+          },
+          {
+            "es": "Si snowball: Rabadon's 3er item para one-shot con Q potenciado",
+            "en": "If snowballing: Rabadon's 3rd item for one-shot with empowered Q"
+          },
+          {
+            "es": "Vs. mucho engage: usa E para dormir antes de que entren",
+            "en": "vs heavy engage: use E to sleep before they engage"
+          }
+        ]
       }
     ]
   },
@@ -11984,7 +15170,25 @@
             "en": "Zyra's CC protects Jinx from dive comps"
           }
         ],
-        "wr": "TBD"
+        "wr": "TBD",
+        "situational": [
+          {
+            "es": "Vs. tanky front line: Shadowflame como 2do item para penetración",
+            "en": "vs tanky frontline: Shadowflame as 2nd item for pen"
+          },
+          {
+            "es": "Vs. engage pesado: Zhonya's como 3er item para sobrevivir dives",
+            "en": "vs heavy engage: Zhonya's as 3rd item to survive dives"
+          },
+          {
+            "es": "Vs. asesino: Shurelya's Battlesong para acelerar al equipo y escapar",
+            "en": "vs assassin: Shurelya's Battlesong to speed team and escape"
+          },
+          {
+            "es": "Si tu equipo es full AP: considera Locket of Iron Solari para escudos",
+            "en": "If team is full AP: consider Locket of Iron Solari for shields"
+          }
+        ]
       }
     ]
   }

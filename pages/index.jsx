@@ -282,14 +282,22 @@ export default function Home() {
 
   const myCount = useMemo(() => Object.keys(myChamps).length, [myChamps]);
 
-  // Filtered entries for current role
+  // Filtered entries for current role (role === "all" shows every role entry)
   const entries = useMemo(() => {
-    return FLAT.filter(({ champ, roleData }) => {
-      if (roleData.role !== role) return false;
-      if (search && !champ.name.toLowerCase().includes(search.toLowerCase())) return false;
-      if (showMineOnly && !isMine(champ.name, roleData.role)) return false;
-      return true;
-    });
+    return FLAT
+      .filter(({ champ, roleData }) => {
+        if (role !== "all" && roleData.role !== role) return false;
+        if (search && !champ.name.toLowerCase().includes(search.toLowerCase())) return false;
+        if (showMineOnly && !isMine(champ.name, roleData.role)) return false;
+        return true;
+      })
+      .map(entry => {
+        if (role === "all") {
+          const roleInfo = ROLES.find(r => r.key === entry.roleData.role);
+          return { ...entry, roleIcon: roleInfo?.icon };
+        }
+        return entry;
+      });
   }, [role, search, showMineOnly, isMine]);
 
   const grouped = useMemo(() => {
@@ -298,8 +306,9 @@ export default function Home() {
     return g;
   }, [entries]);
 
-  const totalInRole = FLAT.filter(e => e.roleData.role === role).length;
+  const totalInRole = role === "all" ? FLAT.length : FLAT.filter(e => e.roleData.role === role).length;
   const myInRole = useMemo(() => {
+    if (role === "all") return myCount;
     return FLAT.filter(e => e.roleData.role === role && isMine(e.champ.name, e.roleData.role)).length;
   }, [role, myChamps]);
 
@@ -365,6 +374,14 @@ export default function Home() {
           {/* ROLE NAV */}
           <nav className="role-nav">
             <div className="role-nav-inner">
+              {/* All roles button */}
+              <button
+                className={`role-tab ${role === "all" ? "active" : ""}`}
+                onClick={() => { setRole("all"); setSearch(""); setShowMineOnly(false); }}
+              >
+                <span className="role-icon">🌐</span>
+                <span className="role-label">{lang === "es" ? "Todos" : "All"}</span>
+              </button>
               {ROLES.map(r => {
                 const count = FLAT.filter(e => e.roleData.role === r.key).length;
                 const mine = loaded ? FLAT.filter(e => e.roleData.role === r.key && isMine(e.champ.name, e.roleData.role)).length : 0;

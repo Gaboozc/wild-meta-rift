@@ -81,31 +81,47 @@ const RUNE_ES = {
   "Phase Rush": "Precipitación de Fase",
   "Dark Harvest": "Cosecha Oscura",
   "Fleet Footwork": "Trabajo de Pies Ágil",
-  "Aftershock": "Réplica",
   "Summon Aery": "Convocar a Aery",
+  "Aery": "Aery",
   "First Strike": "Primer Golpe",
+  "Guardian": "Guardián",
+  "Ice Overlord": "Señor del Hielo",
   "Triumph": "Triunfo",
   "Alacrity": "Presteza",
   "Last Stand": "Última Resistencia",
   "Legend: Alacrity": "Leyenda: Presteza",
+  "Legend: Tenacity": "Leyenda: Tenacidad",
+  "Legend: Bloodline": "Leyenda: Linaje",
   "Coup de Grace": "Golpe de Gracia",
-  "Presence of Mind": "Presencia Mental",
+  "Cut Down": "Derribar",
+  "Brutal": "Brutal",
+  "Battle Zeal": "Fervor de Combate",
   "Sudden Impact": "Impacto Repentino",
+  "Cheap Shot": "Golpe Bajo",
   "Eyeball Collection": "Colección de Globos Oculares",
-  "Ravenous Hunter": "Cazador Voraz",
+  "Relentless Hunter": "Cazador Implacable",
+  "Ingenious Hunter": "Cazador Ingenioso",
+  "Zombie Ward": "Centinela Zombie",
+  "Empowered Attack": "Ataque Potenciado",
+  "Hubris": "Arrogancia",
   "Manaflow Band": "Banda de Flujo de Maná",
   "Transcendence": "Trascendencia",
   "Scorch": "Chamuscar",
-  "Waterwalking": "Caminar sobre el Agua",
   "Gathering Storm": "Tormenta en Formación",
   "Absolute Focus": "Enfoque Absoluto",
+  "Celerity": "Celeridad",
+  "Nimbus Cloak": "Capa del Nimbo",
+  "Axiom Arcanist": "Arcanista Axiomático",
+  "Ixtali Seedjar": "Vasija Ixtalí",
+  "Botanist": "Botanista",
   "Demolish": "Demoler",
-  "Conditioning": "Acondicionamiento",
   "Overgrowth": "Crecimiento Desmesurado",
   "Bone Plating": "Blindaje Óseo",
-  "Unflinching": "Impasible",
+  "Second Wind": "Segundo Aire",
+  "Font of Life": "Fuente de Vida",
   "Revitalize": "Revitalizar",
   "Nullifying Orb": "Orbe Anulador",
+  "Unflinching": "Impasible",
 };
 
 // ─── Imágenes de items (Data Dragon + Community Dragon para exclusivos WR) ────
@@ -175,6 +191,7 @@ const ITEM_IMG = {
 // ─── Imágenes de runas (Community Dragon) ────────────────────────────────────
 const _R = "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/styles/";
 const RUNE_IMG = {
+  // Keystones
   "Conqueror":            _R + "precision/conqueror/conqueror.png",
   "Electrocute":          _R + "domination/electrocute/electrocute.png",
   "Grasp of the Undying": _R + "resolve/graspoftheundying/graspoftheundying.png",
@@ -183,31 +200,42 @@ const RUNE_IMG = {
   "Phase Rush":           _R + "sorcery/phaserush/stormraiderssurgeruneicon2.png",
   "Dark Harvest":         _R + "domination/darkharvest/darkharvest.png",
   "Fleet Footwork":       _R + "precision/fleetfootwork/fleetfootwork.png",
-  "Aftershock":           _R + "resolve/veteranaftershock/veteranaftershock.png",
   "Summon Aery":          _R + "sorcery/summonaery/summonaery.png",
   "First Strike":         _R + "inspiration/firststrike/firststrike.png",
+  "Guardian":             _R + "resolve/guardian/guardian.png",
+  // Precision
   "Triumph":              _R + "precision/triumph.png",
   "Alacrity":             _R + "precision/legendalacrity/legendalacrity.png",
-  "Last Stand":           _R + "sorcery/laststand/laststand.png",
+  "Last Stand":           _R + "precision/laststand/laststand.png",
   "Legend: Alacrity":     _R + "precision/legendalacrity/legendalacrity.png",
+  "Legend: Tenacity":     _R + "precision/legendtenacity/legendtenacity.png",
+  "Legend: Bloodline":    _R + "precision/legendbloodline/legendbloodline.png",
   "Coup de Grace":        _R + "precision/coupdegrace/coupdegrace.png",
-  "Presence of Mind":     _R + "precision/presenceofmind/presenceofmind.png",
+  "Cut Down":             _R + "precision/cutdown/cutdown.png",
+  // Domination
   "Sudden Impact":        _R + "domination/suddenimpact/suddenimpact.png",
+  "Cheap Shot":           _R + "domination/cheapshot/cheapshot.png",
   "Eyeball Collection":   _R + "domination/eyeballcollection/eyeballcollection.png",
-  "Ravenous Hunter":      _R + "domination/relentlesshunter/relentlesshunter.png",
+  "Relentless Hunter":    _R + "domination/relentlesshunter/relentlesshunter.png",
+  "Zombie Ward":          _R + "domination/zombieward/zombieward.png",
+  "Ingenious Hunter":     _R + "domination/ingeniousrunebook/ingeniousrunebook.png",
+  // Sorcery
   "Manaflow Band":        _R + "sorcery/manaflowband/manaflowband.png",
   "Transcendence":        _R + "sorcery/transcendence/transcendence.png",
   "Scorch":               _R + "sorcery/scorch/scorch.png",
-  "Waterwalking":         _R + "sorcery/waterwalking/waterwalking.png",
   "Gathering Storm":      _R + "sorcery/gatheringstorm/gatheringstorm.png",
   "Absolute Focus":       _R + "sorcery/absolutefocus/absolutefocus.png",
+  "Celerity":             _R + "sorcery/celerity/celerity.png",
+  "Nimbus Cloak":         _R + "sorcery/nimbuscloak/nimbuscloak.png",
+  "Nullifying Orb":       _R + "sorcery/nullifyingorb/axiom_arcanist.png",
+  // Resolve
   "Demolish":             _R + "resolve/demolish/demolish.png",
-  "Conditioning":         _R + "resolve/conditioning/conditioning.png",
   "Overgrowth":           _R + "resolve/overgrowth/overgrowth.png",
   "Bone Plating":         _R + "resolve/boneplating/boneplating.png",
-  "Unflinching":          _R + "sorcery/unflinching/unflinching.png",
+  "Second Wind":          _R + "resolve/secondwind/secondwind.png",
+  "Font of Life":         _R + "resolve/fontoflife/fontoflife.png",
   "Revitalize":           _R + "resolve/revitalize/revitalize.png",
-  "Nullifying Orb":       _R + "sorcery/nullifyingorb/axiom_arcanist.png",
+  "Unflinching":          _R + "resolve/unflinching/unflinching.png",
 };
 
 // ─── Imágenes de campeones (Data Dragon 16.11.1) ──────────────────────────────
@@ -314,6 +342,23 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
               <p className="build-note"><T obj={roleData.buildNote} lang={lang} /></p>
             )}
           </div>
+
+          {/* SITUATIONAL */}
+          {roleData.situational && roleData.situational.length > 0 && (
+            <div className="info-section">
+              <div className="section-label">
+                {lang === "es" ? "Variables Situacionales" : "Situational Adjustments"}
+              </div>
+              <ul className="sit-list">
+                {roleData.situational.map((s, i) => (
+                  <li key={i} className="sit-item">
+                    <span className="sit-bullet">⚡</span>
+                    <span className="sit-text"><T obj={s} lang={lang} /></span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
 
           {/* RUNES */}
           <div className="info-section">
@@ -514,6 +559,12 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
           flex-shrink: 0;
         }
         .build-note { font-size: 11px; color: var(--dim); margin-top: 5px; line-height: 1.5; }
+
+        /* SITUATIONAL */
+        .sit-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 5px; }
+        .sit-item { display: flex; gap: 7px; align-items: flex-start; font-size: 12px; line-height: 1.5; }
+        .sit-bullet { font-size: 10px; color: var(--gold); flex-shrink: 0; margin-top: 2px; }
+        .sit-text { color: var(--muted); }
 
         /* RUNES */
         .runes-row { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 4px; }
