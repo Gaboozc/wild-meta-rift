@@ -100,7 +100,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -169,7 +169,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -232,7 +232,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Bone Plating"
         },
@@ -303,7 +303,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -366,13 +366,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -504,13 +504,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -567,13 +567,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -640,7 +640,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -702,7 +702,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -772,7 +772,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -841,7 +841,7 @@
             "Transcendence",
             "Gathering Storm"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -908,7 +908,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -971,7 +971,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Bone Plating"
         },
@@ -1105,13 +1105,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -1243,7 +1243,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -1306,13 +1306,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -1519,7 +1519,7 @@
             "Transcendence",
             "Gathering Storm"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -1655,7 +1655,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -1718,7 +1718,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -1786,7 +1786,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -1858,7 +1858,7 @@
             "Alacrity",
             "Coup de Grace"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -1925,7 +1925,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -1988,7 +1988,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -2056,7 +2056,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -2127,7 +2127,7 @@
             "Transcendence",
             "Gathering Storm"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -2193,7 +2193,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -2331,7 +2331,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -2396,10 +2396,10 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Arcane Comet",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Manaflow Band"
@@ -2459,13 +2459,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Arcane Comet",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -2531,7 +2531,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Triumph"
@@ -2600,7 +2600,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -2666,10 +2666,10 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -2728,13 +2728,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -2939,7 +2939,7 @@
           "primary": [
             "Manaflow Band",
             "Transcendence",
-            "Waterwalking"
+            "Celerity"
           ],
           "secondary": "Bone Plating"
         },
@@ -3010,7 +3010,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -3742,7 +3742,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -3808,7 +3808,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -3880,7 +3880,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -3949,7 +3949,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -4080,7 +4080,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -4147,9 +4147,9 @@
           "primary": [
             "Manaflow Band",
             "Transcendence",
-            "Waterwalking"
+            "Celerity"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -4492,7 +4492,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -4563,7 +4563,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -4632,7 +4632,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -4827,13 +4827,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -4899,7 +4899,7 @@
           "primary": [
             "Manaflow Band",
             "Transcendence",
-            "Waterwalking"
+            "Celerity"
           ],
           "secondary": "Bone Plating"
         },
@@ -4964,10 +4964,10 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Arcane Comet",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Manaflow Band"
@@ -5039,7 +5039,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -5102,7 +5102,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -5240,7 +5240,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -5438,7 +5438,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -5498,13 +5498,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -5640,7 +5640,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -5777,7 +5777,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -5905,7 +5905,7 @@
         "runes": {
           "key": "Grasp of the Undying",
           "primary": [
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth",
             "Revitalize"
           ],
@@ -6026,7 +6026,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -6160,7 +6160,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -6226,13 +6226,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -6289,13 +6289,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -6361,7 +6361,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -6432,7 +6432,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -6633,10 +6633,10 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -6777,7 +6777,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -6844,7 +6844,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -6971,13 +6971,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -7043,7 +7043,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -7103,10 +7103,10 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -7176,7 +7176,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Bone Plating"
         },
@@ -7241,13 +7241,13 @@
           "en": "Combo with Xayah activates passive bonuses — always play near her."
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Guardian",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -7309,10 +7309,10 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -7378,13 +7378,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -7519,7 +7519,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -7788,9 +7788,9 @@
           "primary": [
             "Manaflow Band",
             "Transcendence",
-            "Waterwalking"
+            "Gathering Storm"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -7991,7 +7991,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -8122,7 +8122,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -8248,13 +8248,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -8320,7 +8320,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -8458,7 +8458,7 @@
           "primary": [
             "Manaflow Band",
             "Transcendence",
-            "Waterwalking"
+            "Celerity"
           ],
           "secondary": "Bone Plating"
         },
@@ -8527,7 +8527,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -8598,7 +8598,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -8661,9 +8661,9 @@
           "en": "Full tank — his damage comes from the kit and his value from CC. Dead Man's Plate helps land the E."
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
-            "Conditioning",
+            "Overgrowth",
             "Bone Plating",
             "Overgrowth"
           ],
@@ -8726,7 +8726,7 @@
         "runes": {
           "key": "Grasp of the Undying",
           "primary": [
-            "Conditioning",
+            "Overgrowth",
             "Bone Plating",
             "Overgrowth"
           ],
@@ -8798,7 +8798,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -8934,7 +8934,7 @@
             "Transcendence",
             "Revitalize"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Revitalize"
         },
         "counters": [
           {
@@ -9002,7 +9002,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -9064,7 +9064,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -9131,7 +9131,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -9322,7 +9322,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -9385,7 +9385,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -9518,13 +9518,13 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Ice Overlord",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Bone Plating",
             "Overgrowth"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Second Wind"
         },
         "counters": [
           {
@@ -9593,7 +9593,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -9656,7 +9656,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -9792,7 +9792,7 @@
             "Transcendence",
             "Gathering Storm"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -9860,7 +9860,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -9998,7 +9998,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -10067,7 +10067,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -10199,7 +10199,7 @@
             "Transcendence",
             "Gathering Storm"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -10393,7 +10393,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -10462,7 +10462,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -10669,7 +10669,7 @@
             "Transcendence",
             "Gathering Storm"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -10736,7 +10736,7 @@
           "primary": [
             "Manaflow Band",
             "Transcendence",
-            "Waterwalking"
+            "Gathering Storm"
           ],
           "secondary": "Nullifying Orb"
         },
@@ -10799,7 +10799,7 @@
           "primary": [
             "Manaflow Band",
             "Transcendence",
-            "Waterwalking"
+            "Gathering Storm"
           ],
           "secondary": "Nullifying Orb"
         },
@@ -10867,7 +10867,7 @@
           "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -10927,10 +10927,10 @@
           "en": ""
         },
         "runes": {
-          "key": "Aftershock",
+          "key": "Grasp of the Undying",
           "primary": [
             "Demolish",
-            "Conditioning",
+            "Overgrowth",
             "Overgrowth"
           ],
           "secondary": "Bone Plating"
@@ -11202,7 +11202,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -11540,7 +11540,7 @@
             "Transcendence",
             "Revitalize"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Revitalize"
         },
         "counters": [
           {
@@ -11607,7 +11607,7 @@
           "primary": [
             "Sudden Impact",
             "Eyeball Collection",
-            "Ravenous Hunter"
+            "Relentless Hunter"
           ],
           "secondary": "Manaflow Band"
         },
@@ -11678,7 +11678,7 @@
             "Alacrity",
             "Last Stand"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Eyeball Collection"
         },
         "counters": [
           {
@@ -11746,7 +11746,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
@@ -11884,7 +11884,7 @@
             "Transcendence",
             "Scorch"
           ],
-          "secondary": "Presence of Mind"
+          "secondary": "Gathering Storm"
         },
         "counters": [
           {
