@@ -1106,12 +1106,7 @@
             "es": "Vs. mucho CC: Mercury's Treads + Banshee's Veil",
             "en": "vs heavy CC: Mercury's Treads + Banshee's Veil"
           }
-        ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "Maestro de control de zona olvidado. Con Phase Rush y CDR, sus estrellas zoning hacen imposible acercarse. Destruye comps teamfight lentas. Requiere entender el radio exacto de las estrellas y roaming constante.",
-          "en": "Forgotten zone control master. With Phase Rush and CDR, his orbiting stars make approaching impossible. Destroys slow teamfight comps. Requires understanding the exact star radius and constant roaming."
-        }
+        ]
       }
     ]
   },
@@ -5239,12 +5234,7 @@
             "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
             "en": "If ahead: rush Rabadon's as 3rd item to close out"
           }
-        ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "AP mid de poke e hypermovilidad completamente infrautilizada. Con Phase Rush + Mantra, acelera a todo el equipo mientras hace daño masivo a rango seguro. Destruye comps lentas sin dash. Muy infravalorada porque la mayoría la juega solo de support sin explotar su daño AP.",
-          "en": "AP mid poke and hyper-mobility champion that's completely underutilized. With Phase Rush + Mantra, she speeds the entire team while dealing massive damage at safe range. Destroys slow dash-less comps. Hugely undervalued because most only play her as support without exploiting her AP damage."
-        }
+        ]
       }
     ]
   },
@@ -5418,7 +5408,12 @@
             "es": "Vs. engage rival: Edge of Night para spellshield antes de entrar",
             "en": "vs heavy engage: Edge of Night for spellshield before entering"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "La campeona de mayor techo en mid cuando se dominan los resets. Cada kill le resetea Q, W y E — en un teamfight donde mata al primero, puede eliminar a todo el equipo sin darles oportunidad de reaccionar. En manos de un main con 500 partidas, convierte cualquier partida equilibrada en una derrota total para el rival.",
+          "en": "The highest skill-ceiling mid champion when resets are mastered. Every kill resets Q, W and E — in a teamfight where she gets the first kill, she can eliminate the entire team before they react. In the hands of a 500-game main, she turns any even game into a total stomp."
+        }
       }
     ]
   },
@@ -14528,7 +14523,12 @@
             "es": "Si snowball: rush Phantom Dancer 2do para más crit y movilidad",
             "en": "If snowballing: rush Phantom Dancer 2nd for more crit and mobility"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "C tier en el papel, SSS en las manos de un main. La barrera de viento bloquea proyectiles — con mastery, bloquea cada habilidad del rival. Su ult con cualquier aliado que tire knockup (Malphite, Jarvan, Gnar) es instantáneamente ganadora de teamfight. El 99% de las partidas lo subestiman — el 1% lo lleva sabe exactamente por qué siempre parece que gana aunque no debería.",
+          "en": "C tier on paper, SSS in a main's hands. The windwall blocks projectiles — with mastery, it blocks every enemy ability that matters. His ult with any knockup ally (Malphite, Jarvan, Gnar) is an instant teamfight winner. 99% of games underestimate him — the 1% who play him know exactly why he always seems to win even when he shouldn't."
+        }
       }
     ]
   },
