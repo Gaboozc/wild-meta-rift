@@ -12908,12 +12908,7 @@
             "es": "Vs. tanky: Guinsoo's Rageblade 2do item para % HP on-hit build",
             "en": "vs tanky: Guinsoo's Rageblade 2nd item for % HP on-hit build"
           }
-        ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "Hypercarry de tercer item contra equipos muy tanky. Con Guinsoo's + Kraken, su % HP on-hit deshace a Ornn/Sion/Maokai independientemente de cuánto armor tengan. Extremadamente débil en early y contra poke. Solo viable cuando el equipo puede protegerla los primeros 20 minutos.",
-          "en": "Third-item hypercarry against very tanky teams. With Guinsoo's + Kraken, her % HP on-hit shreds Ornn/Sion/Maokai regardless of how much armor they stack. Extremely weak early and against poke. Only viable when the team can protect her the first 20 minutes."
-        }
+        ]
       },
       {
         "role": "top",
@@ -13248,12 +13243,7 @@
             "es": "Si tu equipo es full AP: considera Locket of Iron Solari para escudos",
             "en": "If team is full AP: consider Locket of Iron Solari for shields"
           }
-        ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "Support de poke AP con true damage que destruye tanks. Su true damage de pasivo ignora todo el armor y MR — Malphite y Ornn no tienen cura contra él en late. En línea tiene más daño que la mayoría de mages. Perfecto contra comps defensivas que confían en su resistencia.",
-          "en": "AP poke support with true damage that destroys tanks. His passive true damage ignores all armor and MR — Malphite and Ornn have no answer to him in late game. In lane he deals more damage than most mages. Perfect against defensive comps that rely on their resistances."
-        }
+        ]
       },
       {
         "role": "mid",
@@ -13774,12 +13764,7 @@
             "es": "Si snowball: rush Rabadon's antes del 4to item",
             "en": "If ahead: rush Rabadon's before 4th item"
           }
-        ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "AP sustain de escala infinita que nunca muere en línea. Su pool hace que todo el daño pase de largo. Con Riftmaker escala en mid/late a niveles absurdos mientras se cura a sí mismo y al equipo. Muy débil early — necesita sobrevivir los primeros 10 minutos.",
-          "en": "Infinite-scaling AP sustain that never dies in lane. His pool dodges all damage. With Riftmaker he scales to absurd levels in mid/late while healing himself and the team. Very weak early — needs to survive the first 10 minutes."
-        }
+        ]
       },
       {
         "role": "mid",
