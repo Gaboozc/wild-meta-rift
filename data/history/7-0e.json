@@ -1,0 +1,20 @@
+{
+  "version": "7.0e",
+  "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-0e/",
+  "title": "Wild Rift Patch Notes 7.0e",
+  "sections": [
+    "GAME MODE CHANGES&nbsp;",
+    "AAA ARAM",
+    "Augment Adjustments",
+    "Bug fixes",
+    "Related Articles"
+  ],
+  "paragraphs": [
+    "We’re making some adjustments to AAA ARAM, welcome to patch 7.0e!",
+    "Reminder: content will be released throughout the patch.",
+    "Attacks and abilities’ damage Multiplier: Your attacks and abilities deal bonus equal to 3% Bonus Health → 1.5% Bonus Health",
+    "Shockwave damage multiplier: 10% Bonus Health → 5% Bonus Health",
+    "Puppetry is currently experiencing issues beyond expectations that may cause crashes and has been temporarily removed.",
+    "Fixed an issue where Panacea could incorrectly trigger Circle of Death."
+  ]
+}

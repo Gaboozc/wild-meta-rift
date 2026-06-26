@@ -1,0 +1,35 @@
+{
+  "version": "7.0f",
+  "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-0f/",
+  "title": "Wild Rift Patch Notes 7.0f",
+  "sections": [
+    "GAMEPLAY CHANGES",
+    "ITEMS",
+    "Death's Dance",
+    "Related Articles"
+  ],
+  "paragraphs": [
+    "Welcome to Patch 7.0f! We’ve been keeping a close eye on our latest additions to the Rift and are making some adjustments to them and a few others.",
+    "Reminder: content will be released throughout the patch.",
+    "Smolder still reigns supreme, so we’re dousing the flames a bit. He’ll now have less early burn damage and some slightly toned down late-game heat.",
+    "Attack Damage per level: 4 → 3.5",
+    "Super Scorcher Breath Bonus Damage: 40% → 30%",
+    "Super Scorcher Breath",
+    "Base Damage: 55/90/125/160 → 45/80/115/150",
+    "Norra’s been popping off too many portals with her second Ability. We’re toning it down, there will now be longer gaps between casts, which will curb the poke and ease the late-game portal pressure.",
+    "Cooldown: 18/17/16/15s → 23/22/21/20s",
+    "Tristana rapid fire hits hard, but its long cooldown leaves her grounded. So, we’re speeding up the reload so that she can blast into fights more often.",
+    "Cooldown: 18/17/16/15s → 17/16/15/14s",
+    "Rell's engagements hit hard, but the long downtime leaves her stuck in the saddle. We’re loosening the reins, and Rell will now have shorter cooldowns so she can charge in and swap forms more often. This should help her keep the cavalry pressure rolling in longer fights.",
+    "Ferromancy: Crash Down/ Mount up",
+    "Jax excels at leaping into late-game fights, but he can’t hold the line for long. We’re strengthening his Grandmaster’s defense, this will give him more bonus resist scaling with AD so that offensive builds can still stand tall. This should help him stay in the fight and keep the lamp post swinging.",
+    "Bonus Attack Damage based on Armor gained by hitting a champion: 40% → 50%",
+    "Bonus Attack Damage based on Magic Resist gained by hitting a champion: 24% → 30%",
+    "Akali thrives in the shadows, but her Shroud hasn’t always been slipping away as cleanly as we’d like. We’re quickening her fade so that she can dart through stealth more smoothly. Additionally, we’ve added a new Shuriken Flip Shroud interaction, which will open the door for even slicker shadow plays.",
+    "Invisible deactivate timer: 0.8s → 0.67s",
+    "[Newly Added] First cast: You can now mark Twilight Shroud’s smoke cloud.",
+    "Death’s Dance has been providing excessive sustain and survivability for fighters, making it a near must pick item. We are reducing some of its survivability to make it easier for foes to deal effective damage to its users.",
+    "Part of Physical Damage received is dealt to you over 4s → 3s",
+    "Restore 10% → 8% of your max Health"
+  ]
+}

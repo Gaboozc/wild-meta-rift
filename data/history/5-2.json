@@ -1,0 +1,26 @@
+{
+  "version": "5.2",
+  "url": "https://www.riftpatchnotes.com/patch/wild-rift-patch-notes-5-2",
+  "title": "Wild Rift Patch Notes 5.2",
+  "source": "riftpatchnotes.com (official Riot URL removed)",
+  "date": "Jul 18, 2024",
+  "sections": ["New Champion", "Champion Buffs", "Champion Nerfs", "Champion Changes", "New Items", "Item Buffs", "Item Nerfs", "Removed Items", "Item Changes"],
+  "paragraphs": [
+    "New champion: Lissandra released July 18, 2024.",
+    "Darius BUFF: Decimate base damage 40/80/120/160->50/90/130/170, Noxian Guillotine 100/200/300->125/250/375.",
+    "Riven BUFF: Broken Wings cooldown 13s->12s, Blade of the Exile bonus AD 20%->25%.",
+    "Garen NERF: Base health 650->630, Perseverance adjusted, Decisive Strike cooldown/duration modified, Courage damage reduction 80%->70%.",
+    "Maokai NERF: Base health 660->630, magic resistance growth 2.5->2, Bramble Smash damage and health ratio reduced.",
+    "Kalista CHANGE: Improved Oathsworn channel indicator visibility, fixed bugs with Elder Immolation triggering and stealth interactions, enhanced Rend cooldown reset window and execute health indicator.",
+    "Lillia CHANGE: Bugfix for Dream-Laden Bough heal functionality.",
+    "Vi CHANGE: Denting Blows stack bugfix after Relentless Force.",
+    "New item: Eclipse — physical damage scaling (2900g) with shield generation.",
+    "New item: Psychic Projector — support/tank (3100g) converting bonus health to AP.",
+    "New item: Sundered Sky — AD/health hybrid (3000g) with critical strike passive.",
+    "Blade of the Ruined King BUFF: Physical vamp 10%->12%.",
+    "Mercury's Treads NERF: Magic resistance scaling reduced to 7-12% from flat 12%.",
+    "Plated Steelcaps NERF: Armor scaling reduced to 7-10% from flat 10%.",
+    "Removed: Warmog's Armor.",
+    "Changes to: Amaranth's Twinguard, Dawnshroud, Harmonic Echo, Horizon Focus, Infinity Edge, Infinity Orb, Rabadon's Deathcap, Riftmaker, Sterak's Gage, Youmuu's Ghostblade."
+  ]
+}

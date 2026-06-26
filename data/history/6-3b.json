@@ -1,0 +1,42 @@
+{
+  "version": "6.3b",
+  "url": "https://wildrift.leagueoflegends.com/es-mx/news/game-updates/wild-rift-patch-notes-6-3b/",
+  "title": "Notas de la versión 6.3b de Wild Rift",
+  "sections": [
+    "CAMBIOS A LOS MODOS DE JUEGO&nbsp;",
+    "ARAM AAA",
+    "Aumentos",
+    "Rompecaídas",
+    "Abismo Tóxico",
+    "Descarga Eléctrica",
+    "Golpe Resonante",
+    "Artes Sombrías",
+    "As Bajo la Mira",
+    "Corrección de errores",
+    "Arena&nbsp;",
+    "Yunque",
+    "Aumentos",
+    "Pacto de Sangre: Matanza",
+    "Contenido relacionado"
+  ],
+  "paragraphs": [
+    "¿Se divierten canalizando a su Faker interior? Hasta ahora, ¿qué jugadas icónicas pudieron emular en ARAM AAA con los nuevos Aumentos inspirados en jugadores profesionales? ¡Cuéntennos! Mientras tanto, les traemos algunos ajustes para ARAM AAA y una pequeña actualización para Arena.",
+    "Recordatorio: lanzaremos el contenido a lo largo de la versión.",
+    "Daño: 30% → 25% de la Vida Máxima",
+    "Aumento del daño prolongado con cada acumulación: 20% → 10%",
+    "Cada acumulación otorga un 3% → 8% de Aceleración de Habilidad y un 5% → 8% de Velocidad de Movimiento",
+    "Enfriamiento: 8 seg → 0.5 seg",
+    "Daño al estar marcado: 30% → 50%",
+    "Daño: De 50 a 150 × (1 + Cantidad de ataques × 20%) → De 50 a 150 × (1 + Cantidad de ataques × 40%)",
+    "Corregimos un error que hacía que algunos Aumentos se revirtieran de forma incorrecta",
+    "Corregimos un error que causaba que le faltara el nombre a la tarjeta de Aumento de Botiquín de Primeros Auxilios",
+    "Corregimos un error que provocaba que Botiquín de Primeros Auxilios no aumentara correctamente el valor de la curación al curar a varios objetivos a la vez",
+    "Corregimos algunos errores que afectaban el desempeño del Aumento La Cazadora Nocturna en circunstancias específicas",
+    "Corregimos los valores de daño de la runa Agarre del Perpetuo para que sean correctos",
+    "Corregimos una discrepancia entre la duración que aparece en la descripción de Despertar Mecha y el efecto del Aumento dentro del juego",
+    "Corregimos los Aumentos de Francotirador de Alta Precisión y volvimos a incorporarlos al juego",
+    "Optimizamos el consumo de maná y la compensación de regeneración de maná en Arena para quienes optan por un estilo de juego basado en acumular estadísticas de los yunques",
+    "Ahora, los campeones de daño de ataque también pueden obtener al azar estadísticas y objetos de poder de habilidad en Arena, lo que otorga una mayor libertad de personalización en torno a los yunques y las elecciones de armado",
+    "Eliminamos este Aumento de forma temporal"
+  ]
+}

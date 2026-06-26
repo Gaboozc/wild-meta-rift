@@ -1,0 +1,29 @@
+{
+  "version": "7.0",
+  "url": "https://www.riftpatchnotes.com/patch/wild-rift-patch-notes-7-0",
+  "title": "Wild Rift Patch Notes 7.0",
+  "source": "riftpatchnotes.com (official Riot URL removed)",
+  "date": "Jan 22, 2026",
+  "sections": ["New Champion", "Champion Buffs", "Champion Nerfs", "Champion Changes", "New Items", "Item Buffs", "Item Nerfs", "Removed Items", "Item Changes"],
+  "paragraphs": [
+    "New champion: Smolder released Jan 22, 2026. Stats reduced post-launch (armor growth 5->4.5, AD growth 5->4). Abilities weakened across the board.",
+    "Akali BUFF: Base energy regeneration 50->60.",
+    "Kennen BUFF: Base energy regeneration 50->60.",
+    "Lee Sin BUFF: Base energy regeneration 50->60.",
+    "Shen BUFF: Base energy regeneration 50->60.",
+    "Zed BUFF: Base energy regeneration 50->60.",
+    "Ezreal BUFF: Arcane Shift cooldown reduced, mana cost lowered.",
+    "Kayle NERF: On-hit damage and health scaling reduced.",
+    "Master Yi NERF: True damage bonus decreased significantly.",
+    "Vayne NERF: Ultimate cooldown extended.",
+    "Morgana CHANGE: Soul Shackles reworked with AP scaling instead of health scaling.",
+    "Renekton CHANGE: Fury generation mechanics overhauled, cooldowns adjusted.",
+    "Teemo CHANGE: New voice-over added.",
+    "New item: Guinsoo's Rageblade — attack speed with adaptive damage.",
+    "New item: Hollow Radiance — tank item with immolate effect.",
+    "Psychic Projector BUFF. Riftmaker BUFF. Serylda's Grudge BUFF. Spectral Sickle BUFF.",
+    "Harmonic Echo NERF: AP reduced. Phantom Dancer NERF: Cost increased.",
+    "Removed: Ancient Coin, Crystalline Reflector, Spirit Visage, Talisman of Ascension.",
+    "Changes to 19 items: significant reworks to mage, AD, tank, and support items."
+  ]
+}

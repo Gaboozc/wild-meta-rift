@@ -1,0 +1,38 @@
+{
+  "version": "6.2k",
+  "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-6-2k/",
+  "title": "Wild Rift Patch Notes 6.2k",
+  "sections": [
+    "CHAMPION CHANGES",
+    "GAMEPLAY CHANGES",
+    "ITEMS",
+    "Nashor’s Tooth",
+    "Yordle Infinity Orb",
+    "Yordle Serylda's Grudge",
+    "BUG FIXES",
+    "Related Articles"
+  ],
+  "paragraphs": [
+    "Welcome to patch 6.2k! We’ve been keeping an eye on how the meta has been shaping up and we have a few adjustments to some outlier champions who have been dominating the Rift.",
+    "Reminder: content will be released throughout the patch.",
+    "This patch, Talon is swooping in with his claws even sharper than before as we’re giving his ultimate a little extra damage to help him be more of an assassin. We’ve also noticed that Olaf has been a little too hard to deal with in lane, so we’re adjusting some of his damage scaling, so he’s more in-line as a late-game champion. We’re also de-bugging the bug, Kha’Zix. We’ve nerfed his damage and increased his cooldowns, so that he stops evolving into such a menace on the Rift. Aurora’s early-game has been a little too strong, so we’re reducing some of her damage so that she doesn’t steamroll her foes in lane as much. And lastly, we’re slicing down some of Yone’s jungle prowess and tankiness.",
+    "Base Health: 630 → 660",
+    "Soul Fragments stack Healing value: (2/2.5/3/3.5 (Level 1/5/9/13) + 0.5% Ability Power) % Maximum Health → (3/3.5/4/4.5 (Level 1/5/9/13) + 0.5% Ability Power) % Maximum Health",
+    "Cooldown: 70/60/50s → 65/55/45s",
+    "Damage: 90/130/170 + 100% Bonus Attack Damage → 90/135/180 + 110% Bonus Attack Damage",
+    "Damage: 50/120/190/260 + 100% Bonus Attack Damage → 50/115/180/245 + 120% Bonus Attack Damage",
+    "Damage: 55/115/175/235 + 50% Attack Damage → 45/95/145/195 + 55% Attack Damage",
+    "Cooldown: 4.5/4/3.5/3s → 5/4.5/4/3.5s",
+    "Base Damage: 80/120/160/200 → 70/110/150/190",
+    "Cooldown: 70/60/50s → 75/65/55s",
+    "Base Damage: 45/75/105/135 →  40/70/100/130",
+    "Base Damage: 80/130/180/230 → 75/125/175/225",
+    "Damage to Jungle Camp: 70% → 65%",
+    "Shield Value: 50 + 85%Bonus Attack Damage → 30 + 70%Bonus Attack Damage",
+    "Nashor’s Tooth has been granting too much combat power early in the game. So, we’re reducing its cost-effectiveness accordingly.",
+    "Gain 30 Attack Damage or 60 Ability Power(Adaptive) → Gain 25 Attack Damage or 50 Ability Power(Adaptive).",
+    "Yordle Infinity Orb has been overperforming in teamfights, often triggering repeatedly to deal excessive AoE damage and cause chain reactions. We’ve reduced its ability damage.",
+    "Damage: 50 ~ 85 + 20% Ability Power → 50 ~ 75 + 10% Ability Power",
+    "We’ve reduced the ability damage of Yordle Serylda’s Grudge, bringing its cost-effectiveness more in line with other armor penetration items."
+  ]
+}

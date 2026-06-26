@@ -1,0 +1,22 @@
+{
+  "version": "5.3b",
+  "url": "https://www.riftpatchnotes.com/patch/wild-rift-patch-notes-5-3b",
+  "title": "Wild Rift Patch Notes 5.3b",
+  "source": "riftpatchnotes.com (official Riot URL removed)",
+  "date": "Nov 13, 2024",
+  "sections": ["Champion Buffs", "Champion Nerfs", "Champion Changes"],
+  "paragraphs": [
+    "Ekko BUFF: Timewinder cooldown 9s->8s rank 1, outbound damage 85->90 base, rebound damage boosted, monster damage 115%.",
+    "Lucian BUFF: Base AD reduced to 58 but armor/MR growth improved. New Vigilance innate grants empowered shots when healed/shielded or enemies immobilized.",
+    "Nautilus BUFF: Base AD 62. Dredge Line damage 60->70 base. Titan's Wrath shield and health scaling enhanced.",
+    "Shyvana BUFF: Base health 630, armor growth 5. Large monster stacks 10, Dragon's Descent bonus health 230->300 rank 1.",
+    "Warwick BUFF: Mana 340 with better regen. Eternal Hunger higher scaling. Blood Hunt cooldown reduced, global vision expanded. Primal Howl recastable. Infinite Duress suppression 1.5s->1s.",
+    "Ambessa NERF: HP per level 120->112, armor per level 5->4.5. Drakehound's Step bonus damage restructured. Cunning Sweep cooldown increased. Repudiation cooldown and shield adjusted.",
+    "Heimerdinger NERF: Turret AP ratio 35%->25%, beam damage decreased, grenade radius reduced.",
+    "Janna NERF: Howling Gale recharge 12s->14s, base damage reduced. Eye of the Storm cooldown increased early ranks.",
+    "Milio NERF: Base health 540, armor 30. Fired Up AD ratio decreased. Cozy Campfire cooldown increased, range bonus reduced. Warm Hugs movement speed lowered.",
+    "Samira NERF/ADJUST: AD ratio per 0.2s reduced from 50% to 60% but total 600% AD overall.",
+    "Blitzcrank CHANGE: Rocket Grab damage 100->110 base, Static Field detonation boosted. Overdrive slow duration reduced.",
+    "Rengar CHANGE: AD growth 3.5. Savagery base damage reduced but empowered scaling adjusted. Bola Strike ratios modified. Thrill of the Hunt cooldown increased."
+  ]
+}

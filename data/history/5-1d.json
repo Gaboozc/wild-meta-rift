@@ -1,0 +1,24 @@
+{
+  "version": "5.1d",
+  "url": "https://www.riftpatchnotes.com/patch/wild-rift-patch-notes-5-1d",
+  "title": "Wild Rift Patch Notes 5.1d",
+  "source": "riftpatchnotes.com (official Riot URL removed)",
+  "date": "Jun 26, 2024",
+  "sections": ["Champion Buffs", "Champion Nerfs", "Champion Adjustment", "Item Nerf"],
+  "paragraphs": [
+    "Fiora BUFF: Health scaling 3.5%->4% max HP, improved bonus AD ratios on Duelist's Dance and Lunge, reduced mana costs on Bladework.",
+    "Graves BUFF: End of the Line cooldown 13/11/9/7->11.5/10/8.5/7s, monster damage 90%->105%, higher shell damage scaling.",
+    "Nasus BUFF: More mana regeneration, Siphoning Strike stacks 4->5 per kill, 8->10 per large kill.",
+    "Varus BUFF: Piercing Arrow damage ratios 115%->125% AD, 172.5%->187.5% maximum AD.",
+    "Warwick BUFF: Base armor increases, improved Jaws of the Beast scaling.",
+    "Brand NERF: Pillar of Flame base damage reduced, Conflagration AP ratio 50%->45%.",
+    "Jayce NERF: Shock Blast base damage lowered across all levels.",
+    "Kai'Sa NERF: Supercharge movement speed 60/65/70/75%->50/55/60/65%, attack speed bonus reduced, movement amplification lowered.",
+    "Maokai NERF: Base stats and all ability damages decreased, Twisted Advance cooldown increased.",
+    "Thresh NERF: Base attack damage 58->54, minion soul drop rates reduced.",
+    "Tryndamere NERF: Battle Fury attack speed and Bloodlust bonus AD scaling cut.",
+    "Twisted Fate NERF: Card AP ratios lowered, Stacked Deck damage and attack speed bonuses reduced.",
+    "Katarina ADJUST: Voracity base damage reduced, Shunpo damage and AP ratio increased.",
+    "Terminus NERF: Cost 3200->3400 gold, combine cost 300->500 gold."
+  ]
+}

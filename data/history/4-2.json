@@ -1,0 +1,139 @@
+{
+  "patch": "4.2",
+  "date": "Mayo 2023",
+  "changes": [
+    {
+      "type": "new",
+      "target": "Swain",
+      "targetType": "champion",
+      "summary": { "es": "Swain, el Gran General Noxiano, llega al juego", "en": "Swain, The Noxian Grand General, added to the game" },
+      "detail": { "es": "Nuevo campeón disponible desde el 26 de mayo.", "en": "New champion available May 26." }
+    },
+    {
+      "type": "adjust",
+      "target": "Olaf",
+      "targetType": "champion",
+      "summary": { "es": "Rework de Olaf: nueva mecánica de rabia berserker y escudo", "en": "Olaf rework: new berserker rage mechanic and shield" },
+      "detail": { "es": "Velocidad de ataque base: 20%→10%. Berserker Rage: concede 0.6-1% AS por 1% de vida perdida + 10-25% vamp físico. Vicious Strikes CD: 16s→15/14/13/12s; AS bonus 50/65/85/90%→35/50/65/80%; duración 6s→4s; elimina vamp físico; añade escudo 30/60/90/120+17.5% vida perdida (2.5s). Reckless Swing daño a monstruos: 50%→80%. Ragnarok pasiva resistencias: 20/30/40→10/20/30; activa boost ataque: 30/40/50+30%AD→10/20/30+25%AD; duración 6s→3s; puede extenderse 2.5s.", "en": "Base attack speed: 20%→10%. Berserker Rage: grants 0.6-1% AS per 1% missing health + 10-25% physical vamp. Vicious Strikes CD: 16s→15/14/13/12s; bonus AS 50/65/85/90%→35/50/65/80%; duration 6s→4s; removes physical vamp; adds shield 30/60/90/120+17.5% lost health (2.5s). Reckless Swing monster damage: 50%→80%. Ragnarok passive resistances: 20/30/40→10/20/30; active attack boost: 30/40/50+30%AD→10/20/30+25%AD; duration 6s→3s; can extend 2.5s." }
+    },
+    {
+      "type": "adjust",
+      "target": "Renekton",
+      "targetType": "champion",
+      "summary": { "es": "Ruthless Predator limpia escudos bajo efecto de Furia Roja", "en": "Ruthless Predator clears shields under Red Fury" },
+      "detail": { "es": "Bajo el efecto de Red Fury, Ruthless Predator ahora elimina todos los escudos del objetivo.", "en": "Under Red Fury, Ruthless Predator now clears all shields on target." }
+    },
+    {
+      "type": "item-buff",
+      "target": "Botas (todas)",
+      "targetType": "item",
+      "summary": { "es": "Todas las botas ganan +5 de velocidad de movimiento; sprint activo eliminado", "en": "All boots gain +5 movement speed; active sprint removed" },
+      "detail": { "es": "Velocidad de movimiento aumentada en 5 para todas las botas. El activo Sprint eliminado de botas primarias y avanzadas.", "en": "Movement speed increased by 5 for all boots. Sprint active removed from primary and advanced boots." }
+    },
+    {
+      "type": "item-buff",
+      "target": "Immortal Shieldbow",
+      "targetType": "item",
+      "summary": { "es": "Nuevo ítem: Immortal Shieldbow", "en": "New item: Immortal Shieldbow" },
+      "detail": { "es": "Coste 3200g. Stats: 40 AD, 25% crit, 15% AS, 5 vamp físico. Lifeline: escudo 200+50 por 10% crit (<35% vida, 90s CD). Battle Furor: 10% vamp físico 8s tras Lifeline.", "en": "Cost 3200g. Stats: 40 AD, 25% crit, 15% AS, 5 physical vamp. Lifeline: shield 200+50 per 10% crit (at <35% health, 90s CD). Battle Furor: 10% physical vamp for 8s after Lifeline." }
+    },
+    {
+      "type": "item-buff",
+      "target": "Essence Reaver",
+      "targetType": "item",
+      "summary": { "es": "Nuevo ítem: Essence Reaver", "en": "New item: Essence Reaver" },
+      "detail": { "es": "Coste 3050g. Stats: 40 AD, 25% crit, 20 AH. Essence Flare: empodera siguiente habilidad/ataque hasta 30% basado en crit; 1s CD reducido por ataques básicos (6s CD). Mana Siphon: ataques básicos restauran 3% maná perdido.", "en": "Cost 3050g. Stats: 40 AD, 25% crit, 20 AH. Essence Flare: empowers next ability/attack up to 30% based on crit; 1s cooldown reduction on basic attack hits (6s cooldown). Mana Siphon: basic attacks restore 3% missing mana." }
+    },
+    {
+      "type": "item-buff",
+      "target": "Nashor's Tooth",
+      "targetType": "item",
+      "summary": { "es": "Nuevo ítem: Nashor's Tooth", "en": "New item: Nashor's Tooth" },
+      "detail": { "es": "Coste 3000g. Stats: 45% AS, 20 AH, 30 AD o 60 AP (adaptativo). Gnaw: ataques básicos infligen 15+25% AP bono+25% daño mágico a campeones.", "en": "Cost 3000g. Stats: 45% AS, 20 AH, 30 AD or 60 AP (adaptive). Gnaw: basic attacks deal 15+25% bonus AP+25% bonus magic damage on champion hits." }
+    },
+    {
+      "type": "item-buff",
+      "target": "The Collector",
+      "targetType": "item",
+      "summary": { "es": "Nuevo ítem: The Collector", "en": "New item: The Collector" },
+      "detail": { "es": "Coste 2900g. Stats: 40 AD, 25% crit. Killer: +10 penetración de armadura. Death and Taxes: ejecuta enemigos <5% vida; +25 oro en kills.", "en": "Cost 2900g. Stats: 40 AD, 25% crit. Killer: +10 armor penetration. Death and Taxes: executes enemies below 5% health; +25 bonus gold on champion kills." }
+    },
+    {
+      "type": "item-buff",
+      "target": "Phantom Dancer",
+      "targetType": "item",
+      "summary": { "es": "Nuevo ítem: Phantom Dancer", "en": "New item: Phantom Dancer" },
+      "detail": { "es": "Coste 2900g. Stats: 25 AD, 25% crit, 30% AS. Shadowwalk: +5% MS. Spectral Waltz: +7% MS tras ataque básico (3s); tras 4 ataques, +30% AS (3s).", "en": "Cost 2900g. Stats: 25 AD, 25% crit, 30% AS. Shadowwalk: +5% movement speed. Spectral Waltz: +7% MS after basic attack (3s); after 4 attacks, +30% AS (3s)." }
+    },
+    {
+      "type": "item-buff",
+      "target": "Noonquiver",
+      "targetType": "item",
+      "summary": { "es": "Nuevo ítem componente: Noonquiver", "en": "New component item: Noonquiver" },
+      "detail": { "es": "Coste 1200g. Stats: 25 AD, 10% AS. Ítem puente para tiradores.", "en": "Cost 1200g. Stats: 25 AD, 10% AS. Bridge item for marksmen." }
+    },
+    {
+      "type": "item-adjust",
+      "target": "Infinity Edge",
+      "targetType": "item",
+      "summary": { "es": "Daño crítico de Infinity Edge ajustado", "en": "Infinity Edge critical damage adjusted" },
+      "detail": { "es": "Daño crítico ajustado de 200-230% a 175-205% debido a cambios globales en el sistema de crítico.", "en": "Critical damage adjusted from 200-230% to 175-205% due to global crit system changes." }
+    },
+    {
+      "type": "rune-buff",
+      "target": "Transcendence",
+      "targetType": "rune",
+      "summary": { "es": "Nueva runa: Transcendence (reemplaza Hunter - Genius)", "en": "New rune: Transcendence (replaces Hunter - Genius)" },
+      "detail": { "es": "Rango 1: 6 haste de habilidad. Rango 6: +6 haste adicional. Rango 11: tras golpear con habilidad activa, reduce CD en 15% (8s CD).", "en": "Rank 1: 6 skill haste. Rank 6: additional 6 skill haste. Rank 11: after active skill hits, reduces cooldown by 15% (8s cooldown)." }
+    },
+    {
+      "type": "rune-buff",
+      "target": "Perseverance",
+      "targetType": "rune",
+      "summary": { "es": "Nueva runa: Perseverance (reemplaza Hunter - Titan)", "en": "New rune: Perseverance (replaces Hunter - Titan)" },
+      "detail": { "es": "10% tenacidad. 16-30 armadura/resistencia mágica durante 1.5s al ser inmovilizado (se refresca).", "en": "10% tenacity. 16-30 armor/magic resist for 1.5s when immobilized (refreshes)." }
+    },
+    {
+      "type": "system",
+      "target": "Baron Nashor",
+      "targetType": "system",
+      "summary": { "es": "Baron Nashor ajustado: menos vida, spawn más temprano", "en": "Baron Nashor adjusted: less health, earlier spawn" },
+      "detail": { "es": "Vida base: 11800→9000. Vida por nivel: 400→480. AD base: 250→200. AD por nivel: 20→22. Spawn: 13m→12m. Duración Hand of Baron: 120s→100s.", "en": "Base health: 11800→9000. HP per level: 400→480. Base AD: 250→200. AD per level: 20→22. Spawn time: 13m→12m. Hand of Baron duration: 120s→100s." }
+    },
+    {
+      "type": "system",
+      "target": "Dragones Elementales",
+      "targetType": "system",
+      "summary": { "es": "Dragones elementales: reaparición más rápida, menos vida", "en": "Elemental dragons: faster respawn, less health" },
+      "detail": { "es": "Intervalo de reaparición: 5m→4m 30s. Vida base: 5000→4000. Vida por nivel: 150→180. Recompensa: 60 oro equipo+40 kill→40 equipo+40 kill.", "en": "Respawn interval: 5m→4m 30s. Base health: 5000→4000. HP per level: 150→180. Defeat reward: 60 team+40 kill gold→40 team+40 kill gold." }
+    },
+    {
+      "type": "system",
+      "target": "Ice Dragon",
+      "targetType": "system",
+      "summary": { "es": "Nuevo dragón: Ice Dragon con haste de habilidades", "en": "New dragon: Ice Dragon with ability haste" },
+      "detail": { "es": "Nuevo dragón elemental de hielo. Al morir otorga haste de habilidades. Transforma el mapa con Icy Paths. Cryoblossom: nuevo elemento que congela enemigos (2.5s, intocables).", "en": "New ice elemental dragon. On kill grants ability haste. Transforms rift with Icy Paths. Cryoblossom: new map element applying stasis to enemies (2.5s, untargetable)." }
+    },
+    {
+      "type": "system",
+      "target": "Nexus Shield",
+      "targetType": "system",
+      "summary": { "es": "Nuevo: Escudo del Nexo activado antes de los 18 minutos", "en": "New: Nexus Shield activated before 18 minutes" },
+      "detail": { "es": "Se activa tras destruir la primera torreta inhibidora antes de los 18 minutos. Duración: 20s. Escudo: 100% de vida del Nexo.", "en": "Activates after first inhibitor turret destroyed before 18 minutes. Duration: 20s. Shield: 100% Nexus health." }
+    },
+    {
+      "type": "system",
+      "target": "Primer Asesinato",
+      "targetType": "system",
+      "summary": { "es": "First Blood aumentado a 150 oro", "en": "First Blood increased to 150 gold" },
+      "detail": { "es": "Recompensa First Blood: 100g→150g. Primera muerte: 350g→300g máximo.", "en": "First Blood reward: 100g→150g. First death: max 350g→300g." }
+    },
+    {
+      "type": "system",
+      "target": "Minions",
+      "targetType": "system",
+      "summary": { "es": "Minions a distancia: rango de ataque aumentado, agro reducido", "en": "Ranged minions: attack range increased, aggro time reduced" },
+      "detail": { "es": "Rango de ataque minion a distancia: 375→525. Rango cañón: 525→300. Tiempo de agro: 2s→1s.", "en": "Ranged minion attack range: 375→525. Cannon attack range: 525→300. Aggro time: 2s→1s." }
+    }
+  ]
+}
