@@ -3279,7 +3279,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Ranged en mini Gnar con poke seguro, melee tanque en mega Gnar con CC masivo. Transición única que domina splits y teamfights.",
           "en": "Ranged in mini Gnar with safe poke, melee tank in mega Gnar with massive CC. Unique transition that dominates splits and teamfights."
@@ -7905,7 +7905,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Hook de largo alcance + CC en cadena. Garantiza kills desde nivel 2. El engage support más confiable.",
           "en": "Long-range hook + chain CC. Guarantees kills from level 2. The most reliable engage support."
@@ -7986,7 +7986,7 @@
       },
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Viable en jungle con claro decente y ganks brutales, pero los junglers del meta tienen más presencia e impacto.",
           "en": "Viable in jungle with decent clear and brutal ganks, but meta junglers have more presence and impact."
@@ -8430,7 +8430,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "CC útil pero sin presión de lanes real. El meta de dive no necesita un jungler pasivo de objetivo. Muy predecible.",
           "en": "Useful CC but no real lane pressure. The dive meta doesn't need a passive objective jungler. Very predictable."
@@ -11114,7 +11114,7 @@
       },
       {
         "role": "top",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "NUEVO en 7.1g. Viable en Baron lane como tanque de engage: trades con Q cargado, escudo en W y el flanqueo con ult amenaza el backline en cada teamfight.",
           "en": "NEW in 7.1g. Viable in Baron lane as engage tank: charged Q trades, W shield and ult flanks threaten the backline every teamfight."
@@ -11287,7 +11287,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Enchanters nerfed. Sin CC instantáneo propia la hace vulnerable. Crescendo sigue siendo poderoso pero ella es frágil.",
           "en": "Enchanters nerfed. No own instant CC makes her vulnerable. Crescendo is still powerful but she's fragile."
@@ -11722,7 +11722,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Nueva en 7.1e. Maga de jungla con claro ultra-rápido, engage global con W y burst alto. Domina early game y controla el mapa desde jungla.",
           "en": "New in 7.1e. Jungle mage with ultra-fast clear, global engage with W and high burst. Dominates early game and controls the map from jungle."
@@ -11798,7 +11798,7 @@
       },
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "Waveclear excepcional, roam global y burst sorpresivo. Domina en mid con Q y puede aparecer en cualquier parte del mapa.",
           "en": "Exceptional waveclear, global roam and surprising burst. Dominates mid with Q and can appear anywhere on the map."
@@ -12134,7 +12134,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "ss",
         "why": {
           "es": "Versátil: hookea, protege con lantern y separa con ult. Sin nerfs recientes. El support más universal.",
           "en": "Versatile: hooks, protects with lantern and separates with ult. No recent nerfs. The most universal support."

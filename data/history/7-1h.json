@@ -1,0 +1,20 @@
+{
+  "version": "7.1h",
+  "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-1h/",
+  "title": "Wild Rift Patch Notes 7.1h",
+  "date": "Jun 26, 2026",
+  "sections": ["Champion Buffs", "Champion Nerfs", "Item Changes", "System Changes", "Bug Fixes"],
+  "paragraphs": [
+    "THRESH BUFF: Passive soul spawn range 12→15. Q cooldown 17/15/13/11→18/15/12/9s; Q damage 80/130/180/230 +50%AP → 100/160/220/280 +80%AP. W cooldown 22/20/18/16→21/19/17/15s; W shield 65/115/165/215→50/90/130/170. E bonus damage ratio 80/100/120/140% → 80/120/160/200%; E damage 65/105/145/185 +40%AP → 75/115/155/195 +60%AP.",
+    "SERAPHINE BUFF: W healing ratio 5%→6%. R charm duration 1/1.25/1.5s → 1.25/1.5/1.75s.",
+    "SKARNER BUFF: Base AD per level 3.5→4. Base HP per level 120→128. Base HP regen 6→9. Passive max HP% damage 9%→10%; slow 40%→45%. W slow 20%→25%.",
+    "GNAR BUFF: Passive HP gain 100-850→100-900; Armor 4-55→5-60; MR 4-65→5-70. W max HP damage 6/8/10/12%→7/9/11/13%.",
+    "SONA BUFF: W healing 25/40/55/70→45/60/75/90. E self movement speed 10/11/12/13%→15/16/17/18%.",
+    "NUNU & WILLUMP NERF: Q damage ratio 6%→5%; Q HP regen ratio 12%→10%. E snowballs 10/14/18/22→8/12/16/20.",
+    "NAUTILUS NERF: W monster damage 200%→125%; W shield ratio 13/14/15/16%→9/10/11/12%. E monster damage 175%→125%.",
+    "TALIYAH NERF: Base movement speed 355→350. Passive movement speed 10/15/25/40%→5/10/20/35%. Q cooldown reduction 50%→30%.",
+    "CHEMTECH CHAINSWORD BUFF: Base Health 250→400.",
+    "ARAM: Standard surrender vote initiation 9min→7min. Vote passage changed to 70% approval threshold.",
+    "BUG FIX: Fixed Quicksilver Enchant interaction with Thresh Q and Nami Q CC effects."
+  ]
+}

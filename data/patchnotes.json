@@ -1,5 +1,101 @@
 [
   {
+    "patch": "7.1h",
+    "date": "Junio 2026",
+    "changes": [
+      {
+        "type": "buff",
+        "target": "Thresh",
+        "targetType": "champion",
+        "summary": { "es": "Q daño casi duplicado, E ratio duplicado, W CD reducido", "en": "Q damage nearly doubled, E ratio doubled, W CD reduced" },
+        "detail": {
+          "es": "Buffs masivos a Thresh: Q daño 80/130/180/230 +50%AP → 100/160/220/280 +80%AP y CD mejorado. E ratio 80-140% → 80-200%. W CD reducido 1s. Pasivo aumenta rango de almas. La cadena ahora amenaza como AP real.",
+          "en": "Massive Thresh buffs: Q damage 80/130/180/230 +50%AP → 100/160/220/280 +80%AP with improved CD. E ratio 80-140% → 80-200%. W CD reduced 1s. Passive increases soul spawn range. The Chain Warden now threatens as real AP."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Skarner",
+        "targetType": "champion",
+        "summary": { "es": "Stats base mejorados, pasivo más daño y más slow", "en": "Base stats improved, passive more damage and more slow" },
+        "detail": {
+          "es": "AD por nivel 3.5→4, HP por nivel 120→128, HP regen 6→9. Pasivo % HP 9%→10% y slow 40%→45%. W slow 20%→25%. El tanque primordial escala aún más fuerte.",
+          "en": "AD per level 3.5→4, HP per level 120→128, HP regen 6→9. Passive % HP 9%→10% and slow 40%→45%. W slow 20%→25%. The primordial tank scales even stronger."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Gnar",
+        "targetType": "champion",
+        "summary": { "es": "Más stats base en Mega Gnar y más daño % HP en W", "en": "More base stats in Mega Gnar and more % HP damage on W" },
+        "detail": {
+          "es": "Pasivo HP 100-850→100-900, Armor 4-55→5-60, MR 4-65→5-70. W daño % HP 6/8/10/12%→7/9/11/13%. Mega Gnar ahora es una amenaza más seria en teamfight.",
+          "en": "Passive HP 100-850→100-900, Armor 4-55→5-60, MR 4-65→5-70. W % HP damage 6/8/10/12%→7/9/11/13%. Mega Gnar is now a more serious teamfight threat."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Sona",
+        "targetType": "champion",
+        "summary": { "es": "Curación W casi duplicada en rango 1, E velocidad de movimiento +50%", "en": "W healing nearly doubled at rank 1, E movement speed +50%" },
+        "detail": {
+          "es": "W curación 25/40/55/70→45/60/75/90 (enorme en early laning). E velocidad propia 10/11/12/13%→15/16/17/18%. Sona ahora es una encantadora de sustain/poke mucho más relevante.",
+          "en": "W healing 25/40/55/70→45/60/75/90 (huge in early laning). E self movement speed 10/11/12/13%→15/16/17/18%. Sona is now a much more relevant sustain/poke enchanter."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Seraphine",
+        "targetType": "champion",
+        "summary": { "es": "W más curación, R más duración de encanto", "en": "W more healing, R longer charm duration" },
+        "detail": {
+          "es": "W healing ratio 5%→6%. R duración de encanto 1/1.25/1.5s→1.25/1.5/1.75s. Pequeños buffs que mejoran su presencia en laning y teamfight.",
+          "en": "W healing ratio 5%→6%. R charm duration 1/1.25/1.5s→1.25/1.5/1.75s. Small buffs that improve her laning presence and teamfight."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Nunu & Willump",
+        "targetType": "champion",
+        "summary": { "es": "Consume menos daño y curación, E menos bolas de nieve", "en": "Consume less damage and healing, E fewer snowballs" },
+        "detail": {
+          "es": "Q daño ratio 6%→5%, Q HP regen ratio 12%→10%. E bolas de nieve 10/14/18/22→8/12/16/20. El yeti pierde sustain y daño en clear de jungla y teamfight.",
+          "en": "Q damage ratio 6%→5%, Q HP regen ratio 12%→10%. E snowballs 10/14/18/22→8/12/16/20. The yeti loses sustain and damage in jungle clear and teamfight."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Nautilus",
+        "targetType": "champion",
+        "summary": { "es": "Escudo W significativamente reducido, menos daño a monstruos", "en": "W shield significantly reduced, less monster damage" },
+        "detail": {
+          "es": "W escudo ratio 13/14/15/16%→9/10/11/12% (nerf masivo de sustain). W daño a monstruos 200%→125%. E daño a monstruos 175%→125%. Más difícil de farmear jungla y menos resistente en pelea.",
+          "en": "W shield ratio 13/14/15/16%→9/10/11/12% (massive sustain nerf). W monster damage 200%→125%. E monster damage 175%→125%. Harder to farm jungle and less durable in fights."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Taliyah",
+        "targetType": "champion",
+        "summary": { "es": "Velocidad base reducida, pasiva nerfada, Q pierde reducción de CD", "en": "Base speed reduced, passive nerfed, Q loses CD reduction" },
+        "detail": {
+          "es": "Velocidad base 355→350. Pasiva velocidad 10/15/25/40%→5/10/20/35%. Q reducción de CD 50%→30%. Taliyah era demasiado dominante en rotaciones gracias a su velocidad — ahora es más controlada.",
+          "en": "Base movement speed 355→350. Passive movement speed 10/15/25/40%→5/10/20/35%. Q CD reduction 50%→30%. Taliyah was too dominant in rotations thanks to her speed — now more controlled."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Chemtech Chainsword",
+        "targetType": "item",
+        "summary": { "es": "HP base 250→400", "en": "Base HP 250→400" },
+        "detail": {
+          "es": "Chemtech Chainsword gana 150 HP adicionales. Ítem de anti-heal físico más atractivo para bruisers y ADC que necesitan cortar curación.",
+          "en": "Chemtech Chainsword gains 150 additional HP. Physical anti-heal item now more attractive for bruisers and ADCs that need to cut healing."
+        }
+      }
+    ]
+  },
+  {
     "patch": "7.1g",
     "date": "Junio 2026",
     "changes": [
