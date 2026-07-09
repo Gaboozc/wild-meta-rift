@@ -11,15 +11,27 @@ function champImg(name) {
   const dd = CHAMP_DD[name] ||
     name.replace(/ & .+/,"").replace(/'/g,"").replace(/\./g,"")
         .split(" ").map(w=>w[0].toUpperCase()+w.slice(1)).join("");
-  return `https://ddragon.leagueoflegends.com/cdn/16.11.1/img/champion/${dd}.png`;
+  return `https://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/${dd}.png`;
 }
 
+const _D = "https://ddragon.leagueoflegends.com/cdn/16.13.1/img/item/";
+const _C = "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/";
 const ITEM_IMG = {
-  "Kraken Slayer":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/6695.png",
-  "Randuin's Omen":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/3143.png",
-  "Sundered Sky":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/6694.png",
-  "Infinity Edge":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/3031.png",
-  "Black Cleaver":"https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/3071.png",
+  "Kraken Slayer":             _D + "6695.png",
+  "Randuin's Omen":            _D + "3143.png",
+  "Sundered Sky":              _D + "6694.png",
+  "Infinity Edge":             _D + "3031.png",
+  "Black Cleaver":             _D + "3071.png",
+  "Rabadon's Deathcap":        _D + "3089.png",
+  "Chemtech Chainsword":       _D + "6609.png",
+  "Dusk and Dawn":             _D + "2510.png",
+  "Spellslinger's Shoes":      _C + "boots_tier3_sorceror_64.png",
+  "Chainlaced Crushers":       _C + "boots_tier3_mercury_64.png",
+  "Gunmetal Greaves":          _C + "boots_tier3_berserkersgreaves_64.png",
+  "Armored Advance":           _C + "boots_tier3_platedsteelcaps_64.png",
+  "Immortal Treads":           _C + "boots_tier3_syncronisedsouls_64.png",
+  "Armorcrusher Boots":        _C + "boots_tier3_swiftness_64.png",
+  "Crimson Lucidity":          _C + "boots_tier3_ionianboots_64.png",
 };
 
 const OTHER_IMG = {

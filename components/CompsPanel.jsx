@@ -12,7 +12,7 @@ function champImg(name) {
   const dd = CHAMP_DD[name] ||
     name.replace(/ & .+/,"").replace(/'/g,"").replace(/\./g,"")
         .split(" ").map(w=>w[0].toUpperCase()+w.slice(1)).join("");
-  return `https://ddragon.leagueoflegends.com/cdn/16.11.1/img/champion/${dd}.png`;
+  return `https://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/${dd}.png`;
 }
 
 const ALL_TAGS = ["teamfight","AOE","engage","dive","pick","poke","siege","protect",

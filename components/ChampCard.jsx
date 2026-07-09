@@ -125,7 +125,7 @@ const RUNE_ES = {
 };
 
 // ─── Imágenes de items (Data Dragon + Community Dragon para exclusivos WR) ────
-const _D = "https://ddragon.leagueoflegends.com/cdn/16.11.1/img/item/";
+const _D = "https://ddragon.leagueoflegends.com/cdn/16.13.1/img/item/";
 const _C = "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/";
 const ITEM_IMG = {
   "Plated Steelcaps":          _D + "3047.png",
@@ -186,6 +186,16 @@ const ITEM_IMG = {
   "Guardian Angel":            _C + "3026_tank_t4_guardianangel.png",
   "Overlord's Bloodmail":      _C + "7111_overlordsbloodmail.png",
   "Terminus":                  _C + "7014_terminus.png",
+  // ── Patch 7.2 ────────────────────────────────────────────────────────────
+  "Stormrazor":                _D + "3095.png",
+  "Dusk and Dawn":             _D + "2510.png",
+  "Spellslinger's Shoes":      _C + "boots_tier3_sorceror_64.png",
+  "Chainlaced Crushers":       _C + "boots_tier3_mercury_64.png",
+  "Gunmetal Greaves":          _C + "boots_tier3_berserkersgreaves_64.png",
+  "Armored Advance":           _C + "boots_tier3_platedsteelcaps_64.png",
+  "Immortal Treads":           _C + "boots_tier3_syncronisedsouls_64.png",
+  "Armorcrusher Boots":        _C + "boots_tier3_swiftness_64.png",
+  "Crimson Lucidity":          _C + "boots_tier3_ionianboots_64.png",
 };
 
 // ─── Imágenes de runas (Community Dragon) ────────────────────────────────────
@@ -238,7 +248,7 @@ const RUNE_IMG = {
   "Unflinching":          _R + "resolve/unflinching/unflinching.png",
 };
 
-// ─── Imágenes de campeones (Data Dragon 16.11.1) ──────────────────────────────
+// ─── Imágenes de campeones (Data Dragon 16.13.1) ──────────────────────────────
 const CHAMP_DD = {
   "Aurelion Sol": "AurelionSol", "Dr. Mundo": "DrMundo",
   "Jarvan IV": "JarvanIV",      "K'Sante": "KSante",
@@ -254,7 +264,7 @@ function champImg(name) {
   const dd = CHAMP_DD[name] ||
     name.replace(/ & .+/, "").replace(/'/g, "").replace(/\./g, "")
         .split(" ").map(w => w[0].toUpperCase() + w.slice(1)).join("");
-  return `https://ddragon.leagueoflegends.com/cdn/16.11.1/img/champion/${dd}.png`;
+  return `https://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/${dd}.png`;
 }
 
 function translateItem(name, lang) {
