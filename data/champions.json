@@ -776,7 +776,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "CC instantáneo al nivel 6 con Tibbers. Fácil de aprender pero predecible en elos altos.",
           "en": "Instant CC at level 6 with Tibbers. Easy to learn but predictable in high elos."
@@ -1974,7 +1974,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "s",
+        "tier": "ss",
         "why": {
           "es": "Black Cleaver buffed en 7.1g (hasta 30% shred) — Darius es el mayor beneficiado. Su pasivo + BC destruye tanques que antes resistían. Dominancia brutal en lane temprana, ult reseteable.",
           "en": "Black Cleaver buffed in 7.1g (up to 30% shred) — Darius is the biggest beneficiary. His passive + BC destroys tanks that previously survived. Brutal early lane dominance, resetable ult."
@@ -2489,7 +2489,7 @@
       },
       {
         "role": "mid",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Viable en mid pero pierde el claro rápido de jungle. Funciona si el rival es inmóvil o tienes buen roaming.",
           "en": "Viable in mid but loses the fast jungle clear. Works if the enemy is immobile or you have good roaming."
@@ -4811,7 +4811,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 7.1f (forma All Out más frágil) + Demolish nerfed en 7.1g. Pierde la ventaja de oro de placas que le daba macro. Kit de outplay muy alto skill-cap pero ya no es prioridad de pick.",
           "en": "Nerfed in 7.1f (All Out form more fragile) + Demolish nerfed in 7.1g. Loses the plate gold advantage that gave him macro. Very high skill-cap outplay kit but no longer a priority pick."
@@ -4898,7 +4898,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "s",
+        "tier": "ss",
         "why": {
           "es": "Sin nerfs en 7.x. Daño mixto, ult para entrar/escapar, versátil con enchanters.",
           "en": "No nerfs in 7.x. Mixed damage, ult to dive/escape, versatile with enchanters."
@@ -5510,7 +5510,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "s",
+        "tier": "ss",
         "why": {
           "es": "Dos formas con estilos radicalmente distintos: Rhaast (tanque bruiser) o Shadow Assassin (assassin burst). Adaptable a cualquier composición. Puede traversar muros.",
           "en": "Two forms with radically different styles: Rhaast (tank bruiser) or Shadow Assassin (burst assassin). Adaptable to any composition. Can traverse walls."
@@ -5950,7 +5950,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Sin ningún nerf en toda la era 7.x. El mejor jugador del Herald, mecánicas de outplay con Insec, control total del mapa.",
           "en": "No nerfs in the entire 7.x era. Best Herald player, Insec outplay mechanics, total map control."
@@ -9902,7 +9902,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Mage de alta complejidad con ult de teletransporte de equipo. Excelente late game pero muy difícil de jugar bien en early.",
           "en": "High complexity mage with team teleport ult. Excellent late game but very hard to play well in early game."
@@ -12739,7 +12739,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "s",
+        "tier": "ss",
         "why": {
           "es": "Buffed en 7.1b pero predecible. Su CC de ult es bueno pero el daño no compite con SS tier.",
           "en": "Buffed in 7.1b but predictable. His ult CC is good but damage doesn't compete with SS tier."
@@ -14446,7 +14446,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "c",
+        "tier": "d",
         "why": {
           "es": "Nerfed en 7.1 (Steel Tempest y armor pen del ult reducidos). Alta curva de habilidad con recompensa reducida.",
           "en": "Nerfed in 7.1 (Steel Tempest and ult armor pen reduced). High skill curve with reduced reward."
@@ -14797,7 +14797,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "Buffed en 6.3c y 6.3f pero el meta de tanks/bruisers lo frustra. Mata carries bien pero inútil contra frontlines.",
           "en": "Buffed in 6.3c and 6.3f but the tank/bruiser meta frustrates him. Kills carries well but useless against frontlines."
@@ -15314,6 +15314,65 @@
           "es": "Control de zona AP que los soportes de engage odian. Sus plantas hit-scan deshacen a ADC posicionados mal. Perfecto contra comps con engage lento sin dash. Completamente inutilizable si te focusean con CC al instante.",
           "en": "AP zone control that engage supports hate. Her hitscan plants shred poorly positioned ADCs. Perfect against slow engage comps without dashes. Completely unusable if they CC you the moment you place plants."
         }
+      }
+    ]
+  },
+  {
+    "name": "Yunara",
+    "roles": [
+      {
+        "role": "adc",
+        "tier": "b",
+        "wr": null,
+        "why": {
+          "es": "Nueva ADC marksman (La Fe Inquebrantable). Lanzada en el parche 7.2, su kit y sinergias aún están siendo definidos por la comunidad. Basada en las estadísticas de lanzamiento preliminares, se perfila como un carry de rango medio que escala bien con crit. Su jugabilidad requiere dominar un kit nuevo — B hasta que el meta la defina.",
+          "en": "New marksman ADC (The Unbroken Faith). Released in patch 7.2, her kit and synergies are still being defined by the community. Based on preliminary launch stats, she profiles as a medium-range carry that scales well with crit. Her gameplay requires mastering a new kit — B until the meta defines her."
+        },
+        "build": [
+          "Infinity Edge",
+          "Kraken Slayer",
+          "Runaan's Hurricane",
+          "Stormrazor",
+          "Guardian Angel"
+        ],
+        "buildNote": {
+          "es": "Build estándar crit. Infinity Edge primero para maximizar crit damage, Kraken contra tanques, Runaan's para teamfight AoE. Stormrazor da slow para kite. Guardian Angel como seguro de vida.",
+          "en": "Standard crit build. Infinity Edge first to maximize crit damage, Kraken vs tanks, Runaan's for teamfight AoE. Stormrazor gives kite slow. Guardian Angel as life insurance."
+        },
+        "runes": [
+          "Fleet Footwork",
+          "Brutal",
+          "Legend: Alacrity",
+          "Cut Down"
+        ],
+        "counters": [
+          "Caitlyn",
+          "Ezreal",
+          "Varus"
+        ],
+        "synergies": [
+          "Thresh",
+          "Nautilus",
+          "Leona"
+        ],
+        "situational": [
+          {
+            "es": "Vs tanques: Kraken Slayer segundo o tercero para penetrar HP.",
+            "en": "Vs tanks: Kraken Slayer second or third to penetrate HP."
+          },
+          {
+            "es": "Vs poke heavy: Dorans Shield + Fleet Footwork para sobrevivir early.",
+            "en": "Vs poke heavy: Dorans Shield + Fleet Footwork to survive early."
+          },
+          {
+            "es": "En teamfight: Runaan's Hurricane antes que Stormrazor para AoE inmediato.",
+            "en": "In teamfight: Runaan's Hurricane before Stormrazor for immediate AoE."
+          },
+          {
+            "es": "Con engage support (Leona/Nautilus): juega más agresivamente post-6.",
+            "en": "With engage support (Leona/Nautilus): play more aggressively post-6."
+          }
+        ]
       }
     ]
   }

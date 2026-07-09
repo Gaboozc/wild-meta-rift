@@ -1,5 +1,161 @@
 [
   {
+    "patch": "7.2",
+    "date": "Julio 2026",
+    "changes": [
+      {
+        "type": "new",
+        "target": "Yunara",
+        "targetType": "champion",
+        "summary": { "es": "Nueva campeona ADC — Yunara, La Fe Inquebrantable", "en": "New ADC champion — Yunara, The Unbroken Faith" },
+        "detail": {
+          "es": "Yunara es la nueva tiradora lanzada en el parche 7.2. Su kit de marksman escala con crit y apunta a mid/late game. Meta aún por definirse.",
+          "en": "Yunara is the new marksman released in patch 7.2. Her kit scales with crit and aims for mid/late game dominance. Meta impact still TBD."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Darius",
+        "targetType": "champion",
+        "summary": { "es": "W reembolsa 50% CD y 100% mana al matar — spam de Q infinito", "en": "W refunds 50% CD and 100% mana on kill — infinite Q spam" },
+        "detail": {
+          "es": "Crippling Strike ahora reembolsa 50% de enfriamiento y 100% de mana al eliminar. En teamfights de 5vs5, Darius puede encadenar W→Q sin límite. Sube a SS.",
+          "en": "Crippling Strike now refunds 50% cooldown and 100% mana on kill. In 5v5 teamfights, Darius can chain W→Q without resource limits. Rises to SS."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Kai'Sa",
+        "targetType": "champion",
+        "summary": { "es": "Killer Instinct rango máximo 4→5.5 (+37%)", "en": "Killer Instinct maximum range 4→5.5 (+37%)" },
+        "detail": {
+          "es": "El rango de selección de aterrizaje de la R aumenta de 4 a 5.5. Kai'Sa puede iniciar peleas desde distancias mucho más seguras. Sube a SS.",
+          "en": "R landing range increases from 4 to 5.5. Kai'Sa can initiate fights from much safer distances. Rises to SS."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Kayn",
+        "targetType": "champion",
+        "summary": { "es": "R lockout reducido, distancia de salida mejorada", "en": "R lockout reduced, exit distance improved" },
+        "detail": {
+          "es": "Umbral Trespass: lockout de recuperación reducido. Distancia de salida Kayn/Rhaast 4→4.5, Shadow Assassin 6→6.5. R mucho más flexible para pelear o escapar. Sube a SS.",
+          "en": "Umbral Trespass: recovery lockout reduced. Exit distance Kayn/Rhaast 4→4.5, Shadow Assassin 6→6.5. R much more flexible for fighting or escaping. Rises to SS."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Varus",
+        "targetType": "champion",
+        "summary": { "es": "Chain of Corruption: tiempo de stack de Plaga 3s→1.5s", "en": "Chain of Corruption: Blight stacking time 3s→1.5s" },
+        "detail": {
+          "es": "El tiempo para acumular Plaga en objetivos encadenados se redujo a la mitad. El combo R→proc Plaga en múltiples enemigos es ahora mucho más confiable y rápido. Sube a SS.",
+          "en": "Time to stack Blight on chained targets halved. The R→Blight proc combo on multiple enemies is now much more reliable and faster. Rises to SS."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Annie",
+        "targetType": "champion",
+        "summary": { "es": "Tibbers hereda Penetración Mágica", "en": "Tibbers inherits Magic Penetration" },
+        "detail": {
+          "es": "Los ataques de Tibbers ahora escalan con la penetración mágica de Annie. Con Void Staff o Cryptbloom, Tibbers destruye tanks independientemente de su MR. Annie sube a S.",
+          "en": "Tibbers attacks now inherit Annie's magic penetration. With Void Staff or Cryptbloom, Tibbers shreds tanks regardless of their MR. Annie rises to S."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Ryze",
+        "targetType": "champion",
+        "summary": { "es": "Seraph's AP 35→60, Rod of Ages mejorado — ítems core masivamente buffed", "en": "Seraph's AP 35→60, Rod of Ages improved — core items massively buffed" },
+        "detail": {
+          "es": "Archangel's/Seraph's gana +25 AP adicional. Rod of Ages rediseñado con mejor HP y Mana. Los ítems que Ryze necesita para escalar son ahora mucho más fuertes. Sube a A.",
+          "en": "Archangel's/Seraph's gains +25 extra AP. Rod of Ages redesigned with better HP and Mana. The items Ryze needs to scale are now much stronger. Rises to A."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Ekko",
+        "targetType": "champion",
+        "summary": { "es": "Luden's AP 85→100, Lich Bane AP 80→100", "en": "Luden's AP 85→100, Lich Bane AP 80→100" },
+        "detail": {
+          "es": "Los dos ítems principales de Ekko reciben buffs significativos de AP. Rabadon's también de 100→130. El techo de daño de Ekko escala mucho más alto ahora. Sube a A.",
+          "en": "Ekko's two main items receive significant AP buffs. Rabadon's also 100→130. Ekko's damage ceiling scales much higher now. Rises to A."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Lee Sin",
+        "targetType": "champion",
+        "summary": { "es": "Tempest daño 90/140/190/240 → 35/70/105/140 (nerf masivo)", "en": "Tempest damage 90/140/190/240 → 35/70/105/140 (massive nerf)" },
+        "detail": {
+          "es": "Tempest (E) recibe el mayor nerf al daño de su historia. La limpieza de jungla se ralentiza considerablemente. Q bonus AD nerfado 100%→90%. Lee Sin cae a S.",
+          "en": "Tempest (E) receives its biggest damage nerf ever. Jungle clear slows down considerably. Q bonus AD nerfed 100%→90%. Lee Sin falls to S."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Zed",
+        "targetType": "champion",
+        "summary": { "es": "Death Mark CD 85/65/45→85/70/55, +0.5s antes de poder volver", "en": "Death Mark CD 85/65/45→85/70/55, +0.5s before return available" },
+        "detail": {
+          "es": "La Marca de la Muerte tiene mayor enfriamiento y ahora hay una ventana de 0.5s antes de poder activar el retorno. Su ventana de burst se reduce. Zed cae a A.",
+          "en": "Death Mark has higher cooldown and now has a 0.5s window before return can be activated. His burst window shrinks. Zed falls to A."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "Yasuo",
+        "targetType": "champion",
+        "summary": { "es": "Wind Wall CD nerfado early, Last Breath solo Armor Pen de bonus", "en": "Wind Wall CD nerfed early, Last Breath only bonus Armor Pen" },
+        "detail": {
+          "es": "Wind Wall CD 18/18/18/18→22/20/18/16 — mucho más débil en early. Last Breath cambia de 40% penetración plana a 55% de bonus — no penetra armor base de ítems como Plated Steelcaps. Cae a D.",
+          "en": "Wind Wall CD 18/18/18/18→22/20/18/16 — much weaker early. Last Breath changes from 40% flat pen to 55% bonus — doesn't penetrate base armor from items like Plated Steelcaps. Falls to D."
+        }
+      },
+      {
+        "type": "nerf",
+        "target": "K'Sante",
+        "targetType": "champion",
+        "summary": { "es": "All Out solo penetra Armor de bonus", "en": "All Out only penetrates bonus Armor" },
+        "detail": {
+          "es": "All Out cambia de 50% Penetración de Armor plana a 50% de bonus. En forma All Out, K'Sante pierde eficacia contra tanks que compran ítems de armor. Cae a B.",
+          "en": "All Out changes from 50% flat Armor Penetration to 50% bonus. In All Out form, K'Sante loses effectiveness against tanks buying armor items. Falls to B."
+        }
+      },
+      {
+        "type": "buff",
+        "target": "Rabadon's Deathcap",
+        "targetType": "item",
+        "summary": { "es": "AP 100→130 (+30 AP)", "en": "AP 100→130 (+30 AP)" },
+        "detail": {
+          "es": "Rabadon's gana 30 AP adicional. Con el ratio de 30%, esto se traduce en más de 40 AP efectivo extra en late game. Todos los mages escalan más alto.",
+          "en": "Rabadon's gains 30 extra AP. With the 30% ratio, this translates to over 40 effective extra AP in late game. All mages scale higher."
+        }
+      },
+      {
+        "type": "new",
+        "target": "Tier 3 Boots",
+        "targetType": "item",
+        "summary": { "es": "Nuevas Botas Tier 3 para todos los tipos (2000-2200g)", "en": "New Tier 3 Boots for all types (2000-2200g)" },
+        "detail": {
+          "es": "Spellslinger's Shoes, Chainlaced Crushers, Gunmetal Greaves, Armored Advance, Immortal Treads, Armorcrusher Boots, Crimson Lucidity. Cada tipo de bota tiene un upgrade final que añade stats premium.",
+          "en": "Spellslinger's Shoes, Chainlaced Crushers, Gunmetal Greaves, Armored Advance, Immortal Treads, Armorcrusher Boots, Crimson Lucidity. Every boot type now has a final upgrade adding premium stats."
+        }
+      },
+      {
+        "type": "new",
+        "target": "Dusk and Dawn / Void Amethyst",
+        "targetType": "item",
+        "summary": { "es": "Nuevos ítems: Dusk and Dawn (AP+AS+HP) y Void Amethyst (AP+Pen)", "en": "New items: Dusk and Dawn (AP+AS+HP) and Void Amethyst (AP+Pen)" },
+        "detail": {
+          "es": "Dusk and Dawn: 3100g — 70 AP, 350 HP, 20 AH, 25% AS. Ítem híbrido para campeones AP con ataque básico (Kayle, Kog'Maw, Teemo). Void Amethyst: 1000g — 20 AP, 10% Magic Pen Rate. Componente de penetración mágica temprana.",
+          "en": "Dusk and Dawn: 3100g — 70 AP, 350 HP, 20 AH, 25% AS. Hybrid item for attack-based AP champions (Kayle, Kog'Maw, Teemo). Void Amethyst: 1000g — 20 AP, 10% Magic Pen Rate. Early magic penetration component."
+        }
+      }
+    ]
+  },
+  {
     "patch": "7.1h",
     "date": "Junio 2026",
     "changes": [

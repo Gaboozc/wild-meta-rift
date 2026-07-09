@@ -1,0 +1,33 @@
+{
+  "version": "7.2",
+  "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-2/",
+  "title": "Wild Rift Patch Notes 7.2",
+  "date": "Jul 9, 2026",
+  "sections": ["New Champion", "Champion Buffs", "Champion Nerfs", "Champion Adjustments", "New Items", "Item Changes", "Rune Changes", "System Changes"],
+  "paragraphs": [
+    "NEW CHAMPION — YUNARA, THE UNBROKEN FAITH (ADC): New marksman champion releasing July 9 00:01 UTC. Details TBD.",
+    "DARIUS BUFF: Crippling Strike (W) now refunds 50% cooldown and 100% mana on kill. Massive buff to extended teamfight capability — Darius can repeatedly spam Q/W without running out of resources.",
+    "KAI'SA BUFF: Killer Instinct (R) maximum selectable landing range increased 4 → 5.5. Significant increase allowing Kai'Sa to safely initiate fights from much further range.",
+    "KAYN BUFF: Umbral Trespass (R) recovery lockout reduced. Exit distance for Kayn/Rhaast 4 → 4.5; Shadow Assassin 6 → 6.5. Better flexibility in using R offensively or as escape.",
+    "VARUS BUFF: Chain of Corruption (R) blight stacking time 3s → 1.5s. Dramatically easier to proc passive on multiple targets after R, making his combo much more reliable.",
+    "SYNDRA BUFF: Scatter the Weak (E) knockback range 7.2 → 7.5. Minor quality-of-life improvement.",
+    "ORIANNA BUFF: Command: Shockwave (R) range 3 → 3.25. Small buff to ult hitbox.",
+    "YASUO NERF: Wind Wall (W) cooldown 18/18/18/18s → 22/20/18/16s. Last Breath (R) changed from 40% Armor Penetration (flat) to 55% Bonus Armor Penetration. Major nerfs — Wind Wall weaker early, and ult now only penetrates bonus armor (much weaker vs tanks buying base armor items).",
+    "ZED NERF: Death Mark (R) cooldown 85/65/45 → 85/70/55. Added 0.5s window before return cast available. Reduced burst window and higher cooldown hurts his all-in reliability.",
+    "LEE SIN NERF: Sonic Wave (Q) base damage 55/90/125/160 → 60/100/140/180 (+buffed), bonus AD ratio 100% → 90% (nerfed). Tempest (E) damage 90/140/190/240 → 35/70/105/140 (massive nerf). Severely impacts clear speed and burst damage output.",
+    "NORRA NERF: Journey to Nowhere (R) banish duration 2.25s → 1.5s, compensated with 80% slow for 0.75s. Shorter full CC window reduces her lockdown potential.",
+    "FIDDLESTICKS ADJUSTMENT: Terrify grace period narrowed; fixed Fear application issues. Net neutral impact.",
+    "ZYRA ADJUSTMENT/BUFF: Plants now inherit Magic Penetration — big buff for AP Zyra builds. Garden of Thorns plant damage ratio 15% → 10% (nerf). Net slightly positive for full AP builds.",
+    "ANNIE ADJUSTMENT/BUFF: Tibbers attacks now inherit Magic Penetration. Major buff for AP Annie — Tibbers now shreds tanks with Void Staff/Cryptbloom.",
+    "K'SANTE ADJUSTMENT/NERF: All Out (R) changed from 50% Armor Penetration (flat) to 50% Bonus Armor Penetration. Weakens his ability to shred tanks in All Out form.",
+    "NEW TIER 3 BOOTS: Spellslinger's Shoes (Boots of Mana upgrade, 2200g: 40 AP, 100% Mana Regen, 18 Magic Pen, 8% Magic Pen Rate). Chainlaced Crushers (Mercury's Treads upgrade, 2200g: 150 HP, 35 MR, 30% Tenacity). Gunmetal Greaves (Berserker's upgrade, 2200g: 50% AS, 5% Physical Vamp). Armored Advance (Plated Steelcaps upgrade, 2200g: 150 HP, 35 Armor). Immortal Treads (Gluttonous upgrade, 2000g). Armorcrusher Boots (Boots of Dynamism upgrade, 2200g: 25 AD, 12 Armor Pen, 6% Armor Pen Rate). Crimson Lucidity (Ionian upgrade, 2000g: 75% Mana Regen, 25 AH).",
+    "NEW ITEMS: Dusk and Dawn (3100g: 70 AP, 350 HP, 20 AH, 25% AS — hybrid AP/AS item). Void Amethyst (1000g: 20 AP, 10% Magic Pen Rate — early magic pen component).",
+    "BOOTS COST OVERHAUL: All boots increased to 900→1200g. Stats upgraded across the board (Berserker's AS 25%→30%, Plated Steelcaps +5 Armor + Block passive, Mercury's +5 MR +15% Tenacity, Boots of Dynamism +2 Armor Pen). Gluttonous and Ionians stay cheaper at 1000g.",
+    "MAGE ITEM CHANGES: Rabadon's Deathcap AP 100→130 (+30 AP). Archangel's Staff AP 35→60 (+25 AP), 20→25 AH. Seraph's Embrace AP 35→60 (+25 AP), Lifeline CD 90→70s. Lich Bane AP 80→100. Banshee's Veil now includes Annul spell shield (previously Crown of Shattered Queen removed). Void Staff AP 80→95. Luden's Echo AP 85→100, Max Mana +200. Malignance AP 80→90. Stormsurge new item (2900g: 90 AP, 15 Magic Pen, 6% MS). Lost Chapter gains 10 AH and Enlighten passive.",
+    "FIGHTER/PHYSICAL ITEM CHANGES: Essence Reaver AD 35→40. Blade of the Ruined King AD 25→40 (current Health % nerfed). Guardian Angel AD 40→45, Resurrect mana 30%→100%, CD 210→180s. Stridebreaker and Goredrinker stats adjusted.",
+    "RUNE CHANGES: Conqueror per-stack reduced (AD 3-7→3-5, AP 4-11→4-8). First Strike gold ratio 100%/85%→60%/45%. Fleet Footwork AS 100%→40% (less AS burst). Grasp new ratio 3.3% max HP damage. Bone Plating CD 30→40s (weaker early protection). Transcendence AH slightly nerfed. Phase Rush ranged MS nerfed. Many damage runes tuned toward base scaling and away from bonus AD/AP ratios.",
+    "REMOVED ITEMS: Crown of the Shattered Queen (folded into Banshee's Veil), Awakened Soulstealer, Dream Maker, Prophet's Pendant, Bandle Fantasy, Psychic Projector, Sapphire Crystal (now basic Tear of the Goddess at 500g).",
+    "SYSTEM: Bounty system overhauled — now gold-based not kill-streak-based, more dynamic scaling. Ranked Season S22 begins July 10 with new Ranked Energy system (replaces Fortitude). Crowd Control update adds Knockdown CC type for dash interrupts (affects Ahri, Veigar, Amumu, Jinx, Lissandra, Vex, Viktor, Warwick, Yone, Poppy). True damage now affected by percentage amplification/reduction. Soulflowers system removed.",
+    "AHRI VISUAL UPDATE: Full Art & Sustainability Update preserving iconic look. Rebuilt model and rig, improved tail animations, smoother VFX. 12 skins updated."
+  ]
+}
