@@ -15328,23 +15328,32 @@
           "es": "Nueva ADC marksman (La Fe Inquebrantable). Lanzada en el parche 7.2, su kit y sinergias aún están siendo definidos por la comunidad. Basada en las estadísticas de lanzamiento preliminares, se perfila como un carry de rango medio que escala bien con crit. Su jugabilidad requiere dominar un kit nuevo — B hasta que el meta la defina.",
           "en": "New marksman ADC (The Unbroken Faith). Released in patch 7.2, her kit and synergies are still being defined by the community. Based on preliminary launch stats, she profiles as a medium-range carry that scales well with crit. Her gameplay requires mastering a new kit — B until the meta defines her."
         },
-        "build": [
-          "Infinity Edge",
-          "Kraken Slayer",
-          "Runaan's Hurricane",
-          "Stormrazor",
-          "Guardian Angel"
-        ],
+        "build": {
+          "boots": "Berserker's Greaves",
+          "core": [
+            "Infinity Edge",
+            "Kraken Slayer",
+            "Runaan's Hurricane"
+          ],
+          "sit": [
+            "Stormrazor",
+            "Guardian Angel",
+            "Dusk and Dawn"
+          ]
+        },
         "buildNote": {
           "es": "Build estándar crit. Infinity Edge primero para maximizar crit damage, Kraken contra tanques, Runaan's para teamfight AoE. Stormrazor da slow para kite. Guardian Angel como seguro de vida.",
           "en": "Standard crit build. Infinity Edge first to maximize crit damage, Kraken vs tanks, Runaan's for teamfight AoE. Stormrazor gives kite slow. Guardian Angel as life insurance."
         },
-        "runes": [
-          "Fleet Footwork",
-          "Brutal",
-          "Legend: Alacrity",
-          "Cut Down"
-        ],
+        "runes": {
+          "key": "Fleet Footwork",
+          "primary": [
+            "Triumph",
+            "Legend: Alacrity",
+            "Cut Down"
+          ],
+          "secondary": "Brutal"
+        },
         "counters": [
           "Caitlyn",
           "Ezreal",
