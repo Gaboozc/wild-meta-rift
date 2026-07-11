@@ -11,7 +11,7 @@
           "en": "Bruiser with massive sustain, Q CC and revive ult. Buffed in recent patches. Dominant in extended trades and teamfight."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sterak's Gage",
             "Death's Dance",
@@ -98,7 +98,7 @@
           "en": "QoL buffed in 7.0c. Charm + ult mobility. No nerfs in months. The safest mid pick for climbing."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -185,7 +185,7 @@
           "en": "Buffed in 7.0f (faster Shroud, Shuriken Flip interaction). High mobility and cross-lane roaming."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Hextech Gunblade",
             "Shadowflame",
@@ -266,7 +266,7 @@
           "en": "Viable in top against ranged, but the meta tanks make it hard. Only if the matchup is favorable."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Hextech Gunblade",
             "Shadowflame",
@@ -353,7 +353,7 @@
           "en": "Mid-lane ADC who revives allies by killing their assassin. Mobility with grappling hook, safe poke. Unique kit in the game."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -440,7 +440,7 @@
           "en": "Massive CC with W+Q combo. Ult makes him nearly immortal. Excellent combined engage and peel."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Sunfire Aegis",
@@ -528,7 +528,7 @@
           "en": "Bruiser with extreme mobility, short-trade burst and elite split push. No nerfs in the entire 7.x era."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -614,7 +614,7 @@
           "en": "Nerfed in 7.1b (Despair and slow reduced). Massive teamfight CC but was trimmed."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -695,7 +695,7 @@
           "en": "Viable as engage support with Redemption. Massive CC but fragile if bandage toss misses."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -782,7 +782,7 @@
           "en": "Instant CC at level 6 with Tibbers. Easy to learn but predictable in high elos."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -863,7 +863,7 @@
           "en": "Viable with stun, but enchanters and engage supports outclass her in the current meta."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -949,7 +949,7 @@
           "en": "Buffed in 7.0c but immobile. The dive meta destroys her. Her slow is no longer enough to survive."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Wit's End",
@@ -1035,7 +1035,7 @@
           "en": "Buffed in 6.3c but the assassin meta doesn't give him time to accumulate stardust. Too slow for the current pace."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -1122,7 +1122,7 @@
           "en": "Nerfed in 7.1g (Q damage reduced on both casts). Her burst is no longer as lethal. Still has mobility and ult zone control, but loses pick priority."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -1203,7 +1203,7 @@
           "en": "Nerfed in 7.1g (Q damage reduced). Can still kite melee champions but her damage no longer justifies the pick against meta tanks."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -1290,7 +1290,7 @@
           "en": "Global mobility with portals, massive CC with universal pause ult. Sustain by collecting chimes. The most unique and versatile support in the game."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Shurelya's Battlesong",
@@ -1377,7 +1377,7 @@
           "en": "One hook = guaranteed kill, but predictable. In medium-high elos, everything plays around avoiding his position."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -1464,7 +1464,7 @@
           "en": "Massive damage support with stacking passive. Devastating AoE in teamfight when grouped. Fragile with no hard CC."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Shadowflame",
@@ -1545,7 +1545,7 @@
           "en": "Viable in mid as poke mage but no mobility makes him very punishable against assassins."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Shadowflame",
@@ -1632,7 +1632,7 @@
           "en": "E blocks projectiles and passive stacks CC. Best peel in the game. Perfect against Xayah, Caitlyn and Jhin (SS tier)."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -1719,7 +1719,7 @@
           "en": "Buffed in 6.3f (+0.5 AD/lvl). Highest ADC range, zone control traps and critical headshot. Dominates early lane."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Galeforce",
             "Infinity Edge",
@@ -1806,7 +1806,7 @@
           "en": "Bruiser with two-phase dash, 1v1 trap ult and true damage on E. Excellent split push and duels. No recent nerfs."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -1893,7 +1893,7 @@
           "en": "Buffed in 7.1 (+4 base AD). Mixed damage hard to itemize against. Strong Packages with mobility."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Trinity Force",
             "Essence Reaver",
@@ -1980,7 +1980,7 @@
           "en": "Black Cleaver buffed in 7.1g (up to 30% shred) — Darius is the biggest beneficiary. His passive + BC destroys tanks that previously survived. Brutal early lane dominance, resetable ult."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -2067,7 +2067,7 @@
           "en": "Buffed in 7.1g: passive monster damage 75% → 100%. Her clear went from slow to one of the fastest. Reset ult that can kill the entire team by chaining. Scales with AP."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -2148,7 +2148,7 @@
           "en": "Viable in mid but without fast jungle clear loses value. Works best when the enemy is an immobile mage."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -2235,7 +2235,7 @@
           "en": "The tank with the most sustain in the game. Ult regenerates massive % HP. Practically immortal in late if built properly."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -2322,7 +2322,7 @@
           "en": "Huge early damage but requires perfectly maintaining axes. One mistake = loses all advantage. No mobility."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Immortal Shieldbow",
             "Infinity Edge",
@@ -2414,7 +2414,7 @@
           "en": "Fast clear, zone CC with W, escape/reset ult. Very hard to kill. Strong in dive and skirmishes."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Trinity Force",
@@ -2495,7 +2495,7 @@
           "en": "Viable in mid but loses the fast jungle clear. Works if the enemy is immobile or you have good roaming."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -2587,7 +2587,7 @@
           "en": "Stealth + assassin but very fragile. Works in low elos, in high elos she's easily detected and invaded."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -2673,7 +2673,7 @@
           "en": "Safe poke with blink. Hard to kill but lower damage compared to SS tier."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Trinity Force",
             "Manamune",
@@ -2760,7 +2760,7 @@
           "en": "Only works with perfect team vision. Herald allows enemies to ignore his control and push towers."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Zhonya's Hourglass",
             "Shadowflame",
@@ -2851,7 +2851,7 @@
           "en": "Nerfed in 7.1 (passive true dmg reduced). Still very strong 1v1 and split push, but more manageable."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -2938,7 +2938,7 @@
           "en": "Buffed in 7.1b but fragile assassin. Depends on the opponent not dodging the shark ult."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -3025,7 +3025,7 @@
           "en": "Mid lane tank with global engage ult. Passive magic resistance makes him excellent against mages. Massive teamfight CC."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Frostfire Gauntlet",
@@ -3106,7 +3106,7 @@
           "en": "Viable as engage support with global ult but lacks lane impact compared to specialized supports."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -3193,7 +3193,7 @@
           "en": "Nerfed in 7.1e + Demolish nerfed in 7.1g (no longer efficiently farms plate gold). Without Demolish item advantage, his early dominance is reduced. Simple kit but predictable."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -3280,7 +3280,7 @@
           "en": "Ranged in mini Gnar with safe poke, melee tank in mega Gnar with massive CC. Unique transition that dominates splits and teamfights."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -3367,7 +3367,7 @@
           "en": "Buffed in 6.3d (improved clear). Versatile, good peel and engage. Works in almost any team comp."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -3448,7 +3448,7 @@
           "en": "Viable as engage support but specialized supports outclass him. Only if no one else can engage."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -3534,7 +3534,7 @@
           "en": "Black Cleaver buffed in 7.1g (30% max shred) — Graves is one of the biggest jungle beneficiaries. His standard BC build now shreds frontlines much faster. Very fast clear and melee burst."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -3621,7 +3621,7 @@
           "en": "Tank-mage with true damage and invulnerability zone. Snip Snip cuts through everything. Excellent against tanks."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Riftmaker",
             "Demonic Embrace",
@@ -3708,7 +3708,7 @@
           "en": "Nerfed in 7.0d but still the fastest jungler on the map. Best roaming in the game."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Dead Man's Plate",
@@ -3795,7 +3795,7 @@
           "en": "Buffed in 7.1g: turrets with more armor, more HP and more laser damage; melee champions deal less bonus damage to them. Unique zone control, now much harder to clear."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -3876,7 +3876,7 @@
           "en": "Buffed in 7.1g: turrets are much tougher and hit harder. The zone poke in bot is real, though specialized supports remain more reliable."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -3967,7 +3967,7 @@
           "en": "Nerfed in 7.1 (healing reduced). Requires many stacks to function and early game feels very weak."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -4047,7 +4047,7 @@
           "en": "Can work in mid against mages but recent nerfs make her less consistent than before."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -4138,7 +4138,7 @@
           "en": "Best peel in the game against dive comps. Ult separates the enemy team. Perfect for immobile carries."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Ardent Censer",
@@ -4225,7 +4225,7 @@
           "en": "No recent nerfs. Flag + drag CC is one of the best initiation combos in the game. Ult creates combat zone."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -4306,7 +4306,7 @@
           "en": "Viable in top as engage bruiser but meta tanks outclass him in durability."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -4393,7 +4393,7 @@
           "en": "Buffed in 7.0f (Grandmaster's defense scaled with AD). No nerfs in 7.x. The strongest split pusher in the meta."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -4474,7 +4474,7 @@
           "en": "Decent clear with W+Q. His E blocks jungle smites. Strong in duels and incredible scaling."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -4561,7 +4561,7 @@
           "en": "Two forms — melee and ranged — with different kits. Safe ranged poke, melee burst. Dominates early lane."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Black Cleaver",
@@ -4648,7 +4648,7 @@
           "en": "Guaranteed crit on 4th shot. Massive zone control with traps, long-range snare. Scales enormously with AD/crit."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Galeforce",
             "Infinity Edge",
@@ -4735,7 +4735,7 @@
           "en": "Infinity Edge buffed in 7.1g (+5 AD). Jinx is the hyper crit carry that scales the most with this — her passive reset + Pow-Pow deal massive late game damage. Needs protection but the pay-off is brutal."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Runaan's Hurricane",
@@ -4822,7 +4822,7 @@
           "en": "Nerfed in 7.1f (All Out form more fragile) + Demolish nerfed in 7.1g. Loses the plate gold advantage that gave him macro. Very high skill-cap outplay kit but no longer a priority pick."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Frostfire Gauntlet",
@@ -4909,7 +4909,7 @@
           "en": "No nerfs in 7.x. Mixed damage, ult to dive/escape, versatile with enchanters."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -4996,7 +4996,7 @@
           "en": "Extreme mobility with each auto, spear stacking passive and ult to throw her support. Excellent with engage supports."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -5088,7 +5088,7 @@
           "en": "Enchanters nerfed in 6.3f. No hard CC and her shield was reduced. Completely displaced by Janna."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Redemption",
@@ -5168,7 +5168,7 @@
           "en": "Can work in mid as a battlemage with poke but lacks tools for the current assassin meta."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -5255,7 +5255,7 @@
           "en": "Passive magic resistance = dominates vs mages. Post-6 is nearly impossible to catch. The safest scaler in the game."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Rod of Ages",
             "Riftmaker",
@@ -5342,7 +5342,7 @@
           "en": "Excellent snowball. High skill curve. Effective when enemies lack hard CC."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Hextech Gunblade",
             "Shadowflame",
@@ -5434,7 +5434,7 @@
           "en": "Hyperscaler — useless early, omnipotent late. The dive meta destroys her before reaching level 11+."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Wit's End",
@@ -5526,7 +5526,7 @@
           "en": "Two forms with radically different styles: Rhaast (tank bruiser) or Shadow Assassin (burst assassin). Adaptable to any composition. Can traverse walls."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sterak's Gage",
             "Death's Dance",
@@ -5613,7 +5613,7 @@
           "en": "Ranged with accumulated stun and massive teamfight ult. Very hard for melee to trade. Excellent in open teamfights."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -5705,7 +5705,7 @@
           "en": "Assassin that evolves abilities. Massive damage on isolated targets. Stealth with ult. Excellent at picks and duels."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Duskblade",
             "Edge of Night",
@@ -5792,7 +5792,7 @@
           "en": "ADC jungler with mobility, prey marks giving bonuses and immortality zone ult. Unique in the game. Scales very well."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -5879,7 +5879,7 @@
           "en": "Nerfed in 6.3f. Huge % HP damage in late but very immobile. Needs strong peel support to work."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Wit's End",
@@ -5971,7 +5971,7 @@
           "en": "No nerfs in the entire 7.x era. Best Herald player, Insec outplay mechanics, total map control."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Black Cleaver",
@@ -6052,7 +6052,7 @@
           "en": "Viable in top as dive bruiser but loses much value without early jungle impact. Only if you master the kit."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Black Cleaver",
@@ -6139,7 +6139,7 @@
           "en": "Instant CC at levels 2-3. The most aggressive engage support. Dominates with short-burst ADCs (Draven, Jhin)."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Sunfire Aegis",
@@ -6226,7 +6226,7 @@
           "en": "AoE sleep and % HP damage. Excellent late game teamfight. High learning curve but devastating."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Demonic Embrace",
@@ -6312,7 +6312,7 @@
           "en": "Massive CC on multiple abilities, excellent ult roam, can self-immunize. Strong in extended teamfights."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Rod of Ages",
             "Shadowflame",
@@ -6399,7 +6399,7 @@
           "en": "Mobility ADC with dash on E. Double shot combos with passive. Excellent in early and mid game lane. Falls off in late vs hypercarries."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -6480,7 +6480,7 @@
           "en": "Viable in mid as mobile burst carry. Combo with enchanters that empower his passive."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -6567,7 +6567,7 @@
           "en": "Enchanters nerfed in 6.3f reduce her value. Still good protecting hypercarries like Kog'Maw or Vayne."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Ardent Censer",
@@ -6654,7 +6654,7 @@
           "en": "Massive poke at extreme range with Q and R. Team shield. Her ult range is unmatched. Easy to learn."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -6740,7 +6740,7 @@
           "en": "Safe long-range poke, shield and near-global ult. But without immediate hard CC she's inferior to Nautilus or Leona."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -6828,7 +6828,7 @@
           "en": "Highest winrate in top lane. Instant teamfight ult, AD-resistant. Buffed in 6.3c."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -6914,7 +6914,7 @@
           "en": "Tank with abundant CC and passive healing from ally abilities. Excellent in extended teamfights. Massive root ult."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Frostfire Gauntlet",
@@ -6995,7 +6995,7 @@
           "en": "Tank support with massive CC and passive sustain. Huge zone rooting ult. Excellent in extended teamfights."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -7082,7 +7082,7 @@
           "en": "Nerfed in 7.0c (Alpha Strike CD increased). The chaotic teamfights of the meta destroy him."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Wit's End",
@@ -7168,7 +7168,7 @@
           "en": "Nerfed in 7.1 and 7.1d (damage, reflect and root reduced). Interesting but dependent on reflecting abilities."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -7254,7 +7254,7 @@
           "en": "Enchanters nerfed multiple times. His strength was heal/shield and that was trimmed the most. Janna outperforms him in everything now."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Ardent Censer",
@@ -7340,7 +7340,7 @@
           "en": "Nerfed in 6.3f. Bullet Time is still the most impactful teamfight ult in the role. Strong with enchanters."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Infinity Edge",
@@ -7427,7 +7427,7 @@
           "en": "AP bruiser with unavoidable 1v1 isolation ult. Kills carries before the team arrives. Very strong in the current meta."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Riftmaker",
             "Demonic Embrace",
@@ -7513,7 +7513,7 @@
           "en": "AP tank with sustain and devastating 1v1 ult. Effective jungler due to durability and scalable magic damage."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Demonic Embrace",
@@ -7585,7 +7585,7 @@
           "en": "Long duration binding Q and black shield to protect allies from CC. Ult that chains multiple enemies. Versatile and safe."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Redemption",
@@ -7671,7 +7671,7 @@
           "en": "Viable in mid as control mage with waveclear, bind and black shield. Less impactful than other mages but safer."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Shadowflame",
@@ -7758,7 +7758,7 @@
           "en": "Combines heal, massive CC (bubble) and speedboost. Survived enchanter nerfs because her CCs are invaluable."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Staff of Flowing Water",
@@ -7845,7 +7845,7 @@
           "en": "Nerfed in 7.0c. The early pressure meta doesn't give him time to stack."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sunfire Aegis",
@@ -7931,7 +7931,7 @@
           "en": "Long-range hook + chain CC. Guarantees kills from level 2. The most reliable engage support."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Sunfire Aegis",
@@ -8012,7 +8012,7 @@
           "en": "Viable in jungle with decent clear and brutal ganks, but meta junglers have more presence and impact."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -8099,7 +8099,7 @@
           "en": "Nerfed in 7.0a and 6.3e. Excellent in skilled hands but punishable and very dependent on spears."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Shadowflame",
@@ -8190,7 +8190,7 @@
           "en": "Melee ADC with extreme mobility, dodge zone and AoE ult. Shares XP with support through passive. Excellent with enchanters."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -8282,7 +8282,7 @@
           "en": "Global darkness ult that blinds enemy team vision and allows dive from any distance. Excellent for picks."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -8369,7 +8369,7 @@
           "en": "Nerfed in 7.0c and 7.0d but still high utility. Unique portals and ranged CC."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Redemption",
@@ -8456,7 +8456,7 @@
           "en": "Useful CC but no real lane pressure. The dive meta doesn't need a passive objective jungler. Very predictable."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -8543,7 +8543,7 @@
           "en": "CC immunity ult while attacking. Excellent 1v1 and in skirmishes. No fear of CC during ult. Strong in early."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -8635,7 +8635,7 @@
           "en": "No nerfs in the entire 7.x era. Definitive teamfight, constant poke, shield and speedboost. The safest mid pick."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -8723,7 +8723,7 @@
           "en": "Definitive tank who forges items for the team with massive CC. Scales independently of gold."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Frostfire Gauntlet",
@@ -8809,7 +8809,7 @@
           "en": "Useful in lane but completely falls off in mid/late. Only viable with big lead or poke comps. Doesn't scale."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Black Cleaver",
             "Sterak's Gage",
@@ -8889,7 +8889,7 @@
           "en": "Viable as aggressive support with stun and global ult, but specialized supports greatly outclass him."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Black Cleaver",
@@ -8976,7 +8976,7 @@
           "en": "Anti-mobility tank. W blocks dashes and ult sends enemies away from teamfight. Perfect against Ambessa, Lee Sin and Hecarim."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Frostfire Gauntlet",
@@ -9057,7 +9057,7 @@
           "en": "Viable in jungle as anti-mobility tank. Decent clear and lethal ganks with W against mobility champions."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -9144,7 +9144,7 @@
           "en": "Assassin support with ult that gives extra gold to allies on kill. Unique out-of-sight regeneration. Excellent at picks and lane ganks."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Duskblade",
             "Edge of Night",
@@ -9231,7 +9231,7 @@
           "en": "Engage support with extreme mobility, W heal and massive charm ult. Combines perfectly with Xayah. Massive teamfight CC."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Shurelya's Battlesong",
@@ -9318,7 +9318,7 @@
           "en": "Nerfed in 7.1b. Only works against full AD comps. Too dependent on enemy team matchup."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -9409,7 +9409,7 @@
           "en": "Buffed in 7.0c and 7.0d (base stats, cooldowns). Massive engage, tanks a lot. The most rising support in the meta."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Sunfire Aegis",
@@ -9496,7 +9496,7 @@
           "en": "Nerfed in 7.1 and 7.1b. Strong early but doesn't scale — needs to win lane to have impact."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Black Cleaver",
             "Sterak's Gage",
@@ -9582,7 +9582,7 @@
           "en": "Assassin that leaps from bushes with one-shot damage. Stealth hunt ult. Excellent at picks and soft carries. High skill curve."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Duskblade",
             "Edge of Night",
@@ -9674,7 +9674,7 @@
           "en": "Nerfed in 7.1d (passive ratio reduced). Viable split pusher with high skill curve."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Black Cleaver",
             "Sterak's Gage",
@@ -9755,7 +9755,7 @@
           "en": "Viable in jungle but clear is slow and recent nerfs reduce her impact. Only if you master the kit."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Black Cleaver",
             "Sterak's Gage",
@@ -9841,7 +9841,7 @@
           "en": "Top lane mage with massive fire zone. Huge AoE teamfight damage with rocket ult. Excellent in narrow corridors."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Rylai's Crystal Scepter",
@@ -9933,7 +9933,7 @@
           "en": "High complexity mage with team teleport ult. Excellent late game but very hard to play well in early game."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Rod of Ages",
             "Riftmaker",
@@ -10025,7 +10025,7 @@
           "en": "Infinity Edge buffed in 7.1g (+5 AD) improves her crit autos in the combo. Devastating AoE ult in teamfight. Her S rank reset style + crit is enhanced by the stronger IE."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Immortal Shieldbow",
             "Infinity Edge",
@@ -10112,7 +10112,7 @@
           "en": "ADC support that grows indefinitely with enemy souls. Increasing range, global heal ult and passive stealth. Unique in the game."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Moonstone Renewer",
@@ -10193,7 +10193,7 @@
           "en": "Viable as damage carry ADC but loses support impact. Only in specific compositions."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -10285,7 +10285,7 @@
           "en": "No own hard CC, enchanters nerfed, and the meta doesn't favor poke mage supports. Completely outclassed by other supports."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Moonstone Renewer",
             "Redemption",
@@ -10365,7 +10365,7 @@
           "en": "Can work in mid as poke mage with chain CC ult, but lacks burst and scaling compared to better options."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -10452,7 +10452,7 @@
           "en": "Bruiser with massive shield from damage taken and ult to throw an enemy onto their own team. Excellent in pure damage trades."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sterak's Gage",
             "Overlord's Bloodmail",
@@ -10533,7 +10533,7 @@
           "en": "Viable as engage support with unique ult. But specialized supports have more tools to protect the lane."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -10620,7 +10620,7 @@
           "en": "Tank with global ult that teleports and shields an ally. Presence across the entire map. Excellent splitpush + ult = impossible to ignore."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -10707,7 +10707,7 @@
           "en": "Nerfed in 7.1 and 6.3d (dragon form mobility reduced). Scales well to late but early is weak."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Kraken Slayer",
             "Trinity Force",
@@ -10794,7 +10794,7 @@
           "en": "Burst damage and dive meta destroys him before proxy farming works. His kit has no answer to the current meta."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Rylai's Crystal Scepter",
             "Sunfire Aegis",
@@ -10886,7 +10886,7 @@
           "en": "Demolish nerfed in 7.1g — Sion loses the plate gold that funded his split push. His CC and engage ult remain very strong in teamfight but he no longer dominates macro the same way."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -10972,7 +10972,7 @@
           "en": "Buffed in 7.1d (+AD/lvl, Boomerang Blade improved). Supreme wave clear, spellshield to survive CC."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Ravenous Hydra",
@@ -11059,7 +11059,7 @@
           "en": "NEW in 7.1g (June 12). The Primordial Sovereign: jungle tank with solid clear, terrain ganks (E slams into walls) and Impale ult that drags up to 3 enemies into his team. Devastating teamfight CC from day one."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Thornmail",
@@ -11140,7 +11140,7 @@
           "en": "NEW in 7.1g. Viable in Baron lane as engage tank: charged Q trades, W shield and ult flanks threaten the backline every teamfight."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Thornmail",
@@ -11227,7 +11227,7 @@
           "en": "Nerfed in 7.0a and 7.0f (twice). Requires many stacks and scales slowly. Viable in skilled hands."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Trinity Force",
             "Kraken Slayer",
@@ -11313,7 +11313,7 @@
           "en": "Enchanters nerfed. No own instant CC makes her vulnerable. Crescendo is still powerful but she's fragile."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Ardent Censer",
@@ -11404,7 +11404,7 @@
           "en": "Enchanters nerfed + dive meta. Easy to kill, no escape CC. Ignite completely disables her."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Moonstone Renewer",
             "Redemption",
@@ -11490,7 +11490,7 @@
           "en": "Nerfed in 7.1b (ult AP ratio reduced). Still has sustain and CC, but no longer dominates in teamfight."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Demonic Embrace",
@@ -11570,7 +11570,7 @@
           "en": "Viable as poke and CC support with his E, but 7.1b nerfs weakened him. Situational."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Demonic Embrace",
@@ -11661,7 +11661,7 @@
           "en": "Immense long-range burst when maximizing spheres. One of the most reliable for ranked."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -11748,7 +11748,7 @@
           "en": "New in 7.1e. Jungle mage with ultra-fast clear, global engage with W and high burst. Dominates early game and controls the map from jungle."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -11824,7 +11824,7 @@
           "en": "Exceptional waveclear, global roam and surprising burst. Dominates mid with Q and can appear anywhere on the map."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -11906,7 +11906,7 @@
           "en": "Buffed in 7.1b (improved AoE clear). Lethal lane roams. Excellent for snowball."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Duskblade",
             "Edge of Night",
@@ -11987,7 +11987,7 @@
           "en": "Buffed in 7.1b (improved AoE clear). Lethal ganking roams between lanes. Fragile if anticipated."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Duskblade",
             "Edge of Night",
@@ -12074,7 +12074,7 @@
           "en": "Nerfed in 6.3e and 7.1b. Unique vision control but falls to the dive comps in the current meta."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Shadowflame",
@@ -12165,7 +12165,7 @@
           "en": "Versatile: hooks, protects with lantern and separates with ult. No recent nerfs. The most universal support."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Locket of the Iron Solari",
             "Warmog's Armor",
@@ -12252,7 +12252,7 @@
           "en": "Infinity Edge buffed in 7.1g (+5 AD) and buffed in 7.1d. Range grows with level + late game crit = brutal unstoppable damage. One of the best scalers of the patch."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -12333,7 +12333,7 @@
           "en": "Viable in mid as a dive carry, but without mage waveclear in early makes laning harder."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -12420,7 +12420,7 @@
           "en": "Massive CC in the current meta (Malphite, Sion, Ornn) makes him unviable. His immortality ult doesn't work against hard instant CC."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Immortal Shieldbow",
             "Infinity Edge",
@@ -12511,7 +12511,7 @@
           "en": "Low damage, only value is the global ult which is visible. Very easy to counterpick in the current meta."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -12597,7 +12597,7 @@
           "en": "Buffed in 7.1b but very fragile. The dive meta kills him before his stealth can have impact. Situational in specific comps."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Runaan's Hurricane",
@@ -12688,7 +12688,7 @@
           "en": "Buffed in 7.1d (+4 base AD, Echoing Flames improved). Solid tank-bruiser from level 6, execute ult."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -12775,7 +12775,7 @@
           "en": "Buffed in 7.1b but predictable. His ult CC is good but damage doesn't compete with SS tier."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Wit's End",
@@ -12862,7 +12862,7 @@
           "en": "Nerfed in 7.0a and 7.1d (true dmg and AS reduced). Still destroys tanks but slower. Viable with good peel."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Wit's End",
@@ -12943,7 +12943,7 @@
           "en": "Vayne top is a hard carry option against tank compositions. Hard to manage in lane but devastating vs tanks."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Wit's End",
@@ -13030,7 +13030,7 @@
           "en": "Mage that grows infinitely with AP stacking. Event Horizon (cage) + one-shot ult. Devastating in late game with enough stacks."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -13111,7 +13111,7 @@
           "en": "Viable as poke and CC support with his cage, but no carry protection tools. Situational."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -13197,7 +13197,7 @@
           "en": "Pure damage support with very long range poke. Massive true damage ult. Fragile with no escape CC."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -13278,7 +13278,7 @@
           "en": "Viable in mid as pure poke mage, but no mobility makes him very punishable. Outclassed by mages with more tools."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -13370,7 +13370,7 @@
           "en": "The counter to assassins and mobility champions. Passive inflicts fear on enemy dashes, interrupting combos. Very relevant in the current meta."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -13458,7 +13458,7 @@
           "en": "Lock-on ult that can't be dodged. Ideal for disabling ADCs. Perfect combo with teamfight mages."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -13545,7 +13545,7 @@
           "en": "No nerfs in 7.x. Possesses enemies he kills — extra outplay. 1v1 dueling almost impossible to lose post-6."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Kraken Slayer",
             "Trinity Force",
@@ -13631,7 +13631,7 @@
           "en": "Excellent wave clear, sustained teamfight damage. His E+W is one of the best zone combos in the game."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -13723,7 +13723,7 @@
           "en": "Buffed in 7.1d (Armor +3, AP→HP ratio improved). Outscales almost everything, lane sustain, strong teamfight."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -13804,7 +13804,7 @@
           "en": "Also viable in mid as a scaler. Outscales most mages and can roam easily."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Riftmaker",
             "Shadowflame",
@@ -13891,7 +13891,7 @@
           "en": "Tank/bruiser with champion flip and ult stun. Excellent at dive and tower destruction. Ult destroys towers very fast."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -13972,7 +13972,7 @@
           "en": "Viable in jungle with decent clear and lethal ganks. Ult destroys towers very fast for objective pressure."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Sunfire Aegis",
             "Warmog's Armor",
@@ -14059,7 +14059,7 @@
           "en": "Nerfed in 6.3c. Predictable, slow, and burst meta destroys him before he reaches the carry."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -14146,7 +14146,7 @@
           "en": "Highest winrate of all junglers. Fast clear, brutal teamfight with double ult, clone fools targeted abilities."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Black Cleaver",
@@ -14226,7 +14226,7 @@
           "en": "Viable in top as engage bruiser. Clone confuses the enemy and ult is still devastating in teamfight."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Black Cleaver",
@@ -14313,7 +14313,7 @@
           "en": "Invulnerability ult + massive feather damage. Buffed in 7.0d. No nerfs in months. The most complete ADC."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Immortal Shieldbow",
             "Infinity Edge",
@@ -14400,7 +14400,7 @@
           "en": "No recent nerfs. Excellent early damage, ult creates safe zone, ideal for invades and skirmishes."
         },
         "build": {
-          "boots": "Plated Steelcaps",
+          "boots": "Armored Advance",
           "core": [
             "Trinity Force",
             "Sterak's Gage",
@@ -14487,7 +14487,7 @@
           "en": "Nerfed in 7.1 (Steel Tempest and ult armor pen reduced). High skill curve with reduced reward."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -14575,7 +14575,7 @@
           "en": "Buffed in 7.1b (Soul Unbound damage increased, Q ratio improved). Mid lane bruiser with guaranteed return dash. Rises from B to A with the buff."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -14656,7 +14656,7 @@
           "en": "Viable in top as split push bruiser. The 7.1b buff makes him more relevant but meta tanks limit him."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -14743,7 +14743,7 @@
           "en": "Reworked in 6.3d. More active new kit but host-dependent. No mobility if dismounted."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Ardent Censer",
@@ -14834,7 +14834,7 @@
           "en": "Buffed in 6.3c and 6.3f but the tank/bruiser meta frustrates him. Kills carries well but useless against frontlines."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Duskblade",
             "Edge of Night",
@@ -14921,7 +14921,7 @@
           "en": "Buffed in 7.1d (+AD/lvl, Living Battery improved, Spark Surge CD reduced). The most dynamic ADC in the meta."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Kraken Slayer",
             "Immortal Shieldbow",
@@ -15008,7 +15008,7 @@
           "en": "Nerfed in 7.1 (Short Fuse AP ratio -10%). Poke is no longer powerful enough. Outclassed by Orianna and Viktor."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -15094,7 +15094,7 @@
           "en": "Nerfed in 7.0a (Chronoshift CD increased) but still the only revive in the game. Excellent with scaling carries."
         },
         "build": {
-          "boots": "Ionian Boots of Lucidity",
+          "boots": "Crimson Lucidity",
           "core": [
             "Shurelya's Battlesong",
             "Zhonya's Hourglass",
@@ -15181,7 +15181,7 @@
           "en": "Strongly buffed in 7.1g (+15 base damage on Q, +10 on E magic and true). Her early/mid game is no longer weak. Supreme ranged poke and one-shot from outside enemy range."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Luden's Tempest",
             "Shadowflame",
@@ -15268,7 +15268,7 @@
           "en": "Reworked in 6.3f — improved plants. Huge damage for a support but fragile. Easy to counterpick with dive."
         },
         "build": {
-          "boots": "Sorcerer's Shoes",
+          "boots": "Spellslinger's Shoes",
           "core": [
             "Liandry's Torment",
             "Shadowflame",
@@ -15356,7 +15356,7 @@
           "en": "New marksman ADC (The Unbroken Faith). Released in patch 7.2, her kit and synergies are still being defined by the community. Based on preliminary launch stats, she profiles as a medium-range carry that scales well with crit. Her gameplay requires mastering a new kit — B until the meta defines her."
         },
         "build": {
-          "boots": "Berserker's Greaves",
+          "boots": "Gunmetal Greaves",
           "core": [
             "Infinity Edge",
             "Kraken Slayer",
