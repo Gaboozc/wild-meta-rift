@@ -124,6 +124,18 @@ const RUNE_ES = {
   "Unflinching": "Impasible",
 };
 
+// ─── Botas Tier 3: upgrade automático mostrado en la build ──────────────────
+const BOOT_TIER3 = {
+  "Berserker's Greaves":      "Gunmetal Greaves",
+  "Sorcerer's Shoes":         "Spellslinger's Shoes",
+  "Boots of Mana":            "Spellslinger's Shoes",
+  "Ionian Boots of Lucidity": "Crimson Lucidity",
+  "Plated Steelcaps":         "Armored Advance",
+  "Mercury's Treads":         "Chainlaced Crushers",
+  "Gluttonous Greaves":       "Immortal Treads",
+  "Boots of Dynamism":        "Armorcrusher Boots",
+};
+
 // ─── Imágenes de items (Data Dragon + Community Dragon para exclusivos WR) ────
 const _D = "https://ddragon.leagueoflegends.com/cdn/16.13.1/img/item/";
 const _C = "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/";
@@ -329,14 +341,23 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
           <div className="info-section">
             <div className="section-label">{lang === "es" ? "Build" : "Build"}</div>
             <div className="items-row">
-              {roleData.build.boots && (
-                <span className="item-tag boots">
-                  {ITEM_IMG[roleData.build.boots] && (
-                    <img src={ITEM_IMG[roleData.build.boots]} className="item-icon" alt="" onError={e => { e.currentTarget.style.display = "none"; }} />
-                  )}
-                  {translateItem(roleData.build.boots, lang)}
-                </span>
-              )}
+              {roleData.build.boots && (() => {
+                const t3 = BOOT_TIER3[roleData.build.boots];
+                return (
+                  <span className="item-tag boots" title={t3 ? (lang === "es" ? `Upgrade T3: ${t3}` : `T3 Upgrade: ${t3}`) : undefined}>
+                    {ITEM_IMG[roleData.build.boots] && (
+                      <img src={ITEM_IMG[roleData.build.boots]} className="item-icon" alt="" onError={e => { e.currentTarget.style.display = "none"; }} />
+                    )}
+                    {translateItem(roleData.build.boots, lang)}
+                    {t3 && (
+                      <span className="boot-t3-badge">
+                        {ITEM_IMG[t3] && <img src={ITEM_IMG[t3]} className="item-icon boot-t3-icon" alt="" onError={e => { e.currentTarget.style.display = "none"; }} />}
+                        <span className="boot-t3-arrow">→</span>{t3}
+                      </span>
+                    )}
+                  </span>
+                );
+              })()}
               {roleData.build.core.map(i => (
                 <span key={i} className="item-tag core">
                   {ITEM_IMG[i] && <img src={ITEM_IMG[i]} className="item-icon" alt="" onError={e => { e.currentTarget.style.display = "none"; }} />}
@@ -568,7 +589,7 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
           letter-spacing: .02em;
           border: 1px solid;
         }
-        .item-tag.boots  { background: rgba(167,139,250,.08); border-color: rgba(167,139,250,.3); color: #c4b5fd; }
+        .item-tag.boots  { background: rgba(167,139,250,.08); border-color: rgba(167,139,250,.3); color: #c4b5fd; flex-wrap: wrap; gap: 4px; }
         .item-tag.core   { background: rgba(240,201,110,.07); border-color: rgba(240,201,110,.3); color: var(--gold2); }
         .item-tag.sit    { background: var(--surface2); border-color: var(--border2); color: var(--muted); }
         .item-icon {
@@ -578,6 +599,22 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
           object-fit: cover;
           flex-shrink: 0;
         }
+        .boot-t3-badge {
+          display: inline-flex;
+          align-items: center;
+          gap: 3px;
+          font-size: 10px;
+          font-weight: 700;
+          color: #a78bfa;
+          background: rgba(139,92,246,.15);
+          border: 1px solid rgba(139,92,246,.35);
+          border-radius: 3px;
+          padding: 1px 5px;
+          margin-left: 2px;
+          white-space: nowrap;
+        }
+        .boot-t3-arrow { opacity: .7; font-size: 9px; }
+        .boot-t3-icon { width: 14px; height: 14px; }
         .build-note { font-size: 11px; color: var(--dim); margin-top: 5px; line-height: 1.5; }
 
         /* SITUATIONAL */

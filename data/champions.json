@@ -197,8 +197,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Crimson Lucidity (2000g) — Akali es resource-free pero el AH acelera su rotación de habilidades completa.",
+          "en": "Upgrade: Crimson Lucidity (2000g) — Akali is resource-free but the AH speeds up her full skill rotation."
         },
         "runes": {
           "key": "Electrocute",
@@ -794,8 +794,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Spellslinger's Shoes (2200g) — la penetración extra hace que Tibbers (que ya hereda Magic Pen) sea aún más devastador.",
+          "en": "Upgrade: Spellslinger's Shoes (2200g) — extra pen makes Tibbers (which already inherits Magic Pen) even more devastating."
         },
         "runes": {
           "key": "Electrocute",
@@ -1731,8 +1731,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Gunmetal Greaves (2200g) en late game para Physical Vamp y más AS.",
+          "en": "Upgrade: Gunmetal Greaves (2200g) in late game for Physical Vamp and more AS."
         },
         "runes": {
           "key": "Fleet Footwork",
@@ -1992,8 +1992,8 @@
           ]
         },
         "buildNote": {
-          "es": "Overlord's Bloodmail (7.0d) es excelente — AD que crece cuando tiene poca vida.",
-          "en": "Overlord's Bloodmail (7.0d) is excellent — AD that grows when low health."
+          "es": "Overlord's Bloodmail (7.0d) es excelente — AD que crece cuando tiene poca vida. Upgrade: Armored Advance (2200g) en late — 150 HP + 35 Armor lo convierte en un muro aún más imposible de derribar.",
+          "en": "Overlord's Bloodmail (7.0d) is excellent — AD that grows when low health. Upgrade: Armored Advance (2200g) in late — 150 HP + 35 Armor makes him an even more impossible wall to bring down."
         },
         "runes": {
           "key": "Conqueror",
@@ -2079,8 +2079,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Spellslinger's Shoes (2200g) — penetración mágica para sus dives AP, especialmente potente con Electrocute + Rabadon's.",
+          "en": "Upgrade: Spellslinger's Shoes (2200g) — magic pen for her AP dives, especially potent with Electrocute + Rabadon's."
         },
         "runes": {
           "key": "Electrocute",
@@ -3702,7 +3702,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Nerfed en 7.0d pero sigue siendo el jungler más rápido del mapa. Mejor roaming del juego.",
           "en": "Nerfed in 7.0d but still the fastest jungler on the map. Best roaming in the game."
@@ -4117,7 +4117,12 @@
             "es": "Partida larga: Overgrowth > Last Stand si te centran mucho",
             "en": "Long game: Overgrowth > Last Stand if you're focused"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "La mid más ignorada con el techo más alto. Sus resets de Q en teamfight son literalmente ilimitados si mata — puede limpiar al equipo rival entera empezando desde cualquier objetivo. Construida con Conqueror + Riftmaker hace daño verdadero en pelea extendida. La mayoría la juega mal (sin resets) — quienes la dominan convierten cualquier teamfight en un 1v5 ganado.",
+          "en": "The most ignored mid with the highest ceiling. Her Q resets in teamfights are literally unlimited if she gets kills — she can clean the entire enemy team starting from any target. Built with Conqueror + Riftmaker she deals true damage in extended fights. Most players use her wrong (no resets) — those who master her turn any teamfight into a won 1v5."
+        }
       }
     ]
   },
@@ -4655,8 +4660,8 @@
           ]
         },
         "buildNote": {
-          "es": "Galeforce da movilidad que Jhin no tiene. RFC aumenta el rango del 4to disparo crítico.",
-          "en": "Galeforce gives mobility Jhin lacks. RFC increases the range of his critical 4th shot."
+          "es": "Galeforce da movilidad que Jhin no tiene. RFC aumenta el rango del 4to disparo crítico. Upgrade: Crimson Lucidity (2000g) — AH reduce CD de W y R significativamente, más oportunidades de trampas y ult.",
+          "en": "Galeforce gives mobility Jhin lacks. RFC increases the range of his critical 4th shot. Upgrade: Crimson Lucidity (2000g) — AH significantly reduces W and R CD, more trap and ult opportunities."
         },
         "runes": {
           "key": "Fleet Footwork",
@@ -4742,8 +4747,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Gunmetal Greaves (2200g) cuando tengas 3 ítems core — el Physical Vamp te da sustain en teamfight.",
+          "en": "Upgrade: Gunmetal Greaves (2200g) once you have 3 core items — Physical Vamp gives teamfight sustain."
         },
         "runes": {
           "key": "Lethal Tempo",
@@ -4916,8 +4921,8 @@
           ]
         },
         "buildNote": {
-          "es": "Build on-hit es la más fuerte. Rabadon's si maximiza W y va AP.",
-          "en": "On-hit build is the strongest. Rabadon's if you max W and go AP."
+          "es": "Build on-hit es la más fuerte. Rabadon's si maximiza W y va AP. Upgrade: Gunmetal Greaves (2200g) en late — Physical Vamp la hace más difícil de matar en dives.",
+          "en": "On-hit build is the strongest. Rabadon's if you max W and go AP. Upgrade: Gunmetal Greaves (2200g) in late — Physical Vamp makes her harder to kill during dives."
         },
         "runes": {
           "key": "Lethal Tempo",
@@ -5423,7 +5428,7 @@
     "roles": [
       {
         "role": "top",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Hyperscaler — inútil en early, omnipotente en late. La meta de dive la destruye antes de llegar a nivel 11+.",
           "en": "Hyperscaler — useless early, omnipotent late. The dive meta destroys her before reaching level 11+."
@@ -5437,7 +5442,8 @@
           ],
           "sit": [
             "Immortal Shieldbow",
-            "Terminus"
+            "Terminus",
+            "Dusk and Dawn"
           ]
         },
         "buildNote": {
@@ -5499,6 +5505,10 @@
           {
             "es": "Vs. tanky rival: Kraken Slayer 3er item obligatorio",
             "en": "vs tanky: Kraken Slayer 3rd item mandatory"
+          },
+          {
+            "es": "Dusk and Dawn en partidas largas: da 70 AP + 25% AS + 350 HP — cubre exactamente sus tres stats clave en un solo ítem. Reemplaza Lich Bane cuando el rival tiene mucho HP y necesitas los básicos potenciados más rápido.",
+            "en": "Dusk and Dawn in long games: gives 70 AP + 25% AS + 350 HP — covers exactly her three key stats in one item. Replaces Lich Bane when the enemy has too much HP and you need empowered basics faster."
           }
         ]
       }
@@ -5877,7 +5887,8 @@
           ],
           "sit": [
             "Runaan's Hurricane",
-            "Terminus"
+            "Terminus",
+            "Dusk and Dawn"
           ]
         },
         "buildNote": {
@@ -5939,6 +5950,10 @@
           {
             "es": "Vs. mucho AP: Mercury's Treads + Wit's End como 3er item",
             "en": "vs heavy AP: Mercury's Treads + Wit's End as 3rd item"
+          },
+          {
+            "es": "Dusk and Dawn (3100g): 70 AP + 25% AS + 350 HP en un ítem — acelera su build on-hit AP significativamente. Segundo ítem en lugar de Guinsoo si el rival es squishier y necesitas the AS burst.",
+            "en": "Dusk and Dawn (3100g): 70 AP + 25% AS + 350 HP in one item — significantly accelerates his AP on-hit build. Second item instead of Guinsoo if enemies are squishier and you need the AS burst."
           }
         ]
       }
@@ -6136,8 +6151,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Crimson Lucidity (2000g) — 25 AH hace que pueda iniciar peleas con Q+W+E+R mucho más seguido.",
+          "en": "Upgrade: Crimson Lucidity (2000g) — 25 AH lets her engage with Q+W+E+R much more frequently."
         },
         "runes": {
           "key": "Ice Overlord",
@@ -6205,7 +6220,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "AoE sleep y daño % HP. Excelente teamfight en late game. Alta curva de aprendizaje pero devastadora.",
           "en": "AoE sleep and % HP damage. Excellent late game teamfight. High learning curve but devastating."
@@ -6633,7 +6648,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Poke masivo a distancia extrema con Q y R. Shield para el equipo. El rango de su ult es incomparable. Fácil de aprender.",
           "en": "Massive poke at extreme range with Q and R. Team shield. Her ult range is unmatched. Easy to learn."
@@ -6647,12 +6662,13 @@
           ],
           "sit": [
             "Void Staff",
-            "Zhonya's Hourglass"
+            "Zhonya's Hourglass",
+            "Seraph's Embrace"
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Spellslinger's Shoes (2200g) — 18 pen + 8% rate encajan perfecto con su rol de poke/burst de largo rango.",
+          "en": "Upgrade: Spellslinger's Shoes (2200g) — 18 pen + 8% rate fit perfectly with her long-range poke/burst role."
         },
         "runes": {
           "key": "Arcane Comet",
@@ -6709,6 +6725,10 @@
           {
             "es": "Si vas adelante: rush Rabadon's como 3er item para cerrar",
             "en": "If ahead: rush Rabadon's as 3rd item to close out"
+          },
+          {
+            "es": "Seraph's Embrace (60 AP, 25 AH) post-7.2: buffeado masivamente (+25 AP). Segundo ítem si la partida va a ser larga y necesitas AP sustain con mana infinito. Core build alternativa para full late-game scaling.",
+            "en": "Seraph's Embrace (60 AP, 25 AH) post-7.2: massively buffed (+25 AP). Second item if the game will go long and you need AP sustain with infinite mana. Alternative core for full late-game scaling."
           }
         ]
       },
@@ -6820,8 +6840,8 @@
           ]
         },
         "buildNote": {
-          "es": "Build AP hace su ult un one-shot. Alternativa full tank: Sunfire + Frostfire + Warmog's.",
-          "en": "AP build makes his ult a one-shot. Full tank alternative: Sunfire + Frostfire + Warmog's."
+          "es": "Build AP hace su ult un one-shot. Alternativa full tank: Sunfire + Frostfire + Warmog's. Upgrade: Armored Advance (2200g) — más armor = más daño de pasivo. Sube su scaling absurdamente.",
+          "en": "AP build makes his ult a one-shot. Full tank alternative: Sunfire + Frostfire + Warmog's. Upgrade: Armored Advance (2200g) — more armor = more passive damage. Scales his kit absurdly."
         },
         "runes": {
           "key": "Arcane Comet",
@@ -7636,7 +7656,12 @@
             "es": "Si tu equipo va a teamfight: Shadowflame para más daño de W",
             "en": "If team goes teamfight: Shadowflame for more W damage"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "El counter absoluto del meta de engage que nadie juega. Su Escudo Negro hace que los CC de Leona, Nautilus, Braum y Thresh sean literalmente inútiles — un ADC con Escudo Negro es inmune al engage. En late, su ult con empowerado encadena a todos los rivales si tiene Flash o ya está entre ellos. Requiere timing perfecto del escudo — darlo tarde o al objetivo equivocado la hace inútil.",
+          "en": "The absolute counter to the engage meta that nobody plays. Her Black Shield makes the CC from Leona, Nautilus, Braum, and Thresh literally useless — an ADC with Black Shield is immune to engage. In late, her empowered ult chains all nearby enemies when she already has Flash or is positioned between them. Requires perfect shield timing — giving it late or to the wrong target makes her useless."
+        }
       },
       {
         "role": "mid",
@@ -8622,8 +8647,8 @@
           ]
         },
         "buildNote": {
-          "es": "Luden's para poke en lane. Zhonya si hay dive hacia ti.",
-          "en": "Luden's for lane poke. Zhonya if they dive you."
+          "es": "Luden's para poke en lane. Zhonya si hay dive hacia ti. Upgrade: Spellslinger's Shoes (2200g) — añade 18 Magic Pen plana + 8% pen rate. Aumenta su daño de bola masivamente en late.",
+          "en": "Luden's for lane poke. Zhonya if they dive you. Upgrade: Spellslinger's Shoes (2200g) — adds 18 flat Magic Pen + 8% pen rate. Massively increases ball damage in late."
         },
         "runes": {
           "key": "Arcane Comet",
@@ -8710,8 +8735,8 @@
           ]
         },
         "buildNote": {
-          "es": "No necesita AD — su pasiva le da stats gratis al forjar.",
-          "en": "Doesn't need AD — his passive gives free stats when forging."
+          "es": "No necesita AD — su pasiva le da stats gratis al forjar. Upgrade: Armored Advance (2200g) — su pasivo amplifica los stats del upgrade.",
+          "en": "Doesn't need AD — his passive gives free stats when forging. Upgrade: Armored Advance (2200g) — his passive amplifies the stats of the upgrade."
         },
         "runes": {
           "key": "Grasp of the Undying",
@@ -11046,8 +11071,8 @@
           ]
         },
         "buildNote": {
-          "es": "Full tank — su daño viene del kit y su valor del CC. Dead Man's Plate ayuda a conectar el E.",
-          "en": "Full tank — his damage comes from the kit and his value from CC. Dead Man's Plate helps land the E."
+          "es": "Full tank — su daño viene del kit y su valor del CC. Dead Man's Plate ayuda a conectar el E. Upgrade: Armored Advance (2200g) — 150 HP + 35 Armor adicional encaja perfecto con su build tanque.",
+          "en": "Full tank — his damage comes from the kit and his value from CC. Dead Man's Plate helps land the E. Upgrade: Armored Advance (2200g) — 150 HP + 35 Armor additional fits perfectly with his tank build."
         },
         "runes": {
           "key": "Ice Overlord",
@@ -11648,8 +11673,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Spellslinger's Shoes (2200g) — la penetración extra hace que su R sea aún más difícil de absorber.",
+          "en": "Upgrade: Spellslinger's Shoes (2200g) — the extra pen makes her R even harder to absorb."
         },
         "runes": {
           "key": "Electrocute",
@@ -12056,7 +12081,8 @@
             "Demonic Embrace"
           ],
           "sit": [
-            "Rabadon's Deathcap"
+            "Rabadon's Deathcap",
+            "Dusk and Dawn"
           ]
         },
         "buildNote": {
@@ -12118,6 +12144,10 @@
           {
             "es": "Si vas muy adelante: rush Rabadon's 3er item para one-shot potential",
             "en": "If way ahead: rush Rabadon's 3rd item for one-shot potential"
+          },
+          {
+            "es": "Dusk and Dawn (3100g): complementa perfectamente su kit (AS para shrooms + AP para veneno). Ítem situacional cuando el rival tiene mucho HP y necesitas más burst de básicos envenenados.",
+            "en": "Dusk and Dawn (3100g): perfectly complements his kit (AS for shrooms + AP for poison). Situational item when the enemy has lots of HP and you need more burst from poisoned basics."
           }
         ]
       }
@@ -12147,8 +12177,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Crimson Lucidity (2000g) — 25 AH adicional reduce CDs de Q y E a niveles de spam constante.",
+          "en": "Upgrade: Crimson Lucidity (2000g) — 25 extra AH reduces Q and E CDs to constant-spam levels."
         },
         "runes": {
           "key": "Ice Overlord",
@@ -12757,8 +12787,8 @@
           ]
         },
         "buildNote": {
-          "es": "",
-          "en": ""
+          "es": "Upgrade: Gunmetal Greaves (2200g) para Physical Vamp en teamfight — complementa su necesidad de mantenerse vivo mientras canaliza R.",
+          "en": "Upgrade: Gunmetal Greaves (2200g) for Physical Vamp in teamfight — complements his need to stay alive while channeling R."
         },
         "runes": {
           "key": "Lethal Tempo",
@@ -12994,7 +13024,7 @@
     "roles": [
       {
         "role": "mid",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Mage que crece infinitamente con AP stacking. Evento Horizon (jaula) + ult de one-shot. Devastador en late game con suficientes stacks.",
           "en": "Mage that grows infinitely with AP stacking. Event Horizon (cage) + one-shot ult. Devastating in late game with enough stacks."
@@ -13609,7 +13639,8 @@
           ],
           "sit": [
             "Void Staff",
-            "Zhonya's Hourglass"
+            "Zhonya's Hourglass",
+            "Seraph's Embrace"
           ]
         },
         "buildNote": {
@@ -13671,6 +13702,10 @@
           {
             "es": "Vs. mucho AD: Seeker's Armguard + Zhonya's temprano",
             "en": "vs heavy AD: Seeker's Armguard + early Zhonya's"
+          },
+          {
+            "es": "Seraph's Embrace (60 AP, 25 AH) ahora da +25 AP extra post-7.2. Tercer ítem situacional cuando la partida va muy larga y ya tienes todo el mana que necesitas de tu build core.",
+            "en": "Seraph's Embrace (60 AP, 25 AH) now gives +25 extra AP post-7.2. Situational third item when the game goes very long and you already have all the mana you need from your core build."
           }
         ]
       }
@@ -14524,11 +14559,7 @@
             "en": "If snowballing: rush Phantom Dancer 2nd for more crit and mobility"
           }
         ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "C tier en el papel, SSS en las manos de un main. La barrera de viento bloquea proyectiles — con mastery, bloquea cada habilidad del rival. Su ult con cualquier aliado que tire knockup (Malphite, Jarvan, Gnar) es instantáneamente ganadora de teamfight. El 99% de las partidas lo subestiman — el 1% lo lleva sabe exactamente por qué siempre parece que gana aunque no debería.",
-          "en": "C tier on paper, SSS in a main's hands. The windwall blocks projectiles — with mastery, it blocks every enemy ability that matters. His ult with any knockup ally (Malphite, Jarvan, Gnar) is an instant teamfight winner. 99% of games underestimate him — the 1% who play him know exactly why he always seems to win even when he shouldn't."
-        }
+        "hiddenGem": false
       }
     ]
   },
@@ -15231,7 +15262,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "a",
+        "tier": "s",
         "why": {
           "es": "Reworked en 6.3f — plantas mejoradas. Daño enorme para un support pero frágil. Fácil de counterpickear con dive.",
           "en": "Reworked in 6.3f — improved plants. Huge damage for a support but fragile. Easy to counterpick with dive."
@@ -15309,11 +15340,7 @@
             "en": "If team is full AP: consider Locket of Iron Solari for shields"
           }
         ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "Control de zona AP que los soportes de engage odian. Sus plantas hit-scan deshacen a ADC posicionados mal. Perfecto contra comps con engage lento sin dash. Completamente inutilizable si te focusean con CC al instante.",
-          "en": "AP zone control that engage supports hate. Her hitscan plants shred poorly positioned ADCs. Perfect against slow engage comps without dashes. Completely unusable if they CC you the moment you place plants."
-        }
+        "hiddenGem": false
       }
     ]
   },
