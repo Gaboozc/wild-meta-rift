@@ -340,22 +340,19 @@ export default function ChampCard({ champ, roleData, lang, isMine, onToggleMine,
           <div className="info-section">
             <div className="section-label">{lang === "es" ? "Build" : "Build"}</div>
             <div className="items-row">
-              {roleData.build.boots && (() => {
-                const base = BOOT_BASE[roleData.build.boots];
-                return (
-                  <span className="item-tag boots">
-                    {ITEM_IMG[roleData.build.boots] && (
-                      <img src={ITEM_IMG[roleData.build.boots]} className="item-icon" alt="" onError={e => { e.currentTarget.style.display = "none"; }} />
-                    )}
-                    <span className="boot-t3-name">{translateItem(roleData.build.boots, lang)}</span>
-                    {base && (
-                      <span className="boot-base-label">
-                        {lang === "es" ? "vía" : "via"} {base}
-                      </span>
-                    )}
-                  </span>
-                );
-              })()}
+              {roleData.build.boots && (
+                <span className="item-tag boots">
+                  {ITEM_IMG[roleData.build.boots] && (
+                    <img src={ITEM_IMG[roleData.build.boots]} className="item-icon" alt="" onError={e => { e.currentTarget.style.display = "none"; }} />
+                  )}
+                  <span className="boot-t3-name">{translateItem(roleData.build.boots, lang)}</span>
+                  {BOOT_BASE[roleData.build.boots] && (
+                    <span className="boot-base-label">
+                      {lang === "es" ? "vía" : "via"} {BOOT_BASE[roleData.build.boots]}
+                    </span>
+                  )}
+                </span>
+              )}
               {roleData.build.core.map(i => (
                 <span key={i} className="item-tag core">
                   {ITEM_IMG[i] && <img src={ITEM_IMG[i]} className="item-icon" alt="" onError={e => { e.currentTarget.style.display = "none"; }} />}
