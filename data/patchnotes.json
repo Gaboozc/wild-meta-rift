@@ -1,5 +1,67 @@
 [
   {
+    "patch": "7.2a",
+    "date": "Julio 2026",
+    "changes": [
+      {
+        "type": "nerf",
+        "target": "Nidalee",
+        "targetType": "champion",
+        "summary": { "es": "Pounce daño base reducido, AP ratio Cougar 3%→2.5%", "en": "Pounce base damage reduced, Cougar AP ratio 3%→2.5%" },
+        "detail": { "es": "Golpe directo al burst Javelin→Pounce que era su identidad. Cae a C tier — su techo SSS ya no compensa el riesgo de jugarla.", "en": "Direct hit to the Javelin→Pounce burst that defined her. Falls to C tier — her SSS ceiling no longer justifies the risk of playing her." }
+      },
+      {
+        "type": "nerf",
+        "target": "Warwick",
+        "targetType": "champion",
+        "summary": { "es": "Eternal Hunger bonus AD ratio 20%→15%, Jaws AP 90%→85%", "en": "Eternal Hunger bonus AD ratio 20%→15%, Jaws AP 90%→85%" },
+        "detail": { "es": "Su DPS sostenido y curación en peleas largas se reducen. Cae a B — pierde su ventaja en peleas extendidas.", "en": "His sustained DPS and healing in extended fights both reduced. Falls to B — loses his edge in prolonged skirmishes." }
+      },
+      {
+        "type": "nerf",
+        "target": "Senna",
+        "targetType": "champion",
+        "summary": { "es": "Absolution daño % HP reducido, Dawning Shadow shield per-stack nerfado", "en": "Absolution % HP damage reduced, Dawning Shadow shield per-stack nerfed" },
+        "detail": { "es": "Su doble rol de daño y escudo se debilita. El shield en práctica baja porque el ratio de AP no compensa la pérdida per-stack. Sup cae a A.", "en": "Her dual role of damage and shielding weakens. The shield in practice decreases since the AP ratio doesn't compensate the per-stack loss. Sup falls to A." }
+      },
+      {
+        "type": "nerf",
+        "target": "Ezreal",
+        "targetType": "champion",
+        "summary": { "es": "Manamune nerfado: Muramana AD ratio 6%→4.5%, mana charge 18→14", "en": "Manamune nerfed: Muramana AD ratio 6%→4.5%, mana charge 18→14" },
+        "detail": { "es": "Manamune es su ítem core — el Muramana hace la mayor parte de su daño de burst. Una reducción del 25% en el ratio AD es enorme. SS→S.", "en": "Manamune is his core item — Muramana does the bulk of his burst damage. A 25% reduction in the AD ratio is massive. SS→S." }
+      },
+      {
+        "type": "buff",
+        "target": "Skarner",
+        "targetType": "champion",
+        "summary": { "es": "Max HP dmg 10%→11%, W mejorado, E CD reducido", "en": "Max HP dmg 10%→11%, W improved, E CD reduced" },
+        "detail": { "es": "Tres buffs en un solo parche. Su engage ya era el mejor del juego — ahora su tanqueabilidad y CD de habilidades se vuelven aún más opresivos. Se mantiene SS.", "en": "Three buffs in one patch. His engage was already the best in the game — now his tankiness and ability cooldowns become even more oppressive. Stays SS." }
+      },
+      {
+        "type": "buff",
+        "target": "Yuumi",
+        "targetType": "champion",
+        "summary": { "es": "Zoomies mana reducido, Final Chapter curación base aumentada", "en": "Zoomies mana reduced, Final Chapter base healing increased" },
+        "detail": { "es": "Más sustain en línea y más curación en teamfight. Sube a A — con el carry correcto sigue siendo SSS potential.", "en": "More lane sustain and more teamfight healing. Rises to A — with the right carry she remains SSS potential." }
+      },
+      {
+        "type": "nerf",
+        "target": "Manamune / Tear",
+        "targetType": "item",
+        "summary": { "es": "Muramana AD ratio 6%→4.5%, Tear mana charge 6→5", "en": "Muramana AD ratio 6%→4.5%, Tear mana charge 6→5" },
+        "detail": { "es": "Nerf al ecosistema de mana-stacking. Afecta directamente a Ezreal (core) y a todos los que construyen Manamune situacionalmente.", "en": "Nerf to the mana-stacking ecosystem. Directly impacts Ezreal (core) and all champions building Manamune situationally." }
+      },
+      {
+        "type": "nerf",
+        "target": "Armorcrusher Boots",
+        "targetType": "item",
+        "summary": { "es": "AD 25→20, Armor Pen 12→10", "en": "AD 25→20, Armor Pen 12→10" },
+        "detail": { "es": "La bota T3 AD/penetración estaba sobretuneada. Sigue siendo la mejor opción para asesinos AD, pero ya no domina tanto.", "en": "The AD/pen T3 boot was overtuned. Still the best option for AD assassins, but no longer dominates as much." }
+      }
+    ]
+  },
+  {
     "patch": "7.2",
     "date": "Julio 2026",
     "changes": [

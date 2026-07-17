@@ -2667,7 +2667,7 @@
     "roles": [
       {
         "role": "adc",
-        "tier": "ss",
+        "tier": "s",
         "why": {
           "es": "Poke seguro con blink. Difícil de matar pero bajo daño comparado con SS tier.",
           "en": "Safe poke with blink. Hard to kill but lower damage compared to SS tier."
@@ -5776,7 +5776,12 @@
             "es": "Si el rival jungla invade: ward río y flancos antes de hacer buff",
             "en": "If enemy jungler invades: ward river and flanks before buffing"
           }
-        ]
+        ],
+        "hiddenGem": true,
+        "hiddenGemNote": {
+          "es": "El asesino de aislamiento perfecto — si la víctima está sola, muere antes de poder reaccionar. Con Duskblade + Edge of Night + evolución de Q, un ADC o mago sin escudos activos no puede sobrevivir el burst. En comps sin mucho peel, Kha Zix puede 1v5 empezando por los más débiles. Requiere saber constantemente dónde están todos los rivales para encontrar el momento en que uno está solo.",
+          "en": "The perfect isolation assassin — if the target is alone, they die before they can react. With Duskblade + Edge of Night + Q evolution, an ADC or mage without active shields cannot survive the burst. Against comps with little peel, Kha Zix can 1v5 by starting with the weakest. Requires constantly tracking where all enemies are to find the moment one is isolated."
+        }
       }
     ]
   },
@@ -8093,7 +8098,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "b",
+        "tier": "c",
         "why": {
           "es": "Nerfed en 7.0a y 6.3e. Excelente en manos expertas pero punisheable y muy dependiente de jabalinas.",
           "en": "Nerfed in 7.0a and 6.3e. Excellent in skilled hands but punishable and very dependent on spears."
@@ -8170,11 +8175,7 @@
             "en": "vs heavy AD: Seeker's Armguard early from jungle shop"
           }
         ],
-        "hiddenGem": true,
-        "hiddenGemNote": {
-          "es": "Con buen aim de lanza, Nidalee es el mejor early invader del juego. Sus trampas dan visión invisible y su movilidad en forma puma hace imposible castigar una buena Nidalee. Requiere +200 horas para ser efectiva.",
-          "en": "With good spear aim, Nidalee is the best early invader in the game. Her invisible traps provide vision and her puma form mobility makes a skilled Nidalee nearly unpunishable. Requires 200+ hours to be effective."
-        }
+        "hiddenGem": false
       }
     ]
   },
@@ -10106,7 +10107,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "s",
+        "tier": "a",
         "why": {
           "es": "ADC support que crece indefinidamente con las almas de los rivales. Rango que aumenta, heal global con ult y stealth pasivo. Única en el juego.",
           "en": "ADC support that grows indefinitely with enemy souls. Increasing range, global heal ult and passive stealth. Unique in the game."
@@ -14053,7 +14054,7 @@
     "roles": [
       {
         "role": "jgl",
-        "tier": "a",
+        "tier": "b",
         "why": {
           "es": "Nerfed en 6.3c. Predecible, lento y el meta de burst lo destruye antes de que llegue al carry.",
           "en": "Nerfed in 6.3c. Predictable, slow, and burst meta destroys him before he reaches the carry."
@@ -14737,7 +14738,7 @@
     "roles": [
       {
         "role": "sup",
-        "tier": "b",
+        "tier": "a",
         "why": {
           "es": "Reworked en 6.3d. Nuevo kit más activo pero dependiente del host. Sin movilidad si la desmontan.",
           "en": "Reworked in 6.3d. More active new kit but host-dependent. No mobility if dismounted."

@@ -1,0 +1,20 @@
+{
+  "version": "7.2a",
+  "url": "https://wildrift.leagueoflegends.com/en-us/news/game-updates/wild-rift-patch-notes-7-2a/",
+  "title": "Wild Rift Patch Notes 7.2a",
+  "date": "Jul 15, 2026",
+  "sections": ["Champion Nerfs", "Champion Buffs", "Item Changes", "ARAM Adjustments"],
+  "paragraphs": [
+    "NIDALEE NERF: Pounce (W in Cougar form) base damage reduced across all ranks. Aspect of the Cougar AP ratio decreased 3% → 2.5%. Direct hit to her Javelin-Pounce burst combo — the core of her high-skill playstyle.",
+    "WARWICK NERF: Eternal Hunger (passive) bonus AD ratio 20% → 15%. Jaws of the Beast (Q) AP scaling 90% → 85%. Both nerfs reduce his sustained DPS and healing in extended fights.",
+    "SENNA NERF: Absolution (passive) current health damage decreased. Dawning Shadow (R) shield adjusted — higher AP ratio but lower per-stack value. Net nerf to her shield effectiveness in practice (most players don't have high AP on her).",
+    "SKARNER BUFF: Max health damage increased to 11% (was 10% after 7.1h buff). Seismic Bastion (W) cooldown reduced and shield ratio increased to 10%. Ixtal's Impact (E) cooldown reduced. Three buffs in a single patch — Skarner continues to snowball in power.",
+    "YUUMI BUFF: Zoomies (E) mana cost reduced. Final Chapter (R) base healing increased significantly. Makes her more sustainable in laning and more impactful in teamfights.",
+    "TEAR OF THE GODDESS NERF: Mana charge per stack 6 → 5. Slower mana stacking for all Tear users.",
+    "MANAMUNE NERF: Mana charge per stack 18 → 14. Muramana AD ratio 6% → 4.5%. Significant DPS nerf for AD mana stackers — particularly impacts Ezreal who relies on Muramana for burst.",
+    "SERAPH'S EMBRACE NERF: Lifeline shield ratio 20% → 16%. Minor nerf to the emergency shield passive; core AP value (60 AP) unchanged.",
+    "BLADE OF THE RUINED KING NERF: Melee current health damage 10% → 8.5%. Reduces on-hit damage for melee BotRK users.",
+    "ARMORCRUSHER BOOTS NERF: Armor penetration reduced to 10 (was 12). Attack damage decreased to 20 (was 25). Both stats nerfed — the AD/pen T3 boot was overtuned.",
+    "ARAM: Various champion balance adjustments and augment changes for the mode."
+  ]
+}

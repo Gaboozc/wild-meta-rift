@@ -1,11 +1,12 @@
 {
-  "patch": "7.2",
+  "patch": "7.2a",
   "date": "Julio 2026",
   "headline": {
-    "es": "Patch 7.2: Yunara llega como nueva ADC. Darius, Kai'Sa, Kayn y Varus suben a SS. Lee Sin cae de SS tras nerf masivo a Tempest. Yasuo destruido — cae a D. Revolución de ítems: Rabadon's +30 AP, Seraph's +25 AP, Botas Tier 3 para todos. Annie sube a S con Tibbers que hereda penetración. K'Sante y Zed caen. Temporada S22 comienza el 10 de julio.",
-    "en": "Patch 7.2: Yunara arrives as new ADC. Darius, Kai'Sa, Kayn and Varus rise to SS. Lee Sin falls from SS after massive Tempest nerf. Yasuo destroyed — falls to D. Item revolution: Rabadon's +30 AP, Seraph's +25 AP, Tier 3 Boots for all. Annie rises to S with Magic Pen Tibbers. K'Sante and Zed fall. Season S22 begins July 10."
+    "es": "Patch 7.2a: Ezreal cae de SS — Manamune nerfado, pierde su core DPS. Skarner sigue creciendo con 3 buffs. Nidalee cae a C, Warwick a B, Senna sup a A. Yuumi sube a A con más curación. Armorcrusher Boots nerfadas.",
+    "en": "Patch 7.2a: Ezreal falls from SS — Manamune nerfed, loses core DPS. Skarner keeps growing with 3 buffs. Nidalee falls to C, Warwick to B, Senna sup to A. Yuumi rises to A with more healing. Armorcrusher Boots nerfed."
   },
   "changelog": [
+    { "patch": "7.2a", "note": { "es": "Ezreal SS→S (Manamune nerfado). Nidalee C, Warwick B, Senna sup A. Yuumi sube a A. Skarner más buffs. Armorcrusher Boots nerfadas.", "en": "Ezreal SS→S (Manamune nerfed). Nidalee C, Warwick B, Senna sup A. Yuumi rises to A. Skarner more buffs. Armorcrusher Boots nerfed." }},
     { "patch": "7.2", "note": { "es": "Yunara (nueva ADC). Darius/Kai'Sa/Kayn/Varus suben a SS. Annie a S. Ryze/Ekko a A. Lee Sin, Zed, Yasuo, K'Sante nerfed. Rabadon's +30 AP, Seraph's +25 AP, Botas Tier 3. Temporada S22.", "en": "Yunara (new ADC). Darius/Kai'Sa/Kayn/Varus rise to SS. Annie to S. Ryze/Ekko to A. Lee Sin, Zed, Yasuo, K'Sante nerfed. Rabadon's +30 AP, Seraph's +25 AP, Tier 3 Boots. Season S22." }},
     { "patch": "7.1h", "note": { "es": "Thresh buffed masivamente (Q, E, W). Skarner, Gnar, Sona, Seraphine buffed. Taliyah, Nautilus, Nunu & Willump nerfed. Chemtech Chainsword +150 HP.", "en": "Thresh massively buffed (Q, E, W). Skarner, Gnar, Sona, Seraphine buffed. Taliyah, Nautilus, Nunu & Willump nerfed. Chemtech Chainsword +150 HP." }},
     { "patch": "7.1g", "note": { "es": "Skarner añadido (jungla/top). Aurora nerfed. Zoe, Diana y Heimerdinger buffed. Infinity Edge y Black Cleaver buffed. Demolish y Castigo Devastador nerfed.", "en": "Skarner added (jungle/top). Aurora nerfed. Zoe, Diana and Heimerdinger buffed. Infinity Edge and Black Cleaver buffed. Demolish and Devastating Smite nerfed." }},
